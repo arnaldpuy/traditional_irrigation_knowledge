@@ -1,0 +1,1081 @@
+community,domain,family,phrasing,vote,loss,k90,core_recovers
+none,none,anthropic,strict,any draw,0.661052631578947,8,0.338947368421053
+none,none,anthropic,strict,majority,0.627368421052632,7,0.372631578947368
+none,none,anthropic,strict,unanimous,0.583864118895966,7,0.416135881104034
+none,none,anthropic,standard,any draw,0.728421052631579,8,0.271578947368421
+none,none,anthropic,standard,majority,0.677894736842105,8,0.322105263157895
+none,none,anthropic,standard,unanimous,0.649789029535865,8,0.350210970464135
+none,none,anthropic,broad,any draw,0.884210526315789,7,0.115789473684211
+none,none,anthropic,broad,majority,0.825263157894737,8,0.174736842105263
+none,none,anthropic,broad,unanimous,0.762105263157895,8,0.237894736842105
+none,none,openai,strict,any draw,0.669473684210526,7,0.330526315789474
+none,none,openai,strict,majority,0.572631578947368,6,0.427368421052632
+none,none,openai,strict,unanimous,0.494669509594883,6,0.505330490405117
+none,none,openai,standard,any draw,0.812631578947368,8,0.187368421052632
+none,none,openai,standard,majority,0.682105263157895,7,0.317894736842105
+none,none,openai,standard,unanimous,0.59830866807611,7,0.40169133192389
+none,none,openai,broad,any draw,0.968421052631579,7,0.0315789473684211
+none,none,openai,broad,majority,0.903157894736842,8,0.0968421052631579
+none,none,openai,broad,unanimous,0.8,7,0.2
+none,none,deepseek,strict,any draw,0.673684210526316,6,0.326315789473684
+none,none,deepseek,strict,majority,0.49789029535865,5,0.50210970464135
+none,none,deepseek,strict,unanimous,0.329646017699115,5,0.670353982300885
+none,none,deepseek,standard,any draw,0.741052631578947,7,0.258947368421053
+none,none,deepseek,standard,majority,0.536842105263158,6,0.463157894736842
+none,none,deepseek,standard,unanimous,0.356837606837607,5,0.643162393162393
+none,none,deepseek,broad,any draw,0.850526315789474,7,0.149473684210526
+none,none,deepseek,broad,majority,0.644210526315789,7,0.355789473684211
+none,none,deepseek,broad,unanimous,0.478813559322034,5,0.521186440677966
+none,Crop,anthropic,strict,any draw,0.731843575418994,8,0.268156424581006
+none,Crop,anthropic,strict,majority,0.701117318435754,7,0.298882681564246
+none,Crop,anthropic,strict,unanimous,0.661016949152542,7,0.338983050847458
+none,Crop,anthropic,standard,any draw,0.798882681564246,8,0.201117318435754
+none,Crop,anthropic,standard,majority,0.751396648044693,8,0.248603351955307
+none,Crop,anthropic,standard,unanimous,0.722689075630252,7,0.277310924369748
+none,Crop,anthropic,broad,any draw,0.932960893854749,6,0.0670391061452514
+none,Crop,anthropic,broad,majority,0.88268156424581,8,0.11731843575419
+none,Crop,anthropic,broad,unanimous,0.826815642458101,8,0.173184357541899
+none,Crop,openai,strict,any draw,0.698324022346369,7,0.301675977653631
+none,Crop,openai,strict,majority,0.61731843575419,6,0.38268156424581
+none,Crop,openai,strict,unanimous,0.546742209631728,6,0.453257790368272
+none,Crop,openai,standard,any draw,0.835195530726257,8,0.164804469273743
+none,Crop,openai,standard,majority,0.717877094972067,7,0.282122905027933
+none,Crop,openai,standard,unanimous,0.640449438202247,7,0.359550561797753
+none,Crop,openai,broad,any draw,0.974860335195531,7,0.0251396648044693
+none,Crop,openai,broad,majority,0.918994413407821,8,0.0810055865921788
+none,Crop,openai,broad,unanimous,0.82122905027933,7,0.17877094972067
+none,Crop,deepseek,strict,any draw,0.717877094972067,7,0.282122905027933
+none,Crop,deepseek,strict,majority,0.554621848739496,5,0.445378151260504
+none,Crop,deepseek,strict,unanimous,0.37797619047619,5,0.62202380952381
+none,Crop,deepseek,standard,any draw,0.773743016759777,7,0.226256983240223
+none,Crop,deepseek,standard,majority,0.606145251396648,6,0.393854748603352
+none,Crop,deepseek,standard,unanimous,0.414772727272727,5,0.585227272727273
+none,Crop,deepseek,broad,any draw,0.891061452513967,7,0.108938547486034
+none,Crop,deepseek,broad,majority,0.701117318435754,7,0.298882681564246
+none,Crop,deepseek,broad,unanimous,0.540845070422535,5,0.459154929577465
+none,Irrigation,anthropic,strict,any draw,0.686468646864686,7,0.313531353135314
+none,Irrigation,anthropic,strict,majority,0.66006600660066,6,0.33993399339934
+none,Irrigation,anthropic,strict,unanimous,0.614617940199336,6,0.385382059800665
+none,Irrigation,anthropic,standard,any draw,0.755775577557756,7,0.244224422442244
+none,Irrigation,anthropic,standard,majority,0.70957095709571,6,0.29042904290429
+none,Irrigation,anthropic,standard,unanimous,0.676567656765677,6,0.323432343234323
+none,Irrigation,anthropic,broad,any draw,0.881188118811881,7,0.118811881188119
+none,Irrigation,anthropic,broad,majority,0.841584158415842,6,0.158415841584158
+none,Irrigation,anthropic,broad,unanimous,0.792079207920792,7,0.207920792079208
+none,Irrigation,openai,strict,any draw,0.67986798679868,6,0.32013201320132
+none,Irrigation,openai,strict,majority,0.567656765676568,5,0.432343234323432
+none,Irrigation,openai,strict,unanimous,0.481727574750831,4,0.518272425249169
+none,Irrigation,openai,standard,any draw,0.831683168316832,6,0.168316831683168
+none,Irrigation,openai,standard,majority,0.6996699669967,6,0.3003300330033
+none,Irrigation,openai,standard,unanimous,0.613861386138614,5,0.386138613861386
+none,Irrigation,openai,broad,any draw,0.98019801980198,7,0.0198019801980198
+none,Irrigation,openai,broad,majority,0.933993399339934,6,0.066006600660066
+none,Irrigation,openai,broad,unanimous,0.825082508250825,6,0.174917491749175
+none,Irrigation,deepseek,strict,any draw,0.67986798679868,5,0.32013201320132
+none,Irrigation,deepseek,strict,majority,0.491749174917492,4,0.508250825082508
+none,Irrigation,deepseek,strict,unanimous,0.312714776632302,4,0.687285223367698
+none,Irrigation,deepseek,standard,any draw,0.768976897689769,6,0.231023102310231
+none,Irrigation,deepseek,standard,majority,0.551155115511551,5,0.448844884488449
+none,Irrigation,deepseek,standard,unanimous,0.352159468438538,4,0.647840531561462
+none,Irrigation,deepseek,broad,any draw,0.854785478547855,8,0.145214521452145
+none,Irrigation,deepseek,broad,majority,0.656765676567657,6,0.343234323432343
+none,Irrigation,deepseek,broad,unanimous,0.480132450331126,4,0.519867549668874
+none,Soil & moisture,anthropic,strict,any draw,0.604838709677419,8,0.395161290322581
+none,Soil & moisture,anthropic,strict,majority,0.564516129032258,8,0.435483870967742
+none,Soil & moisture,anthropic,strict,unanimous,0.523035230352304,7,0.476964769647697
+none,Soil & moisture,anthropic,standard,any draw,0.666666666666667,8,0.333333333333333
+none,Soil & moisture,anthropic,standard,majority,0.615591397849462,8,0.384408602150538
+none,Soil & moisture,anthropic,standard,unanimous,0.590296495956873,8,0.409703504043127
+none,Soil & moisture,anthropic,broad,any draw,0.854838709677419,9,0.145161290322581
+none,Soil & moisture,anthropic,broad,majority,0.779569892473118,8,0.220430107526882
+none,Soil & moisture,anthropic,broad,unanimous,0.698924731182796,8,0.301075268817204
+none,Soil & moisture,openai,strict,any draw,0.693548387096774,7,0.306451612903226
+none,Soil & moisture,openai,strict,majority,0.604838709677419,6,0.395161290322581
+none,Soil & moisture,openai,strict,unanimous,0.53133514986376,6,0.46866485013624
+none,Soil & moisture,openai,standard,any draw,0.811827956989247,8,0.188172043010753
+none,Soil & moisture,openai,standard,majority,0.693548387096774,7,0.306451612903226
+none,Soil & moisture,openai,standard,unanimous,0.613513513513514,7,0.386486486486487
+none,Soil & moisture,openai,broad,any draw,0.959677419354839,8,0.0403225806451613
+none,Soil & moisture,openai,broad,majority,0.884408602150538,8,0.115591397849462
+none,Soil & moisture,openai,broad,unanimous,0.795698924731183,8,0.204301075268817
+none,Soil & moisture,deepseek,strict,any draw,0.68010752688172,7,0.31989247311828
+none,Soil & moisture,deepseek,strict,majority,0.522911051212938,6,0.477088948787062
+none,Soil & moisture,deepseek,strict,unanimous,0.341880341880342,5,0.658119658119658
+none,Soil & moisture,deepseek,standard,any draw,0.725806451612903,7,0.274193548387097
+none,Soil & moisture,deepseek,standard,majority,0.521505376344086,6,0.478494623655914
+none,Soil & moisture,deepseek,standard,unanimous,0.356164383561644,5,0.643835616438356
+none,Soil & moisture,deepseek,broad,any draw,0.836021505376344,7,0.163978494623656
+none,Soil & moisture,deepseek,broad,majority,0.631720430107527,7,0.368279569892473
+none,Soil & moisture,deepseek,broad,unanimous,0.476964769647697,6,0.523035230352304
+none,Weather & climate,anthropic,strict,any draw,0.630102040816326,8,0.369897959183673
+none,Weather & climate,anthropic,strict,majority,0.594387755102041,7,0.405612244897959
+none,Weather & climate,anthropic,strict,unanimous,0.547557840616967,7,0.452442159383033
+none,Weather & climate,anthropic,standard,any draw,0.701530612244898,8,0.298469387755102
+none,Weather & climate,anthropic,standard,majority,0.645408163265306,8,0.354591836734694
+none,Weather & climate,anthropic,standard,unanimous,0.618925831202046,7,0.381074168797954
+none,Weather & climate,anthropic,broad,any draw,0.869897959183674,7,0.130102040816327
+none,Weather & climate,anthropic,broad,majority,0.803571428571429,8,0.196428571428571
+none,Weather & climate,anthropic,broad,unanimous,0.739795918367347,8,0.260204081632653
+none,Weather & climate,openai,strict,any draw,0.612244897959184,7,0.387755102040816
+none,Weather & climate,openai,strict,majority,0.505102040816326,6,0.494897959183674
+none,Weather & climate,openai,strict,unanimous,0.422279792746114,6,0.577720207253886
+none,Weather & climate,openai,standard,any draw,0.778061224489796,8,0.221938775510204
+none,Weather & climate,openai,standard,majority,0.625,7,0.375
+none,Weather & climate,openai,standard,unanimous,0.533333333333333,6,0.466666666666667
+none,Weather & climate,openai,broad,any draw,0.961734693877551,7,0.038265306122449
+none,Weather & climate,openai,broad,majority,0.88265306122449,8,0.11734693877551
+none,Weather & climate,openai,broad,unanimous,0.76530612244898,7,0.23469387755102
+none,Weather & climate,deepseek,strict,any draw,0.622448979591837,6,0.377551020408163
+none,Weather & climate,deepseek,strict,majority,0.427109974424552,6,0.572890025575448
+none,Weather & climate,deepseek,strict,unanimous,0.288359788359788,5,0.711640211640212
+none,Weather & climate,deepseek,standard,any draw,0.704081632653061,7,0.295918367346939
+none,Weather & climate,deepseek,standard,majority,0.477040816326531,6,0.522959183673469
+none,Weather & climate,deepseek,standard,unanimous,0.308290155440415,5,0.691709844559586
+none,Weather & climate,deepseek,broad,any draw,0.823979591836735,7,0.176020408163265
+none,Weather & climate,deepseek,broad,majority,0.594387755102041,7,0.405612244897959
+none,Weather & climate,deepseek,broad,unanimous,0.423076923076923,5,0.576923076923077
+arriate,none,anthropic,strict,any draw,0.667487684729064,8,0.332512315270936
+arriate,none,anthropic,strict,majority,0.633004926108374,7,0.366995073891626
+arriate,none,anthropic,strict,unanimous,0.59452736318408,7,0.40547263681592
+arriate,none,anthropic,standard,any draw,0.729064039408867,8,0.270935960591133
+arriate,none,anthropic,standard,majority,0.679802955665025,8,0.320197044334975
+arriate,none,anthropic,standard,unanimous,0.649382716049383,7,0.350617283950617
+arriate,none,anthropic,broad,any draw,0.889162561576355,7,0.110837438423645
+arriate,none,anthropic,broad,majority,0.82512315270936,8,0.17487684729064
+arriate,none,anthropic,broad,unanimous,0.766009852216749,8,0.233990147783251
+arriate,none,openai,strict,any draw,0.669950738916256,7,0.330049261083744
+arriate,none,openai,strict,majority,0.568965517241379,6,0.431034482758621
+arriate,none,openai,strict,unanimous,0.496259351620948,6,0.503740648379052
+arriate,none,openai,standard,any draw,0.802955665024631,7,0.197044334975369
+arriate,none,openai,standard,majority,0.67487684729064,7,0.32512315270936
+arriate,none,openai,standard,unanimous,0.597530864197531,7,0.402469135802469
+arriate,none,openai,broad,any draw,0.96551724137931,7,0.0344827586206897
+arriate,none,openai,broad,majority,0.906403940886699,7,0.0935960591133005
+arriate,none,openai,broad,unanimous,0.798029556650246,7,0.201970443349754
+arriate,none,deepseek,strict,any draw,0.679802955665025,7,0.320197044334975
+arriate,none,deepseek,strict,majority,0.497536945812808,6,0.502463054187192
+arriate,none,deepseek,strict,unanimous,0.333333333333333,5,0.666666666666667
+arriate,none,deepseek,standard,any draw,0.729064039408867,7,0.270935960591133
+arriate,none,deepseek,standard,majority,0.532019704433498,6,0.467980295566503
+arriate,none,deepseek,standard,unanimous,0.361596009975062,5,0.638403990024938
+arriate,none,deepseek,broad,any draw,0.844827586206897,7,0.155172413793103
+arriate,none,deepseek,broad,majority,0.640394088669951,7,0.359605911330049
+arriate,none,deepseek,broad,unanimous,0.475247524752475,5,0.524752475247525
+arriate,Crop,anthropic,strict,any draw,0.736156351791531,7,0.263843648208469
+arriate,Crop,anthropic,strict,majority,0.706840390879479,7,0.293159609120521
+arriate,Crop,anthropic,strict,unanimous,0.66996699669967,7,0.33003300330033
+arriate,Crop,anthropic,standard,any draw,0.801302931596091,8,0.198697068403909
+arriate,Crop,anthropic,standard,majority,0.749185667752443,7,0.250814332247557
+arriate,Crop,anthropic,standard,unanimous,0.718954248366013,7,0.281045751633987
+arriate,Crop,anthropic,broad,any draw,0.93485342019544,7,0.0651465798045603
+arriate,Crop,anthropic,broad,majority,0.879478827361563,8,0.120521172638437
+arriate,Crop,anthropic,broad,unanimous,0.830618892508143,8,0.169381107491857
+arriate,Crop,openai,strict,any draw,0.697068403908795,7,0.302931596091205
+arriate,Crop,openai,strict,majority,0.615635179153095,6,0.384364820846906
+arriate,Crop,openai,strict,unanimous,0.551155115511551,6,0.448844884488449
+arriate,Crop,openai,standard,any draw,0.827361563517915,7,0.172638436482085
+arriate,Crop,openai,standard,majority,0.713355048859935,7,0.286644951140065
+arriate,Crop,openai,standard,unanimous,0.643790849673203,7,0.356209150326797
+arriate,Crop,openai,broad,any draw,0.973941368078176,7,0.0260586319218241
+arriate,Crop,openai,broad,majority,0.921824104234528,7,0.0781758957654723
+arriate,Crop,openai,broad,unanimous,0.817589576547231,7,0.182410423452769
+arriate,Crop,deepseek,strict,any draw,0.729641693811075,7,0.270358306188925
+arriate,Crop,deepseek,strict,majority,0.55700325732899,5,0.44299674267101
+arriate,Crop,deepseek,strict,unanimous,0.384083044982699,5,0.615916955017301
+arriate,Crop,deepseek,standard,any draw,0.768729641693811,7,0.231270358306189
+arriate,Crop,deepseek,standard,majority,0.599348534201955,6,0.400651465798046
+arriate,Crop,deepseek,standard,unanimous,0.422442244224422,5,0.577557755775578
+arriate,Crop,deepseek,broad,any draw,0.88599348534202,7,0.11400651465798
+arriate,Crop,deepseek,broad,majority,0.700325732899023,7,0.299674267100977
+arriate,Crop,deepseek,broad,unanimous,0.540983606557377,5,0.459016393442623
+arriate,Irrigation,anthropic,strict,any draw,0.687022900763359,7,0.312977099236641
+arriate,Irrigation,anthropic,strict,majority,0.66030534351145,6,0.33969465648855
+arriate,Irrigation,anthropic,strict,unanimous,0.619230769230769,6,0.380769230769231
+arriate,Irrigation,anthropic,standard,any draw,0.748091603053435,7,0.251908396946565
+arriate,Irrigation,anthropic,standard,majority,0.709923664122137,6,0.290076335877863
+arriate,Irrigation,anthropic,standard,unanimous,0.67175572519084,6,0.32824427480916
+arriate,Irrigation,anthropic,broad,any draw,0.885496183206107,6,0.114503816793893
+arriate,Irrigation,anthropic,broad,majority,0.84351145038168,6,0.156488549618321
+arriate,Irrigation,anthropic,broad,unanimous,0.793893129770992,7,0.206106870229008
+arriate,Irrigation,openai,strict,any draw,0.675572519083969,6,0.324427480916031
+arriate,Irrigation,openai,strict,majority,0.557251908396947,5,0.442748091603053
+arriate,Irrigation,openai,strict,unanimous,0.480769230769231,4,0.519230769230769
+arriate,Irrigation,openai,standard,any draw,0.820610687022901,6,0.179389312977099
+arriate,Irrigation,openai,standard,majority,0.687022900763359,6,0.312977099236641
+arriate,Irrigation,openai,standard,unanimous,0.603053435114504,6,0.396946564885496
+arriate,Irrigation,openai,broad,any draw,0.977099236641221,7,0.0229007633587786
+arriate,Irrigation,openai,broad,majority,0.938931297709924,6,0.0610687022900763
+arriate,Irrigation,openai,broad,unanimous,0.824427480916031,7,0.175572519083969
+arriate,Irrigation,deepseek,strict,any draw,0.675572519083969,5,0.324427480916031
+arriate,Irrigation,deepseek,strict,majority,0.484732824427481,4,0.515267175572519
+arriate,Irrigation,deepseek,strict,unanimous,0.310756972111554,4,0.689243027888446
+arriate,Irrigation,deepseek,standard,any draw,0.744274809160305,6,0.255725190839695
+arriate,Irrigation,deepseek,standard,majority,0.541984732824428,4,0.458015267175573
+arriate,Irrigation,deepseek,standard,unanimous,0.357692307692308,4,0.642307692307692
+arriate,Irrigation,deepseek,broad,any draw,0.847328244274809,8,0.152671755725191
+arriate,Irrigation,deepseek,broad,majority,0.641221374045801,6,0.358778625954198
+arriate,Irrigation,deepseek,broad,unanimous,0.46360153256705,4,0.53639846743295
+arriate,Soil & moisture,anthropic,strict,any draw,0.618296529968454,8,0.381703470031546
+arriate,Soil & moisture,anthropic,strict,majority,0.577287066246057,7,0.422712933753943
+arriate,Soil & moisture,anthropic,strict,unanimous,0.54140127388535,7,0.45859872611465
+arriate,Soil & moisture,anthropic,standard,any draw,0.668769716088328,8,0.331230283911672
+arriate,Soil & moisture,anthropic,standard,majority,0.621451104100946,8,0.378548895899054
+arriate,Soil & moisture,anthropic,standard,unanimous,0.59493670886076,7,0.405063291139241
+arriate,Soil & moisture,anthropic,broad,any draw,0.861198738170347,9,0.138801261829653
+arriate,Soil & moisture,anthropic,broad,majority,0.779179810725552,8,0.220820189274448
+arriate,Soil & moisture,anthropic,broad,unanimous,0.703470031545741,8,0.296529968454259
+arriate,Soil & moisture,openai,strict,any draw,0.700315457413249,7,0.299684542586751
+arriate,Soil & moisture,openai,strict,majority,0.608832807570978,6,0.391167192429022
+arriate,Soil & moisture,openai,strict,unanimous,0.536741214057508,6,0.463258785942492
+arriate,Soil & moisture,openai,standard,any draw,0.804416403785489,7,0.195583596214511
+arriate,Soil & moisture,openai,standard,majority,0.690851735015773,7,0.309148264984227
+arriate,Soil & moisture,openai,standard,unanimous,0.617088607594937,7,0.382911392405063
+arriate,Soil & moisture,openai,broad,any draw,0.955835962145111,8,0.0441640378548896
+arriate,Soil & moisture,openai,broad,majority,0.886435331230284,8,0.113564668769716
+arriate,Soil & moisture,openai,broad,unanimous,0.794952681388013,8,0.205047318611987
+arriate,Soil & moisture,deepseek,strict,any draw,0.687697160883281,7,0.312302839116719
+arriate,Soil & moisture,deepseek,strict,majority,0.526813880126183,6,0.473186119873817
+arriate,Soil & moisture,deepseek,strict,unanimous,0.351170568561873,5,0.648829431438127
+arriate,Soil & moisture,deepseek,standard,any draw,0.719242902208202,7,0.280757097791798
+arriate,Soil & moisture,deepseek,standard,majority,0.523659305993691,7,0.476340694006309
+arriate,Soil & moisture,deepseek,standard,unanimous,0.365384615384615,5,0.634615384615385
+arriate,Soil & moisture,deepseek,broad,any draw,0.832807570977918,7,0.167192429022082
+arriate,Soil & moisture,deepseek,broad,majority,0.637223974763407,7,0.362776025236593
+arriate,Soil & moisture,deepseek,broad,unanimous,0.479365079365079,6,0.520634920634921
+arriate,Weather & climate,anthropic,strict,any draw,0.635542168674699,8,0.364457831325301
+arriate,Weather & climate,anthropic,strict,majority,0.596385542168675,7,0.403614457831325
+arriate,Weather & climate,anthropic,strict,unanimous,0.556231003039514,7,0.443768996960486
+arriate,Weather & climate,anthropic,standard,any draw,0.704819277108434,8,0.295180722891566
+arriate,Weather & climate,anthropic,standard,majority,0.647590361445783,8,0.352409638554217
+arriate,Weather & climate,anthropic,standard,unanimous,0.619335347432024,7,0.380664652567976
+arriate,Weather & climate,anthropic,broad,any draw,0.876506024096386,7,0.123493975903614
+arriate,Weather & climate,anthropic,broad,majority,0.80421686746988,8,0.19578313253012
+arriate,Weather & climate,anthropic,broad,unanimous,0.743975903614458,8,0.256024096385542
+arriate,Weather & climate,openai,strict,any draw,0.61144578313253,7,0.38855421686747
+arriate,Weather & climate,openai,strict,majority,0.496987951807229,6,0.503012048192771
+arriate,Weather & climate,openai,strict,unanimous,0.418960244648318,6,0.581039755351682
+arriate,Weather & climate,openai,standard,any draw,0.765060240963855,7,0.234939759036145
+arriate,Weather & climate,openai,standard,majority,0.614457831325301,7,0.385542168674699
+arriate,Weather & climate,openai,standard,unanimous,0.531722054380665,6,0.468277945619335
+arriate,Weather & climate,openai,broad,any draw,0.957831325301205,8,0.0421686746987952
+arriate,Weather & climate,openai,broad,majority,0.885542168674699,7,0.114457831325301
+arriate,Weather & climate,openai,broad,unanimous,0.762048192771084,8,0.237951807228916
+arriate,Weather & climate,deepseek,strict,any draw,0.629518072289157,6,0.370481927710843
+arriate,Weather & climate,deepseek,strict,majority,0.424698795180723,6,0.575301204819277
+arriate,Weather & climate,deepseek,strict,unanimous,0.288819875776398,5,0.711180124223603
+arriate,Weather & climate,deepseek,standard,any draw,0.689759036144578,7,0.310240963855422
+arriate,Weather & climate,deepseek,standard,majority,0.469879518072289,6,0.530120481927711
+arriate,Weather & climate,deepseek,standard,unanimous,0.304878048780488,5,0.695121951219512
+arriate,Weather & climate,deepseek,broad,any draw,0.816265060240964,7,0.183734939759036
+arriate,Weather & climate,deepseek,broad,majority,0.587349397590361,7,0.412650602409639
+arriate,Weather & climate,deepseek,broad,unanimous,0.419939577039275,6,0.580060422960725
+durcal,none,anthropic,strict,any draw,0.658354114713217,8,0.341645885286783
+durcal,none,anthropic,strict,majority,0.623441396508728,7,0.376558603491272
+durcal,none,anthropic,strict,unanimous,0.579345088161209,7,0.420654911838791
+durcal,none,anthropic,standard,any draw,0.723192019950125,8,0.276807980049875
+durcal,none,anthropic,standard,majority,0.675810473815461,8,0.324189526184539
+durcal,none,anthropic,standard,unanimous,0.6475,8,0.3525
+durcal,none,anthropic,broad,any draw,0.880299251870324,7,0.119700748129676
+durcal,none,anthropic,broad,majority,0.822942643391521,8,0.177057356608479
+durcal,none,anthropic,broad,unanimous,0.758104738154613,8,0.241895261845387
+durcal,none,openai,strict,any draw,0.668329177057357,7,0.331670822942643
+durcal,none,openai,strict,majority,0.56857855361596,6,0.43142144638404
+durcal,none,openai,strict,unanimous,0.483544303797468,6,0.516455696202532
+durcal,none,openai,standard,any draw,0.815461346633416,7,0.184538653366584
+durcal,none,openai,standard,majority,0.683291770573566,7,0.316708229426434
+durcal,none,openai,standard,unanimous,0.593984962406015,7,0.406015037593985
+durcal,none,openai,broad,any draw,0.967581047381546,7,0.0324189526184539
+durcal,none,openai,broad,majority,0.897755610972569,8,0.102244389027431
+durcal,none,openai,broad,unanimous,0.798004987531172,7,0.201995012468828
+durcal,none,deepseek,strict,any draw,0.670822942643392,6,0.329177057356608
+durcal,none,deepseek,strict,majority,0.49,5,0.51
+durcal,none,deepseek,strict,unanimous,0.327176781002639,5,0.672823218997362
+durcal,none,deepseek,standard,any draw,0.745635910224439,7,0.254364089775561
+durcal,none,deepseek,standard,majority,0.536159600997506,6,0.463840399002494
+durcal,none,deepseek,standard,unanimous,0.356962025316456,5,0.643037974683544
+durcal,none,deepseek,broad,any draw,0.845386533665835,7,0.154613466334165
+durcal,none,deepseek,broad,majority,0.643391521197008,7,0.356608478802993
+durcal,none,deepseek,broad,unanimous,0.469849246231156,5,0.530150753768844
+durcal,Crop,anthropic,strict,any draw,0.73202614379085,8,0.26797385620915
+durcal,Crop,anthropic,strict,majority,0.699346405228758,8,0.300653594771242
+durcal,Crop,anthropic,strict,unanimous,0.658940397350993,7,0.341059602649007
+durcal,Crop,anthropic,standard,any draw,0.797385620915033,8,0.202614379084967
+durcal,Crop,anthropic,standard,majority,0.751633986928105,8,0.248366013071895
+durcal,Crop,anthropic,standard,unanimous,0.721311475409836,8,0.278688524590164
+durcal,Crop,anthropic,broad,any draw,0.937908496732026,8,0.0620915032679739
+durcal,Crop,anthropic,broad,majority,0.88562091503268,8,0.11437908496732
+durcal,Crop,anthropic,broad,unanimous,0.826797385620915,8,0.173202614379085
+durcal,Crop,openai,strict,any draw,0.705882352941177,7,0.294117647058824
+durcal,Crop,openai,strict,majority,0.620915032679739,6,0.379084967320261
+durcal,Crop,openai,strict,unanimous,0.541528239202658,6,0.458471760797342
+durcal,Crop,openai,standard,any draw,0.839869281045752,8,0.160130718954248
+durcal,Crop,openai,standard,majority,0.728758169934641,7,0.271241830065359
+durcal,Crop,openai,standard,unanimous,0.641447368421053,7,0.358552631578947
+durcal,Crop,openai,broad,any draw,0.970588235294118,7,0.0294117647058824
+durcal,Crop,openai,broad,majority,0.915032679738562,8,0.0849673202614379
+durcal,Crop,openai,broad,unanimous,0.826797385620915,7,0.173202614379085
+durcal,Crop,deepseek,strict,any draw,0.722222222222222,7,0.277777777777778
+durcal,Crop,deepseek,strict,majority,0.550819672131148,6,0.449180327868852
+durcal,Crop,deepseek,strict,unanimous,0.378947368421053,5,0.621052631578947
+durcal,Crop,deepseek,standard,any draw,0.787581699346405,7,0.212418300653595
+durcal,Crop,deepseek,standard,majority,0.61437908496732,6,0.38562091503268
+durcal,Crop,deepseek,standard,unanimous,0.421926910299003,5,0.578073089700997
+durcal,Crop,deepseek,broad,any draw,0.88562091503268,8,0.11437908496732
+durcal,Crop,deepseek,broad,majority,0.702614379084967,7,0.297385620915033
+durcal,Crop,deepseek,broad,unanimous,0.534653465346535,6,0.465346534653465
+durcal,Irrigation,anthropic,strict,any draw,0.691699604743083,6,0.308300395256917
+durcal,Irrigation,anthropic,strict,majority,0.66403162055336,6,0.33596837944664
+durcal,Irrigation,anthropic,strict,unanimous,0.617529880478088,6,0.382470119521912
+durcal,Irrigation,anthropic,standard,any draw,0.75098814229249,7,0.24901185770751
+durcal,Irrigation,anthropic,standard,majority,0.715415019762846,6,0.284584980237154
+durcal,Irrigation,anthropic,standard,unanimous,0.679841897233202,6,0.320158102766798
+durcal,Irrigation,anthropic,broad,any draw,0.869565217391304,7,0.130434782608696
+durcal,Irrigation,anthropic,broad,majority,0.837944664031621,7,0.162055335968379
+durcal,Irrigation,anthropic,broad,unanimous,0.786561264822134,7,0.213438735177866
+durcal,Irrigation,openai,strict,any draw,0.675889328063241,6,0.324110671936759
+durcal,Irrigation,openai,strict,majority,0.561264822134387,5,0.438735177865613
+durcal,Irrigation,openai,strict,unanimous,0.470119521912351,4,0.529880478087649
+durcal,Irrigation,openai,standard,any draw,0.837944664031621,6,0.162055335968379
+durcal,Irrigation,openai,standard,majority,0.699604743083004,6,0.300395256916996
+durcal,Irrigation,openai,standard,unanimous,0.612648221343874,5,0.387351778656126
+durcal,Irrigation,openai,broad,any draw,0.984189723320158,6,0.0158102766798419
+durcal,Irrigation,openai,broad,majority,0.928853754940711,5,0.0711462450592885
+durcal,Irrigation,openai,broad,unanimous,0.822134387351779,6,0.177865612648221
+durcal,Irrigation,deepseek,strict,any draw,0.679841897233202,5,0.320158102766798
+durcal,Irrigation,deepseek,strict,majority,0.486166007905138,4,0.513833992094862
+durcal,Irrigation,deepseek,strict,unanimous,0.301652892561983,4,0.698347107438017
+durcal,Irrigation,deepseek,standard,any draw,0.778656126482213,6,0.221343873517787
+durcal,Irrigation,deepseek,standard,majority,0.553359683794466,4,0.446640316205534
+durcal,Irrigation,deepseek,standard,unanimous,0.353174603174603,4,0.646825396825397
+durcal,Irrigation,deepseek,broad,any draw,0.853754940711463,6,0.146245059288538
+durcal,Irrigation,deepseek,broad,majority,0.66403162055336,6,0.33596837944664
+durcal,Irrigation,deepseek,broad,unanimous,0.476190476190476,4,0.523809523809524
+durcal,Soil & moisture,anthropic,strict,any draw,0.593650793650794,8,0.406349206349206
+durcal,Soil & moisture,anthropic,strict,majority,0.552380952380952,7,0.447619047619048
+durcal,Soil & moisture,anthropic,strict,unanimous,0.512820512820513,7,0.487179487179487
+durcal,Soil & moisture,anthropic,standard,any draw,0.66031746031746,8,0.33968253968254
+durcal,Soil & moisture,anthropic,standard,majority,0.606349206349206,8,0.393650793650794
+durcal,Soil & moisture,anthropic,standard,unanimous,0.582802547770701,8,0.417197452229299
+durcal,Soil & moisture,anthropic,broad,any draw,0.850793650793651,9,0.149206349206349
+durcal,Soil & moisture,anthropic,broad,majority,0.777777777777778,9,0.222222222222222
+durcal,Soil & moisture,anthropic,broad,unanimous,0.695238095238095,9,0.304761904761905
+durcal,Soil & moisture,openai,strict,any draw,0.688888888888889,7,0.311111111111111
+durcal,Soil & moisture,openai,strict,majority,0.6,6,0.4
+durcal,Soil & moisture,openai,strict,unanimous,0.519354838709678,5,0.480645161290323
+durcal,Soil & moisture,openai,standard,any draw,0.812698412698413,7,0.187301587301587
+durcal,Soil & moisture,openai,standard,majority,0.688888888888889,7,0.311111111111111
+durcal,Soil & moisture,openai,standard,unanimous,0.60702875399361,7,0.39297124600639
+durcal,Soil & moisture,openai,broad,any draw,0.958730158730159,8,0.0412698412698413
+durcal,Soil & moisture,openai,broad,majority,0.879365079365079,8,0.120634920634921
+durcal,Soil & moisture,openai,broad,unanimous,0.79047619047619,7,0.20952380952381
+durcal,Soil & moisture,deepseek,strict,any draw,0.673015873015873,7,0.326984126984127
+durcal,Soil & moisture,deepseek,strict,majority,0.512738853503185,6,0.487261146496815
+durcal,Soil & moisture,deepseek,strict,unanimous,0.345762711864407,5,0.654237288135593
+durcal,Soil & moisture,deepseek,standard,any draw,0.720634920634921,7,0.279365079365079
+durcal,Soil & moisture,deepseek,standard,majority,0.514285714285714,6,0.485714285714286
+durcal,Soil & moisture,deepseek,standard,unanimous,0.359223300970874,4,0.640776699029126
+durcal,Soil & moisture,deepseek,broad,any draw,0.828571428571429,7,0.171428571428571
+durcal,Soil & moisture,deepseek,broad,majority,0.625396825396825,7,0.374603174603175
+durcal,Soil & moisture,deepseek,broad,unanimous,0.46474358974359,5,0.53525641025641
+durcal,Weather & climate,anthropic,strict,any draw,0.626139817629179,8,0.373860182370821
+durcal,Weather & climate,anthropic,strict,majority,0.589665653495441,8,0.410334346504559
+durcal,Weather & climate,anthropic,strict,unanimous,0.539877300613497,7,0.460122699386503
+durcal,Weather & climate,anthropic,standard,any draw,0.693009118541033,8,0.306990881458967
+durcal,Weather & climate,anthropic,standard,majority,0.641337386018237,8,0.358662613981763
+durcal,Weather & climate,anthropic,standard,unanimous,0.615853658536585,8,0.384146341463415
+durcal,Weather & climate,anthropic,broad,any draw,0.86322188449848,7,0.13677811550152
+durcal,Weather & climate,anthropic,broad,majority,0.796352583586626,8,0.203647416413374
+durcal,Weather & climate,anthropic,broad,unanimous,0.732522796352584,8,0.267477203647416
+durcal,Weather & climate,openai,strict,any draw,0.60790273556231,7,0.39209726443769
+durcal,Weather & climate,openai,strict,majority,0.495440729483283,6,0.504559270516717
+durcal,Weather & climate,openai,strict,unanimous,0.405572755417957,6,0.594427244582043
+durcal,Weather & climate,openai,standard,any draw,0.778115501519757,7,0.221884498480243
+durcal,Weather & climate,openai,standard,majority,0.623100303951368,7,0.376899696048632
+durcal,Weather & climate,openai,standard,unanimous,0.522935779816514,7,0.477064220183486
+durcal,Weather & climate,openai,broad,any draw,0.96048632218845,8,0.0395136778115502
+durcal,Weather & climate,openai,broad,majority,0.875379939209726,7,0.124620060790274
+durcal,Weather & climate,openai,broad,unanimous,0.759878419452888,7,0.240121580547112
+durcal,Weather & climate,deepseek,strict,any draw,0.613981762917933,6,0.386018237082067
+durcal,Weather & climate,deepseek,strict,majority,0.414634146341463,6,0.585365853658537
+durcal,Weather & climate,deepseek,strict,unanimous,0.282539682539683,5,0.717460317460318
+durcal,Weather & climate,deepseek,standard,any draw,0.70516717325228,7,0.29483282674772
+durcal,Weather & climate,deepseek,standard,majority,0.47112462006079,6,0.52887537993921
+durcal,Weather & climate,deepseek,standard,unanimous,0.297213622291022,5,0.702786377708978
+durcal,Weather & climate,deepseek,broad,any draw,0.817629179331307,7,0.182370820668693
+durcal,Weather & climate,deepseek,broad,majority,0.589665653495441,7,0.410334346504559
+durcal,Weather & climate,deepseek,broad,unanimous,0.409785932721713,6,0.590214067278288
+murcia,none,anthropic,strict,any draw,0.647208121827411,8,0.352791878172589
+murcia,none,anthropic,strict,majority,0.614213197969543,8,0.385786802030457
+murcia,none,anthropic,strict,unanimous,0.569230769230769,7,0.430769230769231
+murcia,none,anthropic,standard,any draw,0.715736040609137,7,0.284263959390863
+murcia,none,anthropic,standard,majority,0.66243654822335,8,0.33756345177665
+murcia,none,anthropic,standard,unanimous,0.636132315521629,8,0.363867684478372
+murcia,none,anthropic,broad,any draw,0.885786802030457,7,0.114213197969543
+murcia,none,anthropic,broad,majority,0.8248730964467,8,0.1751269035533
+murcia,none,anthropic,broad,unanimous,0.748730964467005,8,0.251269035532995
+murcia,none,openai,strict,any draw,0.65989847715736,7,0.34010152284264
+murcia,none,openai,strict,majority,0.550761421319797,6,0.449238578680203
+murcia,none,openai,strict,unanimous,0.476923076923077,6,0.523076923076923
+murcia,none,openai,standard,any draw,0.812182741116751,8,0.187817258883249
+murcia,none,openai,standard,majority,0.680203045685279,7,0.319796954314721
+murcia,none,openai,standard,unanimous,0.586734693877551,6,0.413265306122449
+murcia,none,openai,broad,any draw,0.969543147208122,7,0.0304568527918782
+murcia,none,openai,broad,majority,0.903553299492386,8,0.0964467005076142
+murcia,none,openai,broad,unanimous,0.786802030456853,7,0.213197969543147
+murcia,none,deepseek,strict,any draw,0.65989847715736,7,0.34010152284264
+murcia,none,deepseek,strict,majority,0.480916030534351,5,0.519083969465649
+murcia,none,deepseek,strict,unanimous,0.306878306878307,5,0.693121693121693
+murcia,none,deepseek,standard,any draw,0.741116751269036,7,0.258883248730964
+murcia,none,deepseek,standard,majority,0.522842639593909,6,0.477157360406091
+murcia,none,deepseek,standard,unanimous,0.332474226804124,5,0.667525773195876
+murcia,none,deepseek,broad,any draw,0.852791878172589,8,0.147208121827411
+murcia,none,deepseek,broad,majority,0.637055837563452,7,0.362944162436548
+murcia,none,deepseek,broad,unanimous,0.460358056265985,5,0.539641943734015
+murcia,Crop,anthropic,strict,any draw,0.715719063545151,8,0.28428093645485
+murcia,Crop,anthropic,strict,majority,0.688963210702341,7,0.311036789297659
+murcia,Crop,anthropic,strict,unanimous,0.647457627118644,7,0.352542372881356
+murcia,Crop,anthropic,standard,any draw,0.779264214046823,8,0.220735785953177
+murcia,Crop,anthropic,standard,majority,0.732441471571906,8,0.267558528428094
+murcia,Crop,anthropic,standard,unanimous,0.704697986577181,7,0.295302013422819
+murcia,Crop,anthropic,broad,any draw,0.926421404682274,6,0.0735785953177258
+murcia,Crop,anthropic,broad,majority,0.872909698996656,7,0.127090301003344
+murcia,Crop,anthropic,broad,unanimous,0.806020066889632,8,0.193979933110368
+murcia,Crop,openai,strict,any draw,0.682274247491639,7,0.317725752508361
+murcia,Crop,openai,strict,majority,0.591973244147157,6,0.408026755852843
+murcia,Crop,openai,strict,unanimous,0.528813559322034,6,0.471186440677966
+murcia,Crop,openai,standard,any draw,0.82943143812709,8,0.17056856187291
+murcia,Crop,openai,standard,majority,0.709030100334448,7,0.290969899665552
+murcia,Crop,openai,standard,unanimous,0.626262626262626,7,0.373737373737374
+murcia,Crop,openai,broad,any draw,0.973244147157191,7,0.0267558528428094
+murcia,Crop,openai,broad,majority,0.916387959866221,6,0.0836120401337793
+murcia,Crop,openai,broad,unanimous,0.802675585284281,7,0.197324414715719
+murcia,Crop,deepseek,strict,any draw,0.698996655518395,7,0.301003344481605
+murcia,Crop,deepseek,strict,majority,0.536912751677852,5,0.463087248322148
+murcia,Crop,deepseek,strict,unanimous,0.34982332155477,5,0.65017667844523
+murcia,Crop,deepseek,standard,any draw,0.769230769230769,7,0.230769230769231
+murcia,Crop,deepseek,standard,majority,0.595317725752508,6,0.404682274247492
+murcia,Crop,deepseek,standard,unanimous,0.385665529010239,5,0.614334470989761
+murcia,Crop,deepseek,broad,any draw,0.882943143812709,8,0.117056856187291
+murcia,Crop,deepseek,broad,majority,0.692307692307692,7,0.307692307692308
+murcia,Crop,deepseek,broad,unanimous,0.52027027027027,5,0.47972972972973
+murcia,Irrigation,anthropic,strict,any draw,0.68,6,0.32
+murcia,Irrigation,anthropic,strict,majority,0.648,6,0.352
+murcia,Irrigation,anthropic,strict,unanimous,0.600806451612903,6,0.399193548387097
+murcia,Irrigation,anthropic,standard,any draw,0.756,7,0.244
+murcia,Irrigation,anthropic,standard,majority,0.7,6,0.3
+murcia,Irrigation,anthropic,standard,unanimous,0.672,6,0.328
+murcia,Irrigation,anthropic,broad,any draw,0.892,6,0.108
+murcia,Irrigation,anthropic,broad,majority,0.852,6,0.148
+murcia,Irrigation,anthropic,broad,unanimous,0.792,7,0.208
+murcia,Irrigation,openai,strict,any draw,0.68,6,0.32
+murcia,Irrigation,openai,strict,majority,0.552,5,0.448
+murcia,Irrigation,openai,strict,unanimous,0.465863453815261,5,0.534136546184739
+murcia,Irrigation,openai,standard,any draw,0.836,6,0.164
+murcia,Irrigation,openai,standard,majority,0.708,6,0.292
+murcia,Irrigation,openai,standard,unanimous,0.608,5,0.392
+murcia,Irrigation,openai,broad,any draw,0.984,6,0.016
+murcia,Irrigation,openai,broad,majority,0.936,6,0.064
+murcia,Irrigation,openai,broad,unanimous,0.816,6,0.184
+murcia,Irrigation,deepseek,strict,any draw,0.68,5,0.32
+murcia,Irrigation,deepseek,strict,majority,0.476,4,0.524
+murcia,Irrigation,deepseek,strict,unanimous,0.296296296296296,4,0.703703703703704
+murcia,Irrigation,deepseek,standard,any draw,0.776,6,0.224
+murcia,Irrigation,deepseek,standard,majority,0.54,5,0.46
+murcia,Irrigation,deepseek,standard,unanimous,0.329317269076305,4,0.670682730923695
+murcia,Irrigation,deepseek,broad,any draw,0.868,8,0.132
+murcia,Irrigation,deepseek,broad,majority,0.656,6,0.344
+murcia,Irrigation,deepseek,broad,unanimous,0.465863453815261,5,0.534136546184739
+murcia,Soil & moisture,anthropic,strict,any draw,0.582236842105263,8,0.417763157894737
+murcia,Soil & moisture,anthropic,strict,majority,0.542763157894737,8,0.457236842105263
+murcia,Soil & moisture,anthropic,strict,unanimous,0.498338870431894,7,0.501661129568106
+murcia,Soil & moisture,anthropic,standard,any draw,0.644736842105263,8,0.355263157894737
+murcia,Soil & moisture,anthropic,standard,majority,0.592105263157895,8,0.407894736842105
+murcia,Soil & moisture,anthropic,standard,unanimous,0.570957095709571,8,0.429042904290429
+murcia,Soil & moisture,anthropic,broad,any draw,0.855263157894737,7,0.144736842105263
+murcia,Soil & moisture,anthropic,broad,majority,0.776315789473684,8,0.223684210526316
+murcia,Soil & moisture,anthropic,broad,unanimous,0.677631578947369,8,0.322368421052632
+murcia,Soil & moisture,openai,strict,any draw,0.680921052631579,7,0.319078947368421
+murcia,Soil & moisture,openai,strict,majority,0.578947368421053,7,0.421052631578947
+murcia,Soil & moisture,openai,strict,unanimous,0.511627906976744,6,0.488372093023256
+murcia,Soil & moisture,openai,standard,any draw,0.80921052631579,8,0.190789473684211
+murcia,Soil & moisture,openai,standard,majority,0.6875,7,0.3125
+murcia,Soil & moisture,openai,standard,unanimous,0.596026490066225,7,0.403973509933775
+murcia,Soil & moisture,openai,broad,any draw,0.960526315789474,8,0.0394736842105263
+murcia,Soil & moisture,openai,broad,majority,0.884868421052632,7,0.115131578947368
+murcia,Soil & moisture,openai,broad,unanimous,0.782894736842105,7,0.217105263157895
+murcia,Soil & moisture,deepseek,strict,any draw,0.657894736842105,7,0.342105263157895
+murcia,Soil & moisture,deepseek,strict,majority,0.501650165016502,6,0.498349834983498
+murcia,Soil & moisture,deepseek,strict,unanimous,0.311418685121107,5,0.688581314878893
+murcia,Soil & moisture,deepseek,standard,any draw,0.720394736842105,7,0.279605263157895
+murcia,Soil & moisture,deepseek,standard,majority,0.493421052631579,7,0.506578947368421
+murcia,Soil & moisture,deepseek,standard,unanimous,0.325503355704698,5,0.674496644295302
+murcia,Soil & moisture,deepseek,broad,any draw,0.838815789473684,8,0.161184210526316
+murcia,Soil & moisture,deepseek,broad,majority,0.615131578947369,7,0.384868421052632
+murcia,Soil & moisture,deepseek,broad,unanimous,0.451827242524917,6,0.548172757475083
+murcia,Weather & climate,anthropic,strict,any draw,0.620060790273556,8,0.379939209726444
+murcia,Weather & climate,anthropic,strict,majority,0.586626139817629,8,0.413373860182371
+murcia,Weather & climate,anthropic,strict,unanimous,0.539877300613497,7,0.460122699386503
+murcia,Weather & climate,anthropic,standard,any draw,0.693009118541033,7,0.306990881458967
+murcia,Weather & climate,anthropic,standard,majority,0.635258358662614,8,0.364741641337386
+murcia,Weather & climate,anthropic,standard,unanimous,0.606707317073171,7,0.393292682926829
+murcia,Weather & climate,anthropic,broad,any draw,0.872340425531915,7,0.127659574468085
+murcia,Weather & climate,anthropic,broad,majority,0.805471124620061,8,0.194528875379939
+murcia,Weather & climate,anthropic,broad,unanimous,0.729483282674772,8,0.270516717325228
+murcia,Weather & climate,openai,strict,any draw,0.604863221884498,7,0.395136778115502
+murcia,Weather & climate,openai,strict,majority,0.486322188449848,7,0.513677811550152
+murcia,Weather & climate,openai,strict,unanimous,0.406153846153846,6,0.593846153846154
+murcia,Weather & climate,openai,standard,any draw,0.781155015197568,8,0.218844984802432
+murcia,Weather & climate,openai,standard,majority,0.626139817629179,7,0.373860182370821
+murcia,Weather & climate,openai,standard,unanimous,0.525993883792049,7,0.474006116207951
+murcia,Weather & climate,openai,broad,any draw,0.963525835866261,7,0.0364741641337386
+murcia,Weather & climate,openai,broad,majority,0.884498480243161,8,0.115501519756839
+murcia,Weather & climate,openai,broad,unanimous,0.753799392097264,7,0.246200607902736
+murcia,Weather & climate,deepseek,strict,any draw,0.610942249240122,7,0.389057750759878
+murcia,Weather & climate,deepseek,strict,majority,0.414634146341463,6,0.585365853658537
+murcia,Weather & climate,deepseek,strict,unanimous,0.272727272727273,5,0.727272727272727
+murcia,Weather & climate,deepseek,standard,any draw,0.708206686930091,7,0.291793313069909
+murcia,Weather & climate,deepseek,standard,majority,0.47112462006079,6,0.52887537993921
+murcia,Weather & climate,deepseek,standard,unanimous,0.29320987654321,5,0.70679012345679
+murcia,Weather & climate,deepseek,broad,any draw,0.826747720364742,7,0.173252279635258
+murcia,Weather & climate,deepseek,broad,majority,0.592705167173252,7,0.407294832826748
+murcia,Weather & climate,deepseek,broad,unanimous,0.409785932721713,6,0.590214067278288
+huetortajar,none,anthropic,strict,any draw,0.672248803827751,8,0.327751196172249
+huetortajar,none,anthropic,strict,majority,0.643540669856459,7,0.356459330143541
+huetortajar,none,anthropic,strict,unanimous,0.594202898550725,7,0.405797101449275
+huetortajar,none,anthropic,standard,any draw,0.741626794258373,8,0.258373205741627
+huetortajar,none,anthropic,standard,majority,0.686602870813397,8,0.313397129186603
+huetortajar,none,anthropic,standard,unanimous,0.661870503597122,8,0.338129496402878
+huetortajar,none,anthropic,broad,any draw,0.882775119617225,8,0.117224880382775
+huetortajar,none,anthropic,broad,majority,0.825358851674641,8,0.174641148325359
+huetortajar,none,anthropic,broad,unanimous,0.76555023923445,8,0.23444976076555
+huetortajar,none,openai,strict,any draw,0.677033492822967,7,0.322966507177034
+huetortajar,none,openai,strict,majority,0.583732057416268,6,0.416267942583732
+huetortajar,none,openai,strict,unanimous,0.50363196125908,5,0.49636803874092
+huetortajar,none,openai,standard,any draw,0.818181818181818,8,0.181818181818182
+huetortajar,none,openai,standard,majority,0.686602870813397,7,0.313397129186603
+huetortajar,none,openai,standard,unanimous,0.596153846153846,7,0.403846153846154
+huetortajar,none,openai,broad,any draw,0.971291866028708,7,0.0287081339712919
+huetortajar,none,openai,broad,majority,0.906698564593301,8,0.0933014354066986
+huetortajar,none,openai,broad,unanimous,0.799043062200957,8,0.200956937799043
+huetortajar,none,deepseek,strict,any draw,0.68421052631579,6,0.315789473684211
+huetortajar,none,deepseek,strict,majority,0.50599520383693,5,0.49400479616307
+huetortajar,none,deepseek,strict,unanimous,0.333333333333333,5,0.666666666666667
+huetortajar,none,deepseek,standard,any draw,0.746411483253589,7,0.253588516746412
+huetortajar,none,deepseek,standard,majority,0.550239234449761,6,0.449760765550239
+huetortajar,none,deepseek,standard,unanimous,0.372262773722628,5,0.627737226277372
+huetortajar,none,deepseek,broad,any draw,0.858851674641148,8,0.141148325358852
+huetortajar,none,deepseek,broad,majority,0.657894736842105,7,0.342105263157895
+huetortajar,none,deepseek,broad,unanimous,0.496385542168675,5,0.503614457831325
+huetortajar,Crop,anthropic,strict,any draw,0.745222929936306,7,0.254777070063694
+huetortajar,Crop,anthropic,strict,majority,0.71656050955414,7,0.28343949044586
+huetortajar,Crop,anthropic,strict,unanimous,0.670967741935484,7,0.329032258064516
+huetortajar,Crop,anthropic,standard,any draw,0.815286624203822,8,0.184713375796178
+huetortajar,Crop,anthropic,standard,majority,0.764331210191083,8,0.235668789808917
+huetortajar,Crop,anthropic,standard,unanimous,0.738019169329074,7,0.261980830670927
+huetortajar,Crop,anthropic,broad,any draw,0.936305732484076,7,0.0636942675159236
+huetortajar,Crop,anthropic,broad,majority,0.888535031847134,8,0.111464968152866
+huetortajar,Crop,anthropic,broad,unanimous,0.837579617834395,8,0.162420382165605
+huetortajar,Crop,openai,strict,any draw,0.710191082802548,7,0.289808917197452
+huetortajar,Crop,openai,strict,majority,0.63375796178344,6,0.366242038216561
+huetortajar,Crop,openai,strict,unanimous,0.554838709677419,5,0.445161290322581
+huetortajar,Crop,openai,standard,any draw,0.840764331210191,8,0.159235668789809
+huetortajar,Crop,openai,standard,majority,0.722929936305732,7,0.277070063694268
+huetortajar,Crop,openai,standard,unanimous,0.641025641025641,7,0.358974358974359
+huetortajar,Crop,openai,broad,any draw,0.977707006369427,7,0.0222929936305732
+huetortajar,Crop,openai,broad,majority,0.923566878980892,6,0.0764331210191083
+huetortajar,Crop,openai,broad,unanimous,0.82484076433121,8,0.17515923566879
+huetortajar,Crop,deepseek,strict,any draw,0.726114649681529,6,0.273885350318471
+huetortajar,Crop,deepseek,strict,majority,0.565495207667732,5,0.434504792332268
+huetortajar,Crop,deepseek,strict,unanimous,0.382252559726962,5,0.617747440273038
+huetortajar,Crop,deepseek,standard,any draw,0.777070063694268,7,0.222929936305732
+huetortajar,Crop,deepseek,standard,majority,0.621019108280255,7,0.378980891719745
+huetortajar,Crop,deepseek,standard,unanimous,0.428571428571429,5,0.571428571428571
+huetortajar,Crop,deepseek,broad,any draw,0.898089171974522,7,0.101910828025478
+huetortajar,Crop,deepseek,broad,majority,0.719745222929936,7,0.280254777070064
+huetortajar,Crop,deepseek,broad,unanimous,0.559485530546624,5,0.440514469453376
+huetortajar,Irrigation,anthropic,strict,any draw,0.692592592592593,7,0.307407407407407
+huetortajar,Irrigation,anthropic,strict,majority,0.674074074074074,6,0.325925925925926
+huetortajar,Irrigation,anthropic,strict,unanimous,0.623134328358209,6,0.376865671641791
+huetortajar,Irrigation,anthropic,standard,any draw,0.762962962962963,7,0.237037037037037
+huetortajar,Irrigation,anthropic,standard,majority,0.711111111111111,6,0.288888888888889
+huetortajar,Irrigation,anthropic,standard,unanimous,0.685185185185185,6,0.314814814814815
+huetortajar,Irrigation,anthropic,broad,any draw,0.877777777777778,7,0.122222222222222
+huetortajar,Irrigation,anthropic,broad,majority,0.837037037037037,6,0.162962962962963
+huetortajar,Irrigation,anthropic,broad,unanimous,0.792592592592593,6,0.207407407407407
+huetortajar,Irrigation,openai,strict,any draw,0.685185185185185,6,0.314814814814815
+huetortajar,Irrigation,openai,strict,majority,0.57037037037037,5,0.42962962962963
+huetortajar,Irrigation,openai,strict,unanimous,0.486988847583643,4,0.513011152416357
+huetortajar,Irrigation,openai,standard,any draw,0.833333333333333,6,0.166666666666667
+huetortajar,Irrigation,openai,standard,majority,0.696296296296296,6,0.303703703703704
+huetortajar,Irrigation,openai,standard,unanimous,0.6,5,0.4
+huetortajar,Irrigation,openai,broad,any draw,0.981481481481481,7,0.0185185185185185
+huetortajar,Irrigation,openai,broad,majority,0.933333333333333,6,0.0666666666666667
+huetortajar,Irrigation,openai,broad,unanimous,0.818518518518519,6,0.181481481481482
+huetortajar,Irrigation,deepseek,strict,any draw,0.688888888888889,5,0.311111111111111
+huetortajar,Irrigation,deepseek,strict,majority,0.496296296296296,4,0.503703703703704
+huetortajar,Irrigation,deepseek,strict,unanimous,0.317829457364341,4,0.682170542635659
+huetortajar,Irrigation,deepseek,standard,any draw,0.774074074074074,6,0.225925925925926
+huetortajar,Irrigation,deepseek,standard,majority,0.562962962962963,4,0.437037037037037
+huetortajar,Irrigation,deepseek,standard,unanimous,0.373134328358209,4,0.626865671641791
+huetortajar,Irrigation,deepseek,broad,any draw,0.862962962962963,8,0.137037037037037
+huetortajar,Irrigation,deepseek,broad,majority,0.662962962962963,6,0.337037037037037
+huetortajar,Irrigation,deepseek,broad,unanimous,0.494423791821561,4,0.505576208178439
+huetortajar,Soil & moisture,anthropic,strict,any draw,0.620795107033639,8,0.379204892966361
+huetortajar,Soil & moisture,anthropic,strict,majority,0.587155963302752,8,0.412844036697248
+huetortajar,Soil & moisture,anthropic,strict,unanimous,0.540123456790123,7,0.459876543209877
+huetortajar,Soil & moisture,anthropic,standard,any draw,0.685015290519878,8,0.314984709480122
+huetortajar,Soil & moisture,anthropic,standard,majority,0.629969418960245,8,0.370030581039755
+huetortajar,Soil & moisture,anthropic,standard,unanimous,0.607361963190184,8,0.392638036809816
+huetortajar,Soil & moisture,anthropic,broad,any draw,0.853211009174312,9,0.146788990825688
+huetortajar,Soil & moisture,anthropic,broad,majority,0.779816513761468,8,0.220183486238532
+huetortajar,Soil & moisture,anthropic,broad,unanimous,0.703363914373089,8,0.296636085626911
+huetortajar,Soil & moisture,openai,strict,any draw,0.703363914373089,7,0.296636085626911
+huetortajar,Soil & moisture,openai,strict,majority,0.620795107033639,7,0.379204892966361
+huetortajar,Soil & moisture,openai,strict,unanimous,0.546583850931677,6,0.453416149068323
+huetortajar,Soil & moisture,openai,standard,any draw,0.82262996941896,8,0.17737003058104
+huetortajar,Soil & moisture,openai,standard,majority,0.706422018348624,7,0.293577981651376
+huetortajar,Soil & moisture,openai,standard,unanimous,0.621538461538462,7,0.378461538461538
+huetortajar,Soil & moisture,openai,broad,any draw,0.963302752293578,8,0.036697247706422
+huetortajar,Soil & moisture,openai,broad,majority,0.889908256880734,8,0.110091743119266
+huetortajar,Soil & moisture,openai,broad,unanimous,0.801223241590214,8,0.198776758409786
+huetortajar,Soil & moisture,deepseek,strict,any draw,0.697247706422018,7,0.302752293577982
+huetortajar,Soil & moisture,deepseek,strict,majority,0.539877300613497,6,0.460122699386503
+huetortajar,Soil & moisture,deepseek,strict,unanimous,0.351791530944625,5,0.648208469055375
+huetortajar,Soil & moisture,deepseek,standard,any draw,0.737003058103976,7,0.262996941896024
+huetortajar,Soil & moisture,deepseek,standard,majority,0.53822629969419,7,0.46177370030581
+huetortajar,Soil & moisture,deepseek,standard,unanimous,0.371875,5,0.628125
+huetortajar,Soil & moisture,deepseek,broad,any draw,0.847094801223242,8,0.152905198776758
+huetortajar,Soil & moisture,deepseek,broad,majority,0.654434250764526,7,0.345565749235474
+huetortajar,Soil & moisture,deepseek,broad,unanimous,0.503086419753086,6,0.496913580246914
+huetortajar,Weather & climate,anthropic,strict,any draw,0.638483965014577,8,0.361516034985423
+huetortajar,Weather & climate,anthropic,strict,majority,0.606413994169096,7,0.393586005830904
+huetortajar,Weather & climate,anthropic,strict,unanimous,0.552941176470588,7,0.447058823529412
+huetortajar,Weather & climate,anthropic,standard,any draw,0.711370262390671,8,0.288629737609329
+huetortajar,Weather & climate,anthropic,standard,majority,0.650145772594752,8,0.349854227405248
+huetortajar,Weather & climate,anthropic,standard,unanimous,0.625730994152047,8,0.374269005847953
+huetortajar,Weather & climate,anthropic,broad,any draw,0.865889212827988,7,0.134110787172012
+huetortajar,Weather & climate,anthropic,broad,majority,0.801749271137026,8,0.198250728862974
+huetortajar,Weather & climate,anthropic,broad,unanimous,0.737609329446064,8,0.262390670553936
+huetortajar,Weather & climate,openai,strict,any draw,0.615160349854227,7,0.384839650145773
+huetortajar,Weather & climate,openai,strict,majority,0.513119533527697,6,0.486880466472303
+huetortajar,Weather & climate,openai,strict,unanimous,0.428994082840237,6,0.571005917159763
+huetortajar,Weather & climate,openai,standard,any draw,0.78134110787172,8,0.21865889212828
+huetortajar,Weather & climate,openai,standard,majority,0.626822157434402,7,0.373177842565598
+huetortajar,Weather & climate,openai,standard,unanimous,0.527859237536657,7,0.472140762463343
+huetortajar,Weather & climate,openai,broad,any draw,0.965014577259475,6,0.0349854227405248
+huetortajar,Weather & climate,openai,broad,majority,0.886297376093295,7,0.113702623906706
+huetortajar,Weather & climate,openai,broad,unanimous,0.75801749271137,7,0.24198250728863
+huetortajar,Weather & climate,deepseek,strict,any draw,0.629737609329446,6,0.370262390670554
+huetortajar,Weather & climate,deepseek,strict,majority,0.426900584795322,5,0.573099415204678
+huetortajar,Weather & climate,deepseek,strict,unanimous,0.284848484848485,5,0.715151515151515
+huetortajar,Weather & climate,deepseek,standard,any draw,0.705539358600583,7,0.294460641399417
+huetortajar,Weather & climate,deepseek,standard,majority,0.486880466472303,6,0.513119533527697
+huetortajar,Weather & climate,deepseek,standard,unanimous,0.320474777448071,5,0.679525222551929
+huetortajar,Weather & climate,deepseek,broad,any draw,0.830903790087464,8,0.169096209912536
+huetortajar,Weather & climate,deepseek,broad,majority,0.600583090379009,7,0.399416909620991
+huetortajar,Weather & climate,deepseek,broad,unanimous,0.434017595307918,5,0.565982404692082
+oria,none,anthropic,strict,any draw,0.638242894056848,8,0.361757105943152
+oria,none,anthropic,strict,majority,0.602067183462532,7,0.397932816537468
+oria,none,anthropic,strict,unanimous,0.565104166666667,7,0.434895833333333
+oria,none,anthropic,standard,any draw,0.710594315245478,7,0.289405684754522
+oria,none,anthropic,standard,majority,0.658914728682171,8,0.341085271317829
+oria,none,anthropic,standard,unanimous,0.629533678756477,7,0.370466321243523
+oria,none,anthropic,broad,any draw,0.878552971576227,7,0.121447028423773
+oria,none,anthropic,broad,majority,0.813953488372093,7,0.186046511627907
+oria,none,anthropic,broad,unanimous,0.749354005167959,8,0.250645994832041
+oria,none,openai,strict,any draw,0.645994832041344,6,0.354005167958656
+oria,none,openai,strict,majority,0.547803617571059,6,0.452196382428941
+oria,none,openai,strict,unanimous,0.464566929133858,6,0.535433070866142
+oria,none,openai,standard,any draw,0.801033591731266,7,0.198966408268734
+oria,none,openai,standard,majority,0.661498708010336,7,0.338501291989664
+oria,none,openai,standard,unanimous,0.579220779220779,6,0.420779220779221
+oria,none,openai,broad,any draw,0.963824289405685,7,0.0361757105943152
+oria,none,openai,broad,majority,0.89405684754522,8,0.10594315245478
+oria,none,openai,broad,unanimous,0.79328165374677,7,0.20671834625323
+oria,none,deepseek,strict,any draw,0.656330749354005,6,0.343669250645995
+oria,none,deepseek,strict,majority,0.474093264248705,5,0.525906735751295
+oria,none,deepseek,strict,unanimous,0.321525885558583,5,0.678474114441417
+oria,none,deepseek,standard,any draw,0.72093023255814,7,0.27906976744186
+oria,none,deepseek,standard,majority,0.51937984496124,6,0.48062015503876
+oria,none,deepseek,standard,unanimous,0.339473684210526,5,0.660526315789474
+oria,none,deepseek,broad,any draw,0.839793281653747,7,0.160206718346253
+oria,none,deepseek,broad,majority,0.62015503875969,7,0.37984496124031
+oria,none,deepseek,broad,unanimous,0.467532467532468,5,0.532467532467532
+oria,Crop,anthropic,strict,any draw,0.710344827586207,8,0.289655172413793
+oria,Crop,anthropic,strict,majority,0.675862068965517,7,0.324137931034483
+oria,Crop,anthropic,strict,unanimous,0.641114982578397,7,0.358885017421603
+oria,Crop,anthropic,standard,any draw,0.782758620689655,7,0.217241379310345
+oria,Crop,anthropic,standard,majority,0.73448275862069,8,0.26551724137931
+oria,Crop,anthropic,standard,unanimous,0.705882352941177,7,0.294117647058824
+oria,Crop,anthropic,broad,any draw,0.927586206896552,7,0.0724137931034483
+oria,Crop,anthropic,broad,majority,0.875862068965517,7,0.124137931034483
+oria,Crop,anthropic,broad,unanimous,0.817241379310345,7,0.182758620689655
+oria,Crop,openai,strict,any draw,0.668965517241379,6,0.331034482758621
+oria,Crop,openai,strict,majority,0.582758620689655,6,0.417241379310345
+oria,Crop,openai,strict,unanimous,0.508771929824562,6,0.491228070175439
+oria,Crop,openai,standard,any draw,0.820689655172414,7,0.179310344827586
+oria,Crop,openai,standard,majority,0.689655172413793,7,0.310344827586207
+oria,Crop,openai,standard,unanimous,0.614583333333333,6,0.385416666666667
+oria,Crop,openai,broad,any draw,0.972413793103448,7,0.0275862068965517
+oria,Crop,openai,broad,majority,0.906896551724138,8,0.0931034482758621
+oria,Crop,openai,broad,unanimous,0.806896551724138,7,0.193103448275862
+oria,Crop,deepseek,strict,any draw,0.696551724137931,6,0.303448275862069
+oria,Crop,deepseek,strict,majority,0.525951557093426,5,0.474048442906574
+oria,Crop,deepseek,strict,unanimous,0.372693726937269,5,0.627306273062731
+oria,Crop,deepseek,standard,any draw,0.744827586206897,7,0.255172413793103
+oria,Crop,deepseek,standard,majority,0.586206896551724,6,0.413793103448276
+oria,Crop,deepseek,standard,unanimous,0.397887323943662,5,0.602112676056338
+oria,Crop,deepseek,broad,any draw,0.886206896551724,7,0.113793103448276
+oria,Crop,deepseek,broad,majority,0.675862068965517,7,0.324137931034483
+oria,Crop,deepseek,broad,unanimous,0.527777777777778,5,0.472222222222222
+oria,Irrigation,anthropic,strict,any draw,0.668016194331984,6,0.331983805668016
+oria,Irrigation,anthropic,strict,majority,0.639676113360324,6,0.360323886639676
+oria,Irrigation,anthropic,strict,unanimous,0.601626016260163,6,0.398373983739837
+oria,Irrigation,anthropic,standard,any draw,0.744939271255061,7,0.255060728744939
+oria,Irrigation,anthropic,standard,majority,0.700404858299595,6,0.299595141700405
+oria,Irrigation,anthropic,standard,unanimous,0.663967611336032,6,0.336032388663968
+oria,Irrigation,anthropic,broad,any draw,0.878542510121458,7,0.121457489878543
+oria,Irrigation,anthropic,broad,majority,0.82995951417004,7,0.17004048582996
+oria,Irrigation,anthropic,broad,unanimous,0.785425101214575,7,0.214574898785425
+oria,Irrigation,openai,strict,any draw,0.663967611336032,5,0.336032388663968
+oria,Irrigation,openai,strict,majority,0.550607287449393,5,0.449392712550607
+oria,Irrigation,openai,strict,unanimous,0.457142857142857,4,0.542857142857143
+oria,Irrigation,openai,standard,any draw,0.82995951417004,6,0.17004048582996
+oria,Irrigation,openai,standard,majority,0.688259109311741,6,0.311740890688259
+oria,Irrigation,openai,standard,unanimous,0.607287449392713,5,0.392712550607287
+oria,Irrigation,openai,broad,any draw,0.975708502024291,6,0.0242914979757085
+oria,Irrigation,openai,broad,majority,0.935222672064777,6,0.0647773279352227
+oria,Irrigation,openai,broad,unanimous,0.82995951417004,6,0.17004048582996
+oria,Irrigation,deepseek,strict,any draw,0.672064777327935,5,0.327935222672065
+oria,Irrigation,deepseek,strict,majority,0.469635627530364,4,0.530364372469636
+oria,Irrigation,deepseek,strict,unanimous,0.308016877637131,4,0.691983122362869
+oria,Irrigation,deepseek,standard,any draw,0.761133603238866,6,0.238866396761134
+oria,Irrigation,deepseek,standard,majority,0.538461538461538,5,0.461538461538462
+oria,Irrigation,deepseek,standard,unanimous,0.33469387755102,4,0.66530612244898
+oria,Irrigation,deepseek,broad,any draw,0.842105263157895,6,0.157894736842105
+oria,Irrigation,deepseek,broad,majority,0.643724696356275,6,0.356275303643725
+oria,Irrigation,deepseek,broad,unanimous,0.473684210526316,3,0.526315789473684
+oria,Soil & moisture,anthropic,strict,any draw,0.573333333333333,7,0.426666666666667
+oria,Soil & moisture,anthropic,strict,majority,0.53,7,0.47
+oria,Soil & moisture,anthropic,strict,unanimous,0.496644295302014,7,0.503355704697987
+oria,Soil & moisture,anthropic,standard,any draw,0.64,8,0.36
+oria,Soil & moisture,anthropic,standard,majority,0.586666666666667,8,0.413333333333333
+oria,Soil & moisture,anthropic,standard,unanimous,0.558528428093645,8,0.441471571906355
+oria,Soil & moisture,anthropic,broad,any draw,0.843333333333333,9,0.156666666666667
+oria,Soil & moisture,anthropic,broad,majority,0.76,8,0.24
+oria,Soil & moisture,anthropic,broad,unanimous,0.676666666666667,8,0.323333333333333
+oria,Soil & moisture,openai,strict,any draw,0.666666666666667,6,0.333333333333333
+oria,Soil & moisture,openai,strict,majority,0.58,6,0.42
+oria,Soil & moisture,openai,strict,unanimous,0.501694915254237,6,0.498305084745763
+oria,Soil & moisture,openai,standard,any draw,0.793333333333333,7,0.206666666666667
+oria,Soil & moisture,openai,standard,majority,0.67,7,0.33
+oria,Soil & moisture,openai,standard,unanimous,0.587248322147651,6,0.412751677852349
+oria,Soil & moisture,openai,broad,any draw,0.953333333333333,8,0.0466666666666667
+oria,Soil & moisture,openai,broad,majority,0.87,7,0.13
+oria,Soil & moisture,openai,broad,unanimous,0.783333333333333,7,0.216666666666667
+oria,Soil & moisture,deepseek,strict,any draw,0.653333333333333,6,0.346666666666667
+oria,Soil & moisture,deepseek,strict,majority,0.498327759197324,6,0.501672240802676
+oria,Soil & moisture,deepseek,strict,unanimous,0.329787234042553,5,0.670212765957447
+oria,Soil & moisture,deepseek,standard,any draw,0.7,7,0.3
+oria,Soil & moisture,deepseek,standard,majority,0.503333333333333,6,0.496666666666667
+oria,Soil & moisture,deepseek,standard,unanimous,0.337883959044369,5,0.662116040955631
+oria,Soil & moisture,deepseek,broad,any draw,0.82,8,0.18
+oria,Soil & moisture,deepseek,broad,majority,0.596666666666667,6,0.403333333333333
+oria,Soil & moisture,deepseek,broad,unanimous,0.463087248322148,5,0.536912751677852
+oria,Weather & climate,anthropic,strict,any draw,0.611111111111111,7,0.388888888888889
+oria,Weather & climate,anthropic,strict,majority,0.574074074074074,7,0.425925925925926
+oria,Weather & climate,anthropic,strict,unanimous,0.532710280373832,7,0.467289719626168
+oria,Weather & climate,anthropic,standard,any draw,0.685185185185185,7,0.314814814814815
+oria,Weather & climate,anthropic,standard,majority,0.626543209876543,8,0.373456790123457
+oria,Weather & climate,anthropic,standard,unanimous,0.60061919504644,7,0.39938080495356
+oria,Weather & climate,anthropic,broad,any draw,0.867283950617284,7,0.132716049382716
+oria,Weather & climate,anthropic,broad,majority,0.796296296296296,7,0.203703703703704
+oria,Weather & climate,anthropic,broad,unanimous,0.728395061728395,8,0.271604938271605
+oria,Weather & climate,openai,strict,any draw,0.592592592592593,6,0.407407407407407
+oria,Weather & climate,openai,strict,majority,0.484567901234568,6,0.515432098765432
+oria,Weather & climate,openai,strict,unanimous,0.39622641509434,6,0.60377358490566
+oria,Weather & climate,openai,standard,any draw,0.768518518518519,7,0.231481481481482
+oria,Weather & climate,openai,standard,majority,0.608024691358025,6,0.391975308641975
+oria,Weather & climate,openai,standard,unanimous,0.518633540372671,6,0.481366459627329
+oria,Weather & climate,openai,broad,any draw,0.95679012345679,6,0.0432098765432099
+oria,Weather & climate,openai,broad,majority,0.873456790123457,8,0.126543209876543
+oria,Weather & climate,openai,broad,unanimous,0.762345679012346,7,0.237654320987654
+oria,Weather & climate,deepseek,strict,any draw,0.611111111111111,6,0.388888888888889
+oria,Weather & climate,deepseek,strict,majority,0.408668730650155,5,0.591331269349845
+oria,Weather & climate,deepseek,strict,unanimous,0.279742765273312,5,0.720257234726688
+oria,Weather & climate,deepseek,standard,any draw,0.688271604938272,7,0.311728395061728
+oria,Weather & climate,deepseek,standard,majority,0.459876543209877,6,0.540123456790123
+oria,Weather & climate,deepseek,standard,unanimous,0.292452830188679,5,0.707547169811321
+oria,Weather & climate,deepseek,broad,any draw,0.814814814814815,7,0.185185185185185
+oria,Weather & climate,deepseek,broad,majority,0.574074074074074,7,0.425925925925926
+oria,Weather & climate,deepseek,broad,unanimous,0.41304347826087,5,0.586956521739131
+ricote,none,anthropic,strict,any draw,0.672941176470588,8,0.327058823529412
+ricote,none,anthropic,strict,majority,0.635294117647059,7,0.364705882352941
+ricote,none,anthropic,strict,unanimous,0.590047393364929,7,0.409952606635071
+ricote,none,anthropic,standard,any draw,0.741176470588235,8,0.258823529411765
+ricote,none,anthropic,standard,majority,0.689411764705882,8,0.310588235294118
+ricote,none,anthropic,standard,unanimous,0.660377358490566,8,0.339622641509434
+ricote,none,anthropic,broad,any draw,0.882352941176471,7,0.117647058823529
+ricote,none,anthropic,broad,majority,0.828235294117647,8,0.171764705882353
+ricote,none,anthropic,broad,unanimous,0.771764705882353,8,0.228235294117647
+ricote,none,openai,strict,any draw,0.68,7,0.32
+ricote,none,openai,strict,majority,0.604705882352941,6,0.395294117647059
+ricote,none,openai,strict,unanimous,0.52744630071599,6,0.47255369928401
+ricote,none,openai,standard,any draw,0.816470588235294,8,0.183529411764706
+ricote,none,openai,standard,majority,0.694117647058824,7,0.305882352941177
+ricote,none,openai,standard,unanimous,0.626477541371158,7,0.373522458628842
+ricote,none,openai,broad,any draw,0.969411764705882,7,0.0305882352941177
+ricote,none,openai,broad,majority,0.903529411764706,7,0.0964705882352941
+ricote,none,openai,broad,unanimous,0.816470588235294,8,0.183529411764706
+ricote,none,deepseek,strict,any draw,0.687058823529412,7,0.312941176470588
+ricote,none,deepseek,strict,majority,0.528301886792453,6,0.471698113207547
+ricote,none,deepseek,strict,unanimous,0.354838709677419,5,0.645161290322581
+ricote,none,deepseek,standard,any draw,0.752941176470588,7,0.247058823529412
+ricote,none,deepseek,standard,majority,0.552941176470588,6,0.447058823529412
+ricote,none,deepseek,standard,unanimous,0.374701670644391,5,0.625298329355609
+ricote,none,deepseek,broad,any draw,0.851764705882353,8,0.148235294117647
+ricote,none,deepseek,broad,majority,0.658823529411765,7,0.341176470588235
+ricote,none,deepseek,broad,unanimous,0.495260663507109,6,0.504739336492891
+ricote,Crop,anthropic,strict,any draw,0.746081504702194,8,0.253918495297806
+ricote,Crop,anthropic,strict,majority,0.711598746081505,7,0.288401253918495
+ricote,Crop,anthropic,strict,unanimous,0.670886075949367,7,0.329113924050633
+ricote,Crop,anthropic,standard,any draw,0.815047021943574,8,0.184952978056426
+ricote,Crop,anthropic,standard,majority,0.764890282131661,8,0.235109717868339
+ricote,Crop,anthropic,standard,unanimous,0.735849056603774,7,0.264150943396226
+ricote,Crop,anthropic,broad,any draw,0.934169278996865,7,0.0658307210031348
+ricote,Crop,anthropic,broad,majority,0.887147335423198,8,0.112852664576803
+ricote,Crop,anthropic,broad,unanimous,0.833855799373041,8,0.166144200626959
+ricote,Crop,openai,strict,any draw,0.711598746081505,7,0.288401253918495
+ricote,Crop,openai,strict,majority,0.652037617554859,6,0.347962382445141
+ricote,Crop,openai,strict,unanimous,0.585987261146497,6,0.414012738853503
+ricote,Crop,openai,standard,any draw,0.846394984326019,8,0.153605015673981
+ricote,Crop,openai,standard,majority,0.736677115987461,7,0.263322884012539
+ricote,Crop,openai,standard,unanimous,0.67192429022082,7,0.32807570977918
+ricote,Crop,openai,broad,any draw,0.974921630094044,7,0.0250783699059561
+ricote,Crop,openai,broad,majority,0.921630094043887,7,0.0783699059561129
+ricote,Crop,openai,broad,unanimous,0.84012539184953,8,0.15987460815047
+ricote,Crop,deepseek,strict,any draw,0.733542319749216,7,0.266457680250784
+ricote,Crop,deepseek,strict,majority,0.588050314465409,5,0.411949685534591
+ricote,Crop,deepseek,strict,unanimous,0.406040268456376,5,0.593959731543624
+ricote,Crop,deepseek,standard,any draw,0.786833855799373,7,0.213166144200627
+ricote,Crop,deepseek,standard,majority,0.620689655172414,6,0.379310344827586
+ricote,Crop,deepseek,standard,unanimous,0.43312101910828,5,0.56687898089172
+ricote,Crop,deepseek,broad,any draw,0.896551724137931,7,0.103448275862069
+ricote,Crop,deepseek,broad,majority,0.711598746081505,7,0.288401253918495
+ricote,Crop,deepseek,broad,unanimous,0.560126582278481,5,0.439873417721519
+ricote,Irrigation,anthropic,strict,any draw,0.692883895131086,7,0.307116104868914
+ricote,Irrigation,anthropic,strict,majority,0.662921348314607,6,0.337078651685393
+ricote,Irrigation,anthropic,strict,unanimous,0.616541353383459,6,0.383458646616541
+ricote,Irrigation,anthropic,standard,any draw,0.764044943820225,7,0.235955056179775
+ricote,Irrigation,anthropic,standard,majority,0.715355805243446,7,0.284644194756554
+ricote,Irrigation,anthropic,standard,unanimous,0.681647940074906,6,0.318352059925094
+ricote,Irrigation,anthropic,broad,any draw,0.876404494382023,8,0.123595505617978
+ricote,Irrigation,anthropic,broad,majority,0.842696629213483,7,0.157303370786517
+ricote,Irrigation,anthropic,broad,unanimous,0.797752808988764,7,0.202247191011236
+ricote,Irrigation,openai,strict,any draw,0.685393258426966,6,0.314606741573034
+ricote,Irrigation,openai,strict,majority,0.602996254681648,5,0.397003745318352
+ricote,Irrigation,openai,strict,unanimous,0.520754716981132,5,0.479245283018868
+ricote,Irrigation,openai,standard,any draw,0.827715355805244,7,0.172284644194757
+ricote,Irrigation,openai,standard,majority,0.704119850187266,6,0.295880149812734
+ricote,Irrigation,openai,standard,unanimous,0.644194756554307,6,0.355805243445693
+ricote,Irrigation,openai,broad,any draw,0.9812734082397,7,0.0187265917602996
+ricote,Irrigation,openai,broad,majority,0.928838951310862,7,0.0711610486891386
+ricote,Irrigation,openai,broad,unanimous,0.835205992509363,7,0.164794007490637
+ricote,Irrigation,deepseek,strict,any draw,0.685393258426966,5,0.314606741573034
+ricote,Irrigation,deepseek,strict,majority,0.52434456928839,4,0.47565543071161
+ricote,Irrigation,deepseek,strict,unanimous,0.341176470588235,4,0.658823529411765
+ricote,Irrigation,deepseek,standard,any draw,0.775280898876405,6,0.224719101123596
+ricote,Irrigation,deepseek,standard,majority,0.561797752808989,5,0.438202247191011
+ricote,Irrigation,deepseek,standard,unanimous,0.369811320754717,4,0.630188679245283
+ricote,Irrigation,deepseek,broad,any draw,0.850187265917603,7,0.149812734082397
+ricote,Irrigation,deepseek,broad,majority,0.666666666666667,6,0.333333333333333
+ricote,Irrigation,deepseek,broad,unanimous,0.496240601503759,5,0.503759398496241
+ricote,Soil & moisture,anthropic,strict,any draw,0.628654970760234,8,0.371345029239766
+ricote,Soil & moisture,anthropic,strict,majority,0.584795321637427,8,0.415204678362573
+ricote,Soil & moisture,anthropic,strict,unanimous,0.539823008849558,7,0.460176991150443
+ricote,Soil & moisture,anthropic,standard,any draw,0.690058479532164,8,0.309941520467836
+ricote,Soil & moisture,anthropic,standard,majority,0.640350877192982,8,0.359649122807018
+ricote,Soil & moisture,anthropic,standard,unanimous,0.612903225806452,8,0.387096774193548
+ricote,Soil & moisture,anthropic,broad,any draw,0.85672514619883,9,0.14327485380117
+ricote,Soil & moisture,anthropic,broad,majority,0.789473684210526,8,0.210526315789474
+ricote,Soil & moisture,anthropic,broad,unanimous,0.719298245614035,8,0.280701754385965
+ricote,Soil & moisture,openai,strict,any draw,0.707602339181287,7,0.292397660818713
+ricote,Soil & moisture,openai,strict,majority,0.631578947368421,6,0.368421052631579
+ricote,Soil & moisture,openai,strict,unanimous,0.554896142433234,6,0.445103857566766
+ricote,Soil & moisture,openai,standard,any draw,0.81578947368421,8,0.184210526315789
+ricote,Soil & moisture,openai,standard,majority,0.707602339181287,7,0.292397660818713
+ricote,Soil & moisture,openai,standard,unanimous,0.641176470588235,7,0.358823529411765
+ricote,Soil & moisture,openai,broad,any draw,0.961988304093567,8,0.0380116959064327
+ricote,Soil & moisture,openai,broad,majority,0.888888888888889,8,0.111111111111111
+ricote,Soil & moisture,openai,broad,unanimous,0.812865497076023,8,0.187134502923977
+ricote,Soil & moisture,deepseek,strict,any draw,0.701754385964912,7,0.298245614035088
+ricote,Soil & moisture,deepseek,strict,majority,0.551319648093842,6,0.448680351906158
+ricote,Soil & moisture,deepseek,strict,unanimous,0.363354037267081,5,0.636645962732919
+ricote,Soil & moisture,deepseek,standard,any draw,0.745614035087719,7,0.254385964912281
+ricote,Soil & moisture,deepseek,standard,majority,0.549707602339181,6,0.450292397660819
+ricote,Soil & moisture,deepseek,standard,unanimous,0.37797619047619,5,0.62202380952381
+ricote,Soil & moisture,deepseek,broad,any draw,0.839181286549708,8,0.160818713450292
+ricote,Soil & moisture,deepseek,broad,majority,0.654970760233918,7,0.345029239766082
+ricote,Soil & moisture,deepseek,broad,unanimous,0.498525073746313,6,0.501474926253687
+ricote,Weather & climate,anthropic,strict,any draw,0.634005763688761,8,0.365994236311239
+ricote,Weather & climate,anthropic,strict,majority,0.593659942363112,7,0.406340057636888
+ricote,Weather & climate,anthropic,strict,unanimous,0.544927536231884,7,0.455072463768116
+ricote,Weather & climate,anthropic,standard,any draw,0.706051873198847,8,0.293948126801153
+ricote,Weather & climate,anthropic,standard,majority,0.648414985590778,8,0.351585014409222
+ricote,Weather & climate,anthropic,standard,unanimous,0.621387283236994,7,0.378612716763006
+ricote,Weather & climate,anthropic,broad,any draw,0.864553314121037,7,0.135446685878963
+ricote,Weather & climate,anthropic,broad,majority,0.801152737752161,8,0.198847262247839
+ricote,Weather & climate,anthropic,broad,unanimous,0.746397694524496,8,0.253602305475504
+ricote,Weather & climate,openai,strict,any draw,0.619596541786744,7,0.380403458213257
+ricote,Weather & climate,openai,strict,majority,0.536023054755043,7,0.463976945244957
+ricote,Weather & climate,openai,strict,unanimous,0.451612903225806,6,0.548387096774194
+ricote,Weather & climate,openai,standard,any draw,0.780979827089337,8,0.219020172910663
+ricote,Weather & climate,openai,standard,majority,0.634005763688761,7,0.365994236311239
+ricote,Weather & climate,openai,standard,unanimous,0.556521739130435,7,0.443478260869565
+ricote,Weather & climate,openai,broad,any draw,0.962536023054755,7,0.037463976945245
+ricote,Weather & climate,openai,broad,majority,0.881844380403458,7,0.118155619596542
+ricote,Weather & climate,openai,broad,unanimous,0.783861671469741,8,0.216138328530259
+ricote,Weather & climate,deepseek,strict,any draw,0.631123919308357,6,0.368876080691643
+ricote,Weather & climate,deepseek,strict,majority,0.453757225433526,6,0.546242774566474
+ricote,Weather & climate,deepseek,strict,unanimous,0.311377245508982,5,0.688622754491018
+ricote,Weather & climate,deepseek,standard,any draw,0.711815561959654,7,0.288184438040346
+ricote,Weather & climate,deepseek,standard,majority,0.487031700288184,6,0.512968299711816
+ricote,Weather & climate,deepseek,standard,unanimous,0.321637426900585,5,0.678362573099415
+ricote,Weather & climate,deepseek,broad,any draw,0.824207492795389,8,0.175792507204611
+ricote,Weather & climate,deepseek,broad,majority,0.60806916426513,7,0.39193083573487
+ricote,Weather & climate,deepseek,broad,unanimous,0.431884057971014,6,0.568115942028986
+sudanell,none,anthropic,strict,any draw,0.668257756563246,8,0.331742243436754
+sudanell,none,anthropic,strict,majority,0.637231503579952,7,0.362768496420048
+sudanell,none,anthropic,strict,unanimous,0.592326139088729,7,0.407673860911271
+sudanell,none,anthropic,standard,any draw,0.735083532219571,8,0.26491646778043
+sudanell,none,anthropic,standard,majority,0.689737470167064,8,0.310262529832936
+sudanell,none,anthropic,standard,unanimous,0.66109785202864,7,0.33890214797136
+sudanell,none,anthropic,broad,any draw,0.890214797136038,7,0.109785202863962
+sudanell,none,anthropic,broad,majority,0.835322195704057,8,0.164677804295943
+sudanell,none,anthropic,broad,unanimous,0.77326968973747,8,0.22673031026253
+sudanell,none,openai,strict,any draw,0.682577565632458,7,0.317422434367542
+sudanell,none,openai,strict,majority,0.579952267303103,6,0.420047732696897
+sudanell,none,openai,strict,unanimous,0.506024096385542,6,0.493975903614458
+sudanell,none,openai,standard,any draw,0.821002386634845,8,0.178997613365155
+sudanell,none,openai,standard,majority,0.692124105011933,7,0.307875894988067
+sudanell,none,openai,standard,unanimous,0.605263157894737,6,0.394736842105263
+sudanell,none,openai,broad,any draw,0.971360381861575,7,0.0286396181384248
+sudanell,none,openai,broad,majority,0.909307875894988,8,0.0906921241050119
+sudanell,none,openai,broad,unanimous,0.806682577565633,7,0.193317422434368
+sudanell,none,deepseek,strict,any draw,0.675417661097852,7,0.324582338902148
+sudanell,none,deepseek,strict,majority,0.504784688995215,5,0.495215311004785
+sudanell,none,deepseek,strict,unanimous,0.328358208955224,5,0.671641791044776
+sudanell,none,deepseek,standard,any draw,0.749403341288783,7,0.250596658711217
+sudanell,none,deepseek,standard,majority,0.541766109785203,6,0.458233890214797
+sudanell,none,deepseek,standard,unanimous,0.357487922705314,5,0.642512077294686
+sudanell,none,deepseek,broad,any draw,0.859188544152745,8,0.140811455847255
+sudanell,none,deepseek,broad,majority,0.649164677804296,7,0.350835322195704
+sudanell,none,deepseek,broad,unanimous,0.484412470023981,5,0.515587529976019
+sudanell,Crop,anthropic,strict,any draw,0.73482428115016,7,0.26517571884984
+sudanell,Crop,anthropic,strict,majority,0.706070287539936,7,0.293929712460064
+sudanell,Crop,anthropic,strict,unanimous,0.665594855305466,6,0.334405144694534
+sudanell,Crop,anthropic,standard,any draw,0.798722044728435,8,0.201277955271566
+sudanell,Crop,anthropic,standard,majority,0.76038338658147,8,0.23961661341853
+sudanell,Crop,anthropic,standard,unanimous,0.731629392971246,7,0.268370607028754
+sudanell,Crop,anthropic,broad,any draw,0.932907348242811,6,0.0670926517571885
+sudanell,Crop,anthropic,broad,majority,0.888178913738019,8,0.111821086261981
+sudanell,Crop,anthropic,broad,unanimous,0.833865814696486,8,0.166134185303514
+sudanell,Crop,openai,strict,any draw,0.70926517571885,7,0.29073482428115
+sudanell,Crop,openai,strict,majority,0.619808306709265,6,0.380191693290735
+sudanell,Crop,openai,strict,unanimous,0.551612903225807,5,0.448387096774194
+sudanell,Crop,openai,standard,any draw,0.840255591054313,7,0.159744408945687
+sudanell,Crop,openai,standard,majority,0.722044728434505,7,0.277955271565495
+sudanell,Crop,openai,standard,unanimous,0.641025641025641,6,0.358974358974359
+sudanell,Crop,openai,broad,any draw,0.980830670926517,7,0.0191693290734824
+sudanell,Crop,openai,broad,majority,0.926517571884984,6,0.073482428115016
+sudanell,Crop,openai,broad,unanimous,0.827476038338658,7,0.172523961661342
+sudanell,Crop,deepseek,strict,any draw,0.715654952076677,7,0.284345047923323
+sudanell,Crop,deepseek,strict,majority,0.55448717948718,5,0.445512820512821
+sudanell,Crop,deepseek,strict,unanimous,0.37037037037037,5,0.62962962962963
+sudanell,Crop,deepseek,standard,any draw,0.779552715654952,7,0.220447284345048
+sudanell,Crop,deepseek,standard,majority,0.603833865814696,6,0.396166134185304
+sudanell,Crop,deepseek,standard,unanimous,0.411003236245955,5,0.588996763754045
+sudanell,Crop,deepseek,broad,any draw,0.900958466453674,7,0.0990415335463259
+sudanell,Crop,deepseek,broad,majority,0.702875399361022,7,0.297124600638978
+sudanell,Crop,deepseek,broad,unanimous,0.540192926045016,5,0.459807073954984
+sudanell,Irrigation,anthropic,strict,any draw,0.691449814126394,7,0.308550185873606
+sudanell,Irrigation,anthropic,strict,majority,0.669144981412639,6,0.330855018587361
+sudanell,Irrigation,anthropic,strict,unanimous,0.621722846441948,6,0.378277153558052
+sudanell,Irrigation,anthropic,standard,any draw,0.762081784386617,8,0.237918215613383
+sudanell,Irrigation,anthropic,standard,majority,0.713754646840149,7,0.286245353159851
+sudanell,Irrigation,anthropic,standard,unanimous,0.680297397769517,6,0.319702602230483
+sudanell,Irrigation,anthropic,broad,any draw,0.888475836431227,7,0.111524163568773
+sudanell,Irrigation,anthropic,broad,majority,0.847583643122677,8,0.152416356877323
+sudanell,Irrigation,anthropic,broad,unanimous,0.795539033457249,7,0.204460966542751
+sudanell,Irrigation,openai,strict,any draw,0.691449814126394,6,0.308550185873606
+sudanell,Irrigation,openai,strict,majority,0.576208178438662,6,0.423791821561338
+sudanell,Irrigation,openai,strict,unanimous,0.48689138576779,4,0.51310861423221
+sudanell,Irrigation,openai,standard,any draw,0.836431226765799,7,0.163568773234201
+sudanell,Irrigation,openai,standard,majority,0.713754646840149,6,0.286245353159851
+sudanell,Irrigation,openai,standard,unanimous,0.620817843866171,6,0.379182156133829
+sudanell,Irrigation,openai,broad,any draw,0.977695167286245,7,0.0223048327137546
+sudanell,Irrigation,openai,broad,majority,0.936802973977695,7,0.0631970260223048
+sudanell,Irrigation,openai,broad,unanimous,0.828996282527881,7,0.171003717472119
+sudanell,Irrigation,deepseek,strict,any draw,0.676579925650558,5,0.323420074349442
+sudanell,Irrigation,deepseek,strict,majority,0.50185873605948,4,0.49814126394052
+sudanell,Irrigation,deepseek,strict,unanimous,0.311538461538462,4,0.688461538461539
+sudanell,Irrigation,deepseek,standard,any draw,0.773234200743494,6,0.226765799256506
+sudanell,Irrigation,deepseek,standard,majority,0.557620817843866,5,0.442379182156134
+sudanell,Irrigation,deepseek,standard,unanimous,0.344569288389513,4,0.655430711610487
+sudanell,Irrigation,deepseek,broad,any draw,0.858736059479554,7,0.141263940520446
+sudanell,Irrigation,deepseek,broad,majority,0.661710037174721,6,0.338289962825279
+sudanell,Irrigation,deepseek,broad,unanimous,0.488805970149254,5,0.511194029850746
+sudanell,Soil & moisture,anthropic,strict,any draw,0.611620795107034,8,0.388379204892966
+sudanell,Soil & moisture,anthropic,strict,majority,0.571865443425077,7,0.428134556574924
+sudanell,Soil & moisture,anthropic,strict,unanimous,0.52760736196319,7,0.47239263803681
+sudanell,Soil & moisture,anthropic,standard,any draw,0.672782874617737,8,0.327217125382263
+sudanell,Soil & moisture,anthropic,standard,majority,0.62691131498471,8,0.373088685015291
+sudanell,Soil & moisture,anthropic,standard,unanimous,0.599388379204893,7,0.400611620795107
+sudanell,Soil & moisture,anthropic,broad,any draw,0.862385321100918,9,0.137614678899083
+sudanell,Soil & moisture,anthropic,broad,majority,0.792048929663609,8,0.207951070336391
+sudanell,Soil & moisture,anthropic,broad,unanimous,0.712538226299694,8,0.287461773700306
+sudanell,Soil & moisture,openai,strict,any draw,0.703363914373089,7,0.296636085626911
+sudanell,Soil & moisture,openai,strict,majority,0.608562691131499,6,0.391437308868502
+sudanell,Soil & moisture,openai,strict,unanimous,0.54320987654321,6,0.45679012345679
+sudanell,Soil & moisture,openai,standard,any draw,0.82262996941896,8,0.17737003058104
+sudanell,Soil & moisture,openai,standard,majority,0.700305810397554,7,0.299694189602447
+sudanell,Soil & moisture,openai,standard,unanimous,0.619631901840491,7,0.380368098159509
+sudanell,Soil & moisture,openai,broad,any draw,0.963302752293578,8,0.036697247706422
+sudanell,Soil & moisture,openai,broad,majority,0.889908256880734,7,0.110091743119266
+sudanell,Soil & moisture,openai,broad,unanimous,0.801223241590214,7,0.198776758409786
+sudanell,Soil & moisture,deepseek,strict,any draw,0.685015290519878,7,0.314984709480122
+sudanell,Soil & moisture,deepseek,strict,majority,0.524539877300613,6,0.475460122699387
+sudanell,Soil & moisture,deepseek,strict,unanimous,0.336538461538462,5,0.663461538461538
+sudanell,Soil & moisture,deepseek,standard,any draw,0.73394495412844,7,0.26605504587156
+sudanell,Soil & moisture,deepseek,standard,majority,0.522935779816514,6,0.477064220183486
+sudanell,Soil & moisture,deepseek,standard,unanimous,0.350931677018634,5,0.649068322981366
+sudanell,Soil & moisture,deepseek,broad,any draw,0.844036697247707,7,0.155963302752294
+sudanell,Soil & moisture,deepseek,broad,majority,0.63302752293578,7,0.36697247706422
+sudanell,Soil & moisture,deepseek,broad,unanimous,0.473846153846154,6,0.526153846153846
+sudanell,Weather & climate,anthropic,strict,any draw,0.64367816091954,8,0.35632183908046
+sudanell,Weather & climate,anthropic,strict,majority,0.612068965517241,7,0.387931034482759
+sudanell,Weather & climate,anthropic,strict,unanimous,0.564841498559078,7,0.435158501440922
+sudanell,Weather & climate,anthropic,standard,any draw,0.71551724137931,8,0.28448275862069
+sudanell,Weather & climate,anthropic,standard,majority,0.666666666666667,8,0.333333333333333
+sudanell,Weather & climate,anthropic,standard,unanimous,0.640804597701149,7,0.359195402298851
+sudanell,Weather & climate,anthropic,broad,any draw,0.879310344827586,7,0.120689655172414
+sudanell,Weather & climate,anthropic,broad,majority,0.818965517241379,8,0.181034482758621
+sudanell,Weather & climate,anthropic,broad,unanimous,0.758620689655172,8,0.241379310344828
+sudanell,Weather & climate,openai,strict,any draw,0.632183908045977,7,0.367816091954023
+sudanell,Weather & climate,openai,strict,majority,0.520114942528736,6,0.479885057471264
+sudanell,Weather & climate,openai,strict,unanimous,0.444767441860465,6,0.555232558139535
+sudanell,Weather & climate,openai,standard,any draw,0.790229885057471,8,0.209770114942529
+sudanell,Weather & climate,openai,standard,majority,0.640804597701149,7,0.359195402298851
+sudanell,Weather & climate,openai,standard,unanimous,0.547550432276657,6,0.452449567723343
+sudanell,Weather & climate,openai,broad,any draw,0.96551724137931,7,0.0344827586206897
+sudanell,Weather & climate,openai,broad,majority,0.890804597701149,7,0.109195402298851
+sudanell,Weather & climate,openai,broad,unanimous,0.775862068965517,7,0.224137931034483
+sudanell,Weather & climate,deepseek,strict,any draw,0.629310344827586,7,0.370689655172414
+sudanell,Weather & climate,deepseek,strict,majority,0.443804034582133,6,0.556195965417867
+sudanell,Weather & climate,deepseek,strict,unanimous,0.29673590504451,5,0.70326409495549
+sudanell,Weather & climate,deepseek,standard,any draw,0.718390804597701,7,0.281609195402299
+sudanell,Weather & climate,deepseek,standard,majority,0.491379310344828,6,0.508620689655172
+sudanell,Weather & climate,deepseek,standard,unanimous,0.325581395348837,5,0.674418604651163
+sudanell,Weather & climate,deepseek,broad,any draw,0.836206896551724,8,0.163793103448276
+sudanell,Weather & climate,deepseek,broad,majority,0.60632183908046,7,0.39367816091954
+sudanell,Weather & climate,deepseek,broad,unanimous,0.440922190201729,6,0.559077809798271

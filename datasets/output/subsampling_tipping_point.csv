@@ -1,0 +1,1081 @@
+prompt,provider,vote,share,n,k_70,k_50
+short,anthropic,any draw,0.884210526315789,475,125,365
+short,anthropic,any draw,0.865921787709497,475,113,348
+short,anthropic,any draw,0.95049504950495,475,170,428
+short,anthropic,any draw,0.870967741935484,475,116,352
+short,anthropic,any draw,0.862244897959184,475,110,344
+short,anthropic,any draw,0.87192118226601,475,117,353
+short,anthropic,any draw,0.853420195439739,475,104,336
+short,anthropic,any draw,0.942748091603053,475,165,421
+short,anthropic,any draw,0.858044164037855,475,107,340
+short,anthropic,any draw,0.846385542168675,475,99,329
+short,anthropic,any draw,0.887780548628429,475,127,368
+short,anthropic,any draw,0.869281045751634,475,115,351
+short,anthropic,any draw,0.956521739130435,475,174,434
+short,anthropic,any draw,0.873015873015873,475,117,354
+short,anthropic,any draw,0.866261398176292,475,113,348
+short,anthropic,any draw,0.88755980861244,475,127,368
+short,anthropic,any draw,0.872611464968153,475,117,354
+short,anthropic,any draw,0.951851851851852,475,171,429
+short,anthropic,any draw,0.874617737003058,475,118,356
+short,anthropic,any draw,0.862973760932945,475,111,345
+short,anthropic,any draw,0.883248730964467,475,124,364
+short,anthropic,any draw,0.866220735785953,475,113,348
+short,anthropic,any draw,0.944,475,166,422
+short,anthropic,any draw,0.87171052631579,475,117,353
+short,anthropic,any draw,0.86322188449848,475,111,345
+short,anthropic,any draw,0.875968992248062,475,119,357
+short,anthropic,any draw,0.855172413793104,475,105,337
+short,anthropic,any draw,0.947368421052632,475,168,425
+short,anthropic,any draw,0.86,475,109,342
+short,anthropic,any draw,0.854938271604938,475,105,337
+short,anthropic,any draw,0.896470588235294,475,133,377
+short,anthropic,any draw,0.87460815047022,475,118,356
+short,anthropic,any draw,0.962546816479401,475,178,439
+short,anthropic,any draw,0.885964912280702,475,126,367
+short,anthropic,any draw,0.876080691642651,475,119,357
+short,anthropic,any draw,0.885441527446301,475,126,366
+short,anthropic,any draw,0.869009584664537,475,115,351
+short,anthropic,any draw,0.947955390334572,475,168,426
+short,anthropic,any draw,0.871559633027523,475,116,353
+short,anthropic,any draw,0.864942528735632,475,112,347
+short,anthropic,majority,0.854736842105263,475,105,337
+short,anthropic,majority,0.832402234636871,475,90,316
+short,anthropic,majority,0.927392739273927,475,154,406
+short,anthropic,majority,0.841397849462366,475,96,324
+short,anthropic,majority,0.831632653061224,475,89,315
+short,anthropic,majority,0.844827586206897,475,98,328
+short,anthropic,majority,0.824104234527687,475,84,308
+short,anthropic,majority,0.916030534351145,475,147,395
+short,anthropic,majority,0.832807570977918,475,90,316
+short,anthropic,majority,0.819277108433735,475,81,303
+short,anthropic,majority,0.86783042394015,475,114,349
+short,anthropic,majority,0.84640522875817,475,99,329
+short,anthropic,majority,0.944664031620553,475,166,422
+short,anthropic,majority,0.850793650793651,475,102,333
+short,anthropic,majority,0.844984802431611,475,98,328
+short,anthropic,majority,0.861244019138756,475,109,343
+short,anthropic,majority,0.843949044585987,475,98,327
+short,anthropic,majority,0.933333333333333,475,158,412
+short,anthropic,majority,0.847094801223242,475,100,330
+short,anthropic,majority,0.833819241982507,475,91,317
+short,anthropic,majority,0.852791878172589,475,104,335
+short,anthropic,majority,0.82943143812709,475,88,313
+short,anthropic,majority,0.92,475,149,399
+short,anthropic,majority,0.842105263157895,475,96,325
+short,anthropic,majority,0.832826747720365,475,90,316
+short,anthropic,majority,0.839793281653747,475,95,323
+short,anthropic,majority,0.813793103448276,475,77,298
+short,anthropic,majority,0.919028340080972,475,149,398
+short,anthropic,majority,0.823333333333333,475,84,307
+short,anthropic,majority,0.817901234567901,475,80,302
+short,anthropic,majority,0.863529411764706,475,111,345
+short,anthropic,majority,0.836990595611285,475,93,320
+short,anthropic,majority,0.936329588014981,475,160,415
+short,anthropic,majority,0.853801169590643,475,104,336
+short,anthropic,majority,0.84149855907781,475,96,324
+short,anthropic,majority,0.852028639618139,475,103,334
+short,anthropic,majority,0.830670926517572,475,89,314
+short,anthropic,majority,0.921933085501859,475,151,401
+short,anthropic,majority,0.837920489296636,475,94,321
+short,anthropic,majority,0.830459770114943,475,89,314
+short,anthropic,unanimous,0.833684210526316,475,91,317
+short,anthropic,unanimous,0.810055865921788,475,75,295
+short,anthropic,unanimous,0.904290429042904,475,139,384
+short,anthropic,unanimous,0.827956989247312,475,87,312
+short,anthropic,unanimous,0.806122448979592,475,72,291
+short,anthropic,unanimous,0.822660098522167,475,83,307
+short,anthropic,unanimous,0.801302931596091,475,69,286
+short,anthropic,unanimous,0.889312977099237,475,128,370
+short,anthropic,unanimous,0.82018927444795,475,82,304
+short,anthropic,unanimous,0.792168674698795,475,63,278
+short,anthropic,unanimous,0.84788029925187,475,100,330
+short,anthropic,unanimous,0.823529411764706,475,84,307
+short,anthropic,unanimous,0.920948616600791,475,150,400
+short,anthropic,unanimous,0.841269841269841,475,96,324
+short,anthropic,unanimous,0.820668693009118,475,82,305
+short,anthropic,unanimous,0.842105263157895,475,96,325
+short,anthropic,unanimous,0.821656050955414,475,83,306
+short,anthropic,unanimous,0.911111111111111,475,143,391
+short,anthropic,unanimous,0.837920489296636,475,94,321
+short,anthropic,unanimous,0.810495626822157,475,75,295
+short,anthropic,unanimous,0.82994923857868,475,88,313
+short,anthropic,unanimous,0.806020066889632,475,72,291
+short,anthropic,unanimous,0.896,475,133,376
+short,anthropic,unanimous,0.825657894736842,475,85,309
+short,anthropic,unanimous,0.805471124620061,475,72,290
+short,anthropic,unanimous,0.816537467700258,475,79,301
+short,anthropic,unanimous,0.789655172413793,475,61,275
+short,anthropic,unanimous,0.894736842105263,475,132,375
+short,anthropic,unanimous,0.806666666666667,475,72,291
+short,anthropic,unanimous,0.790123456790123,475,61,276
+short,anthropic,unanimous,0.842352941176471,475,97,325
+short,anthropic,unanimous,0.815047021943574,475,78,299
+short,anthropic,unanimous,0.913857677902622,475,145,393
+short,anthropic,unanimous,0.839181286549708,475,94,322
+short,anthropic,unanimous,0.815561959654179,475,78,300
+short,anthropic,unanimous,0.832935560859189,475,90,316
+short,anthropic,unanimous,0.811501597444089,475,76,296
+short,anthropic,unanimous,0.903345724907063,475,138,383
+short,anthropic,unanimous,0.82262996941896,475,83,306
+short,anthropic,unanimous,0.807471264367816,475,73,292
+short,deepseek,any draw,0.991578947368421,475,198,467
+short,deepseek,any draw,0.988826815642458,475,196,464
+short,deepseek,any draw,0.993399339933993,475,199,469
+short,deepseek,any draw,0.991935483870968,475,198,467
+short,deepseek,any draw,0.99234693877551,475,198,468
+short,deepseek,any draw,0.990147783251231,475,197,466
+short,deepseek,any draw,0.986970684039088,475,195,463
+short,deepseek,any draw,0.99236641221374,475,198,468
+short,deepseek,any draw,0.990536277602524,475,197,466
+short,deepseek,any draw,0.990963855421687,475,197,466
+short,deepseek,any draw,0.992518703241895,475,198,468
+short,deepseek,any draw,0.990196078431373,475,197,466
+short,deepseek,any draw,0.996047430830039,475,201,471
+short,deepseek,any draw,0.990476190476191,475,197,466
+short,deepseek,any draw,0.993920972644377,475,199,469
+short,deepseek,any draw,0.992822966507177,475,199,468
+short,deepseek,any draw,0.990445859872611,475,197,466
+short,deepseek,any draw,0.996296296296296,475,201,471
+short,deepseek,any draw,0.99388379204893,475,199,469
+short,deepseek,any draw,0.991253644314869,475,198,467
+short,deepseek,any draw,0.99492385786802,475,200,470
+short,deepseek,any draw,0.993311036789298,475,199,469
+short,deepseek,any draw,0.992,475,198,467
+short,deepseek,any draw,0.99671052631579,475,201,472
+short,deepseek,any draw,0.996960486322189,475,202,472
+short,deepseek,any draw,0.989664082687339,475,197,465
+short,deepseek,any draw,0.986206896551724,475,194,462
+short,deepseek,any draw,0.991902834008097,475,198,467
+short,deepseek,any draw,0.99,475,197,466
+short,deepseek,any draw,0.990740740740741,475,197,466
+short,deepseek,any draw,0.990588235294118,475,197,466
+short,deepseek,any draw,0.987460815047022,475,195,463
+short,deepseek,any draw,0.99250936329588,475,198,468
+short,deepseek,any draw,0.991228070175439,475,198,467
+short,deepseek,any draw,0.99135446685879,475,198,467
+short,deepseek,any draw,0.990453460620525,475,197,466
+short,deepseek,any draw,0.987220447284345,475,195,463
+short,deepseek,any draw,0.992565055762082,475,199,468
+short,deepseek,any draw,0.990825688073395,475,197,466
+short,deepseek,any draw,0.991379310344828,475,198,467
+short,deepseek,majority,0.926315789473684,475,154,405
+short,deepseek,majority,0.918994413407821,475,149,398
+short,deepseek,majority,0.96039603960396,475,177,437
+short,deepseek,majority,0.916666666666667,475,147,396
+short,deepseek,majority,0.915816326530612,475,146,395
+short,deepseek,majority,0.91871921182266,475,148,398
+short,deepseek,majority,0.912052117263844,475,144,391
+short,deepseek,majority,0.958015267175572,475,175,435
+short,deepseek,majority,0.905362776025237,475,139,385
+short,deepseek,majority,0.906626506024096,475,140,386
+short,deepseek,majority,0.927680798004987,475,154,406
+short,deepseek,majority,0.918300653594771,475,148,397
+short,deepseek,majority,0.968379446640316,475,182,445
+short,deepseek,majority,0.914285714285714,475,145,394
+short,deepseek,majority,0.917933130699088,475,148,397
+short,deepseek,majority,0.935406698564593,475,160,414
+short,deepseek,majority,0.929936305732484,475,156,408
+short,deepseek,majority,0.962962962962963,475,178,440
+short,deepseek,majority,0.929663608562691,475,156,408
+short,deepseek,majority,0.924198250728863,475,152,403
+short,deepseek,majority,0.923857868020305,475,152,403
+short,deepseek,majority,0.916387959866221,475,147,396
+short,deepseek,majority,0.956,475,174,433
+short,deepseek,majority,0.914473684210526,475,146,394
+short,deepseek,majority,0.914893617021277,475,146,394
+short,deepseek,majority,0.919896640826873,475,149,399
+short,deepseek,majority,0.910344827586207,475,143,390
+short,deepseek,majority,0.963562753036437,475,179,440
+short,deepseek,majority,0.906666666666667,475,140,386
+short,deepseek,majority,0.907407407407407,475,141,387
+short,deepseek,majority,0.927058823529412,475,154,406
+short,deepseek,majority,0.918495297805643,475,148,398
+short,deepseek,majority,0.958801498127341,475,176,436
+short,deepseek,majority,0.921052631578947,475,150,400
+short,deepseek,majority,0.9164265129683,475,147,396
+short,deepseek,majority,0.930787589498807,475,157,409
+short,deepseek,majority,0.926517571884984,475,154,405
+short,deepseek,majority,0.955390334572491,475,173,433
+short,deepseek,majority,0.923547400611621,475,152,402
+short,deepseek,majority,0.922413793103448,475,151,401
+short,deepseek,unanimous,0.80421052631579,475,71,289
+short,deepseek,unanimous,0.782122905027933,475,56,268
+short,deepseek,unanimous,0.861386138613861,475,110,343
+short,deepseek,unanimous,0.806451612903226,475,72,291
+short,deepseek,unanimous,0.778061224489796,475,53,264
+short,deepseek,unanimous,0.805418719211823,475,72,290
+short,deepseek,unanimous,0.788273615635179,475,60,274
+short,deepseek,unanimous,0.862595419847328,475,110,344
+short,deepseek,unanimous,0.804416403785489,475,71,289
+short,deepseek,unanimous,0.77710843373494,475,52,263
+short,deepseek,unanimous,0.795511221945137,475,65,281
+short,deepseek,unanimous,0.774509803921569,475,51,261
+short,deepseek,unanimous,0.857707509881423,475,107,340
+short,deepseek,unanimous,0.796825396825397,475,66,282
+short,deepseek,unanimous,0.765957446808511,475,45,253
+short,deepseek,unanimous,0.81578947368421,475,79,300
+short,deepseek,unanimous,0.796178343949045,475,65,281
+short,deepseek,unanimous,0.862962962962963,475,111,345
+short,deepseek,unanimous,0.825688073394496,475,85,309
+short,deepseek,unanimous,0.787172011661808,475,59,273
+short,deepseek,unanimous,0.791878172588833,475,62,277
+short,deepseek,unanimous,0.765886287625418,475,45,253
+short,deepseek,unanimous,0.848,475,100,331
+short,deepseek,unanimous,0.796052631578947,475,65,281
+short,deepseek,unanimous,0.768996960486322,475,47,256
+short,deepseek,unanimous,0.788113695090439,475,60,274
+short,deepseek,unanimous,0.762068965517241,475,42,249
+short,deepseek,unanimous,0.8582995951417,475,107,340
+short,deepseek,unanimous,0.783333333333333,475,57,269
+short,deepseek,unanimous,0.762345679012346,475,42,249
+short,deepseek,unanimous,0.818823529411765,475,81,303
+short,deepseek,unanimous,0.796238244514107,475,65,281
+short,deepseek,unanimous,0.872659176029963,475,117,354
+short,deepseek,unanimous,0.824561403508772,475,85,308
+short,deepseek,unanimous,0.792507204610951,475,63,278
+short,deepseek,unanimous,0.81145584725537,475,76,296
+short,deepseek,unanimous,0.789137380191693,475,60,275
+short,deepseek,unanimous,0.866171003717472,475,113,348
+short,deepseek,unanimous,0.81039755351682,475,75,295
+short,deepseek,unanimous,0.790229885057471,475,61,276
+short,openai,any draw,0.95578947368421,475,174,433
+short,openai,any draw,0.94413407821229,475,166,422
+short,openai,any draw,0.976897689768977,475,188,453
+short,openai,any draw,0.954301075268817,475,173,432
+short,openai,any draw,0.951530612244898,475,171,429
+short,openai,any draw,0.950738916256158,475,170,428
+short,openai,any draw,0.938110749185668,475,162,416
+short,openai,any draw,0.973282442748092,475,185,450
+short,openai,any draw,0.949526813880126,475,169,427
+short,openai,any draw,0.945783132530121,475,167,423
+short,openai,any draw,0.955112219451372,475,173,432
+short,openai,any draw,0.941176470588235,475,164,419
+short,openai,any draw,0.984189723320158,475,193,460
+short,openai,any draw,0.952380952380952,475,171,430
+short,openai,any draw,0.948328267477204,475,169,426
+short,openai,any draw,0.956937799043062,475,174,434
+short,openai,any draw,0.945859872611465,475,167,424
+short,openai,any draw,0.977777777777778,475,188,454
+short,openai,any draw,0.957186544342508,475,175,434
+short,openai,any draw,0.950437317784256,475,170,428
+short,openai,any draw,0.951776649746193,475,171,429
+short,openai,any draw,0.939799331103679,475,163,418
+short,openai,any draw,0.972,475,185,448
+short,openai,any draw,0.950657894736842,475,170,428
+short,openai,any draw,0.948328267477204,475,169,426
+short,openai,any draw,0.953488372093023,475,172,431
+short,openai,any draw,0.941379310344828,475,164,419
+short,openai,any draw,0.975708502024291,475,187,452
+short,openai,any draw,0.95,475,170,427
+short,openai,any draw,0.950617283950617,475,170,428
+short,openai,any draw,0.962352941176471,475,178,439
+short,openai,any draw,0.952978056426332,475,172,430
+short,openai,any draw,0.97752808988764,475,188,454
+short,openai,any draw,0.961988304093567,475,178,439
+short,openai,any draw,0.959654178674351,475,176,437
+short,openai,any draw,0.959427207637231,475,176,436
+short,openai,any draw,0.94888178913738,475,169,426
+short,openai,any draw,0.977695167286245,475,188,454
+short,openai,any draw,0.957186544342508,475,175,434
+short,openai,any draw,0.956896551724138,475,174,434
+short,openai,majority,0.907368421052632,475,141,387
+short,openai,majority,0.888268156424581,475,128,369
+short,openai,majority,0.947194719471947,475,168,425
+short,openai,majority,0.908602150537634,475,142,388
+short,openai,majority,0.892857142857143,475,131,373
+short,openai,majority,0.899014778325123,475,135,379
+short,openai,majority,0.879478827361563,475,122,361
+short,openai,majority,0.938931297709924,475,162,417
+short,openai,majority,0.902208201892745,475,137,382
+short,openai,majority,0.882530120481928,475,124,363
+short,openai,majority,0.910224438902743,475,143,390
+short,openai,majority,0.888888888888889,475,128,369
+short,openai,majority,0.956521739130435,475,174,434
+short,openai,majority,0.911111111111111,475,143,391
+short,openai,majority,0.893617021276596,475,131,374
+short,openai,majority,0.909090909090909,475,142,389
+short,openai,majority,0.89171974522293,475,130,372
+short,openai,majority,0.948148148148148,475,168,426
+short,openai,majority,0.91131498470948,475,143,391
+short,openai,majority,0.892128279883382,475,130,373
+short,openai,majority,0.906091370558376,475,140,386
+short,openai,majority,0.88628762541806,475,126,367
+short,openai,majority,0.944,475,166,422
+short,openai,majority,0.907894736842105,475,141,388
+short,openai,majority,0.893617021276596,475,131,374
+short,openai,majority,0.901808785529716,475,137,382
+short,openai,majority,0.879310344827586,475,122,360
+short,openai,majority,0.947368421052632,475,168,425
+short,openai,majority,0.9,475,136,380
+short,openai,majority,0.888888888888889,475,128,369
+short,openai,majority,0.917647058823529,475,148,397
+short,openai,majority,0.90282131661442,475,138,383
+short,openai,majority,0.951310861423221,475,171,429
+short,openai,majority,0.91812865497076,475,148,397
+short,openai,majority,0.904899135446686,475,139,385
+short,openai,majority,0.906921241050119,475,140,387
+short,openai,majority,0.888178913738019,475,128,369
+short,openai,majority,0.944237918215613,475,166,422
+short,openai,majority,0.908256880733945,475,141,388
+short,openai,majority,0.89367816091954,475,131,374
+short,openai,unanimous,0.84421052631579,475,98,327
+short,openai,unanimous,0.818435754189944,475,80,303
+short,openai,unanimous,0.894389438943895,475,132,375
+short,openai,unanimous,0.85752688172043,475,107,340
+short,openai,unanimous,0.816326530612245,475,79,301
+short,openai,unanimous,0.827586206896552,475,87,311
+short,openai,unanimous,0.801302931596091,475,69,286
+short,openai,unanimous,0.877862595419847,475,121,359
+short,openai,unanimous,0.845425867507886,475,99,328
+short,openai,unanimous,0.795180722891566,475,65,280
+short,openai,unanimous,0.84788029925187,475,100,330
+short,openai,unanimous,0.823529411764706,475,84,307
+short,openai,unanimous,0.901185770750988,475,137,381
+short,openai,unanimous,0.860317460317461,475,109,342
+short,openai,unanimous,0.817629179331307,475,80,302
+short,openai,unanimous,0.856459330143541,475,106,339
+short,openai,unanimous,0.831210191082803,475,89,315
+short,openai,unanimous,0.9,475,136,380
+short,openai,unanimous,0.874617737003058,475,118,356
+short,openai,unanimous,0.82798833819242,475,87,312
+short,openai,unanimous,0.82994923857868,475,88,313
+short,openai,unanimous,0.802675585284281,475,70,288
+short,openai,unanimous,0.88,475,122,361
+short,openai,unanimous,0.845394736842105,475,99,328
+short,openai,unanimous,0.802431610942249,475,70,287
+short,openai,unanimous,0.837209302325582,475,93,320
+short,openai,unanimous,0.806896551724138,475,73,292
+short,openai,unanimous,0.894736842105263,475,132,375
+short,openai,unanimous,0.846666666666667,475,100,329
+short,openai,unanimous,0.811728395061729,475,76,296
+short,openai,unanimous,0.861176470588235,475,109,343
+short,openai,unanimous,0.836990595611285,475,93,320
+short,openai,unanimous,0.910112359550562,475,143,390
+short,openai,unanimous,0.871345029239766,475,116,353
+short,openai,unanimous,0.835734870317003,475,92,319
+short,openai,unanimous,0.847255369928401,475,100,330
+short,openai,unanimous,0.824281150159744,475,84,308
+short,openai,unanimous,0.895910780669145,475,133,376
+short,openai,unanimous,0.856269113149847,475,106,338
+short,openai,unanimous,0.82183908045977,475,83,306
+standard,anthropic,any draw,0.953684210526316,475,172,431
+standard,anthropic,any draw,0.952513966480447,475,171,430
+standard,anthropic,any draw,0.98019801980198,475,190,456
+standard,anthropic,any draw,0.943548387096774,475,165,421
+standard,anthropic,any draw,0.943877551020408,475,165,422
+standard,anthropic,any draw,0.948275862068965,475,168,426
+standard,anthropic,any draw,0.947882736156352,475,168,425
+standard,anthropic,any draw,0.977099236641221,475,188,453
+standard,anthropic,any draw,0.936908517350158,475,161,415
+standard,anthropic,any draw,0.936746987951807,475,161,415
+standard,anthropic,any draw,0.955112219451372,475,173,432
+standard,anthropic,any draw,0.954248366013072,475,173,432
+standard,anthropic,any draw,0.980237154150198,475,190,456
+standard,anthropic,any draw,0.946031746031746,475,167,424
+standard,anthropic,any draw,0.945288753799392,475,166,423
+standard,anthropic,any draw,0.956937799043062,475,174,434
+standard,anthropic,any draw,0.95859872611465,475,175,436
+standard,anthropic,any draw,0.981481481481481,475,191,457
+standard,anthropic,any draw,0.944954128440367,475,166,423
+standard,anthropic,any draw,0.947521865889213,475,168,425
+standard,anthropic,any draw,0.956852791878173,475,174,434
+standard,anthropic,any draw,0.953177257525084,475,172,431
+standard,anthropic,any draw,0.984,475,193,460
+standard,anthropic,any draw,0.947368421052632,475,168,425
+standard,anthropic,any draw,0.948328267477204,475,169,426
+standard,anthropic,any draw,0.948320413436693,475,169,426
+standard,anthropic,any draw,0.944827586206897,475,166,423
+standard,anthropic,any draw,0.979757085020243,475,190,456
+standard,anthropic,any draw,0.936666666666667,475,161,415
+standard,anthropic,any draw,0.938271604938272,475,162,416
+standard,anthropic,any draw,0.957647058823529,475,175,435
+standard,anthropic,any draw,0.956112852664577,475,174,433
+standard,anthropic,any draw,0.9812734082397,475,191,457
+standard,anthropic,any draw,0.950292397660819,475,170,428
+standard,anthropic,any draw,0.948126801152738,475,168,426
+standard,anthropic,any draw,0.952267303102625,475,171,430
+standard,anthropic,any draw,0.952076677316294,475,171,429
+standard,anthropic,any draw,0.977695167286245,475,188,454
+standard,anthropic,any draw,0.941896024464832,475,164,420
+standard,anthropic,any draw,0.942528735632184,475,165,420
+standard,anthropic,majority,0.941052631578947,475,164,419
+standard,anthropic,majority,0.93854748603352,475,162,417
+standard,anthropic,majority,0.973597359735974,475,186,450
+standard,anthropic,majority,0.93010752688172,475,156,409
+standard,anthropic,majority,0.928571428571429,475,155,407
+standard,anthropic,majority,0.933497536945813,475,158,412
+standard,anthropic,majority,0.931596091205212,475,157,410
+standard,anthropic,majority,0.969465648854962,475,183,446
+standard,anthropic,majority,0.921135646687697,475,150,400
+standard,anthropic,majority,0.918674698795181,475,148,398
+standard,anthropic,majority,0.942643391521197,475,165,421
+standard,anthropic,majority,0.937908496732026,475,161,416
+standard,anthropic,majority,0.976284584980237,475,187,452
+standard,anthropic,majority,0.933333333333333,475,158,412
+standard,anthropic,majority,0.930091185410334,475,156,409
+standard,anthropic,majority,0.944976076555024,475,166,423
+standard,anthropic,majority,0.945859872611465,475,167,424
+standard,anthropic,majority,0.974074074074074,475,186,450
+standard,anthropic,majority,0.932721712538226,475,158,411
+standard,anthropic,majority,0.932944606413994,475,158,411
+standard,anthropic,majority,0.941624365482233,475,164,420
+standard,anthropic,majority,0.936454849498328,475,160,415
+standard,anthropic,majority,0.976,475,187,452
+standard,anthropic,majority,0.930921052631579,475,157,409
+standard,anthropic,majority,0.930091185410334,475,156,409
+standard,anthropic,majority,0.935400516795866,475,160,414
+standard,anthropic,majority,0.931034482758621,475,157,409
+standard,anthropic,majority,0.97165991902834,475,184,448
+standard,anthropic,majority,0.923333333333333,475,152,402
+standard,anthropic,majority,0.92283950617284,475,151,402
+standard,anthropic,majority,0.945882352941176,475,167,424
+standard,anthropic,majority,0.943573667711599,475,165,421
+standard,anthropic,majority,0.973782771535581,475,186,450
+standard,anthropic,majority,0.93859649122807,475,162,417
+standard,anthropic,majority,0.93371757925072,475,159,412
+standard,anthropic,majority,0.94272076372315,475,165,421
+standard,anthropic,majority,0.942492012779553,475,165,420
+standard,anthropic,majority,0.973977695167286,475,186,450
+standard,anthropic,majority,0.929663608562691,475,156,408
+standard,anthropic,majority,0.931034482758621,475,157,409
+standard,anthropic,unanimous,0.932631578947368,475,158,411
+standard,anthropic,unanimous,0.932960893854749,475,158,411
+standard,anthropic,unanimous,0.966996699669967,475,181,444
+standard,anthropic,unanimous,0.919354838709677,475,149,398
+standard,anthropic,unanimous,0.918367346938776,475,148,397
+standard,anthropic,unanimous,0.923645320197044,475,152,402
+standard,anthropic,unanimous,0.925081433224756,475,153,404
+standard,anthropic,unanimous,0.961832061068702,475,178,439
+standard,anthropic,unanimous,0.908517350157729,475,141,388
+standard,anthropic,unanimous,0.906626506024096,475,140,386
+standard,anthropic,unanimous,0.935162094763092,475,160,413
+standard,anthropic,unanimous,0.934640522875817,475,159,413
+standard,anthropic,unanimous,0.968379446640316,475,182,445
+standard,anthropic,unanimous,0.923809523809524,475,152,403
+standard,anthropic,unanimous,0.9209726443769,475,150,400
+standard,anthropic,unanimous,0.937799043062201,475,161,416
+standard,anthropic,unanimous,0.939490445859873,475,163,418
+standard,anthropic,unanimous,0.97037037037037,475,183,447
+standard,anthropic,unanimous,0.923547400611621,475,152,402
+standard,anthropic,unanimous,0.924198250728863,475,152,403
+standard,anthropic,unanimous,0.934010152284264,475,159,412
+standard,anthropic,unanimous,0.933110367892977,475,158,411
+standard,anthropic,unanimous,0.968,475,182,445
+standard,anthropic,unanimous,0.921052631578947,475,150,400
+standard,anthropic,unanimous,0.9209726443769,475,150,400
+standard,anthropic,unanimous,0.925064599483204,475,153,404
+standard,anthropic,unanimous,0.924137931034483,475,152,403
+standard,anthropic,unanimous,0.963562753036437,475,179,440
+standard,anthropic,unanimous,0.91,475,143,390
+standard,anthropic,unanimous,0.910493827160494,475,143,390
+standard,anthropic,unanimous,0.938823529411765,475,162,417
+standard,anthropic,unanimous,0.93730407523511,475,161,415
+standard,anthropic,unanimous,0.970037453183521,475,183,447
+standard,anthropic,unanimous,0.929824561403509,475,156,408
+standard,anthropic,unanimous,0.92507204610951,475,153,404
+standard,anthropic,unanimous,0.933174224343675,475,158,412
+standard,anthropic,unanimous,0.936102236421725,475,160,414
+standard,anthropic,unanimous,0.966542750929368,475,181,443
+standard,anthropic,unanimous,0.91743119266055,475,148,397
+standard,anthropic,unanimous,0.919540229885057,475,149,399
+standard,deepseek,any draw,0.953684210526316,475,172,431
+standard,deepseek,any draw,0.946927374301676,475,168,425
+standard,deepseek,any draw,0.983498349834984,475,192,459
+standard,deepseek,any draw,0.946236559139785,475,167,424
+standard,deepseek,any draw,0.943877551020408,475,165,422
+standard,deepseek,any draw,0.945812807881773,475,167,424
+standard,deepseek,any draw,0.938110749185668,475,162,416
+standard,deepseek,any draw,0.980916030534351,475,191,457
+standard,deepseek,any draw,0.936908517350158,475,161,415
+standard,deepseek,any draw,0.933734939759036,475,159,412
+standard,deepseek,any draw,0.960099750623441,475,176,437
+standard,deepseek,any draw,0.950980392156863,475,170,428
+standard,deepseek,any draw,0.992094861660079,475,198,467
+standard,deepseek,any draw,0.952380952380952,475,171,430
+standard,deepseek,any draw,0.951367781155015,475,171,429
+standard,deepseek,any draw,0.947368421052632,475,168,425
+standard,deepseek,any draw,0.939490445859873,475,163,418
+standard,deepseek,any draw,0.981481481481481,475,191,457
+standard,deepseek,any draw,0.938837920489297,475,162,417
+standard,deepseek,any draw,0.935860058309038,475,160,414
+standard,deepseek,any draw,0.956852791878173,475,174,434
+standard,deepseek,any draw,0.949832775919733,475,170,427
+standard,deepseek,any draw,0.984,475,193,460
+standard,deepseek,any draw,0.950657894736842,475,170,428
+standard,deepseek,any draw,0.948328267477204,475,169,426
+standard,deepseek,any draw,0.950904392764858,475,170,428
+standard,deepseek,any draw,0.944827586206897,475,166,423
+standard,deepseek,any draw,0.979757085020243,475,190,456
+standard,deepseek,any draw,0.943333333333333,475,165,421
+standard,deepseek,any draw,0.941358024691358,475,164,419
+standard,deepseek,any draw,0.955294117647059,475,173,433
+standard,deepseek,any draw,0.949843260188088,475,170,427
+standard,deepseek,any draw,0.9812734082397,475,191,457
+standard,deepseek,any draw,0.950292397660819,475,170,428
+standard,deepseek,any draw,0.945244956772334,475,166,423
+standard,deepseek,any draw,0.959427207637231,475,176,436
+standard,deepseek,any draw,0.955271565495208,475,173,433
+standard,deepseek,any draw,0.985130111524164,475,193,461
+standard,deepseek,any draw,0.951070336391437,475,170,429
+standard,deepseek,any draw,0.951149425287356,475,170,429
+standard,deepseek,majority,0.901052631578947,475,136,381
+standard,deepseek,majority,0.88268156424581,475,124,364
+standard,deepseek,majority,0.957095709570957,475,174,434
+standard,deepseek,majority,0.895161290322581,475,132,375
+standard,deepseek,majority,0.880102040816326,475,122,361
+standard,deepseek,majority,0.889162561576355,475,128,370
+standard,deepseek,majority,0.86970684039088,475,115,351
+standard,deepseek,majority,0.954198473282443,475,172,431
+standard,deepseek,majority,0.8801261829653,475,122,361
+standard,deepseek,majority,0.864457831325301,475,112,346
+standard,deepseek,majority,0.912718204488778,475,144,392
+standard,deepseek,majority,0.895424836601307,475,133,376
+standard,deepseek,majority,0.964426877470356,475,179,441
+standard,deepseek,majority,0.907936507936508,475,141,388
+standard,deepseek,majority,0.893617021276596,475,131,374
+standard,deepseek,majority,0.904306220095694,475,139,384
+standard,deepseek,majority,0.885350318471338,475,126,366
+standard,deepseek,majority,0.955555555555556,475,173,433
+standard,deepseek,majority,0.902140672782875,475,137,382
+standard,deepseek,majority,0.883381924198251,475,124,364
+standard,deepseek,majority,0.895939086294416,475,133,376
+standard,deepseek,majority,0.876254180602007,475,120,357
+standard,deepseek,majority,0.952,475,171,429
+standard,deepseek,majority,0.891447368421053,475,130,372
+standard,deepseek,majority,0.875379939209726,475,119,357
+standard,deepseek,majority,0.896640826873385,475,133,377
+standard,deepseek,majority,0.875862068965517,475,119,357
+standard,deepseek,majority,0.959514170040486,475,176,437
+standard,deepseek,majority,0.886666666666667,475,127,367
+standard,deepseek,majority,0.876543209876543,475,120,358
+standard,deepseek,majority,0.903529411764706,475,138,383
+standard,deepseek,majority,0.887147335423198,475,127,368
+standard,deepseek,majority,0.955056179775281,475,173,432
+standard,deepseek,majority,0.900584795321637,475,136,381
+standard,deepseek,majority,0.881844380403458,475,123,363
+standard,deepseek,majority,0.904534606205251,475,139,384
+standard,deepseek,majority,0.888178913738019,475,128,369
+standard,deepseek,majority,0.95910780669145,475,176,436
+standard,deepseek,majority,0.896024464831804,475,133,376
+standard,deepseek,majority,0.885057471264368,475,126,366
+standard,deepseek,unanimous,0.762105263157895,475,42,249
+standard,deepseek,unanimous,0.729050279329609,475,20,218
+standard,deepseek,unanimous,0.818481848184818,475,80,303
+standard,deepseek,unanimous,0.798387096774194,475,67,283
+standard,deepseek,unanimous,0.714285714285714,475,10,204
+standard,deepseek,unanimous,0.753694581280788,475,36,241
+standard,deepseek,unanimous,0.726384364820847,475,18,215
+standard,deepseek,unanimous,0.816793893129771,475,79,301
+standard,deepseek,unanimous,0.785488958990536,475,58,271
+standard,deepseek,unanimous,0.698795180722892,475,0,189
+standard,deepseek,unanimous,0.773067331670823,475,50,259
+standard,deepseek,unanimous,0.745098039215686,475,31,233
+standard,deepseek,unanimous,0.8300395256917,475,88,314
+standard,deepseek,unanimous,0.803174603174603,475,70,288
+standard,deepseek,unanimous,0.726443768996961,475,18,215
+standard,deepseek,unanimous,0.76555023923445,475,44,252
+standard,deepseek,unanimous,0.732484076433121,475,22,221
+standard,deepseek,unanimous,0.818518518518519,475,80,303
+standard,deepseek,unanimous,0.804281345565749,475,71,289
+standard,deepseek,unanimous,0.717201166180758,475,12,206
+standard,deepseek,unanimous,0.743654822335025,475,30,231
+standard,deepseek,unanimous,0.705685618729097,475,4,195
+standard,deepseek,unanimous,0.796,475,65,281
+standard,deepseek,unanimous,0.789473684210526,475,61,275
+standard,deepseek,unanimous,0.696048632218845,475,0,186
+standard,deepseek,unanimous,0.746770025839793,475,32,234
+standard,deepseek,unanimous,0.710344827586207,475,7,200
+standard,deepseek,unanimous,0.805668016194332,475,72,290
+standard,deepseek,unanimous,0.783333333333333,475,57,269
+standard,deepseek,unanimous,0.700617283950617,475,0,191
+standard,deepseek,unanimous,0.776470588235294,475,52,263
+standard,deepseek,unanimous,0.746081504702194,475,31,234
+standard,deepseek,unanimous,0.831460674157303,475,89,315
+standard,deepseek,unanimous,0.809941520467836,475,75,294
+standard,deepseek,unanimous,0.729106628242075,475,20,218
+standard,deepseek,unanimous,0.77326968973747,475,50,260
+standard,deepseek,unanimous,0.73482428115016,475,24,223
+standard,deepseek,unanimous,0.828996282527881,475,88,313
+standard,deepseek,unanimous,0.81039755351682,475,75,295
+standard,deepseek,unanimous,0.729885057471264,475,20,218
+standard,openai,any draw,0.91578947368421,475,146,395
+standard,openai,any draw,0.905027932960894,475,139,385
+standard,openai,any draw,0.963696369636964,475,179,441
+standard,openai,any draw,0.905913978494624,475,140,386
+standard,openai,any draw,0.897959183673469,475,134,378
+standard,openai,any draw,0.903940886699507,475,138,384
+standard,openai,any draw,0.892508143322475,475,131,373
+standard,openai,any draw,0.958015267175572,475,175,435
+standard,openai,any draw,0.892744479495268,475,131,373
+standard,openai,any draw,0.882530120481928,475,124,363
+standard,openai,any draw,0.925187032418953,475,153,404
+standard,openai,any draw,0.915032679738562,475,146,394
+standard,openai,any draw,0.972332015810277,475,185,449
+standard,openai,any draw,0.914285714285714,475,145,394
+standard,openai,any draw,0.908814589665653,475,142,388
+standard,openai,any draw,0.921052631578947,475,150,400
+standard,openai,any draw,0.910828025477707,475,143,390
+standard,openai,any draw,0.962962962962963,475,178,440
+standard,openai,any draw,0.914373088685015,475,145,394
+standard,openai,any draw,0.903790087463557,475,138,384
+standard,openai,any draw,0.913705583756345,475,145,393
+standard,openai,any draw,0.899665551839465,475,135,380
+standard,openai,any draw,0.964,475,179,441
+standard,openai,any draw,0.904605263157895,475,139,384
+standard,openai,any draw,0.896656534954407,475,133,377
+standard,openai,any draw,0.901808785529716,475,137,382
+standard,openai,any draw,0.889655172413793,475,129,370
+standard,openai,any draw,0.955465587044534,475,173,433
+standard,openai,any draw,0.89,475,129,370
+standard,openai,any draw,0.882716049382716,475,124,364
+standard,openai,any draw,0.927058823529412,475,154,406
+standard,openai,any draw,0.918495297805643,475,148,398
+standard,openai,any draw,0.970037453183521,475,183,447
+standard,openai,any draw,0.91812865497076,475,148,397
+standard,openai,any draw,0.910662824207493,475,143,390
+standard,openai,any draw,0.916467780429594,475,147,396
+standard,openai,any draw,0.907348242811502,475,141,387
+standard,openai,any draw,0.962825278810409,475,178,440
+standard,openai,any draw,0.90519877675841,475,139,385
+standard,openai,any draw,0.899425287356322,475,135,379
+standard,openai,majority,0.873684210526316,475,118,355
+standard,openai,majority,0.871508379888268,475,116,353
+standard,openai,majority,0.910891089108911,475,143,390
+standard,openai,majority,0.873655913978495,475,118,355
+standard,openai,majority,0.846938775510204,475,100,330
+standard,openai,majority,0.859605911330049,475,108,342
+standard,openai,majority,0.859934853420196,475,109,342
+standard,openai,majority,0.900763358778626,475,136,381
+standard,openai,majority,0.858044164037855,475,107,340
+standard,openai,majority,0.828313253012048,475,87,312
+standard,openai,majority,0.877805486284289,475,121,359
+standard,openai,majority,0.879084967320262,475,122,360
+standard,openai,majority,0.909090909090909,475,142,389
+standard,openai,majority,0.879365079365079,475,122,360
+standard,openai,majority,0.851063829787234,475,103,334
+standard,openai,majority,0.87799043062201,475,121,359
+standard,openai,majority,0.875796178343949,475,119,357
+standard,openai,majority,0.911111111111111,475,143,391
+standard,openai,majority,0.880733944954129,475,123,362
+standard,openai,majority,0.85131195335277,475,103,334
+standard,openai,majority,0.875634517766498,475,119,357
+standard,openai,majority,0.866220735785953,475,113,348
+standard,openai,majority,0.912,475,144,391
+standard,openai,majority,0.881578947368421,475,123,362
+standard,openai,majority,0.851063829787234,475,103,334
+standard,openai,majority,0.86046511627907,475,109,342
+standard,openai,majority,0.855172413793104,475,105,337
+standard,openai,majority,0.906882591093117,475,140,387
+standard,openai,majority,0.856666666666667,475,106,339
+standard,openai,majority,0.833333333333333,475,90,317
+standard,openai,majority,0.889411764705882,475,129,370
+standard,openai,majority,0.890282131661442,475,129,371
+standard,openai,majority,0.925093632958801,475,153,404
+standard,openai,majority,0.885964912280702,475,126,367
+standard,openai,majority,0.864553314121037,475,112,346
+standard,openai,majority,0.873508353221957,475,118,355
+standard,openai,majority,0.87220447284345,475,117,354
+standard,openai,majority,0.910780669144981,475,143,390
+standard,openai,majority,0.871559633027523,475,116,353
+standard,openai,majority,0.847701149425287,475,100,330
+standard,openai,unanimous,0.821052631578947,475,82,305
+standard,openai,unanimous,0.812849162011173,475,77,297
+standard,openai,unanimous,0.861386138613861,475,110,343
+standard,openai,unanimous,0.836021505376344,475,92,319
+standard,openai,unanimous,0.783163265306123,475,56,269
+standard,openai,unanimous,0.802955665024631,475,70,288
+standard,openai,unanimous,0.798045602605863,475,67,283
+standard,openai,unanimous,0.851145038167939,475,103,334
+standard,openai,unanimous,0.813880126182965,475,77,298
+standard,openai,unanimous,0.759036144578313,475,40,246
+standard,openai,unanimous,0.827930174563591,475,87,312
+standard,openai,unanimous,0.826797385620915,475,86,310
+standard,openai,unanimous,0.857707509881423,475,107,340
+standard,openai,unanimous,0.844444444444445,475,98,327
+standard,openai,unanimous,0.790273556231003,475,61,276
+standard,openai,unanimous,0.830143540669856,475,88,314
+standard,openai,unanimous,0.818471337579618,475,80,303
+standard,openai,unanimous,0.87037037037037,475,116,352
+standard,openai,unanimous,0.847094801223242,475,100,330
+standard,openai,unanimous,0.793002915451895,475,63,278
+standard,openai,unanimous,0.817258883248731,475,80,301
+standard,openai,unanimous,0.802675585284281,475,70,288
+standard,openai,unanimous,0.852,475,103,334
+standard,openai,unanimous,0.842105263157895,475,96,325
+standard,openai,unanimous,0.781155015197568,475,55,267
+standard,openai,unanimous,0.808785529715762,475,74,293
+standard,openai,unanimous,0.796551724137931,475,66,282
+standard,openai,unanimous,0.8582995951417,475,107,340
+standard,openai,unanimous,0.82,475,81,304
+standard,openai,unanimous,0.771604938271605,475,49,258
+standard,openai,unanimous,0.84,475,95,323
+standard,openai,unanimous,0.833855799373041,475,91,317
+standard,openai,unanimous,0.880149812734083,475,122,361
+standard,openai,unanimous,0.850877192982456,475,102,333
+standard,openai,unanimous,0.804034582132565,475,71,289
+standard,openai,unanimous,0.818615751789976,475,80,303
+standard,openai,unanimous,0.811501597444089,475,76,296
+standard,openai,unanimous,0.858736059479554,475,108,341
+standard,openai,unanimous,0.831804281345566,475,89,315
+standard,openai,unanimous,0.781609195402299,475,55,268
+strict,anthropic,any draw,0.953684210526316,475,172,431
+strict,anthropic,any draw,0.96927374301676,475,183,446
+strict,anthropic,any draw,0.96039603960396,475,177,437
+strict,anthropic,any draw,0.943548387096774,475,165,421
+strict,anthropic,any draw,0.943877551020408,475,165,422
+strict,anthropic,any draw,0.948275862068965,475,168,426
+strict,anthropic,any draw,0.964169381107492,475,179,441
+strict,anthropic,any draw,0.958015267175572,475,175,435
+strict,anthropic,any draw,0.936908517350158,475,161,415
+strict,anthropic,any draw,0.936746987951807,475,161,415
+strict,anthropic,any draw,0.950124688279302,475,170,428
+strict,anthropic,any draw,0.970588235294118,475,184,447
+strict,anthropic,any draw,0.952569169960474,475,171,430
+strict,anthropic,any draw,0.93968253968254,475,163,418
+strict,anthropic,any draw,0.939209726443769,475,162,417
+strict,anthropic,any draw,0.956937799043062,475,174,434
+strict,anthropic,any draw,0.974522292993631,475,186,451
+strict,anthropic,any draw,0.962962962962963,475,178,440
+strict,anthropic,any draw,0.944954128440367,475,166,423
+strict,anthropic,any draw,0.947521865889213,475,168,425
+strict,anthropic,any draw,0.951776649746193,475,171,429
+strict,anthropic,any draw,0.963210702341137,475,179,440
+strict,anthropic,any draw,0.964,475,179,441
+strict,anthropic,any draw,0.94078947368421,475,163,419
+strict,anthropic,any draw,0.942249240121581,475,164,420
+strict,anthropic,any draw,0.950904392764858,475,170,428
+strict,anthropic,any draw,0.96551724137931,475,180,442
+strict,anthropic,any draw,0.959514170040486,475,176,437
+strict,anthropic,any draw,0.94,475,163,418
+strict,anthropic,any draw,0.941358024691358,475,164,419
+strict,anthropic,any draw,0.96,475,176,437
+strict,anthropic,any draw,0.974921630094044,475,187,451
+strict,anthropic,any draw,0.962546816479401,475,178,439
+strict,anthropic,any draw,0.953216374269006,475,172,431
+strict,anthropic,any draw,0.951008645533141,475,170,428
+strict,anthropic,any draw,0.957040572792363,475,174,434
+strict,anthropic,any draw,0.971246006389776,475,184,448
+strict,anthropic,any draw,0.962825278810409,475,178,440
+strict,anthropic,any draw,0.948012232415902,475,168,426
+strict,anthropic,any draw,0.948275862068965,475,168,426
+strict,anthropic,majority,0.943157894736842,475,165,421
+strict,anthropic,majority,0.958100558659218,475,175,435
+strict,anthropic,majority,0.957095709570957,475,174,434
+strict,anthropic,majority,0.93010752688172,475,156,409
+strict,anthropic,majority,0.931122448979592,475,157,410
+strict,anthropic,majority,0.940886699507389,475,163,419
+strict,anthropic,majority,0.957654723127036,475,175,435
+strict,anthropic,majority,0.954198473282443,475,172,431
+strict,anthropic,majority,0.927444794952681,475,154,406
+strict,anthropic,majority,0.927710843373494,475,155,406
+strict,anthropic,majority,0.937655860349127,475,161,416
+strict,anthropic,majority,0.957516339869281,475,175,435
+strict,anthropic,majority,0.948616600790514,475,169,426
+strict,anthropic,majority,0.923809523809524,475,152,403
+strict,anthropic,majority,0.924012158054711,475,152,403
+strict,anthropic,majority,0.944976076555024,475,166,423
+strict,anthropic,majority,0.961783439490446,475,178,439
+strict,anthropic,majority,0.959259259259259,475,176,436
+strict,anthropic,majority,0.929663608562691,475,156,408
+strict,anthropic,majority,0.932944606413994,475,158,411
+strict,anthropic,majority,0.941624365482233,475,164,420
+strict,anthropic,majority,0.949832775919733,475,170,427
+strict,anthropic,majority,0.964,475,179,441
+strict,anthropic,majority,0.927631578947368,475,154,406
+strict,anthropic,majority,0.930091185410334,475,156,409
+strict,anthropic,majority,0.940568475452196,475,163,419
+strict,anthropic,majority,0.955172413793104,475,173,432
+strict,anthropic,majority,0.955465587044534,475,173,433
+strict,anthropic,majority,0.926666666666667,475,154,405
+strict,anthropic,majority,0.929012345679012,475,155,408
+strict,anthropic,majority,0.950588235294118,475,170,428
+strict,anthropic,majority,0.96551724137931,475,180,442
+strict,anthropic,majority,0.958801498127341,475,176,436
+strict,anthropic,majority,0.941520467836257,475,164,419
+strict,anthropic,majority,0.939481268011527,475,163,418
+strict,anthropic,majority,0.945107398568019,475,166,423
+strict,anthropic,majority,0.958466453674122,475,175,436
+strict,anthropic,majority,0.95910780669145,475,176,436
+strict,anthropic,majority,0.932721712538226,475,158,411
+strict,anthropic,majority,0.933908045977011,475,159,412
+strict,anthropic,unanimous,0.930526315789474,475,156,409
+strict,anthropic,unanimous,0.952513966480447,475,171,430
+strict,anthropic,unanimous,0.943894389438944,475,165,422
+strict,anthropic,unanimous,0.913978494623656,475,145,393
+strict,anthropic,unanimous,0.915816326530612,475,146,395
+strict,anthropic,unanimous,0.928571428571429,475,155,407
+strict,anthropic,unanimous,0.954397394136808,475,173,432
+strict,anthropic,unanimous,0.938931297709924,475,162,417
+strict,anthropic,unanimous,0.911671924290221,475,144,391
+strict,anthropic,unanimous,0.912650602409639,475,144,392
+strict,anthropic,unanimous,0.922693266832918,475,151,402
+strict,anthropic,unanimous,0.950980392156863,475,170,428
+strict,anthropic,unanimous,0.932806324110672,475,158,411
+strict,anthropic,unanimous,0.904761904761905,475,139,385
+strict,anthropic,unanimous,0.905775075987842,475,140,385
+strict,anthropic,unanimous,0.933014354066986,475,158,411
+strict,anthropic,unanimous,0.955414012738854,475,173,433
+strict,anthropic,unanimous,0.948148148148148,475,168,426
+strict,anthropic,unanimous,0.914373088685015,475,145,394
+strict,anthropic,unanimous,0.918367346938776,475,148,397
+strict,anthropic,unanimous,0.931472081218274,475,157,410
+strict,anthropic,unanimous,0.946488294314381,475,167,424
+strict,anthropic,unanimous,0.952,475,171,429
+strict,anthropic,unanimous,0.914473684210526,475,146,394
+strict,anthropic,unanimous,0.917933130699088,475,148,397
+strict,anthropic,unanimous,0.925064599483204,475,153,404
+strict,anthropic,unanimous,0.948275862068965,475,168,426
+strict,anthropic,unanimous,0.939271255060729,475,162,417
+strict,anthropic,unanimous,0.906666666666667,475,140,386
+strict,anthropic,unanimous,0.910493827160494,475,143,390
+strict,anthropic,unanimous,0.938823529411765,475,162,417
+strict,anthropic,unanimous,0.959247648902821,475,176,436
+strict,anthropic,unanimous,0.947565543071161,475,168,425
+strict,anthropic,unanimous,0.926900584795322,475,154,406
+strict,anthropic,unanimous,0.92507204610951,475,153,404
+strict,anthropic,unanimous,0.933174224343675,475,158,412
+strict,anthropic,unanimous,0.952076677316294,475,171,429
+strict,anthropic,unanimous,0.947955390334572,475,168,426
+strict,anthropic,unanimous,0.91743119266055,475,148,397
+strict,anthropic,unanimous,0.919540229885057,475,149,399
+strict,deepseek,any draw,0.970526315789474,475,184,447
+strict,deepseek,any draw,0.980446927374302,475,190,456
+strict,deepseek,any draw,0.973597359735974,475,186,450
+strict,deepseek,any draw,0.96236559139785,475,178,439
+strict,deepseek,any draw,0.966836734693878,475,181,443
+strict,deepseek,any draw,0.972906403940887,475,185,449
+strict,deepseek,any draw,0.98371335504886,475,193,460
+strict,deepseek,any draw,0.973282442748092,475,185,450
+strict,deepseek,any draw,0.965299684542587,475,180,442
+strict,deepseek,any draw,0.969879518072289,475,183,446
+strict,deepseek,any draw,0.970074812967581,475,183,447
+strict,deepseek,any draw,0.983660130718954,475,192,459
+strict,deepseek,any draw,0.972332015810277,475,185,449
+strict,deepseek,any draw,0.961904761904762,475,178,439
+strict,deepseek,any draw,0.963525835866261,475,179,440
+strict,deepseek,any draw,0.971291866028708,475,184,448
+strict,deepseek,any draw,0.980891719745223,475,191,457
+strict,deepseek,any draw,0.974074074074074,475,186,450
+strict,deepseek,any draw,0.963302752293578,475,179,440
+strict,deepseek,any draw,0.967930029154519,475,182,445
+strict,deepseek,any draw,0.972081218274112,475,185,448
+strict,deepseek,any draw,0.979933110367893,475,190,456
+strict,deepseek,any draw,0.976,475,187,452
+strict,deepseek,any draw,0.963815789473684,475,179,441
+strict,deepseek,any draw,0.969604863221885,475,183,446
+strict,deepseek,any draw,0.96640826873385,475,181,443
+strict,deepseek,any draw,0.975862068965517,475,187,452
+strict,deepseek,any draw,0.97165991902834,475,184,448
+strict,deepseek,any draw,0.956666666666667,475,174,434
+strict,deepseek,any draw,0.962962962962963,475,178,440
+strict,deepseek,any draw,0.969411764705882,475,183,446
+strict,deepseek,any draw,0.978056426332288,475,189,454
+strict,deepseek,any draw,0.973782771535581,475,186,450
+strict,deepseek,any draw,0.961988304093567,475,178,439
+strict,deepseek,any draw,0.965417867435158,475,180,442
+strict,deepseek,any draw,0.971360381861575,475,184,448
+strict,deepseek,any draw,0.980830670926517,475,191,457
+strict,deepseek,any draw,0.973977695167286,475,186,450
+strict,deepseek,any draw,0.963302752293578,475,179,440
+strict,deepseek,any draw,0.968390804597701,475,182,445
+strict,deepseek,majority,0.92,475,149,399
+strict,deepseek,majority,0.921787709497207,475,150,401
+strict,deepseek,majority,0.940594059405941,475,163,419
+strict,deepseek,majority,0.905913978494624,475,140,386
+strict,deepseek,majority,0.915816326530612,475,146,395
+strict,deepseek,majority,0.91871921182266,475,148,398
+strict,deepseek,majority,0.921824104234528,475,151,401
+strict,deepseek,majority,0.938931297709924,475,162,417
+strict,deepseek,majority,0.905362776025237,475,139,385
+strict,deepseek,majority,0.912650602409639,475,144,392
+strict,deepseek,majority,0.922693266832918,475,151,402
+strict,deepseek,majority,0.931372549019608,475,157,410
+strict,deepseek,majority,0.940711462450593,475,163,419
+strict,deepseek,majority,0.907936507936508,475,141,388
+strict,deepseek,majority,0.914893617021277,475,146,394
+strict,deepseek,majority,0.921052631578947,475,150,400
+strict,deepseek,majority,0.923566878980892,475,152,402
+strict,deepseek,majority,0.944444444444444,475,166,422
+strict,deepseek,majority,0.90519877675841,475,139,385
+strict,deepseek,majority,0.915451895043732,475,146,395
+strict,deepseek,majority,0.913705583756345,475,145,393
+strict,deepseek,majority,0.91304347826087,475,145,392
+strict,deepseek,majority,0.936,475,160,414
+strict,deepseek,majority,0.898026315789474,475,134,378
+strict,deepseek,majority,0.911854103343465,475,144,391
+strict,deepseek,majority,0.917312661498708,475,147,396
+strict,deepseek,majority,0.917241379310345,475,147,396
+strict,deepseek,majority,0.939271255060729,475,162,417
+strict,deepseek,majority,0.903333333333333,475,138,383
+strict,deepseek,majority,0.91358024691358,475,145,393
+strict,deepseek,majority,0.924705882352941,475,152,403
+strict,deepseek,majority,0.924764890282132,475,153,404
+strict,deepseek,majority,0.943820224719101,475,165,422
+strict,deepseek,majority,0.912280701754386,475,144,392
+strict,deepseek,majority,0.922190201729107,475,151,401
+strict,deepseek,majority,0.921241050119332,475,150,400
+strict,deepseek,majority,0.920127795527156,475,149,399
+strict,deepseek,majority,0.940520446096654,475,163,418
+strict,deepseek,majority,0.908256880733945,475,141,388
+strict,deepseek,majority,0.919540229885057,475,149,399
+strict,deepseek,unanimous,0.829473684210526,475,88,313
+strict,deepseek,unanimous,0.82122905027933,475,82,305
+strict,deepseek,unanimous,0.861386138613861,475,110,343
+strict,deepseek,unanimous,0.817204301075269,475,80,301
+strict,deepseek,unanimous,0.823979591836735,475,84,308
+strict,deepseek,unanimous,0.832512315270936,475,90,316
+strict,deepseek,unanimous,0.830618892508143,475,89,314
+strict,deepseek,unanimous,0.854961832061069,475,105,337
+strict,deepseek,unanimous,0.823343848580442,475,84,307
+strict,deepseek,unanimous,0.825301204819277,475,85,309
+strict,deepseek,unanimous,0.837905236907731,475,94,321
+strict,deepseek,unanimous,0.833333333333333,475,90,317
+strict,deepseek,unanimous,0.869565217391304,475,115,351
+strict,deepseek,unanimous,0.828571428571429,475,87,312
+strict,deepseek,unanimous,0.826747720364742,475,86,310
+strict,deepseek,unanimous,0.822966507177033,475,83,307
+strict,deepseek,unanimous,0.812101910828026,475,76,296
+strict,deepseek,unanimous,0.862962962962963,475,111,345
+strict,deepseek,unanimous,0.807339449541285,475,73,292
+strict,deepseek,unanimous,0.816326530612245,475,79,301
+strict,deepseek,unanimous,0.809644670050762,475,74,294
+strict,deepseek,unanimous,0.79933110367893,475,67,284
+strict,deepseek,unanimous,0.844,475,98,327
+strict,deepseek,unanimous,0.792763157894737,475,63,278
+strict,deepseek,unanimous,0.808510638297872,475,74,293
+strict,deepseek,unanimous,0.82687338501292,475,86,311
+strict,deepseek,unanimous,0.813793103448276,475,77,298
+strict,deepseek,unanimous,0.862348178137652,475,110,344
+strict,deepseek,unanimous,0.813333333333333,475,77,298
+strict,deepseek,unanimous,0.824074074074074,475,84,308
+strict,deepseek,unanimous,0.842352941176471,475,97,325
+strict,deepseek,unanimous,0.833855799373041,475,91,317
+strict,deepseek,unanimous,0.872659176029963,475,117,354
+strict,deepseek,unanimous,0.833333333333333,475,90,317
+strict,deepseek,unanimous,0.835734870317003,475,92,319
+strict,deepseek,unanimous,0.832935560859189,475,90,316
+strict,deepseek,unanimous,0.824281150159744,475,84,308
+strict,deepseek,unanimous,0.862453531598513,475,110,344
+strict,deepseek,unanimous,0.819571865443425,475,81,304
+strict,deepseek,unanimous,0.830459770114943,475,89,314
+strict,openai,any draw,0.997894736842105,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.996699669966997,475,201,472
+strict,openai,any draw,0.997311827956989,475,202,472
+strict,openai,any draw,0.997448979591837,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.997506234413965,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.996047430830039,475,201,471
+strict,openai,any draw,0.996825396825397,475,201,472
+strict,openai,any draw,0.996960486322189,475,202,472
+strict,openai,any draw,0.997607655502392,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.996296296296296,475,201,471
+strict,openai,any draw,0.996941896024465,475,201,472
+strict,openai,any draw,0.997084548104956,475,202,472
+strict,openai,any draw,0.99746192893401,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.996,475,201,471
+strict,openai,any draw,0.99671052631579,475,201,472
+strict,openai,any draw,0.996960486322189,475,202,472
+strict,openai,any draw,0.997416020671835,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.995951417004049,475,201,471
+strict,openai,any draw,0.996666666666667,475,201,472
+strict,openai,any draw,0.996913580246914,475,201,472
+strict,openai,any draw,0.997647058823529,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.99625468164794,475,201,471
+strict,openai,any draw,0.997076023391813,475,202,472
+strict,openai,any draw,0.997118155619597,475,202,472
+strict,openai,any draw,0.997613365155131,475,202,473
+strict,openai,any draw,1,475,204,475
+strict,openai,any draw,0.996282527881041,475,201,471
+strict,openai,any draw,0.996941896024465,475,201,472
+strict,openai,any draw,0.997126436781609,475,202,472
+strict,openai,majority,0.987368421052632,475,195,463
+strict,openai,majority,0.988826815642458,475,196,464
+strict,openai,majority,0.993399339933993,475,199,469
+strict,openai,majority,0.983870967741936,475,193,460
+strict,openai,majority,0.984693877551021,475,193,460
+strict,openai,majority,0.987684729064039,475,195,463
+strict,openai,majority,0.986970684039088,475,195,463
+strict,openai,majority,0.99618320610687,475,201,471
+strict,openai,majority,0.984227129337539,475,193,460
+strict,openai,majority,0.984939759036145,475,193,461
+strict,openai,majority,0.987531172069825,475,195,463
+strict,openai,majority,0.990196078431373,475,197,466
+strict,openai,majority,0.992094861660079,475,198,467
+strict,openai,majority,0.984126984126984,475,193,460
+strict,openai,majority,0.984802431610942,475,193,461
+strict,openai,majority,0.988038277511962,475,195,464
+strict,openai,majority,0.990445859872611,475,197,466
+strict,openai,majority,0.992592592592593,475,199,468
+strict,openai,majority,0.984709480122324,475,193,460
+strict,openai,majority,0.985422740524781,475,194,461
+strict,openai,majority,0.987309644670051,475,195,463
+strict,openai,majority,0.986622073578595,475,194,462
+strict,openai,majority,0.996,475,201,471
+strict,openai,majority,0.983552631578947,475,192,459
+strict,openai,majority,0.984802431610942,475,193,461
+strict,openai,majority,0.987080103359173,475,195,463
+strict,openai,majority,0.989655172413793,475,197,465
+strict,openai,majority,0.991902834008097,475,198,467
+strict,openai,majority,0.983333333333333,475,192,459
+strict,openai,majority,0.984567901234568,475,193,460
+strict,openai,majority,0.988235294117647,475,196,464
+strict,openai,majority,0.990595611285266,475,197,466
+strict,openai,majority,0.99250936329588,475,198,468
+strict,openai,majority,0.985380116959064,475,194,461
+strict,openai,majority,0.985590778097983,475,194,461
+strict,openai,majority,0.985680190930788,475,194,461
+strict,openai,majority,0.987220447284345,475,195,463
+strict,openai,majority,0.992565055762082,475,199,468
+strict,openai,majority,0.981651376146789,475,191,458
+strict,openai,majority,0.982758620689655,475,192,459
+strict,openai,unanimous,0.972631578947368,475,185,449
+strict,openai,unanimous,0.974860335195531,475,187,451
+strict,openai,unanimous,0.983498349834984,475,192,459
+strict,openai,unanimous,0.967741935483871,475,182,444
+strict,openai,unanimous,0.966836734693878,475,181,443
+strict,openai,unanimous,0.972906403940887,475,185,449
+strict,openai,unanimous,0.973941368078176,475,186,450
+strict,openai,unanimous,0.984732824427481,475,193,460
+strict,openai,unanimous,0.968454258675079,475,182,445
+strict,openai,unanimous,0.966867469879518,475,181,444
+strict,openai,unanimous,0.972568578553616,475,185,449
+strict,openai,unanimous,0.977124183006536,475,188,453
+strict,openai,unanimous,0.980237154150198,475,190,456
+strict,openai,unanimous,0.968253968253968,475,182,445
+strict,openai,unanimous,0.966565349544073,475,181,443
+strict,openai,unanimous,0.973684210526316,475,186,450
+strict,openai,unanimous,0.974522292993631,475,186,451
+strict,openai,unanimous,0.985185185185185,475,194,461
+strict,openai,unanimous,0.969418960244648,475,183,446
+strict,openai,unanimous,0.967930029154519,475,182,445
+strict,openai,unanimous,0.969543147208122,475,183,446
+strict,openai,unanimous,0.969899665551839,475,183,446
+strict,openai,unanimous,0.984,475,193,460
+strict,openai,unanimous,0.963815789473684,475,179,441
+strict,openai,unanimous,0.963525835866261,475,179,440
+strict,openai,unanimous,0.971576227390181,475,184,448
+strict,openai,unanimous,0.975862068965517,475,187,452
+strict,openai,unanimous,0.979757085020243,475,190,456
+strict,openai,unanimous,0.966666666666667,475,181,443
+strict,openai,unanimous,0.966049382716049,475,181,443
+strict,openai,unanimous,0.976470588235294,475,188,453
+strict,openai,unanimous,0.978056426332288,475,189,454
+strict,openai,unanimous,0.98876404494382,475,196,464
+strict,openai,unanimous,0.970760233918129,475,184,447
+strict,openai,unanimous,0.971181556195966,475,184,448
+strict,openai,unanimous,0.971360381861575,475,184,448
+strict,openai,unanimous,0.97444089456869,475,186,451
+strict,openai,unanimous,0.981412639405205,475,191,457
+strict,openai,unanimous,0.966360856269113,475,181,443
+strict,openai,unanimous,0.96551724137931,475,180,442

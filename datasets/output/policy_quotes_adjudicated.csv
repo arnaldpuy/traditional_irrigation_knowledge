@@ -1,0 +1,11 @@
+rec_id,fn,needle,verdict,reason
+B1_plan_regadia_andalucia,risk_management,Reglamento Delegado (UE) 2024/1765,drop,"title of a regulation in the legal-framework list, not a promise"
+C1_pepac_espana_v5-1,water_conservation,reducirá significativamente el uso y riesgo,replace,sentence is about pesticides
+A3_prtr_componente3,social_cohesion,garantizando de esta forma la cohesión social,replace,"sentence belongs to the agri-food digitalisation reform, not irrigation"
+A4_perte_digitalizacion_agua_memoria,social_cohesion,el PERTE refuerza la cohesión social,drop,"about the PERTE as a whole, not its irrigation measures"
+A4_perte_digitalizacion_agua_memoria,biodiversity,fomentando la protección de las aguas,drop,water-body objectives of the whole water cycle
+A4_perte_digitalizacion_agua_memoria,risk_management,Los organismos de cuenca y la AEMET,drop,"weather alerts for civil protection, not irrigation"
+C2_reg_eu_2021-2115,crop_production,La Unión debe impulsar un sector agrícola,drop,general CAP objective
+C2_reg_eu_2021-2115,social_cohesion,es fundamental reforzar el tejido socioeconómico,drop,general CAP objective for rural areas
+C2_reg_eu_2021-2115,biodiversity,Habida cuenta de la importancia de hacer frente,drop,general CAP objective
+C2_reg_eu_2021-2115,risk_management,si bien los agricultores son los responsables,drop,"farm risk-management tools of the CAP, not irrigation"

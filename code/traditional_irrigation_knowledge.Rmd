@@ -1,0 +1,1063 @@
+---
+title: "Irrigation modernisation is blind to most traditional knowledge"
+subtitle: "R code"
+author: "Arnald Puy"
+header-includes:
+  - \usepackage[font=footnotesize]{caption}
+  - \usepackage{dirtytalk}
+  - \usepackage{booktabs}
+  - \usepackage{tabulary}
+  - \usepackage{enumitem}
+  - \usepackage{lmodern}
+  - \usepackage{amsmath}
+  - \usepackage{mathtools}
+  - \usepackage[T1]{fontenc}
+  - \usepackage{tikz}
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_depth: 2
+    keep_tex: true
+  word_document:
+    toc: no
+    toc_depth: '2'
+  html_document:
+    keep_md: true
+link-citations: yes
+fontsize: 11pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, dev = "pdf", cache = TRUE)
+```
+
+\newpage
+
+```{r preliminary, warning=FALSE, message=FALSE, results="hide"}
+# PRELIMINARY FUNCTIONS #######################################################
+library(benchmarkme)
+
+# Load packages ---------------------------------------------------------------
+
+if (!requireNamespace("sensobol", quietly = TRUE)) install.packages("sensobol")
+sensobol::load_packages(c("here", "data.table", "ggplot2", "cowplot", "scales",
+                          "readxl", "jsonlite", "sf", "rnaturalearth",
+                          "rnaturalearthdata", "ggrepel"))
+
+# Source all .R files in the "functions" folder -------------------------------
+
+r_functions <- list.files(path = here("functions"),
+                          pattern = "\\.R$", full.names = TRUE)
+invisible(lapply(r_functions, source))
+```
+
+```{r load-data, dependson="preliminary"}
+# LOAD DATA ###################################################################
+
+out <- here("datasets", "output")
+arm_dir <- file.path(out, "arm"); chk_dir <- file.path(out, "checkpoint")
+col_irr <- "#b2182b"; col_leg <- "#2166ac"
+
+# Corpus metadata --------------------------------------------------------------
+
+dt <- load_coded_corpus_fun()
+dt[, domain_short := fcase(
+  main_category == "Crop knowledge and management", "Crop",
+  main_category == "Irrigation practices and communal water management", "Irrigation",
+  main_category == "Soil and moisture management", "Soil & moisture",
+  main_category == "Weather and climate conditions", "Weather & climate")]
+
+# Rule-only draws, deepseek leg on v4 ------------------------------------------
+
+read_arm <- function(f) as.data.table(utils::read.csv(f, stringsAsFactors = FALSE,
+                                                      encoding = "UTF-8"))
+parse_json_field <- function(txt, field) {
+  vapply(txt, function(t) {
+    if (is.na(t) || t == "") return(NA_character_)
+    o <- tryCatch(fromJSON(t), error = function(e) NULL)
+    v <- o[[field]]
+    if (is.null(v)) NA_character_ else as.character(v)
+  }, character(1), USE.NAMES = FALSE)
+}
+bin_files <- c(standard = file.path(chk_dir, "chk_standard_raw_all.csv"),
+               short = file.path(arm_dir, "arm_short_raw_all.csv"),
+               strict = file.path(arm_dir, "arm_strict_raw_all.csv"))
+bin <- rbindlist(lapply(names(bin_files), function(nm) {
+  d <- read_arm(bin_files[[nm]])
+  d[, legible := as.logical(parse_json_field(text, "efficiency_legible"))]
+  d[, .(prompt = nm, provider, id_cite = sub("__s.*$", "", custom_id), legible)]
+}))[!is.na(legible)]
+v4 <- rbindlist(lapply(names(bin_files), function(nm) {
+  d <- read_arm(file.path(out, sprintf("v4_ruleonly_%s_deepseek_raw_all.csv", nm)))
+  d[, legible := as.logical(parse_json_field(text, "efficiency_legible"))]
+  d[, .(prompt = nm, provider = "deepseek",
+        id_cite = sub("__s.*$", "", custom_id), legible)]
+}))[!is.na(legible)]
+bin <- rbind(bin[provider != "deepseek"], v4)
+
+# Per-draw function sets for the nine full-instrument arms ---------------------
+
+funcs12 <- c("crop_production", "water_conservation", "soil_health",
+             "risk_management", "groundwater_recharge",
+             "microclimate_regulation", "biodiversity", "pest_control",
+             "livestock", "medicinal_food", "social_cohesion",
+             "recreation_wellbeing")
+core2 <- c("crop_production", "water_conservation")
+fun_lab <- c(crop_production = "Crop production",
+             water_conservation = "Water conservation",
+             soil_health = "Soil health", risk_management = "Risk management",
+             social_cohesion = "Social cohesion", biodiversity = "Biodiversity",
+             groundwater_recharge = "Groundwater recharge",
+             microclimate_regulation = "Microclimate regulation",
+             pest_control = "Pest control", livestock = "Livestock",
+             medicinal_food = "Medicinal/food plants",
+             recreation_wellbeing = "Recreation/wellbeing")
+
+arm_file <- function(fam, ph) {
+  if (fam == "anthropic" && ph == "standard")
+    file.path(out, "coding_results_raw_analytical_anthropic.csv")
+  else file.path(out, sprintf("coding_results_raw_attribution_%s_%s.csv", ph, fam))
+}
+families <- c("anthropic", "openai", "deepseek")
+phrasings <- c("strict", "standard", "broad")
+draws <- rbindlist(lapply(families, function(fam)
+  rbindlist(lapply(phrasings, function(ph) {
+    d <- read_arm(arm_file(fam, ph))[!duplicated(custom_id)]
+    rbindlist(lapply(seq_len(nrow(d)), function(i) {
+      o <- tryCatch(fromJSON(d$text[i]), error = function(e) NULL)
+      fs <- if (is.null(o$functions)) character(0) else
+        intersect(unlist(o$functions), funcs12)
+      if (!length(fs)) return(NULL)
+      data.table(family = fam, phrasing = ph,
+                 id_cite = sub("__s.*$", "", d$custom_id[i]),
+                 draw = d$custom_id[i], f = fs)
+    }))
+  }))))
+vote_rules <- c(`any draw` = 0.2, majority = 0.6, unanimous = 1.0)
+fam_lab <- c(anthropic = "Claude", openai = "GPT-5.4", deepseek = "DeepSeek-v4")
+```
+
+# Results 1: how much knowledge efficiency metrics can hold
+
+```{r figS2-sobol-build, dependson="load-data"}
+# FIGURE 1 PANELS #############################################################
+
+sob_grid <- fread(file.path(out, "sobol_headline_grid.csv"))
+sob_ind <- fread(file.path(out, "sobol_headline_indices.csv"))
+sob_tot <- fread(file.path(out, "sobol_headline_totals.csv"))
+sob_sum <- fread(file.path(out, "sobol_headline_summary.csv"))
+anchor <- sob_sum[quantity == "anchor_full_instrument", value]
+fac_lab <- c(community = "Community", domain = "Knowledge domain",
+             model = "LLM family", prompt = "Prompt", vote = "Vote rule")
+
+# Panel a: the share across specifications, split by vote rule ----------------
+
+sob_grid[, vote := factor(vote, levels = c("any draw", "majority", "unanimous"),
+                          labels = c("Any draw", "Majority", "Unanimous"))]
+vote_labs <- c(expression(paste("Any draw (", "" >= 1, ~"of 5)")),
+               expression(paste("Majority (", "" >= 3, ~"of 5)")),
+               expression(paste("Unanimous (5 of 5)")))
+
+plot_sob_a <- ggplot(sob_grid, aes(share, fill = vote)) +
+  geom_histogram(binwidth = 0.01, boundary = 0, colour = NA, alpha = 0.5,
+                 position = "identity") +
+  scale_fill_manual(values = c(`Any draw` = col_leg, Majority = "#e08214",
+                               Unanimous = col_irr), name = "",
+                    labels = vote_labs) +
+  scale_x_continuous(labels = percent_format()) +
+  scale_y_continuous(expand = expansion(c(0, 0.04))) +
+  labs(x = "Irreducible share", y = "Specifications") +
+  theme_AP() +
+  theme(legend.position = c(0.01, 0.98), legend.justification = c(0, 1))
+
+# Panel b: first- and total-order indices --------------------------------------
+
+sob_long <- melt(sob_tot[, .(factor = fac_lab[factor], Si = si_first, Ti = ti)],
+                 id.vars = "factor")
+
+plot_sob_b <- ggplot(sob_long, aes(reorder(factor, value, max), value,
+                                   fill = variable)) +
+  geom_bar(stat = "identity", position = position_dodge(0.6),
+           colour = "black", linewidth = 0.2, width = 0.6) +
+  coord_flip() +
+  scale_fill_manual(name = "",
+                    values = c(Si = "#F8766D", Ti = "#00BFC4"),
+                    labels = c(expression(S[italic(i)]),
+                               expression(T[italic(i)]))) +
+  scale_y_continuous(expand = expansion(c(0, 0.04)),
+                     breaks = breaks_pretty(n = 3)) +
+  labs(x = "", y = "Sobol' index") +
+  theme_AP() +
+  theme(legend.position = c(0.99, 0.03), legend.justification = c(1, 0),
+        legend.key.size = unit(0.3, "cm"), legend.title = element_text(size = 6))
+
+# Panel c: the ten second-order terms ------------------------------------------
+
+sob_int <- sob_ind[order == 2]
+sob_int[, lab := vapply(strsplit(term, ":", fixed = TRUE), function(p)
+  paste(fac_lab[p], collapse = " : "), character(1))]
+
+plot_sob_c <- ggplot(sob_int, aes(reorder(lab, si), si)) +
+  geom_hline(yintercept = 0, linetype = "dashed", colour = "red",
+             linewidth = 0.3) +
+  geom_point(size = 1.5) +
+  coord_flip() +
+  scale_y_continuous(breaks = breaks_pretty(n = 2)) +
+  labs(x = "", y = expression(S[ij])) +
+  theme_AP() +
+  theme(axis.text.y = element_text(size = 5.6))
+```
+
+```{r fig1-shares-build, dependson="load-data"}
+# FIGURE 1 PANELS #############################################################
+
+draw_share <- merge(bin[, .(s_irr = mean(!legible)),
+                        by = .(prompt, provider, id_cite)],
+                    dt[, .(id_cite, site, domain_short, epistemic_type)],
+                    by = "id_cite")
+spec_grid <- CJ(vote = names(vote_rules), drop = c("none", unique(dt$site)),
+                sorted = FALSE)
+ensemble_by <- function(grp) {
+  rbindlist(lapply(seq_len(nrow(spec_grid)), function(i) {
+    sub <- draw_share[spec_grid$drop[i] == "none" | site != spec_grid$drop[i]]
+    sub[, .(share = mean(s_irr >= vote_rules[[spec_grid$vote[i]]])),
+        by = c(grp, "prompt", "provider")]
+  }))
+}
+
+# Panel a: irreducible share by knowledge domain -------------------------------
+
+dom_full <- ensemble_by("domain_short")
+dom_ens <- dom_full[, .(med = median(share), lo = min(share), hi = max(share)),
+                    by = domain_short]
+dom_ord <- dom_ens[order(-med), domain_short]
+dom_full[, domain_short := factor(domain_short, levels = dom_ord)]
+dom_ens[, domain_short := factor(domain_short, levels = dom_ord)]
+
+plot_share_dom <- ggplot(dom_full, aes(domain_short, share)) +
+  geom_violin(fill = col_irr, colour = NA, alpha = 0.35, scale = "width",
+              width = 0.8) +
+  geom_point(data = dom_ens, aes(domain_short, med), size = 1.6,
+             colour = col_irr) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, 1),
+                     expand = expansion(mult = c(0.02, 0.06))) +
+  scale_x_discrete(labels = function(x) gsub(" & ", " &\n", x)) +
+  labs(x = "", y = "Irreducible share") +
+  theme_AP()
+
+# Panel b: reducible share by form of knowledge --------------------------------
+
+epi_labels <- c(heuristic_rule = "Heuristic rule",
+                mechanistic_belief = "Mechanistic belief",
+                valuation = "Valuation", indicator = "Indicator",
+                astronomical = "Astronomical", calendrical = "Calendrical",
+                normative_social = "Normative-social")
+epi_full <- ensemble_by("epistemic_type")[, .(epistemic_type, red = 1 - share)]
+epi_full <- merge(epi_full, dt[, .(n = .N), by = epistemic_type],
+                  by = "epistemic_type")
+epi_full[, label := sprintf("%s (%d)", epi_labels[epistemic_type], n)]
+ep <- epi_full[, .(med = median(red), lo = min(red), hi = max(red),
+                   at_zero = mean(red == 0)), by = label]
+epi_ord <- ep[order(med), label]
+epi_full[, label := factor(label, levels = epi_ord)]
+ep[, label := factor(label, levels = epi_ord)]
+
+plot_share_epi <- ggplot(epi_full, aes(red, label)) +
+  geom_violin(fill = col_leg, colour = NA, alpha = 0.35, scale = "width",
+              width = 0.8, trim = TRUE) +
+  geom_point(data = ep, aes(med, label), size = 1.6, colour = col_leg) +
+  scale_x_continuous(labels = percent_format(), breaks = breaks_pretty(n = 3),
+                     limits = c(0, NA),
+                     expand = expansion(mult = c(0.02, 0.08))) +
+  labs(x = "Reducible share", y = "") +
+  theme_AP()
+```
+
+```{r fig1-panels-cd, dependson="fig1-shares-build"}
+# FIGURE 2, PANELS C AND D ####################################################
+
+# Panel c: the twelve-function vocabulary and how common each function is ------
+
+fun_prev <- dt[, .(f = trimws(unlist(strsplit(functions, ";", fixed = TRUE)))),
+               by = id_cite][f %in% names(fun_lab), .N, by = f]
+fun_prev[, share := N / uniqueN(dt$id_cite)]
+fun_prev[, core := fifelse(f %in% core2, "Water/yield core", "Other functions")]
+fun_prev[, label := factor(fun_lab[f], levels = fun_lab[fun_prev[order(share), f]])]
+
+plot_share_fun <- ggplot(fun_prev, aes(share, label, colour = core)) +
+  geom_segment(aes(x = 0, xend = share, yend = label), linewidth = 0.4) +
+  geom_point(size = 1.7) +
+  geom_text(aes(label = N), hjust = -0.5, size = 2, colour = "grey30",
+            show.legend = FALSE) +
+  scale_colour_manual(values = c(`Water/yield core` = "grey20",
+                                 `Other functions` = "grey65"), name = "") +
+  scale_x_continuous(labels = percent_format(), limits = c(0, 0.97),
+                     breaks = breaks_pretty(n = 3)) +
+  labs(x = "Share of the corpus serving the function", y = "") +
+  theme_AP() +
+  theme(legend.position = c(0.98, 0.03), legend.justification = c(1, 0))
+
+# Panel d: reducibility against functions served outside the core --------------
+
+dt[, n_noncore := vapply(strsplit(functions, ";", fixed = TRUE),
+                         function(f) sum(!trimws(f) %in% core2), integer(1))]
+dt[, ncat := fifelse(n_noncore >= 2L, "2 or more", as.character(n_noncore))]
+draw_share[dt, on = "id_cite", ncat := i.ncat]
+ncat_n <- dt[, .N, by = ncat]
+ncat_labs <- c(`0` = "none", `1` = "one", `2 or more` = "two or more")
+ncat_full <- ensemble_by("ncat")[, .(ncat, red = 1 - share)]
+ncat_full[, label := factor(sprintf("%s\n(%d)", ncat_labs[ncat],
+                                    ncat_n$N[match(ncat, ncat_n$ncat)]),
+                            levels = sprintf("%s\n(%d)", ncat_labs,
+                                             ncat_n$N[match(names(ncat_labs),
+                                                            ncat_n$ncat)]))]
+ncat_med <- ncat_full[, .(med = median(red)), by = label]
+
+plot_share_ncat <- ggplot(ncat_full, aes(label, red)) +
+  geom_violin(fill = col_leg, colour = NA, alpha = 0.35, scale = "width",
+              width = 0.75, trim = TRUE) +
+  geom_line(data = ncat_med, aes(label, med, group = 1), linewidth = 0.4,
+            colour = col_leg) +
+  geom_point(data = ncat_med, aes(label, med), size = 1.6, colour = col_leg) +
+  geom_text(data = ncat_med, aes(label, med, label = percent(med, accuracy = 1)),
+            vjust = -1.2, size = 2.2, colour = col_leg) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, NA),
+                     breaks = breaks_pretty(n = 4),
+                     expand = expansion(mult = c(0.02, 0.1))) +
+  labs(x = "Functions served beyond\ncrop production and\nwater conservation",
+       y = "Reducible share") +
+  theme_AP()
+
+cat("Reducible share by number of functions outside the core:\n")
+print(ncat_full[, .(median = sprintf("%.0f%%", 100 * median(red)),
+                    range = sprintf("%.0f-%.0f%%", 100 * min(red),
+                                    100 * max(red))), by = label])
+```
+
+```{r fig1-shares-panels, dependson="fig1-shares-build", fig.width=5.5, fig.height=1.8, fig.cap="The irreducible share by knowledge domain and by form of knowledge. Both panels summarise the 216 specifications that apply to a breakdown by group (three LLM families, three wordings of the removal-test rule, three vote rules, and keeping all communities or dropping one). The spread is specification uncertainty, not binomial sampling error. (a) Distribution of the irreducible share by knowledge domain: violins are scaled to equal width, points are medians. The distributions are skewed, with mass at 100\\% and a long lower tail, and irreducibility extends even to the domains closest to efficiency frameworks. Only the irreducible share is shown, the reducible share being its exact complement. (b) Distribution of the reducible share by form of knowledge (corpus counts in parentheses), violins scaled to equal width and points marking medians. Heuristic rules and mechanistic beliefs are partly absorbed. The remaining types return a reducible share of exactly zero in most specifications --- 97\\% for calendrical, 94\\% for astronomical, 76\\% for normative-social, 63\\% for valuation and 54\\% for indicator --- so their width near zero represents a spike rather than a spread, the share of a type with $n$ assumptions being restricted to multiples of $1/n$."}
+# MAIN FIGURE 1 ##############################################################
+
+fig1 <- plot_grid(plot_share_dom + 
+                    labs(x = "Knowledge domain", y = "Irreducible \nshare"),
+                  plot_share_epi + 
+                    labs(x = "Reducible share", y = "Type of \nknowledge"), 
+                  ncol = 2, rel_widths = c(0.45, 0.55),
+          labels = c("a", "b"))
+fig1
+```
+
+```{r fig1-shares, dependson=c("fig1-shares-build", "fig1-shares-panels", "fig1-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (total numbers per type in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water management (total number in parentheses)."}
+# MAIN FIGURE 1, WITH THE FUNCTION PANELS #####################################
+
+bottom <- plot_grid(plot_share_fun + 
+                      labs(x = "Share of assumptions", 
+                           y = "Function"), plot_share_ncat, ncol = 2, rel_widths = c(0.62, 0.38),  labels = c("c", "d"))
+
+plot_grid(fig1, bottom, ncol = 1, rel_heights = c(0.4, 0.6))
+```
+
+```{r numbers-results1, dependson="fig1-shares-build"}
+# NUMBERS CITED IN RESULTS 1 ##################################################
+
+hl <- fread(file.path(out, "sobol_headline_grid.csv"))
+hi <- fread(file.path(out, "sobol_headline_indices.csv"))
+cat(sprintf("Headline share over %d specifications: %.0f%%-%.0f%%, median %.0f%%\n",
+            nrow(hl), 100 * min(hl$share), 100 * max(hl$share),
+            100 * median(hl$share)))
+cat(sprintf("Specifications above 80%%: %.0f%%\n", 100 * mean(hl$share >= 0.80)))
+
+first <- hi[order == 1][order(-si)]
+cat("\nFirst-order indices:\n")
+print(first[, .(factor = term, Si = round(si, 3))])
+cat("\nSecond-order terms above 0.02:\n")
+print(hi[order == 2 & si > 0.02][order(-si), .(term, Sij = round(si, 3))])
+
+# Grouped (closed) indices: what the corpus contains vs how it is read ---------
+
+closed_index <- function(ind, group)
+  ind[vapply(strsplit(term, ":", fixed = TRUE),
+             function(p) all(p %in% group), logical(1)), sum(si)]
+cc <- closed_index(hi, c("community", "domain"))
+cr <- closed_index(hi, c("model", "prompt", "vote"))
+cat(sprintf("\nCorpus composition %.3f | reading of the corpus %.3f | cross %.3f\n",
+            cc, cr, 1 - cc - cr))
+
+# Per-group medians quoted in the text ----------------------------------------
+
+cat("\nIrreducible share by domain (median [range] across specifications):\n")
+print(dom_ens[order(-med), .(domain_short, median = sprintf("%.0f%%", 100 * med),
+                             range = sprintf("%.0f-%.0f%%", 100 * lo, 100 * hi))])
+cat("\nReducible share by form of knowledge:\n")
+print(ep[order(-med), .(label, median = sprintf("%.0f%%", 100 * med),
+                        max = sprintf("%.0f%%", 100 * hi),
+                        at_zero = sprintf("%.0f%%", 100 * at_zero))])
+
+# The calendrical / astronomical claim, stated exactly -------------------------
+
+cal <- ensemble_by("epistemic_type")[
+  epistemic_type %in% c("calendrical", "astronomical")][, red := 1 - share]
+cat(sprintf(paste0("\nCalendrical/astronomical: reducible in %.0f%% of the 216 ",
+                   "specifications per type (max reducible share %.0f%%);\n",
+                   "every affected specification uses %s.\n"),
+            100 * mean(cal$red > 0), 100 * max(cal$red),
+            paste(unique(cal[red > 0, sprintf("%s + %s rule", fam_lab[provider],
+                                              prompt)]), collapse = ", ")))
+```
+
+# Results 2: no narrow framework captures most of it
+
+```{r fig3-functions-build, dependson="load-data"}
+# FIGURE 2 PANELS #############################################################
+
+n_draws <- draws[, .(nd = uniqueN(draw)), by = .(family, phrasing, id_cite)]
+counts <- merge(draws[, .(k = uniqueN(draw)),
+                      by = .(family, phrasing, id_cite, f)],
+                n_draws, by = c("family", "phrasing", "id_cite"))
+counts <- merge(counts, dt[, .(id_cite, site, domain_short)], by = "id_cite")
+
+fgrid <- CJ(community = c("none", unique(dt$site)),
+            domain = c("none", unique(dt$domain_short)),
+            family = families, phrasing = phrasings,
+            vote = names(vote_rules), sorted = FALSE)
+
+curves <- rbindlist(lapply(seq_len(nrow(fgrid)), function(i) {
+  g <- fgrid[i]
+  keep <- counts[family == g$family & phrasing == g$phrasing &
+                   k / nd >= vote_rules[[g$vote]] &
+                   (g$community == "none" | site != g$community) &
+                   (g$domain == "none" | domain_short != g$domain)]
+  if (!nrow(keep)) return(NULL)
+  m <- dcast(unique(keep[, .(id_cite, f)]), id_cite ~ f,
+             fun.aggregate = length, value.var = "f")
+  mat <- as.matrix(m[, -1]); mat[mat > 0] <- 1
+  s <- svd(mat)
+  best <- vapply(seq_len(ncol(mat)), function(k) {
+    a <- s$u[, 1:k, drop = FALSE] %*% diag(s$d[1:k], k, k) %*%
+      t(s$v[, 1:k, drop = FALSE])
+    mean(rowSums(((a >= 0.5) * 1) != mat) == 0)
+  }, numeric(1))
+  data.table(cell = i, phrasing = g$phrasing, k = seq_along(best), exact = best)
+}))
+
+env <- curves[, .(med = median(exact), lo = min(exact), hi = max(exact)), by = k]
+k90 <- curves[exact >= 0.9, .(k90 = min(k)), by = cell]
+
+# Panel a: the recovery envelope ------------------------------------------------
+
+plot_fun_curve <- ggplot(env, aes(k, med)) +
+  geom_hline(yintercept = 0.9, linetype = "dotted", colour = "grey55",
+             linewidth = 0.3) +
+  geom_ribbon(aes(ymin = lo, ymax = hi), fill = col_leg, alpha = 0.2) +
+  geom_line(linewidth = 0.5, colour = col_leg) +
+  geom_point(size = 1.1, colour = col_leg) +
+  scale_x_continuous(breaks = seq(2, 12, 2)) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, 1)) +
+  labs(x = "Functions retained", y = "Assumptions recovered") +
+  theme_AP()
+
+# Panel b: how many functions are needed for 90% --------------------------------
+
+plot_fun_k90 <- ggplot(k90, aes(factor(k90))) +
+  geom_bar(fill = col_irr, width = 0.7) +
+  scale_y_continuous(expand = expansion(c(0, 0.06))) +
+  labs(x = "Functions needed to recover 90%", y = "Specifications") +
+  theme_AP()
+
+# Panel c: Sobol' indices for the two quantities --------------------------------
+
+ft <- fread(file.path(out, "sobol_functions_totals.csv"))
+ft <- ft[quantity %in% c("loss", "k90")]
+ft[, `:=`(quantity = factor(quantity, levels = c("loss", "k90"),
+                            labels = c("Compression loss",
+                                       "Functions for 90%")),
+          factor = c(community = "Community", domain = "Knowledge domain",
+                     family = "LLM family", prompt = "Prompt",
+                     phrasing = "Phrasing", vote = "Vote rule")[factor])]
+ftl <- melt(ft[, .(quantity, factor, Si = si_first, Ti = ti)],
+            id.vars = c("quantity", "factor"))
+
+plot_fun_indices <- ggplot(ftl, aes(reorder(factor, value, max), value, fill = variable)) +
+  geom_bar(stat = "identity", position = position_dodge(0.6), colour = "black",
+           linewidth = 0.2, width = 0.6) +
+  facet_wrap(~ quantity, ncol = 1) +
+  coord_flip() +
+  scale_fill_manual(name = "Sobol' indices",
+                    values = c(Si = "#F8766D", Ti = "#00BFC4"),
+                    labels = c(expression(S[italic(i)]), expression(T[italic(i)]))) +
+  scale_y_continuous(expand = expansion(c(0, 0.05)),
+                     breaks = breaks_pretty(n = 3)) +
+  labs(x = "", y = "Sobol' index") +
+  theme_AP() +
+  theme(legend.position = "top", legend.key.size = unit(0.3, "cm"),
+        legend.title = element_text(size = 6), axis.text.y = element_text(size = 5.8))
+```
+
+```{r figS6-frontier-build, dependson="fig3-functions-build"}
+# THE COMPRESSION FRONTIER ####################################################
+
+fr <- fread(file.path(out, "compression_frontier.csv"))
+
+fr_env <- fr[, .(med = median(best_share), lo = min(best_share),
+                 hi = max(best_share)), by = k][, bound := "Best choice of k functions"]
+ce_env <- curves[, .(med = median(exact), lo = min(exact), hi = max(exact)),
+                 by = k][, bound := "Best summary of any kind"]
+env2 <- rbind(fr_env, ce_env)
+env2[, bound := factor(bound, levels = c("Best summary of any kind",
+                                         "Best choice of k functions"))]
+
+core_med <- fr[k == 2, median(core_share)]
+core_is_best <- fr[k == 2, mean(best_set == sum(2^(match(core2, funcs12) - 1)))]
+
+plot_frontier <- ggplot(env2, aes(k, med, colour = bound, fill = bound)) +
+  geom_hline(yintercept = 0.9, linetype = "dotted", colour = "grey55",
+             linewidth = 0.3) +
+  geom_ribbon(aes(ymin = lo, ymax = hi), alpha = 0.18, colour = NA) +
+  geom_line(linewidth = 0.5) +
+  geom_point(size = 1) +
+  scale_colour_manual(values = c(`Best summary of any kind` = "grey45",
+                                 `Best choice of k functions` = col_leg),
+                      name = "") +
+  scale_fill_manual(values = c(`Best summary of any kind` = "grey45",
+                               `Best choice of k functions` = col_leg),
+                    name = "") +
+  scale_x_continuous(breaks = seq(2, 12, 2)) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, 1)) +
+  labs(x = bquote(italic(k) ~ "functions retained"), y = "Assumptions represented") +
+  theme_AP() +
+  theme(legend.position = c(0.98, 0.02), legend.justification = c(1, 0))
+
+# Panel b: the order in which functions have to be added ----------------------
+
+ord <- fr[, .(f = strsplit(best_names, "|", fixed = TRUE)[[1]]), by = .(cell, k)]
+ord <- ord[, .(share = .N / uniqueN(fr$cell)), by = .(k, f)]
+ord[, label := factor(fun_lab[f], levels = rev(fun_lab[c(core2,
+      setdiff(names(sort(tapply(ord$share, ord$f, sum), decreasing = TRUE)), core2))]))]
+
+plot_order <- ggplot(ord, aes(k, label, fill = share)) +
+  geom_tile(colour = "white", linewidth = 0.3) +
+  scale_fill_gradient(low = "grey92", high = col_irr, labels = percent_format(),
+                      name = "", limits = c(0, 1), breaks = c(0, 0.5, 1)) +
+  scale_x_continuous(breaks = seq(2, 12, 2), expand = c(0, 0)) +
+  labs(x = bquote(italic(k) ~ "functions retained"), y = "") +
+  theme_AP() +
+  theme(legend.position = "right", legend.key.width = unit(0.25, "cm"))
+
+cat(sprintf("Best pair recovers %.0f%%; conventional pair %.0f%%; conventional pair is best in %.0f%% of cells\n",
+            100 * fr[k == 2, median(best_share)], 100 * core_med, 100 * core_is_best))
+```
+
+```{r figS6-frontier, dependson="figS6-frontier-build", fig.width=5.5, fig.height=2.0, fig.cap="Share of assumptions represented by an efficiency metric serving $k$ functions across the $1{,}080$ analytical specifications. a) Blue: the highest share reached by any choice of $k$ functions, computed over all $4{,}095$ subsets of the twelve. An assumption counts as represented when every function it serves is recorded. Grey: the highest share reached by any optimal $k$-dimensional summary (for instance, an efficiency framework that blends functions by weighting soil health and biodiversity together; Eckart-Young theorem). No representation with $k$ dimensions can do better than the grey shade. The lines denote the median across specifications and the bands show the full range. The dotted line marks 90%. b) Order in which functions enter the best efficiency framework as $k$ gets larger. The color gradation shows the share of the $1{,}080$ analytical specifications in which the function belongs to the best set of $k$ functions."}
+# MAIN FIGURE: THE COMPRESSION FRONTIER #######################################
+
+plot_grid(plot_frontier, plot_order, ncol = 2, rel_widths = c(0.44, 0.56),
+          labels = "auto")
+```
+
+```{r numbers-results2, dependson="fig3-functions-build"}
+# NUMBERS CITED IN RESULTS 2 ##################################################
+
+fg <- fread(file.path(out, "sobol_functions_grid.csv"))
+cat(sprintf("Compression loss over %d specifications: %.0f%%-%.0f%%, median %.0f%%\n",
+            nrow(fg), 100 * min(fg$loss), 100 * max(fg$loss),
+            100 * median(fg$loss)))
+cat(sprintf("Efficiency core recovers: %.0f%%-%.0f%%, median %.0f%%\n",
+            100 * min(fg$core_recovers), 100 * max(fg$core_recovers),
+            100 * median(fg$core_recovers)))
+cat(sprintf("Functions needed for 90%%: %d-%d, median %d; %.0f%% of specifications need >= 8\n",
+            min(k90$k90), max(k90$k90), as.integer(median(k90$k90)),
+            100 * mean(k90$k90 >= 8)))
+
+fi <- fread(file.path(out, "sobol_functions_indices_loss.csv"))
+cc2 <- closed_index(fi, c("community", "domain"))
+cr2 <- closed_index(fi, c("family", "phrasing", "vote"))
+cat(sprintf("\nCompression loss -- corpus %.3f | reading %.3f | cross %.3f\n",
+            cc2, cr2, 1 - cc2 - cr2))
+
+# Cell means of the 3 x 3 design, quoted when the arms are compared -------------
+
+cells <- fg[community == "none" & domain == "none" & vote == "majority",
+            .(family, phrasing, loss = round(100 * loss))]
+cat("\nCompression loss by family and phrasing (full corpus, majority vote):\n")
+print(dcast(cells, family ~ factor(phrasing, levels = phrasings),
+            value.var = "loss"))
+```
+
+# Results 3: bundles
+
+```{r fig2-bundles-build, dependson="load-data"}
+# FIGURE 4 PANELS #############################################################
+
+pfi <- fread(file.path(out, "practice_function_incidence.csv"))
+fpc <- fread(file.path(out, "function_practice_counts_grid.csv"))
+lbg <- fread(file.path(out, "sobol_ladder_bundles_grid.csv"))
+
+prac_lab <- c(flood_irrigation = "Flood irrigation", sky_reading = "Sky reading",
+              open_channel = "Open channel", tillage = "Tillage",
+              turn_exchange = "Turn exchange", weed_tolerance = "Weed tolerance",
+              crop_rotation = "Crop rotation", mulching = "Mulching",
+              ridge_furrow = "Ridge and furrow", plot_leveling = "Plot levelling",
+              channel_cleaning = "Channel cleaning", cover_crop = "Cover crop")
+
+# Panel a: how often each function is attributed to each practice --------------
+
+fun_ord <- c(core2, setdiff(funcs12, core2))
+prac_ord <- pfi[, .(tot = sum(share)), by = practice][order(tot), practice]
+pfi[, f := factor(fun_lab[f], levels = fun_lab[fun_ord])]
+pfi[, practice := factor(prac_lab[practice], levels = prac_lab[prac_ord])]
+
+plot_bundle_heat <- ggplot(pfi, aes(f, practice, fill = share)) +
+  geom_tile(colour = "white", linewidth = 0.3) +
+  geom_vline(xintercept = 2.5, colour = "grey20", linewidth = 0.4) +
+  scale_fill_gradient(low = "grey94", high = "grey15", labels = percent_format(),
+                      name = "", limits = c(0, 1),
+                      breaks = c(0, 0.5, 1)) +
+  labs(x = "Function", y = "Practice") +
+  theme_AP() +
+  theme(axis.text.x = element_text(size = 5.5, angle = 45, hjust = 1),
+        axis.text.y = element_text(size = 6),
+        legend.position = "right", legend.key.width = unit(0.25, "cm"))
+
+# Panel b: how many practices carry each function ------------------------------
+
+fp <- fpc[, .(med = median(n_practices), lo = min(n_practices),
+              hi = max(n_practices)), by = f]
+fp[, label := factor(fun_lab[f], levels = fun_lab[fp[order(med), f]])]
+
+plot_bundle_fun <- ggplot(fp, aes(med, label)) +
+  geom_segment(aes(x = lo, xend = hi, yend = label), colour = "grey65",
+               linewidth = 0.4) +
+  geom_point(size = 1.5, colour = col_irr) +
+  scale_x_continuous(breaks = seq(0, 12, 3), limits = c(0, 12)) +
+  labs(x = "Nº of practices", y = "Function") +
+  theme_AP() +
+  theme(axis.text.y = element_text(size = 6))
+
+# Panel c: perceptual integration, the least stable quantity we report ---------
+
+ind <- lbg[!is.na(ind_ge2_vars), .(family, ind_ge2_vars)]
+ind[, label := factor(fam_lab[family], levels = fam_lab[families])]
+ind_med <- ind[, .(med = median(ind_ge2_vars)), by = label]
+
+plot_bundle_cue <- ggplot(ind, aes(label, ind_ge2_vars)) +
+  geom_violin(fill = col_leg, colour = NA, alpha = 0.35, scale = "width",
+              width = 0.75) +
+  geom_point(data = ind_med, aes(label, med), size = 1.5, colour = col_leg) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, 1),
+                     breaks = breaks_pretty(n = 4)) +
+  scale_x_discrete(guide = guide_axis(n.dodge = 2)) +
+  labs(x = "", y = "Cues combining two\nor more variables") +
+  theme_AP() +
+  theme(axis.text.x = element_text(size = 6))
+```
+
+```{r fig2-bundles, dependson = "fig2-bundles-build", fig.width=2.5, fig.height=4.5}
+plot_grid(plot_bundle_heat + 
+            theme(legend.position = "top"), 
+          plot_bundle_fun, ncol = 1, 
+          rel_heights = c(0.6, 0.4), labels = "auto")
+```
+
+```{r numbers-results3, dependson="fig2-bundles-build"}
+# NUMBERS CITED IN RESULTS 3 ##################################################
+
+pc <- fread(file.path(out, "practice_function_counts_grid.csv"))
+cat(sprintf("Functions per practice: median of the per-practice medians %.0f\n",
+            median(pc[, .(m = median(N)), by = practice]$m)))
+cat("\nFunctions served by each practice (median [range]):\n")
+print(pc[, .(median = as.numeric(median(N)),
+             range = sprintf("%d-%d", min(N), max(N))),
+         by = practice][order(-median)])
+
+cat("\nPractices carrying each function (median [range]):\n")
+print(fpc[, .(median = as.numeric(median(n_practices)),
+              range = sprintf("%d-%d", min(n_practices), max(n_practices))),
+          by = f][order(-median)])
+cat(sprintf("\nFunctions resting on a single practice: median %.0f (range %.0f-%.0f)\n",
+            median(lbg$functions_single_practice), min(lbg$functions_single_practice),
+            max(lbg$functions_single_practice)))
+
+cat(sprintf("\nCues combining >= 2 variables: median %.0f%% (%.0f-%.0f%%)\n",
+            100 * median(lbg$ind_ge2_vars, na.rm = TRUE),
+            100 * min(lbg$ind_ge2_vars, na.rm = TRUE),
+            100 * max(lbg$ind_ge2_vars, na.rm = TRUE)))
+print(ind[, .(median = sprintf("%.0f%%", 100 * median(ind_ge2_vars)),
+              range = sprintf("%.0f-%.0f%%", 100 * min(ind_ge2_vars),
+                              100 * max(ind_ge2_vars))), by = label])
+cat(sprintf("\nDistinct variables tracked: median %.0f (%.0f-%.0f)\n",
+            median(lbg$n_distinct_vars), min(lbg$n_distinct_vars),
+            max(lbg$n_distinct_vars)))
+
+# Corpus composition versus reading, for the bundle quantities -----------------
+
+bt <- fread(file.path(out, "sobol_ladder_bundles_totals.csv"))
+cat("\nFirst- and total-order indices for the bundle quantities:\n")
+print(bt[quantity != "rung2"][order(quantity, -ti),
+         .(quantity, factor, Si = round(si, 3), Ti = round(ti, 3))])
+```
+
+# Supplementary Materials
+
+```{r sm-build, dependson="load-data"}
+# SUPPLEMENTARY FIGURE INPUTS #################################################
+
+# Study sites --------------------------------------------------------------
+
+locations <- data.table(
+  place = c("Dúrcal", "Huétor-Tájar", "Murcia", "Ricote", "Sudanell",
+            "Arriate", "Oria"),
+  lon = c(-3.5694, -4.0439, -1.1307, -1.4361, 0.6011, -5.0606, -2.2731),
+  lat = c(37.0022, 37.1964, 37.9922, 38.0714, 41.5261, 36.7914, 37.5225))
+spain <- ne_countries(scale = "medium", country = "Spain", returnclass = "sf")
+
+# Label-free semantic witness ------------------------------------------------
+
+emb <- fread(file.path(out, "emb_efficiency_distance.csv"))
+lexm <- fread(file.path(out, "emb_projection_meta.csv"))
+scree <- fread(file.path(out, "emb_scree.csv"))
+summ <- fread(file.path(out, "emb_witness_summary.csv"))
+meta_ids <- as.data.table(read_xlsx(here("datasets", "inputs",
+                                         "assumption_list_updated.xlsx")))
+setnames(meta_ids, tolower(names(meta_ids)))
+demb <- merge(emb, meta_ids[, .(id = as.integer(our_id), id_cite)], by = "id")
+
+lab_grid <- CJ(prompt = unique(bin$prompt), provider = unique(bin$provider),
+               vote = names(vote_rules), sorted = FALSE)
+consensus <- rbindlist(lapply(seq_len(nrow(lab_grid)), function(i) {
+  g <- lab_grid[i]
+  bin[prompt == g$prompt & provider == g$provider,
+      .(irr = mean(!legible) >= vote_rules[[g$vote]]), by = id_cite]
+}))[, .(share_irr = mean(irr)), by = id_cite]
+
+demb <- merge(demb, consensus, by = "id_cite")
+demb[, code := fifelse(share_irr > 0.5, "Irreducible", "Reducible")]
+
+reducible <- demb$code == "Reducible"
+auc_val <- local({
+  r <- rank(demb$sim_centroid)
+  (sum(r[reducible]) - sum(reducible) * (sum(reducible) + 1) / 2) /
+    (sum(reducible) * sum(!reducible))
+})
+auc_spec <- fread(file.path(out, "embedding_auc.csv"))
+auc_lab <- sprintf("AUC = %.2f\n[%.2f-%.2f]", median(auc_spec$auc),
+                   min(auc_spec$auc), max(auc_spec$auc))
+pc90 <- summ$pcs_for_90pct_variance
+cat(sprintf("AUC %.2f | Wilcoxon p %.1e | %d of 384 components for 90%% variance\n",
+            auc_val, wilcox.test(sim_centroid ~ code, data = demb)$p.value, pc90))
+```
+
+```{r figS1-map, dependson="sm-build", fig.width=3.4, fig.height=3.4, fig.cap="Location of the seven traditional irrigation communities interviewed in Spain."}
+# SM FIGURE: STUDY SITES ######################################################
+
+ggplot() +
+  geom_sf(data = spain, fill = "#f5f0e8", colour = "#aaaaaa", linewidth = 0.4) +
+  geom_point(data = locations, aes(x = lon, y = lat), shape = 21,
+             fill = "#c0392b", colour = "white", size = 3, stroke = 0.7) +
+  geom_text_repel(data = locations, aes(x = lon, y = lat, label = place),
+                  size = 2.6, colour = "#222222", box.padding = 0.5,
+                  point.padding = 0.3, segment.colour = "#888888",
+                  segment.linewidth = 0.4, min.segment.length = 0.2,
+                  max.overlaps = Inf, seed = 42) +
+  coord_sf(xlim = c(-9.5, 4.5), ylim = c(35.5, 44.5), expand = FALSE) +
+  labs(x = NULL, y = NULL) +
+  theme_AP() +
+  theme(panel.background = element_rect(fill = "#dce8f0", colour = NA),
+        panel.grid = element_line(colour = "#cccccc", linewidth = 0.2),
+        axis.text = element_text(size = 6, colour = "#555555"))
+```
+
+```{r figS2-sobol, dependson="figS2-sobol-build", fig.width=5.8, fig.height=1.8, fig.cap="Uncertainty and sensitivity analysis of the irreducible share across the $1{,}080$ specifications. a) Distribution of the irreducible share, coloured by vote rule. b) Sobol' indices: the first-order index ($S_i$) is the share of the variance a factor explains on its own, the total-order index ($T_i$) the share it explains together with its interactions with all other factors. c) Second-order indices ($S_{ij}$), the share of the variance explained by each pair of factors."}
+# MAIN FIGURE 1 ###############################################################
+
+plot_grid(plot_sob_a, plot_sob_b, plot_sob_c, ncol = 3,
+          rel_widths = c(0.32, 0.31, 0.37), labels = "auto")
+```
+
+```{r figS3-embedding, dependson="sm-build", fig.width=6, fig.height=2.3, fig.cap="The label-free check. a) Principal Component Analysis (PCA) of the 475 vectors (one per assumption) against the first two dimensions of the analysis. The position of the efficiency lexicon vector is shown by the star. b) Cosine similarity of each assumption to the efficiency lexicon vector. AUC is the area under the curve, the probability that a reducible assumption lies closer to the lexicon than an irreducible one, where 0.5 is chance. c) Cumulative share of variance against components retained. The dashed line is at 73, the number of components needed to reach 90% of the variance (dotted line)."}
+# SM FIGURE: LABEL-FREE SEMANTIC WITNESS ######################################
+
+col_code <- c(Irreducible = col_irr, Reducible = col_leg)
+
+plot_emb_map <- ggplot(demb, aes(pc1, pc2, colour = code)) +
+  geom_point(size = 0.7, alpha = 0.6) +
+  geom_point(data = lexm, aes(pc1, pc2), inherit.aes = FALSE, shape = 8,
+             size = 2.8, stroke = 1, colour = "black") +
+  annotate("label", x = lexm$pc1 - 0.04, y = lexm$pc2 - 0.12,
+           label = "efficiency\nlexicon", size = 2, hjust = 0.5, vjust = 1,
+           lineheight = 0.9, fill = "white", alpha = 0.85, label.size = 0) +
+  scale_colour_manual("", values = col_code) +
+  labs(x = "Semantic axis 1", y = "Semantic axis 2") +
+  theme_AP() +
+  theme(legend.position = c(0.98, 0.98), legend.justification = c(1, 1),
+        legend.background = element_rect(fill = "white", colour = NA))
+
+plot_emb_sim <- ggplot(demb, aes(sim_centroid, fill = code, colour = code)) +
+  geom_density(alpha = 0.35, linewidth = 0.4, adjust = 1.1) +
+  scale_fill_manual("", values = col_code) +
+  scale_colour_manual("", values = col_code) +
+  annotate("text", x = -0.02, y = 3.7, hjust = 0, vjust = 1, size = 2.3,
+           lineheight = 0.9, label = auc_lab) +
+  labs(x = "Cosine similarity to the efficiency lexicon", y = "Density") +
+  theme_AP() +
+  theme(legend.position = "none")
+
+plot_emb_scree <- ggplot(scree, aes(pc, cum_var)) +
+  geom_hline(yintercept = 0.9, linetype = "dotted", colour = "grey55",
+             linewidth = 0.3) +
+  geom_line(linewidth = 0.5, colour = col_leg) +
+  geom_vline(xintercept = pc90, linetype = "dashed", colour = "grey40",
+             linewidth = 0.3) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, 1)) +
+  labs(x = "Principal components", y = "Cumulative variance") +
+  theme_AP()
+
+plot_grid(plot_emb_map, plot_emb_sim, plot_emb_scree, ncol = 3, labels = "auto")
+```
+
+```{r dimensionality-build, dependson="fig3-functions-build"}
+# DIMENSIONALITY OF THE CORPUS ################################################
+
+cell_dim <- function(i) {
+  g <- fgrid[i]
+  keep <- counts[family == g$family & phrasing == g$phrasing &
+                   k / nd >= vote_rules[[g$vote]] &
+                   (g$community == "none" | site != g$community) &
+                   (g$domain == "none" | domain_short != g$domain)]
+  if (!nrow(keep)) return(NULL)
+  m <- dcast(unique(keep[, .(id_cite, f)]), id_cite ~ f,
+             fun.aggregate = length, value.var = "f")
+  mat <- as.matrix(m[, -1]); mat[mat > 0] <- 1
+  s <- svd(mat)
+  p <- s$d^2 / sum(s$d^2)
+  recover <- function(k) {
+    a <- s$u[, 1:k, drop = FALSE] %*% diag(s$d[1:k], k, k) %*%
+      t(s$v[, 1:k, drop = FALSE])
+    rowSums(((a >= 0.5) * 1) != mat) == 0
+  }
+  ok2 <- recover(2)
+
+  present_core <- intersect(core2, colnames(mat))
+  nnon <- rowSums(mat[, setdiff(colnames(mat), core2), drop = FALSE])
+  cls <- factor(fifelse(nnon >= 2L, "two or more", as.character(nnon)),
+                levels = c("0", "1", "two or more"))
+  cliff <- data.table(cell = i, nnon = cls, ok = ok2)[
+    , .(n = .N, share = mean(ok)), by = .(cell, nnon)]
+
+  core_mass <- if (length(present_core)) sum(s$v[match(present_core, colnames(mat)), 1]^2) else NA_real_
+
+  list(scalar = data.table(cell = i, n_fun = ncol(mat),
+                           pr = 1 / sum(p^2),
+                           shannon = exp(-sum(p * log(p + 1e-300))),
+                           k90_spec = which(cumsum(p) >= 0.90)[1],
+                           pc1 = p[1], pc1_core_mass = core_mass,
+                           r1 = mean(recover(1)), r2 = mean(ok2),
+                           r4 = mean(recover(4))),
+       cliff = cliff,
+       spectrum = data.table(cell = i, pc = seq_along(p), cum_var = cumsum(p)))
+}
+dim_raw <- lapply(seq_len(nrow(fgrid)), cell_dim)
+dim_raw <- dim_raw[!vapply(dim_raw, is.null, logical(1))]
+dimen <- rbindlist(lapply(dim_raw, `[[`, "scalar"))
+cliff <- rbindlist(lapply(dim_raw, `[[`, "cliff"))
+spectrum <- rbindlist(lapply(dim_raw, `[[`, "spectrum"))
+dimen <- merge(dimen, k90, by = "cell")
+
+rng <- function(x, d = 2) sprintf("%.*f (%.*f--%.*f)", d, median(x), d, min(x), d, max(x))
+cat("Over the 1,080 specifications of the function grid:\n\n")
+cat(sprintf("  spectral rank, participation ratio : %s of twelve\n", rng(dimen$pr)))
+cat(sprintf("  spectral rank, Shannon exp(H)      : %s of twelve\n", rng(dimen$shannon)))
+cat(sprintf("  components for 90%% of the variance : %s\n", rng(dimen$k90_spec, 0)))
+cat(sprintf("  variance in the first component    : %.0f%% (%.0f-%.0f%%)\n",
+            100 * median(dimen$pc1), 100 * min(dimen$pc1), 100 * max(dimen$pc1)))
+cat(sprintf("  SUPPORT rank, exact recovery of 90%%: %s\n", rng(dimen$k90, 0)))
+cat(sprintf("\n  gap between support and spectral rank: %s dimensions\n",
+            rng(dimen$k90 - dimen$k90_spec, 0)))
+cat(sprintf("  support rank exceeds spectral rank in %.0f%% of specifications\n",
+            100 * mean(dimen$k90 > dimen$k90_spec)))
+
+# Ceilings on any metric of one, two or four dimensions -----------------------
+
+cat("\nExact-recovery ceiling for the best possible metric of k dimensions:\n")
+for (k in c("r1", "r2", "r4"))
+  cat(sprintf("  k = %s : %.0f%% (%.0f-%.0f%%)\n", sub("r", "", k),
+              100 * median(dimen[[k]]), 100 * min(dimen[[k]]), 100 * max(dimen[[k]])))
+
+# The coding is itself a compression ------------------------------------------
+
+emb_summary <- fread(file.path(out, "emb_witness_summary.csv"))
+nuis <- fread(file.path(out, "embedding_nuisance.csv"))
+emb_raw <- nuis[stage == "none (raw embedding)"]
+cat(sprintf(paste0("\nLabel-free embedding of the same 475 assumptions (%d dimensions):\n",
+                   "  participation ratio %.1f | Shannon exp(H) %.0f | %d components for 90%%\n"),
+            emb_summary$dim, emb_raw$pr, emb_raw$shannon, emb_raw$k90))
+cat(sprintf("  compression from embedding to coding: %.1f-fold in participation ratio\n",
+            emb_raw$pr / median(dimen$pr)))
+
+# Is that dimensionality linguistic rather than substantive? -------------------
+
+cat("\nEffective dimensionality after removing nuisance variation from the embedding:\n")
+print(nuis[, .(stage, removed = sprintf("%.1f%%", 100 * var_removed),
+                pr = sprintf("%.1f", pr), k90)])
+
+# Where the two-dimensional ceiling fails ------------------------------------
+
+cat(sprintf(paste0("\nThe best two-dimensional summary is essentially the efficiency metric:\n",
+                   "  share of the leading component sitting on crop production and\n",
+                   "  water conservation: %.0f%% (%.0f-%.0f%%)\n"),
+            100 * median(dimen$pc1_core_mass, na.rm = TRUE),
+            100 * min(dimen$pc1_core_mass, na.rm = TRUE),
+            100 * max(dimen$pc1_core_mass, na.rm = TRUE)))
+
+cat("\nExact recovery at rank two, by functions served outside that pair:\n")
+print(cliff[, .(assumptions = sprintf("%.0f (%.0f-%.0f)", median(n), min(n), max(n)),
+                recovered = sprintf("%.0f%% (%.0f-%.0f%%)", 100 * median(share),
+                                    100 * min(share), 100 * max(share))), by = nnon][order(nnon)])
+cat(sprintf("\nSpecifications in which NO assumption serving two or more outside\nfunctions is recovered at rank two: %.0f%% of %d\n",
+            100 * cliff[nnon == "two or more", mean(share == 0)],
+            cliff[nnon == "two or more", .N]))
+```
+
+```{r figS4-dimensions, dependson=c("dimensionality-build","sm-build"), fig.width=5.6, fig.height=2.4, fig.cap="Comparison between the variance explained by a label-free sentence embedding model and the twelve-function coding approach. a) Cumulative share of variance against the number of principal components retained. The horizontal dotted line is at 90%; the lines show the median and the shade displays the full range across specifications. b) Participation ratio of each representation (the number of principal components that would carry its variance if they carried it equally). The dashed line marks twelve, the maximum the coding can take."}
+# SUPPLEMENTARY FIGURE: EFFECTIVE DIMENSIONALITY ##############################
+
+emb_pr <- emb_summary$participation_ratio
+emb_k90 <- emb_summary$pcs_for_90pct_variance
+
+cod_curve <- spectrum[, .(med = median(cum_var), lo = min(cum_var),
+                          hi = max(cum_var)), by = pc]
+
+plot_spec <- ggplot() +
+  geom_hline(yintercept = 0.9, linetype = "dotted", colour = "grey55",
+             linewidth = 0.3) +
+  geom_ribbon(data = cod_curve, aes(pc, ymin = lo, ymax = hi), fill = col_irr,
+              alpha = 0.2) +
+  geom_line(data = cod_curve, aes(pc, med), colour = col_irr, linewidth = 0.5) +
+  geom_line(data = scree[pc <= 80], aes(pc, cum_var), colour = col_leg,
+            linewidth = 0.5) +
+  annotate("text", x = 14.5, y = 0.985, hjust = 0, vjust = 1, size = 2.2,
+           colour = col_irr, label = "twelve-function\ncoding", lineheight = 0.9) +
+  annotate("text", x = 30, y = 0.56, hjust = 0, vjust = 1, size = 2.2,
+           colour = col_leg, label = "label-free\nembedding", lineheight = 0.9) +
+  scale_y_continuous(labels = percent_format(), limits = c(0, 1)) +
+  labs(x = "Principal components retained", y = "Cumulative variance") +
+  theme_AP()
+
+pr_lab <- c(coding = "Twelve-function\ncoding", embedding = "Label-free\nembedding")
+pr_dt <- data.table(what = factor(pr_lab[["coding"]], levels = rev(pr_lab)),
+                    v = dimen$pr)
+pr_point <- data.table(what = factor(c(pr_lab[["coding"]], pr_lab[["embedding"]]),
+                                     levels = rev(pr_lab)),
+                       v = c(median(dimen$pr), emb_pr))
+
+plot_pr <- ggplot() +
+  geom_vline(xintercept = 12, linetype = "dashed", colour = "grey40",
+             linewidth = 0.35) +
+  geom_violin(data = pr_dt, aes(v, what), fill = col_irr, colour = NA,
+              alpha = 0.35, scale = "width", width = 0.6) +
+  geom_point(data = pr_point, aes(v, what),
+             colour = c(col_leg, col_irr)[c(2, 1)], size = 1.8) +
+  scale_x_continuous(limits = c(0, 36), breaks = seq(0, 36, 6)) +
+  labs(x = "Effective dimensions (participation ratio)", y = "") +
+  theme_AP() +
+  theme(axis.text.y = element_text(size = 6))
+
+cat(sprintf("embedding: participation ratio %.1f | %d of %d components for 90%%\n",
+            emb_pr, emb_k90, emb_summary$dim))
+cat(sprintf("coding:    participation ratio %.2f (%.2f-%.2f) over %d specifications\n",
+            median(dimen$pr), min(dimen$pr), max(dimen$pr), nrow(dimen)))
+cat(sprintf("ratio:     %.1f-fold\n", emb_pr / median(dimen$pr)))
+
+plot_grid(plot_spec, plot_pr, ncol = 2, rel_widths = c(0.5, 0.5), labels = "auto")
+```
+
+```{r figS7-sensory-build, dependson="load-data"}
+# SUPPLEMENTARY FIGURE: SENSORY CHANNELS ######################################
+
+sens <- fread(file.path(out, "sensory_practice_grid.csv"))
+ch_lab <- c(visual = "Sight", tactile = "Touch", olfactory = "Smell",
+            acoustic = "Hearing", gustatory = "Taste")
+
+ch_col <- c(Sight = "#56B4E9", Touch = "#E69F00", Smell = "#009E73",
+            Hearing = "#CC79A7", Taste = "#999999")
+
+# Panel a: how many assumptions each channel carries ---------------------------
+
+ch_tot <- sens[, .(n = sum(n)), by = .(cell, ch)][
+  , .(med = as.numeric(median(n)), lo = min(n), hi = max(n)), by = ch]
+ch_tot[, label := factor(ch_lab[ch], levels = ch_lab[ch_tot[order(med), ch]])]
+
+plot_sens_tot <- ggplot(ch_tot, aes(med, label)) +
+  geom_segment(aes(x = lo, xend = hi, yend = label), colour = "grey65",
+               linewidth = 0.4) +
+  geom_point(aes(colour = label), size = 1.8, show.legend = FALSE) +
+  scale_colour_manual(values = ch_col) +
+  scale_x_continuous(trans = "log10", breaks = c(1, 3, 10, 30, 100, 300)) +
+  labs(x = "Assumptions read through the channel", y = "") +
+  theme_AP()
+
+# Panel b: the sensory composition of each practice ----------------------------
+
+comp <- sens[practice %in% names(prac_lab), .(n = sum(n)),
+             by = .(cell, practice, ch)]
+comp[, share := n / sum(n), by = .(cell, practice)]
+comp <- merge(CJ(practice = names(prac_lab), ch = names(ch_lab)),
+              comp[, .(share = median(share)), by = .(practice, ch)],
+              by = c("practice", "ch"), all.x = TRUE)
+comp[is.na(share), share := 0]
+comp[, share := share / sum(share), by = practice]
+comp[, channel := factor(ch_lab[ch], levels = ch_lab)]
+tac_ord <- comp[ch == "tactile"][order(share), practice]
+comp[, label := factor(prac_lab[practice], levels = prac_lab[tac_ord])]
+
+plot_sens_prac <- ggplot(comp, aes(share, label, fill = channel)) +
+  geom_col(width = 0.75) +
+  scale_fill_manual(values = ch_col, name = "") +
+  scale_x_continuous(labels = percent_format(),
+                     expand = expansion(c(0, 0.02))) +
+  labs(x = "Share of the channel readings of each practice", y = "") +
+  theme_AP() +
+  theme(axis.text.y = element_text(size = 6), legend.position = "right",
+        legend.key.width = unit(0.25, "cm"))
+
+cat("Sensory composition of each practice (median share across specifications):\n")
+print(dcast(comp, label ~ channel, value.var = "share",
+            fun.aggregate = function(z) round(100 * sum(z))))
+```
+
+```{r figS7-sensory, dependson="figS7-sensory-build", fig.width=6, fig.height=2.1, fig.cap="Sensory channels through which irrigators read their environment across the $1{,}080$ analytical specifications. a) Number of assumptions read through each channel. Points denote medians across specifications and bars denote the full range. b) Sensory composition of each practice."}
+# SUPPLEMENTARY FIGURE: SENSORY CHANNELS ######################################
+
+plot_grid(plot_sens_tot, plot_sens_prac, ncol = 2, rel_widths = c(0.38, 0.62),
+          labels = "auto")
+```
+
+# Figures of the manuscripts
+
+```{r export-figures, cache=FALSE}
+
+# EXPORT FIGURES ##############################################################
+
+fig_dir <- here("code", "traditional_irrigation_knowledge_files", "figure-latex")
+out_dir <- here("manuscript", "figures")
+for (f in c("fig1-shares", "fig2-bundles", "figS1-map", "figS2-sobol",
+            "figS3-embedding", "figS4-dimensions", "figS6-frontier", "figS7-sensory"))
+  file.copy(file.path(fig_dir, paste0(f, "-1.pdf")), file.path(out_dir, paste0(f, ".pdf")),
+            overwrite = TRUE)
+```
+
+\newpage
+
+# Session information
+
+```{r session_information}
+
+# SESSION INFORMATION #########################################################
+sessionInfo()
+## Return the machine CPU -----------------------------------------------------
+cat("Machine:     "); print(get_cpu()$model_name)
+## Return number of true cores -------------------------------------------------
+cat("Num cores:   "); print(parallel::detectCores(logical = FALSE))
+## Return number of threads ----------------------------------------------------
+cat("Num threads: "); print(parallel::detectCores(logical = FALSE))
+```

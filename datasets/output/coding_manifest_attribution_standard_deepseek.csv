@@ -1,0 +1,2 @@
+arm,phrasing,provider,model,prompt_file,prompt_sha256,base_prompt_file,n_assumptions,n_samples,thinking,temperature,effort,max_tokens,n_requests
+attribution_standard_deepseek,standard,deepseek,deepseek-v4-pro,analytical_coding_prompt_v1.txt,f3a3abce99c993ef599f62d2875e833cc2caf13949fc0849690444efc564995f,analytical_coding_prompt_v1.txt,475,5,,0.7,high,3000,2375

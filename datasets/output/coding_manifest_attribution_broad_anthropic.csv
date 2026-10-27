@@ -1,0 +1,2 @@
+arm,phrasing,provider,model,prompt_file,prompt_sha256,base_prompt_file,n_assumptions,n_samples,thinking,temperature,effort,max_tokens,n_requests
+attribution_broad_anthropic,broad,anthropic,claude-opus-4-8,analytical_coding_prompt_v1_attribution_broad.txt,e139c374a6f23891cf137e2d9f2b1ffd804d6471b67ee31b3bb329a79cfb1683,analytical_coding_prompt_v1.txt,475,5,disabled,,high,800,2375

@@ -1,0 +1,2 @@
+rec_id,status,model,effort,date,prompt_sha256
+LIT_0213,succeeded,claude-opus-5-5,high,2026-10-27,fe63d8e03b3907ae68c4ba247a30a0df36f77d83d205a755a2e20ba62655152d

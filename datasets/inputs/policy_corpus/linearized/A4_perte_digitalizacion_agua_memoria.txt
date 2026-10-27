@@ -1,0 +1,2660 @@
+de Digitalización 
+del ciclo del Agua.
+PERTE
+España
+transforma
+#EspañaTransforma
+
+MEMORIA DESCRIPTIVA
+PERTE
+de Digitalización 
+del ciclo del Agua.
+MARZO 2022
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+1. INTRODUCCIÓN
+2. MARCO ESTRATÉGICO DEL PERTE Digitalización del ciclo del agua
+2.1 El PERTE Digitalización del ciclo del agua y el Plan de Recuperación,
+Transformación y Resiliencia.
+2.2 Conexiones del PERTE Digitalización del ciclo del agua otros PERTE
+ya aprobados.
+2.3 El PERTE Digitalización del ciclo del agua como complemento a la
+implantación de la Agenda 2030 y otros planes existentes.
+3. LA GESTIÓN DEL CICLO DEL AGUA EN ESPAÑA: UNA
+PRIORIDAD ANTE EL DESAFÍO PAÍS QUE SUPONE EL CAMBIO 
+CLIMÁTICO
+3.1	 Importancia del agua en la actividad económica española y los
+principales actores del sector
+3.2	 Diagnóstico del sector del ciclo urbano del agua y del sector
+industrial.
+3.3	 Diagnóstico del sector del regadío.
+4. DESAFÍOS Y OPORTUNIDADES EN LA GESTIÓN DEL CICLO DEL
+AGUA
+4.1	 Desafíos del ciclo del agua.
+4.2	Oportunidades del ciclo del agua: especial referencia a la
+digitalización.
+4.3	Desafíos y oportunidades en la digitalización en el sector del regadío.
+4
+Índice
+pág 06
+pág 08
+pág 08
+pág 10
+pág 11
+pág 13
+pág 13
+pág 15
+pág 16
+pág 19
+pág 19
+pág 23
+pág 26
+5. OBJETIVOS DEL PERTE Digitalización del ciclo del agua
+5.1	 Objetivos generales.
+5.2 Objetivos específicos.
+6. LÍNEAS DE ACCIÓN E INSTRUMENTOS
+6.1	 LÍNEA DE ACTUACIÓN 1: Mejora de la gobernanza en materia de
+gestión de los usos del agua.
+6.2	LÍNEA DE ACTUACIÓN 2: Impulso a la digitalización de los
+organismos de cuenca.
+6.3	LÍNEA DE ACTUACIÓN 3: Desarrollo de programas de ayudas para el
+impulso a la digitalización a los distintos usuarios del agua.
+6.4	LÍNEA DE ACTUACIÓN 4: Fomento de la formación e innovación en
+competencias digitales en la administración y gestión del agua.
+7. IMPACTO DEL PERTE SOBRE EL EMPLEO Y BENEFICIOS EN LA
+GESTIÓN DEL AGUA Y SOCIEDAD
+7.1	 Impacto sobre el empleo.
+7.2 Beneficios del PERTE en la gestión del agua y en la sociedad.
+8. PRESUPUESTO, FINANCIACIÓN Y CRONOGRAMA
+8.1 Resumen del Presupuesto y mecanismos de financiación.
+8.2	Cronograma
+8.3	Indicadores del PERTE
+9. GOBERNANZA
+10. CUMPLIMIENTO DEL REAL DECRETO-LEY 36/2020 Y DEL
+MECANISMO DE RECUPERACIÓN Y RESILIENCIA
+11. CUMPLIMIENTO DEL PRINCIPIO DE “NO CAUSAR UN
+PERJUICIO SIGNIFICATIVO AL MEDIO AMBIENTE” (DNSH)
+ANEXO 1: CUADRO GENERAL DE LAS ACTUACIONES
+ANEXO 2: CRONOGRAMA GENERAL DE  IMPLANTACIÓN DE LAS
+ACTUACIONES
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+pág 29
+pág 29
+pág 29
+pág 30
+pág 31
+pág 33
+pág 36
+pág 40
+pág 42
+pág 42
+pág 43
+pág 45
+pág 45
+pág 46
+pág 47
+pág 49
+pág 51
+pág 53
+pág 57
+pág 59
+5
+Introducción
+1
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+El agua es uno de los recursos básicos y esenciales para la vida, así como para el 
+mantenimiento de los ecosistemas y también es un componente estratégico de 
+nuestra economía.
+De acuerdo con los datos que maneja el Ministerio para la Transición Ecológica y 
+Reto Demográfico, la demanda estimada de agua en España para el año 2021 fue 
+del orden de los 32.000 hm3/año. El principal uso del agua es el regadío y usos 
+agrarios, que supone aproximadamente el 80,5% de esta demanda, seguido por el 
+abastecimiento urbano que representa el 15,5%. Tras ello estaría el uso industrial.
+Si bien, el agua es un bien escaso, debe tenerse en cuenta que, en el contexto del 
+cambio climático, España sufre periódicamente sequías con descensos notables 
+en las precipitaciones. Muchas de las masas de agua tienen elevados índices de 
+explotación y el balance entre recursos hídricos disponibles y demanda viene pre­
+sentando un equilibrio frágil.
+Además, no se ha producido en este sector una completa digitalización ni a nivel 
+usuarios, ni a nivel administración, y, como consecuencia de ello, en plena sociedad 
+del conocimiento no se dispone de información completa sobre el uso del agua, 
+así como sobre las pérdidas de agua que se producen en las redes de distribución 
+por fugas, roturas o filtraciones.
+En este contexto, consciente de la importancia estratégica del agua y ante la 
+necesidad de reforzar la respuesta ante los efectos adversos del cambio climático, 
+el Gobierno de España presenta este Proyecto Estratégico para la Recuperación y 
+la Transformación Económica (PERTE) Digitalización del ciclo del agua que aborda 
+un desafío país: es necesario emprender una completa modernización del cic­
+lo del agua en el país con el fin de avanzar hacia una gestión más eficiente y 
+sostenible del agua.
+Este PERTE tiene como objetivo principal avanzar en la modernización del cic­
+lo de agua a través de tres herramientas: la digitalización, que es la herramienta 
+principal, la innovación y la formación. De esta forma, la gestión del agua será más 
+eficiente y sostenible.
+6
+A tal fin, este PERTE incluye un conjunto de medidas transformadoras y facilitadoras que 
+optimizan el potencial económico del sector y ponen fin a las ineficiencias detectadas 
+en el sistema, que se eliminarán a través de la digitalización, y todo ello planificado a 
+través de los planes hidrológicos de cuenca y los planes de gestión del riesgo de 
+inundación.
+De esta forma se dispondrá de más información sobre los usos del agua en todo su 
+ciclo. Una información que será tratada y gestionada tanto por la administración 
+hidráulica - más moderna y digital- como por los usuarios, permitiendo un uso más 
+eficiente del agua y minimizando, simultáneamente, el impacto del cambio climáti­
+co al conseguir un mejor equilibrio entre demanda y recursos hídricos disponibles.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+7
+DEL PERTE
+Digitalización del ciclo del agua
+2
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+La escasez del agua es un desafío país de primer orden. Por ello se han elaborado múltiples 
+documentos y estrategias que, desde distintas perspectivas, identifican actuaciones o reco­
+mendaciones con el fin de abordarlo. En este momento, los fondos vinculados al Mecanismo 
+de Recuperación y Resiliencia ofrecen una gran oportunidad para emprender una completa 
+digitalización del ciclo del agua y, de esta forma, avanzar en la modernización de este ciclo. 
+Este PERTE se nutre, en cualquier caso, de todas estas estrategias y trabajos previos.
+2.1. El PERTE Digitalización del ciclo del agua y el Plan de 
+Recuperación, Transformación y Resiliencia.
+El Plan de Recuperación, Transformación y Resiliencia (en adelante, Plan de Recuperación) 
+traza la hoja de ruta para la modernización de la economía española, la recuperación del 
+crecimiento económico y la creación de empleo. A tal fin, incorpora una importante agenda 
+de inversiones y reformas estructurales que se interrelacionan y retroalimentan para lograr 
+cuatro objetivos transversales: avanzar hacia una España más verde, más digital, más cohesio­
+nada desde el punto de vista social y territorial, y más igualitaria. Estos cuatro ejes u objetivos 
+transversales orientan las diez políticas palancas identificadas en el Plan.
+Dado el carácter estratégico del proyecto Digitalización del ciclo del agua, las actuaciones de 
+este PERTE tienen incidencia directa en estos cuatro objetivos o ejes transversales.
+En primer lugar, las actuaciones del PERTE refuerzan la inversión pública y privada en torno a la 
+modernización del ciclo del agua orientada a una gestión más eficiente y sostenible del agua, 
+impulsando la transición verde y la economía circular y en conexión con la lucha contra la deser­
+tificación, la adaptación al cambio climático y la gestión de fenómenos meteorológicos cada vez 
+más extremos como sequías o inundaciones.
+En segundo lugar, en línea con la estrategia digital europea y la Agenda España Digital 2025, este 
+PERTE acelera la transición digital del ciclo del agua a través de inversiones y reformas que potencian 
+la aplicación de las nuevas tecnologías al ciclo del agua y el desarrollo de competencias y habilidades 
+digitales. La digitalización es la herramienta principal del PERTE para la consecución de sus objetivos.
+En tercer lugar, el PERTE refuerza la cohesión social y territorial de España con impactos directos 
+en la generación de empleo de calidad y en el reto demográfico. Además, mediante sus actua­
+ciones, se promueve la agrupación de municipios en aras de una mejor gestión de los servicios.
+8
+MARCO ESTRATÉGICO
+Eje transversal
+Impacto del
+i. Transición
+ecológica
++++
+ii. Transformación
+digital
++++
+iii. Cohesión 
+social y territorial
++++
+iv. Igualdad de
+género
+-
+Y, finalmente, contribuirá a la igualdad de género, perspectiva que orienta todas las reformas e 
+inversiones contempladas en el Plan de Recuperación.
+Por su parte, este PERTE descansa principalmente en la Política Palanca II Infraestructuras 
+y ecosistemas resilientes del Plan de Recuperación. En concreto, un adecuado conocimiento 
+de la información asociada a los distintos usos y consumos del agua en España se identifica 
+como una de las prioridades del Componente 5, dedicado a Preservación del espacio litoral y 
+los recursos hídricos, de las que destacan en relación con este PERTE las siguientes reformas e 
+inversiones:
+•	
+C5. Reforma 1: Actualización de la Ley de Aguas, normativa derivada y Planes y estrate­
+gias en materia de agua.
+•	
+C5. Inversión 1: Materialización de actuaciones de depuración, saneamiento, eficiencia, 
+ahorro, reutilización y seguridad de infraestructuras (DSEAR).
+•	
+C5. Inversión 3. Transición digital en el sector del agua (vigilancia y control del entorno 
+digital).
+En concreto, la inversión 3 plantea tres líneas de actuación y supondrá la puesta en funciona­
+miento de 26 herramientas o infraestructuras renovadas para mejorar el conocimiento y el uso 
+de los recursos hídricos, y para registrar las precipitaciones y otros datos meteorológicos para 
+prevenir los riesgos climáticos.
+Además, debido a la digitalización que este PERTE impulsa en el marco de la administración hi­
+dráulica, se relaciona, de forma complementaria, con el Componente 11, destinado a modernizar 
+las administraciones en España.
+Finalmente, ante la importancia de impulsar y promover el conocimiento sobre el agua mediante 
+la investigación de los componentes que intervienen en el ciclo y sus interacciones, así como
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+PERTE
+Observaciones
+Muy positivo, puesto que será básico para la mejora 
+de la gestión del agua, lucha contra la desertificación, 
+descarbonización, adaptación al cambio climático, 
+gestión de la sequía, inundaciones, etc.
+Muy positivo, puesto que es la base del PERTE para 
+con ello lograr los objetivos de transición ecológica 
+asociadas
+Muy positivo, puesto que además de todo lo anterior, el 
+PERTE aborda de forma general todos los municipios 
+de España y fomenta la agrupación, y cohesión 
+territorial siendo el reto demográfico una de las fuentes 
+inspiradoras del mismo.
+Este PERTE será una oportunidad para toda la sociedad 
+en general, no detectándose impactos adicionales en la 
+igualdad de género.
+9
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+mediante el desarrollo de soluciones innovadoras, el PERTE se vincula con el Componente 17, 
+relativo a la Reforma institucional y fortalecimiento de las capacidades del sistema nacional de 
+ciencia, tecnología e innovación. Este componente incluye actuaciones que orientan la I+D+i al 
+sector del agua o al ciclo del agua, en especial en su inversión I7.
+2.2. Conexiones del PERTE Digitalización del ciclo del agua otros 
+PERTE ya aprobados.
+El PERTE Digitalización del ciclo del agua presenta conexiones con otros PERTE ya aprobados. El 
+despliegue de las actuaciones de todos ellos contribuirá de forma decida al cumplimiento de sus 
+objetivos y, en particular, a la transición ecológica, economía circular, así como y al desarrollo de 
+un sector agrícola más sostenible en el que la implantación de soluciones tecnológicas optimice 
+el uso del agua.
+De un lado, el PERTE Digitalización del ciclo del agua se relaciona con el PERTE ERHA de energías 
+renovables, hidrógeno renovable y almacenamiento1. Las conexiones y similitudes entre ambos 
+se encuentran, como no puede ser de otra forma, en el nexo existente en el binomio agua y 
+energía, más aún en las acciones que tienen como objetivo la producción y aprovechamiento del
+hidrógeno renovable, en el marco del proyecto país hacia una economía descarbonizada, a través 
+del impulso de la cadena de valor del hidrógeno y su integración en los procesos productivos. 
+Existen también paralelismos importantes, como el “sello Energía NextGen” del PERTE EHRA y el 
+sello de transparencia del agua que prevé este PERTE Digitalización del ciclo del agua.
+De otro lado, existe conexión con el PERTE sobre Economía circular2. Considerando que la ges­
+tión de la industria y la producción industrial en general es fuente de residuos y que toda indus­
+tria necesita en mayor o menor medida el agua para la generación de sus productos y para el 
+reciclado de los mismos, la conexión entre ambos PERTEs es evidente. Cabe recordar, además, 
+que la Estrategia Española de Economía Circular (EEEC) define como objetivo mejorar un 10% 
+la eficiencia en el uso del agua, siendo la digitalización una de las herramientas básicas para su 
+consecución.
+Igualmente este PERTE nace de forma coordinada con el PERTE Agroalimentario3. El sector 
+agrícola es en principal usuario del agua. Por ello, las medidas concretas del PERTE Agroalimen­
+tario para apoyar el proceso de adaptación digital de todos los agentes que forman parte de su 
+cadena de valor (agricultores y ganaderos y sus cooperativas, pequeñas y medianas empresas 
+de producción, transformación y comercialización) y parte de las medidas específicas de apoyo 
+a la innovación y la investigación presentan sinergias muy importantes con el PERTE Digitali­
+zación del agua.
+Junto a ello, como se afirmaba anteriormente, la implantación de soluciones tecnológicas digita­
+les que optimicen el uso del agua en regadíos (actuación fomentada por este PERTE Digitaliza­
+ción del ciclo del agua) contribuye significativamente a los objetivos del PERTE Agroalimentario 
+y, en concreto, a avanzar hacia una agricultura más sostenible e inteligente.
+1	
+Aprobado por el Consejo de ministros el 14 de diciembre de 2021 prevé la inversión de 6.920 millones de 
+euros de capital público y 9.450 millones de euros de capital privado con una movilización total de 16.370 mil­
+lones de euros.
+2	
+Aprobado por el Consejo de ministros el 8 de marzo de 2022 prevé ayudas por valor de 492 millones de 
+euros y se espera movilizar recursos superiores a los 1.200 millones hasta el año 2026.
+3	
+Aprobado por el Consejo de ministros el 8 de febrero de 2022 prevé una inversión pública de unos 
+1.000 millones de euros hasta 2023, con un impacto en la economía de unos 3.000 millones de euros.
+10
+Finalmente, es destacable la conexión entre este PERTE y el anunciado PERTE del Sector ae­
+roespacial. En concreto, es destacable el uso de datos e imágenes obtenidos desde satélites que 
+permiten realizar un seguimiento permanente y diario del estado de los recursos del agua. Lo 
+que contribuye a generar más información sobre el agua y una modernización de la gestión del 
+ciclo del agua mediante la aplicación de los resultados de la investigación o tratamiento de estos 
+datos.
+2.3. El PERTE Digitalización del ciclo del agua como complemento 
+a la implantación de la Agenda 2030 y otros planes existentes
+Este PERTE Digitalización del ciclo del agua es desarrollo claro de la Agenda 2030 sobre 
+el Desarrollo Sostenible4. El ODS 6 sobre acceso al agua de calidad recoge, por ejemplo, 
+la creación y mantenimiento de la Mesa del Ciclo Urbano del Agua e identifica, como 
+una de las metas a alcanzar en 2030, una mejora del 10% en la eficiencia del uso del agua, 
+introduciendo medidas para el aumento de la circularidad del ciclo del agua y de dismi­
+nución del consumo neto.
+Para el cumplimiento de esta meta, la digitalización de los usos del agua se considera 
+nuevamente como una herramienta clave, tal y como se recogió en el  Libro Verde de la 
+Gobernanza del Agua en España, elaborado por el Ministerio para la Transición Ecológica 
+y Reto Demográfico en 2020 tras un importante proceso participativo, coordinadamen­
+te con el Plan Nacional de Depuración, Saneamiento, Eficiencia, Ahorro y Reutilización (Plan 
+DSEAR) aprobado en 2021.
+Por otro lado, el Plan Nacional de Adaptación al Cambio Climático (PNACC) 2021-2030 
+identifica como una de sus prioridades el impulso de la gestión del agua y de los recur­
+sos hídricos en general. Ello se debe a que los impactos del cambio climático sobre el 
+agua genera una mayor incertidumbre sobre su disponibilidad ante la variabilidad de 
+fenómenos atmosféricos cada vez más frecuentes y extremos y al aumento de las tem­
+peraturas, en un contexto de incremento de la demanda del agua.
+El PNACC establece 6 líneas de acción en materia de agua y recursos hídricos que re­
+quieren de un conocimiento profundo de la gestión del agua y de los ecosistemas aso­
+ciados, aspectos en los que la digitalización del agua es por otra parte esencial.
+Por su parte, las 130 medidas frente al Reto Demográfico elaboradas por el Ministerio para la Transi­
+ción Ecológica y Reto Demográfico se orientan a garantizar la incorporación de los pequeños mu­
+nicipios5 en una recuperación verde, digital, con perspectiva de género, e inclusiva. Dentro de estas 
+130 medidas se ha incorporado varias relacionadas con la gestión del agua y su digitalización, a tra­
+vés de un Plan de saneamiento y depuración para pequeñas aglomeraciones urbanas y otro Plan 
+para la mejora de la eficiencia en las redes de abastecimiento de medianos y pequeños municipios
+ que están en estos momentos en fase de implementación.
+Finalmente, en marzo de 2020, tras declararse el estado de alarma originado por la pandemia, se creó 
+un Grupo de Trabajo específico sobre la “Incidencia de la COVID 19 en los servicios de abastecimiento
+4	
+Cuenta con 17 Objetivos de Desarrollo Sostenible, que incluyen desde la eliminación de la pobreza 
+hasta el combate al cambio climático, la educación, la igualdad de la mujer, la defensa del medio ambiente 
+o el diseño de nuestras ciudades y que en España son coordinados por el Ministerio de Asuntos Sociales y 
+Agenda 2030 a través de la Estrategia de desarrollo sostenible 2030
+5	
+Ambos documentos están en fase de implementación.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+11
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+y depuración de aguas”. Tras reunirse cinco veces durante los meses de abril y mayo de forma tele­
+mática, este grupo dio lugar a la “Mesa de Evaluación del Ciclo Urbano del Agua” en la que, además 
+del MITERD y las asociaciones de operadores, también están presentes la Federación Española de 
+Municipios y Provincias, las organizaciones sindicales y las asociaciones de usuarios.
+La Mesa pretende recopilar información referida, por ejemplo, al cumplimiento de las directivas 
+sobre aguas potables y aguas residuales, y a poner en marcha reformas de carácter estructural 
+que conduzcan a un mejor modelo de gobernanza en los servicios del agua urbana mediante los 
+términos de referencia que se acordaron el 22 de marzo de 2021, entre los que esta lógicamente 
+el impulso a la digitalización del agua urbana. Es destacable, por tanto, que buena parte del aná­
+lisis y medidas incorporadas en este PERTE Digitalización del ciclo del agua parten de los trabajos 
+desarrollados en el seno de esta Mesa.
+12
+que supone el cambio climático.
+3
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+El agua es uno de los recursos básicos y esenciales para la vida y también es un componente 
+estratégico de las economías de los distintos países del planeta. Además, es un sector que en el 
+marco de la transición ecológica presenta un enorme potencial económico.
+Si bien, España se enfrenta a un desafío país asociado a la escasez de agua que se suele calificar 
+como una de las amenazas más acuciantes o de primer orden para el ciclo del agua.
+Por ello, la modernización de la gestión del ciclo del agua para alcanzar una gestión más sosteni­
+ble y eficiente del agua se erige como una prioridad.
+3.1. Importancia del agua en la actividad económica española y los 
+principales actores del sector
+Importancia del agua en la actividad económica española
+Conforme al Informe de las Naciones Unidas sobre el desarrollo de los recursos hídricos en el
+mundo 2016: agua y empleo, la mitad de la mano de obra mundial está empleada en ocho sec­
+tores que dependen del agua y de los recursos naturales: agricultura, bosques, pesca, energía, 
+producción con uso intensivo de recursos, reciclaje, construcción y transportes.
+De ello se desprende que el agua posee un enorme potencial económico: una gestión soste­
+nible y eficiente del agua, el acceso a un suministro seguro, fiable y asequible de agua y la exis­
+tencia de servicios de saneamiento adecuados, mejoran el nivel de vida, expanden las economías 
+locales y promueven la creación de puestos de trabajo más dignos y a una mayor inclusión social. 
+Junto a ello, una a gestión sostenible y eficiente del agua es también un motor esencial para el 
+crecimiento verde y el desarrollo sostenible, así como para el impulso de la economía circular.
+En diversos estudios, los puestos de trabajo en el sector del agua se agrupan en aquellos que 
+se dedican a la gestión integrada de los recursos hídricos y la restauración y rehabilitación de 
+ecosistemas; a los que se dedican a la construcción, uso y mantenimiento de las infraestructuras 
+hídricas; y los que se dedican a la prestación de servicios relacionados con el agua, incluido el su­
+ministro de agua, el saneamiento y la gestión de aguas residuales.
+Conforme al informe de la ONU, la importancia de estos puestos de trabajo radica, entre otras, en que 
+sirven para sentar las bases a partir de las cuales pueden surgir una amplia gama de oportunidades
+13
+LA GESTIÓN DEL CICLO DEL
+AGUA EN ESPAÑA:
+Una prioridad ante el desafío país
+laborales en sectores como la agricultura (incluidas la pesca y la acuicultura), la energía y la industria, 
+desplegando, por tanto, un importante efecto multiplicador.
+Los actores del sector
+El sector del agua y la gestión del ciclo del agua en un sector de gran complejidad en el que in­
+tervienen una multiplicidad de actores con fuertes interrelaciones. A efectos expositivos se puede 
+diferenciar, de un lado, a la administración hidráulica y, de otro lado, a los usuarios.
+En relación con la administración hidráulica, se trata de un concepto que engloba a los distintos 
+niveles de la administración. En el ámbito de la Administración General del Estado se encuen­
+tran los ministerios implicados en su gestión directa, fundamentalmente: el Ministerio de Transi­
+ción Ecológica y Reto Demográfico, las Confederaciones Hidrográficas y sus sociedades estatales 
+(ACUAMED, ACUAES); y, también el Ministerio de Agricultura, Pesca y Alimentación y en especial, 
+la Sociedad Mercantil Estatal de Infraestructuras Agrarias (SEIASA). Por parte de las Comunida­
+des Autónomas actúan en dos niveles distintos: uno, con competencias exclusivas en las cuencas 
+intracomunitarias; y, otro, con competencias complementarias en las cuencas intercomunitarias. 
+Finalmente, en el ciclo urbano del agua, las administraciones competentes son los municipios y 
+otras entidades locales competentes, representados a través de la Federación Española de Mu­
+nicipios y Provincias, que, junto con múltiples operadores, públicos o privados, del ciclo urbano 
+del agua gestionan el agua urbana. Las distintas administraciones locales han ido desarrollando 
+distintos mecanismos de gestión que varían desde una gestión propia municipal hasta grandes 
+entes supramunicipales, con componentes públicas, privadas y mecanismos de colaboración pú­
+blico-privados.
+En cuanto a los usuarios, se suele distinguir junto al ciclo urbano, el regadío y el uso industrial.
+En materia de regadío, son esenciales las Comunidades de Regantes y Comunidades de usua­
+rios de aguas subterráneas que agrupan numerosos usuarios en materia de aguas superficia­
+les y subterráneas a la hora de compartir infraestructuras y sistemas de regadío en las zonas 
+regables.
+Por otro lado, el sector industrial siempre necesita agua para sus procesos, por lo que existe un 
+gran sector industrial implicado en la gestión del agua, tanto en las concesiones como en la ges­
+tión de los vertidos residuales.
+A nivel asociativo, existen en España tres grandes representantes del sector, representados en la
+Asociación Española de Abastecimientos de Agua y Saneamiento (AEAS), la Asociación Española 
+de Empresas Gestoras de los Servicios de Agua a Poblaciones (AGA) y la Asociación Española de 
+Operadores Públicos de Abastecimiento y Saneamiento (AEOPAS).
+Este mapa de actores se complementa con los centros de investigación, universidades y empre­
+sas de gestión de servicios, startup y otras empresas asociadas a la gestión de la información, 
+compañías de telecomunicaciones, sensorización, y otros elementos tecnológicos que hacen que 
+el sector del agua sea uno de los sectores punteros de tecnología en España.
+En este sentido, se puede afirmar que España es una referencia mundial en la gestión y el 
+aprovechamiento del agua, gracias a la relación entre los usuarios y las empresas de gestión 
+del agua, desde consultoras especializadas en planificación hidrológica hasta grandes grupos 
+con amplia experiencia e internacionalización en abastecimiento o desalinización y referentes 
+en digitalización.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+14
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Demanda de agua en España y principal origen de los recursos hídricos
+Según los planes hidrológicos de cuenca, la demanda estimada en España para el año 2021 fue 
+del orden de los 32.000 hm3/año. El principal uso del agua es el regadío y usos agrarios, que su­
+pone aproximadamente el 80,5% de esta demanda, le sigue el abastecimiento urbano que repre­
+senta el 15,5%. El resto recae en el uso industrial.
+En relación con el origen de los recursos hídricos destinados a atender las demandas de agua: 
+los recursos superficiales (sin incluir la mayor parte de las transferencias externas) superan lige­
+ramente los 20.600 hm3, lo que supone un 71,6% del total; mientras que los subterráneos, cerca 
+de los 6.800 hm3, representan un 23,5%. Los recursos no convencionales (considerando sólo los 
+aplicados en los principales usos consuntivos) suponen algo más de 815 hm3, un 2,8% del total.
+3.2. Diagnóstico del sector del ciclo urbano del agua y del sector 
+industrial.
+De acuerdo con la Estadística sobre el Suministro y Saneamiento del Agua, que realiza 
+el Instituto Nacional de Estadística (2018), el ciclo urbano del agua supuso aproximada­
+mente el 1% del PIB y facturó de media al año unos 7.600 millones de euros. Generó, 
+además, unos 27.000 empleos directos y otros 35.000 indirectos durante el año 2018 
+en el que se suministraron a las redes públicas de abastecimiento urbano 4.236 hm3, de 
+los cuales aproximadamente las tres cuartas partes (3.188 hm3) fueron volúmenes de 
+agua registrada, es decir, medidos en los contadores de los usuarios. El resto (1.048 hm3) 
+fueron volúmenes de agua no registrados (no medidos o estimados mediante aforos).
+Las pérdidas de agua que se producen en el ciclo urbano del agua son un elemento 
+destacado tanto por la Comisión Europea, como por el Libro Verde de la Gobernanza del 
+Agua en España, así como por el XVI Estudio nacional de suministro de agua potable 
+y saneamiento elaborado por la Asociación Española de Abastecimientos de Agua y 
+Saneamiento (AEAS) y la Asociación Española de Empresas Gestoras de los Servicios de 
+Agua Urbana (AGA) en 2020.
+En materia de uso industrial del agua, en el último informe de seguimiento de la 
+implantación de los planes hidrológicos de cuenca se estima en unos 1.264,04 hm3/año 
+con unas demandas para el horizonte 2021 de 983,85 hm3/año. Entre las características de 
+la demanda industrial puede señalarse que, al igual que la de abastecimiento urbano, 
+exige altos niveles de garantía de suministro.
+Los requisitos en cuanto a la calidad del recurso, sin embargo, varían en función del tipo 
+de industria y de la participación del agua en el proceso.
+En particular, las necesidades de agua vienen determinadas por las diferentes formas 
+de utilización dentro de la industria (refrigeración, producción de vapor, incorporación 
+al producto, etc.) y son función de una serie de variables específicas, como la cantidad 
+y tipo de producto final elaborado, el número de empleados, el sistema de fabricación 
+adoptado, la existencia y características del reciclaje (reutilización dentro de la propia 
+factoría), etc. También de forma similar al abastecimiento urbano, la distribución 
+estacional de esta demanda es prácticamente uniforme a lo largo del año.
+Las dotaciones empleadas dependen de factores de diversa índole, influyendo, en gran 
+medida, la escasez o abundancia de agua. Se suele producir, de hecho, una frecuente
+15
+acomodación de la demanda a la oferta, pudiéndose reducir apreciablemente el 
+volumen de agua necesario mediante los adecuados procedimientos de fabricación. No 
+es de extrañar, por tanto, que industrias del mismo ramo y con producciones similares 
+demanden cantidades de agua muy diferentes.
+En cuanto a los vertidos de aguas residuales, el informe de situación de la implantación 
+del Censo Nacional de Vertidos de 2020, las Aguas residuales industriales vertidas desde 
+locales utilizados para cualquier actividad comercial o industrial, que no sean aguas 
+residuales domésticas ni aguas de escorrentía pluvial dispone de una cifra de vertidos 
+autorizados  15.539 hm3, que casi cuatriplican en volumen a los vertidos urbanos, debido 
+en gran parte a los procesos de refrigeración de las instalaciones de producción de 
+energía eléctrica, lo que da una relevancia de la importancia de una correcta gestión de 
+estos vertidos.
+3.3. Diagnóstico del sector del regadío.
+El regadío ha sido y sigue siendo uno de los pilares del desarrollo rural, del equilibrio territorial y 
+de la seguridad alimentaria. Por otra parte, el regadío es un elemento básico de nuestro 
+sistema agroalimentario y es el principal usuario del agua en España.
+La superficie regada en España supone un 22,6 % referido a la superficie cultivada. Pese 
+a ser un porcentaje pequeño de la superficie agraria útil, contribuye en un 65% a la pro­
+ducción final vegetal, representando, todo el sector primario en relación un 3,1% del PIB 
+y empleando, también todo el sector primario, un 4 % de la población ocupada. Además, 
+multiplica su efecto a través de la cadena agroalimentaria, uno de los pilares económi­
+cos de nuestro país en términos de producción, balanza de pagos y empleo. El potencial 
+productivo que supone nuestra superficie regada tiene como contrapartida el uso de un 
+volumen importante de agua en un país con territorios donde ésta es escasa.
+En el marco actual, la gestión sostenible de los regadíos es coordinada por el Ministerio 
+de Agricultura, Pesca y Alimentación, integrando una gestión inteligente, sostenible e 
+integradora.
+En este sentido, destaca el Centro Nacional de Tecnología de Regadíos (CENTER), adscrito a la 
+Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del MAPA, un 
+centro tecnológico especializado en normalización y ensayo de materiales y equipos de riego, que 
+dispone además de una finca agrícola experimental de regadío y el Laboratorio Central de Ensa­
+yos de Equipos y Materiales de Riego que opera bajo la norma de calidad ISO 17.025.
+Por su importancia, destaca igualmente la información tecnológica que ofrece el MAPA que el 
+Sistema de Información Agroclimática para el Regadío de España (SIAR) disposición de los usua­
+rios de forma gratuita toda la información recogida a través de la Red de estaciones agrometeo­
+rológicas de existentes.
+Dentro de este marco, el MAPA dispone de la Sociedad Mercantil Estatal de Infraestructuras 
+Agrarias, SEIASA, dependiente de la Dirección General de Desarrollo Rural, Innovación y Política 
+Forestal, para la modernización y consolidación de los regadíos contemplados en el Plan Nacional 
+de Regadíos y declarados de interés general.
+En materia de regadíos, de forma general y simplificando al máximo el marco normativo, existen 
+dos modelos de gobernanza, uno en el que las administraciones públicas (organismos de cuenca
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+16
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+o Comunidades Autónomas) gestionan grandes infraestructuras de titularidad pública y dan ser­
+vicio en alta a diversos concesionarios, agrupados como norma general en Comunidades de Re­
+gantes, y otro modelo en el que los usuarios directamente gestionan todas sus infraestructuras. 
+A nivel asociativo, destaca, como uno de los elementos más importantes a la hora de coordinar 
+todo este sistema, la Federación Nacional de Comunidades de Regantes de España (FENACORE) 
+que es una asociación sin ánimo de lucro que agrupa a las entidades (comunidades de regantes, 
+sindicatos de riegos, etc.) dedicadas a la administración del agua para riego, tanto superficial 
+como subterránea.
+Para la descripción técnica del regadío en España, tomando como fuente la última Encuesta 2020 
+de Superficies y Rendimientos de Cultivos (ESYRCE), publicada por el Ministerio de Agricultura, 
+Pesca y Alimentación, el total de la superficie regada en España se cifra en torno a las 3.829.000 ha.
+Los principales sistemas de regadío se distribuyen de la siguiente forma.
+•	
+El sistema de riego localizado se encuentra implantado en 2.032.755 ha, lo que supone el 
+53,09% del total de la superficie regada.
+•	
+El sistema de riego por gravedad concentra el 23,56% con 902.163 hectáreas.
+•	
+El sistema de riego por aspersión suma 572.219 ha, suponiendo el 14,95%.
+•	
+Finalmente, el sistema de riego automotriz se encuentra implantado en 321.609 hectá­
+reas que suponen el 8,40% de la superficie total de riego.
+La gran mayoría de la superficie regable española se trata de regadíos gestionados de forma co­
+munitaria. El regadío español se realiza con aguas superficiales (68%) en valles alimentados por 
+los ríos que los surcan, con las excepciones de las zonas de riego con aguas subterráneas.
+Para impulsar la transición digital del sector agroalimentario a lo largo de toda la cadena, el Mi­
+nisterio de Agricultura, Pesca y Alimentación ha desarrollado la Estrategia de Digitalización del 
+Sector Agroalimentario y Forestal y del Medio Rural,  informada en Consejo de Ministros el 29 de 
+marzo de 2019, define las líneas estratégicas y medidas necesarias para impulsar la transforma­
+ción digital de los sectores agroalimentario y forestal y del medio rural, así como los instrumentos
+previstos para su implementación.
+Su objetivo general es buscar la eliminación o reducción de las barreras técnicas, legislativas, 
+económicas y formativas existentes en la actualidad, contribuyendo así al liderazgo de un sector 
+agroalimentario sostenible económica, social y medioambientalmente, y al poblamiento activo 
+del medio rural haciéndolo un lugar más atractivo, vivo, dinámico y diversificado, generador de 
+riqueza y de empleo de calidad, con especial atención a jóvenes y mujeres.
+Para ello, se han establecido los tres objetivos estratégicos siguientes:
+•	
+OBJETIVO 01. Reducir la brecha digital, tanto la urbana-rural como la existente entre pe­
+queñas y grandes empresas, persiguiendo que haya conectividad para todos.
+•	
+OBJETIVO 02. Fomentar el uso de datos como motor de impulso sectorial, abordando la 
+interoperabilidad de datos del sector y la apertura de datos, tanto por parte de la Admi­
+nistración como en el ámbito de la investigación y del sector privado.
+•	
+OBJETIVO 03. Impulsar el desarrollo empresarial y los nuevos modelos de negocio, te­
+niendo presente la Industria 4.0 y las oportunidades de diversificación económica que 
+ofrecen las nuevas tecnologías.
+17
+El comienzo de la implementación de la Estrategia de Digitalización del MAPA fue a tra­
+vés del I Plan de Acción 2019-2020, estando en estos momentos en ejecución el II Plan de 
+Acción 2021-2023, en el que se aprovecha todo el conocimiento y experiencia del primer 
+plan de acción y se incluye inversiones del  Plan de Recuperación, Transformación y Re­
+siliencia y está en línea con la nueva PAC y el Pacto Verde, coordinados ya que partir de 
+2023, entrarán en vigor el Plan Estratégico de la PAC (2327), cuya reforma se prevé que 
+se apruebe en el primer semestre de 2022.
+Entre las actuaciones cofinanciadas por el PRTR de ejecución directa del MAPA recogidas en 
+el II Plan de Acción 2021-2023, se incluye la creación de un Hub de innovación digital (iHuB) 
+para agentes del sector agroalimentario. El objetivo del iHub es constituir un entorno facilita­
+dor para empresas, Administraciones, Universidades, centros de investigación, etc. generan­
+do un ecosistema propicio para el impulso del uso de las tecnologías digitales en el sector. Ori­
+ginalmente se proyecta su creación en dependencias que el MAPA tiene en San Fernando de 
+Henares del CENCA (Centro Nacional de Capacitación Agraria) y del CENTER (Centro Nacional 
+de Tecnología de Regadíos), pero con vocación de ampliación a otras instalaciones de interés 
+en el territorio nacional. Comenzará con temáticas de impulso a las tecnologías digitales en 
+regadío, para continuar ampliándose a la agricultura de precisión y posteriormente el objetivo 
+a largo plazo es alcanzar un espectro amplio de la digitalización en toda la cadena de valor.
+En su nuevo modelo, la PAC incorpora en su regulación el mandato de diseñar estrategias de 
+digitalización, en concreto, una descripción de cómo las tecnologías digitales se usarán en la 
+agricultura y en las zonas rurales para mejorar la eficiencia y efectividad de las intervenciones 
+del Plan Estratégico de la PAC, todo ello igualmente conforme con lo que la UE ha establecido 
+en su nuevo marco estratégico, el Green Deal, los principios productivos para todos los secto­
+res económicos que han de seguir la senda de la transición digital y la sostenibilidad.
+Uno de los pilares del Green Deal es la Estrategia Farm to Fork, cuyos objetivos princi­
+pales persiguen asegurar la seguridad y la sostenibilidad de los alimentos, más saluda­
+bles y asequibles, combatiendo al mismo tiempo el cambio climático y estableciendo un 
+rendimiento económico justo a lo largo de toda la cadena alimentaria, pero respetando 
+y conservando el medio ambiente. La nueva PAC establece que, en términos generales, 
+las soluciones a muchos de estos retos residen en una agricultura “más inteligente”, más 
+precisa y sostenible, todo ello de forma coordinada con el PERTE Agroalimentario,
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+18
+CICLO DEL AGUA
+4
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+4.1. Desafíos del ciclo del agua.
+Entre los distintos desafíos a los que se enfrente el ciclo del agua, se destacan, a continuación, 
+aquellos relevantes a los efectos de este PERTE.
+Cambio climático y disponibilidad del agua
+Como se viene señalando en esta memoria, el principal desafío al que se enfrenta el ciclo del 
+agua -y al que atiende este PERTE- es la disponibilidad de agua (y su escasez).
+Muchas de las masas de agua presentan elevados índices de explotación, por lo que se encuentran 
+en situación de sobreexplotación. Además, a nivel de cuenca hidrográfica, los balances y 
+equilibrios entre demanda de agua y disponibilidad de recursos hídricos son muy frágiles, con 
+relevantes desafíos, requerimientos ambientales y oscilaciones debidas al régimen hidrológico 
+mediterráneo y las sequías periódicas a las que estamos sometidos.
+Debe tenerse en cuenta que, como efecto del cambio climático, se producen en España fenómenos 
+climáticos cada más frecuentes y extremos en el que se alternan periodos de sequías -intensas-, 
+grandes episodios de inundación y un aumento de las temperaturas que agravan la incertidumbre 
+en la disponibilidad del recurso y pone en riesgo la sostenibilidad de los ecosistemas.
+Del sexto informe de evaluación del IPCC, que trata de los impactos, adaptación y vulnerabilidad
+del cambio climático, se extraen algunos datos de interés.
+El calentamiento global observado alcanza 1,1°C sobre la época preindustrial. En este contexto, 
+en el sur de Europa, más de un tercio de la población sufrirá escasez de agua con 2ºC de 
+calentamiento; el doble, si se llega a 3ºC, lo que según el informe, conllevará un aumento de las 
+pérdidas económicas en los sectores dependientes del agua y la energía.
+El IPCC señala que habrá menos tierra cultivable si la temperatura sigue en escala ascendente. 
+Las pérdidas de cosechas por sequía se han triplicado en Europa en los últimos 50 años.
+En materia de disponibilidad de recursos hídricos, las previsiones actuales de acuerdo con el 
+estudio de Evaluación del impacto del cambio climático en los recursos hídricos y sequías en 
+España realizado por el Centro de Estudios y Experimentación de Obras Públicas (CEDEX) en 
+2017, se estiman mayoritariamente descensos de precipitación, siendo mayores estos descensos 
+en el cuadrante sur oeste de la Península y en los archipiélagos.
+19
+DESAFÍOS Y 
+OPORTUNIDADES 
+EN LA GESTIÓN DEL
+Para el conjunto de España, la media de los descensos de precipitaciones para los RCP 4.5 y 8.5 
+son respectivamente del -2% y - 4% para 2010-2040, -6% y -8% para 2040-2070 y -7% y -14% para 
+2070-2100.
+Ahora bien, la escorrentía es la variable que mejor caracteriza los recursos hídricos de una 
+zona y tiene mayor aplicación práctica. Promediando los resultados de las proyecciones para 
+España, se estiman siempre descensos de escorrentía; los cambios para los RCP 4.5 y 8.5 son 
+respectivamente del -3% y -7% para 2010-2040, -11% y -14% para 2040-2070 y - 13% y -24% para 
+2070-2100.
+Es decir, de forma general en España, a partir del año 2040 tendremos de media alrededor de un 
+12% menos de aportaciones y para el año 2070-2100 puede llegar hasta el 24% de reducción de 
+recursos hídricos.
+En relación con los episodios extremos e inundaciones, en los estudios realizados, también 
+en parte por el CEDEX en 2021 para la revisión y actualización de los Planes de gestión 
+del riesgo de inundación, se concluye que alrededor del 25-30% de las zonas de alto riesgo 
+de inundación en España presentarían un incremento probable significativo del riesgo de 
+inundación debido al cambio climático para ambos escenarios RCP, aumentando según el 
+periodo de retorno. Un 14-19% de estas zonas presentará un incremento probable altamente 
+significativo.
+Por lo tanto, ante estas previsiones asociadas a los efectos del cambio climático resulta imprescin­
+dible intensificar los esfuerzos para preservar el ciclo del agua.
+Control de los vertidos, estado y calidad del agua
+El control de los vertidos de aguas residuales, la contaminación difusa y en general, la mejora 
+del estado de las masas de agua en general y de la calidad del agua es otro gran reto del en 
+la gestión del agua, vinculado a los contaminantes clásicos (detergentes, pesticidas, vertidos 
+industriales), pero también microplásticos y otro tipo de sustancias, tanto en situación normal 
+como en los episodios de lluvia, y en especial, la problemática derivada de la contaminación 
+difusa.
+Infraestructuras disponibles: pérdidas de agua tanto en el uso urbano como en el 
+regadío
+Tanto en el sector del ciclo urbano como en el del regadío se vienen detectando pérdidas nota­
+bles de agua.
+Ello ha sido destacado también por la Comisión Europea en el “informe país”, elaborado en 2020 
+en el que se hace referencia a la necesidad de disminuir estas pérdidas de agua, en el que se 
+identifica como una prioridad de reforma para España: “Por lo que respecta a la gestión del agua, 
+es necesaria más inversión en infraestructuras para reducir las fugas en las redes y mejorar el 
+suministro de agua y el tratamiento de las aguas residuales.
+Según AEAS6, a partir de los datos de los operadores sobre la distribución de las diferentes pérdi­
+das, actualmente en España, la media del índice Agua No Registrada (ANR) en el ciclo urbano es 
+el 23%, de la cual, aproximadamente el 14% se considera como pérdidas reales, siendo el reparto 
+estimado el siguiente:
+6	
+Extraído del XVI Estudio nacional de suministro de agua potable y saneamiento elaborado por la Aso­
+ciación Española de Abastecimientos de Agua y Saneamiento (AEAS) en 2020.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+20
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+En cuanto a la relación entre tamaño de ciudad y ANR, según AEAS, son las ciudades entre 20.000 
+y 100.000 habitantes donde mayores cifras se obtienen, alcanzando valores cercanos al 30%, siendo 
+las grandes ciudades y ámbitos metropolitanos donde se reduce este valor hasta menos del 20%.
+En los sistemas de conducción de agua para el regadío las pérdidas se producen bien por fugas 
+y roturas o por evapotranspiración del agua en las acequias y canales de transporte, si bien no 
+existen datos sistemáticos que permitan conocer con detalle estas pérdidas.
+Incompleta digitalización del ciclo del agua: a nivel usuarios y a nivel administración
+A diferencia de otros sectores, se viene detectando una incompleta digitalización del ciclo del 
+agua, tanto a nivel usuarios como en el ámbito de la administración.
+A nivel administración hidráulica, en la actualidad se está trabajando en la implantación del Re­
+gistro de Aguas electrónico. El Registro de Aguas es el registro público de los aprovechamientos 
+de aguas, donde se inscriben los derechos al uso privativo, adquiridos por sus titulares por con­
+cesión administrativa o por disposición legal. No solamente se inscribe el título inicial, sino todas 
+las modificaciones que sufra ese derecho. A la vez se está mejorando y consolidando la aplicación
+informática del Registro de Aguas y la Base Central de Datos con el fin de mejorar la información 
+disponible sobre los distintos aprovechamientos de agua en las distintas cuencas hidrográficas. 
+Sin embargo, todavía es necesario avanzar en la modernización de la administración.
+Por lo que respecta a los usuarios, el Estudio sobre el Suministro de agua potable y saneamiento en Es­
+paña que realiza AEAS y AGA señala que, la mayor parte de las redes de abastecimiento y saneamiento 
+(en el ciclo urbano e industrial) disponen de cartografía digital, si bien no más del 60% de las redes de 
+abastecimiento pueden ser telemandadas y solo un 25% de la red de alcantarillado. La existencia de 
+modelos numéricos de las redes abarca aproximadamente a un 77% de la red de abastecimiento y ape­
+nas un 50% de la red de alcantarillado. Aproximadamente un 16% de los contadores tienen telelectura.
+Falta de información completa sobre el uso del agua
+Debido, entre otros factores, a la incompleta digitalización del ciclo del agua, no se dispone, en 
+plena sociedad del conocimiento, de información completa sobre el uso del agua.
+21
+Ilustración 1 Distribución del agua no registrada (ANR) en España según AEAS, 2020.
+En un contexto en el que el cambio climático genera mayores variaciones atmosféricas y clima­
+tológicas y una mayor incertidumbre en la disponibilidad de este recurso, resulta imprescindible 
+conocer con mayor exactitud las reservas de agua, así como los suministros y consumos actuales 
+y las demandas futuras.
+Una información precisa y actualizada permite un mejor control y gestión del agua tanto a la 
+administración como a los propios usuarios, en pro de una mejor toma de decisiones en el uso 
+eficiente y racional del recurso que redunde en el beneficio de todos y en la protección a largo 
+plazo de los recursos hídricos.
+Carencias en el control efectivo de los usos del agua
+Otro gran desafío en relación con los mecanismos de gobernanza es el control efectivo de los 
+usos del agua que se deriva del cumplimiento de la normativa en materia de aguas.
+De acuerdo con la normativa, a partir de la gestión planificada de todos los recursos hídricos que se 
+efectúa mediante los planes hidrológicos de cuenca y de las bases que en ellos se establecen, se van 
+materializando los usos del agua (captación, utilización y retorno) a través de la implantación de los 
+distintos programas de medidas y de las concesiones administrativas. Así, los distintos concesionarios 
+y titulares de autorizaciones de vertido cumplen los condicionados establecidos en las concesiones y 
+gestionan toda la información derivada, de forma que se establece una gestión integral del ciclo del 
+agua, desde su captación, utilización y retorno al dominio público hidráulico.
+En relación con el control de los caudales concedidos en las concesiones y, a partir de ellos, 
+de los consumos que realizan los distintos usuarios, a lo largo de los últimos años, impulsado 
+por los diferentes cambios normativos en la legislación en materia de agua, se ha ido avan­
+zando en el control efectivo de los volúmenes de agua extraídos y, en su caso, retornados 
+al dominio público hidráulico, estableciéndose la obligación de contar los concesionarios 
+de las aguas con sistemas de medición que permitan comprobar y controlar los caudales 
+utilizados.
+Si bien, es necesario aprovechar las oportunidades que ofrece la digitalización para así poder disponer 
+de la información necesaria en tiempo y forma adecuados y efectuar un adecuado y efectivo control de 
+los recursos del agua.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+22
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+4.2. Oportunidades del ciclo del agua: especial referencia a la 
+digitalización.
+Como se ha visto en el apartado 2 de esta memoria, el Plan de Recuperación supone una oportunidad 
+para modernizar la gestión del agua, y contempla un buen número de iniciativas orientadas a impulsar 
+este cambio de modelo.
+Todos los desafíos identificados demuestran que es imprescindible avanzar hacia una gestión 
+más eficiente y sostenible del agua, con especial atención a la digitalización del sector del agua, 
+al uso de las nuevas tecnologías, a herramientas de información y telecomunicaciones, así como a 
+la investigación e innovación que contribuirán a aumentar el conocimiento de los usos y deman­
+das del recurso, mejorando la gobernanza de la gestión y redundando en importantes ahorros 
+en las demandas de agua, detectando de forma precoz fugas y roturas, filtraciones, etc. De la 
+misma manera, permitirá poner a disposición de los ciudadanos y de los agentes del sector toda 
+la información del ciclo del agua, lo que permitirá la participación en la gestión de la demanda 
+del recurso.
+Esta circunstancia ya de identificó igualmente en el marco de la elaboración del Libro Verde de la Go­
+bernanza del Agua en España publicado en marzo de 2020 se elaboraron una serie de propuestas en 
+materia del incremento de la digitalización del sector del agua en España, elaborándose un informe 
+específico sobre la digitalización del sector del agua que ha servido de base para la realización de las 
+propuestas que se realizan en este PERTE.
+El impulso a la digitalización en materia de control e inspección de vertidos redundará nota­
+blemente en la optimización de los recursos destinados por todas las administraciones en estas 
+tareas, además de conseguir una mejora de la tutela del dominio público hidráulico y de la cali­
+dad de las aguas en general.
+Por su parte, la digitalización en el sector del ciclo urbano del agua es una gran oportunidad 
+para mejorar todo el ciclo de gestión del agua urbana, desde la captación del agua asociada al 
+dominio público hidráulico, la potabilización, distribución, telelectura, saneamiento, depuración, 
+reutilización y su devolución al dominio público hidráulico a través de los procesos de depuración
+asociados, incluyendo la gestión de los episodios de lluvia y los desbordamientos de los sistemas 
+de saneamiento.  En este sentido, destaca la oportunidad que ofrece la telelectura de los con­
+tadores como herramienta de mejora de la transparencia ante el ciudadano, que gozará de una 
+mayor transparencia a la hora de acceder a sus consumos, ya que la telelectura le permite cono­
+cer sus consumos reales y no estimados, en tiempo real , pero además, supondrá un importante 
+impulso a la gestión de las aguas en general, y del abastecimiento en particular, puesto que al no 
+necesitar visitar los contadores y con ello reducir la contaminación asociada al transporte y  con 
+ello se reduce la emisión de CO2 a la atmósfera (ODS 13), disminuyendo la siniestralidad laboral 
+contribuyendo al ODS 8; y siendo capaz de aportar información al ámbito social (ODS 3) facilitan­
+do, por ejemplo, la implantación de sistemas de teleasistencia.
+La digitalización en general y la telelectura de los consumos de agua se basa en tres grandes 
+elementos: contadores inteligentes, sistemas de comunicación y plataformas de análisis Big 
+data de toda esta información. Actualmente en España ya hay experiencias muy positivas e 
+innovadoras en estos tres ámbitos, de forma que, existen ya importantes proveedores de con­
+tadores nacionales capaces de suministrar, con las incertidumbres existentes, los contadores 
+que se va a necesitar para la digitalización del país. De acuerdo con consultas realizadas a fa­
+bricantes individuales y a la Asociación española de fabricantes de contadores de agua potable 
+(ANFAGUA), se estima que hasta 2026 se podrían construir y equipar entre 23 y 46 millones de
+23
+contadores IoT en el mercado español, valor suficiente puesto que, de acuerdo con el estudio de 
+AEAS, actualmente en España se estima un parque de contadores de agua urbana que supera 
+los 21,5 millones de contadores; ya en 2020 la telelectura alcanza el 19% en las áreas metropo­
+litanas y un 16,4 % en el total de los contadores existentes y con una renovación media de los 
+contadores del orden del 7% anual.
+En cuanto a las comunicaciones, con la tecnología existente y la próxima que se espera desplegar, 
+las operadoras de comunicaciones en general son muy positivas y no hay problema para prestar 
+servicio de telecomunicaciones a la telelectura de contadores, promoviéndose tanto el estándar 
+NB-IoT (como parte inherente del sistema de telefonía móvil pública a la población con los miles 
+de estaciones base repetidoras que hay en el territorio nacional que tiene además continuidad 
+con el 5G) como otras tecnologías de comunicaciones IoT que funcionan en bandas abiertas de 
+radiofrecuencia de uso libre y cuyo desarrollo implica el despliegue de equipamiento en los pun­
+tos de repetición a determinar.
+Por último, en relación con plataformas de gestión de la información asociada, las distintas em­
+presas españolas disponen de numerosas plataformas que ya están funcionado y aportado casos 
+de éxito a todo este sistema y que fomentan la transparencia en la gestión y, con ello, el ahorro y 
+mejor gestión del agua y de los consumos asociados.
+La digitalización del ciclo urbano del agua es, por otro lado, uno de los ejemplos más claro de 
+los modelos de ciudad inteligente o “Smart City”, en las que el desarrollo urbano se basa en la 
+sostenibilidad y es capaz de responder adecuadamente a las necesidades básicas de institucio­
+nes, empresas y de los propios habitantes, tanto en el plano económico, como en los aspectos 
+operativos, sociales y ambientales.
+En materia de captación, ya sea de aguas superficiales o de aguas subterráneas, la posibilidad de 
+disponer de información en tiempo real de los caudales captados y los parámetros esenciales de 
+la calidad del agua son básicos para la gestión de todo el sistema posterior.
+Igualmente sucede con las conducciones o canales que conducen el agua a los distintos elemen­
+tos de potabilización y de almacenamiento del agua ya tratada, en la que solo con una adecuada 
+digitalización del sistema puede optimizarse la gestión y planificar los trabajos ordinarios y de 
+mantenimiento asociados, anticipándose a los consumos previstos y con ello garantizar siempre 
+la mejor calidad del agua tratada, para lo cual, es necesario sensorizar y conocer en tiempo real 
+los volúmenes almacenados en los depósitos de regulación
+A la hora de proceder a la distribución del agua por la red, es igualmente esencial conocer las 
+principales variables hidráulicas del sistema (caudales, presiones, etc.) que permitan una correcta 
+gestión de la red de distribución y con ello, además, prevenir y detectar lo más rápido posible po­
+sibles roturas, fugas o pérdidas de agua asociadas a la red.
+Otro de los grandes elementos que supone que el gran salto de la digitalización llegue también a 
+los consumidores es la telelectura, que abre la posibilidad de obtener más datos y más frecuentes 
+con relación al consumo de agua de abastecimiento a la población, información con un detalle 
+que hasta ahora no ha estado disponible.
+Esto implica que, más allá de las propias ventajas en la gestión de la actividad de las empresas 
+gestoras que permitirán un uso más eficiente de los recursos agua y energía, pueda suponer un 
+cambio de paradigma en la relación de las empresas gestoras con los dos ámbitos que les son 
+propios:
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+24
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+•	
+Usuarios y consumidores, pudiendo proporcionar información útil y transparente para 
+un consumo más responsable.
+•	
+Administraciones públicas que tendrán acceso a mayor información y transparencia 
+para el mejor cumplimiento de sus funciones en materia de protección de las aguas y 
+medio ambiente.
+La telelectura permite dar un salto cualitativo de gran dimensión, tanto por ejemplo, para la de­
+tección de fugas en instalaciones interiores emitidos a los usuarios, monitorizar viviendas con 
+personas vulnerables monitorizadas, cambios en las pautas de consumo de los usuarios por la 
+disponibilidad de la información o, por ejemplo, estudiar el impacto en el consumo tras inicio de 
+campañas de concienciación/restricción en periodos de sequía, todo ello tomando como base las 
+comunicaciones a través de 5G y la gestión de la información en plataformas Big Data.
+En relación con el saneamiento, el primer paso para la digitalización del mismo es el conocimien­
+to detallado de la cartografía y tipología de la red, que permita la creación de modelos numéricos 
+que permitan establecer las estrategias de gestión, mantenimiento, limpiezas, etc. como primer 
+paso hacia la sensorización y el telemando de las infraestructuras de saneamiento existentes, de 
+forma que se pueda, por ejemplo, planificar los mantenimientos y limpiezas en las zonas de sedi­
+mentación, reducir los volúmenes de agua no tratada en episodios de lluvia, etc.
+Posteriormente es necesario abordar la monitorización de la gestión de las EDAR, mediante la 
+combinación de tecnologías de depuración con modelos numéricos y sistemas de ayuda a la 
+decisión que permitan la gestión inteligente de las EDAR, monitorización recuperación de aguas 
+residuales y su reutilización en el marco de la Economía Circular, gemelos digitales y el telecontrol 
+de los vertidos que permitan desarrollar ciclos de agua con modelos empresariales innovadores y 
+regenerativos, en especial en ecosistemas mediterráneos, además favoreciendo el cumplimiento 
+de los requisitos de las autorizaciones de vertido otorgadas por las administraciones hidráulicas y, 
+en especial, los derivados de los episodios de lluvia, tal y como se ha comentado con anterioridad.
+Entre los elementos que pueden entrar en la extensión de la digitalización no debemos de olvidar 
+igualmente lo relativo al ahorro y eficiencia energética de las instalaciones, bien a través del diag­
+nóstico a partir de la medición de datos de consumos energéticos de los elementos industriales 
+propios de los bombeos, ETAP, EDAR, etc., que pueden ser digitalizados, así como de las actua­
+ciones de carácter digital que pueden aplicarse para mejorar sus prestaciones. Y en particular en 
+una coyuntura tan especial de crisis energética e incremento de costes de este factor de produc­
+ción, así como en la de transición energética en que estamos inmersos.
+Otro aspecto interesante es la de implicar a los sectores usuarios del consumo de agua, es­
+pecialmente industrial o de servicios (sector turístico) en programas de digitalización. En este 
+campo existen ya experiencias de proyectos de I+D financiados para sectores como el packa­
+ging alimentario de proceso o el sector turístico en áreas como las piscinas (España es el tercer 
+país del mundo con más piscinas, por ejemplo, a partir del proyecto  WATERTUR)  o en el sector 
+alimentario (por ejemplo el proyecto EDARI 4.0) y otros posibles sectores económicos.  Así pues, 
+en la última recopilación de datos del Centro para el Desarrollo Tecnológico Industrial (CDTI) so­
+bre resultado de las empresas españolas en los programas de I+D en H2020 de los últimos años, 
+España tiene un buen retorno en los aspectos relacionados con el agua, donde España tenía la 
+primera posición europea en Agua y Economía Circular con un retorno del 19,5% y 17,1% de toda 
+Europa respectivamente. Todo ello sin contar LIFE+, INTERREG y otros programas donde debe 
+haber también muchos programas de I+D en la gestión del agua, lo que da una orientación im­
+portante del potencial en temas de I+D en materia de la gestión del agua.
+25
+En este sentido, considerando los desafíos y oportunidades existentes, la Plataforma Tecnológica 
+Española del Agua (PTEA) ha establecido las bases de una estrategia conjunta como una propues­
+ta para el sector, que esté alineada con las principales estrategias y planes en I+D+i nacionales y 
+europeos, y que destaque las capacidades en I+D+i que tenemos como país a nivel internacional. 
+Este documento, que se ha denominado Estrategia Tecnológica del Agua para el período 2020-
+2022 es la base para la orientación de estas actuaciones en este ámbito alineada con los grandes 
+retos que afronta la evolución del sector y con las políticas y estrategias a nivel global.
+Por lo tanto, la mejora en la eficiencia del abastecimiento requiere una acción conjunta, tanto 
+de las agentes responsables de la gestión del ciclo del agua como de los ciudadanos. Impulsar la 
+mejora en la información disponible redundará en una mejor prestación de los servicios del agua 
+y un uso más sostenible del recurso.
+Por otro lado, otro gran desafío es la relación con los estándares de intercambio de datos del ciclo 
+del agua, básicos para la correcta implantación del Observatorio para la gestión del agua, en la 
+que es importante hacer referencia a diversos proyectos con la Plataforma FIWARE https://www.
+fiware.org/, en la que también se incluyen otros dominios como Agricultura, Ciudades, Energía, 
+Industria, además del dominio AGUA.
+FIWARE es una plataforma, impulsada por la Unión Europea, para el desarrollo y despliegue glo­
+bal de aplicaciones de Internet del Futuro. FIWARE intenta proveer de una arquitectura totalmente 
+abierta, pública y libre así como de un conjunto de especificaciones que permita a los desarrolladores, 
+proveedores de servicios, empresas y otras organizaciones desarrollar productos que satisfagan sus 
+necesidades, sin dejar de ser abierta e innovadora y que ha sido adoptada por la iniciativa de la Unión 
+Europea, Connecting Europe Facilities como el componente clave para la gestión de datos (Context 
+Broker) con un estándar 100% abierto (Open Source).
+Los diferentes sistemas de información mencionados, deberán garantizar una compartición flui­
+da de datos entre ellos y con los oportunos sistemas externos, siguiendo para ello las recomen­
+daciones y directrices fijadas por la Oficina del dato del Gobierno de España, garantizando así el 
+cumpliendo allí donde sea necesario con el Esquema Nacional de Interoperabilidad (RD 4/2010) y 
+las condiciones y requisitos derivados del espacio de datos sectorial europeo de medioambiente 
+(Common European GreenDeal dataspace).
+4.3. Desafíos y oportunidades en la digitalización en el sector del 
+regadío.
+Conforme a la Estrategia de Digitalización del MAPA a través del II Plan de Acción 2021-2023, en el 
+que se aprovecha todo el conocimiento y experiencia del primer plan de acción así como se inclu­
+yen medidas del PRTR y se coordina con la nueva PAC y el Pacto Verde, que incorporan en su re­
+gulación el mandato de diseñar estrategias de digitalización, todo ello igualmente conforme con 
+su nuevo marco estratégico, el Green Deal, siendo uno de los pilares del Green Deal es la Estrate­
+gia Farm to Fork, cuyos objetivos principales persiguen asegurar la seguridad y la sostenibilidad 
+de los alimentos. La nueva PAC, establece que, «en términos generales, las soluciones a muchos 
+de estos retos residen en una agricultura “más inteligente”, más precisa y sostenible.
+Es por ello que este II Plan de acción, con una inversión superior a los 64 millones de euros, esta­
+blece entre otras medidas de carácter general, pero que pueden beneficiar al sector de la agricul­
+tura de regadío,  el desarrollo de programas formativos en materias de digitalización agroalimen­
+taria (formación no reglada) del  Centro de Competencias del MAPA para la formación digital en
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+26
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+el sector agroalimentario; actividades demostrativas y asesoramiento a PYMEs y explotaciones 
+agrarias en el marco de la programación de desarrollo rural; la  puesta en marcha de una platafor­
+ma agregadora de datos específica para el sector agroalimentario; el desarrollo de herramientas 
+digitales  como una plataforma Big data del Ministerio, denominada BigMAPA,  o impulsando 
+las herramientas digitales ya existentes (SiAR, SIEX); la creación de un observatorio de Digitaliza­
+ción del sector agroalimentario y la realización de un programa de apoyo destinado a impulsar 
+la aplicación de la agricultura de precisión y tecnologías 4.0 en el sector agrario; o la financiación 
+de proyectos de innovación de interés general que contribuyan a la recuperación económica re­
+siliente, sostenible y digital del sector agrícola y las zonas rurales, desarrolladas por grupos ope­
+rativos de la EIP-Agri en el marco de la programación de desarrollo rural y estableciendo créditos 
+específicos, entre otros aspectos, para la eficiencia en el uso de los recursos, en particular la agri­
+cultura de precisión e inteligente, la innovación y digitalización y modernización de maquinaria y 
+los equipos de producción.
+Por su parte, el avance hacia una transformación digital del sector del regadío es esencial para 
+mejorar la gestión del agua en España. La instalación de herramientas de digitalización, sensori­
+zación y comunicación, y el desarrollo de plataformas informáticas de análisis, consulta y registro 
+de datos dotará a la comunidad agrícola de gran cantidad de información para poder aplicar 
+modelos predictivos, así como hacer más eficientes los procesos y el uso de recursos, a la vez que
+facilitará al agricultor una nueva forma de acceso a la información que ayudará a la gestión de las 
+explotaciones agrarias.
+Este control digital de las explotaciones conseguirá ahorros en los principales insumos de las 
+explotaciones como son fertilizantes, fitosanitarios y energía, así como un uso más eficiente del 
+agua y una mejora de la productividad.
+Además, se da la circunstancia que las cuencas más mediterráneas, en muchos casos con culti­
+vos de mayor valor añadido, son las que tienen una mayor demanda de agua, al mismo tiempo 
+que una mayor incertidumbre en la disponibilidad del recurso. En este sentido, la digitalización 
+de los usos del agua se presenta como una gran oportunidad de modernización del sector y de 
+alcanzar un uso más eficiente del agua que repercuta positivamente en el aprovechamiento del 
+agua, mejore la productividad,
+27
+El esquema básico de un sistema digitalizado de regadío debería disponer de la siguiente infraes­
+tructura:
+1.	 Contadores/caudalímetros con telemedida en las tomas conectadas con los sistemas de infor­
+mación del organismo de cuenca y de la comunidad.
+2.	 Herramientas de gestión del riego en cada parcela:
+•	Contadores en las parcelas.
+•	Herramientas para la mejora del riego en cultivos y limitación por volumen
+•	Facturación en función del consumo
+3.	 Sistemas de supervisión y gestión del sistema de riego:
+•	Automatización de los cabezales de riego.
+•	Cálculo de las necesidades de riego en función de los datos
+•	Sensorización del nivel de humedad y conductividad en el suelo
+4.	 Digitalización de la gestión administrativa.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+28
+del agua. 
+5
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+5.1. Objetivos generales.
+Este PERTE tiene como objetivo la modernización del ciclo de agua a través de tres herra­
+mientas: la digitalización -que es la herramienta principal, la innovación y la formación. De esta 
+forma, la gestión del agua será eficiente y sostenible.
+5.2. Objetivos específicos.
+Este objetivo general se concretar en los siguientes cuatro objetivos específicos:
+A.	Mejorar el conocimiento de los usos del agua para consolidar una gestión integrada de
+los recursos hídricos y a la mejora de la eficiencia en el uso del agua en España, minimizan­
+do el impacto del cambio climático.
+B.	Incrementar la transparencia en la gestión del agua en España y de la información dis­
+ponible por las administraciones, usuarios, consumidores, asociaciones en general de forma 
+que se establezcan las bases para concienciar a la población y a los usuarios del agua del 
+uso responsable y sostenible del agua y fortalecer y desarrollar las capacidades de las enti­
+dades gestorías del ciclo integral del agua.
+C.	Contribuir al cumplimiento de los objetivos ambientales establecidos en la planifica­
+ción hidrológica en las distintas masas de agua, a la lucha frente a la contaminación de las 
+aguas, al cumplimiento de los caudales ecológicos y en general, al impulso a la gestión del 
+dominio público hidráulico y la protección de las aguas.
+D.	Generar empleo de alta cualificación técnica, invirtiendo en innovación y tecnología.
+29
+OBJETIVOS DEL PERTE
+Digitalización del ciclo
+INSTRUMENTOS
+6
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Para alcanzar tales objetivos y afrontar los retos a los que nos enfrentamos, este PERTE establece 
+un total de 4 líneas de actuación que abarcan de forma íntegra la gestión del ciclo hidrológico:
+•	
+Línea de actuación 1: Mejora de la gobernanza de los usos del agua en España: medi­
+da facilitadora, que, a través de una actualización de la normativa existente en materia de 
+digitalización y usos del agua en España sirva de palanca para la correcta implantación 
+de todas las actividades incluidas en el PERTE Digitalización del ciclo del agua.
+Destaca en esta línea, la creación del Observatorio de la gestión del agua en España y de 
+la plataforma web asociada.
+•	
+Línea de actuación 2: Impulso a la digitalización de los organismos de cuenca y en 
+especial a los sistemas automáticos de información hidrológica a través de la moderniza­
+ción de las herramientas y tecnologías de las que disponen los organismos de cuenca y 
+la administración del agua en general, dotando además de recursos humanos especiali­
+zados que permitan mejorar la gestión del sistema.
+•	
+Línea de actuación 3: Desarrollo de programas de ayudas para el impulso a la digita­
+lización a los distintos usuarios del agua en España, y en especial, a la digitalización del 
+ciclo urbano del agua, del regadío y del sector industrial.
+•	
+Línea de actuación 4: Fomento de la formación e innovación en competencias digi­
+tales en la administración y gestión del agua. En todos los sectores, administraciones, 
+empresas tecnológicas y usuarios, para la correcta implantación del PERTE y fomento de 
+la adaptación al cambio climático.
+30
+LÍNEAS DE ACCIÓN E
+1:
+Objetivos
+Mejora de la
+gobernanza 
+de los usos del
+agua
+A. Mejora en el 
+conocimiento de los
+usos del agua
+B. Incremento de la
+transparencia en la
+gestión del agua
+C. Contribuir al 
+cumplimiento de los 
+objetivos ambientales
+D.     Generar empleo
+de alta cualificación
+técnica
+La siguiente tabla refleja los objetivos del PERTE y las cuatro grandes líneas de actuación, indican­
+do para cada objetivo, el grado de relación con las líneas de actuación:
+6.1. LÍNEA DE ACTUACIÓN 1: Mejora de la gobernanza en materia de 
+gestión de los usos del agua.
+La digitalización del ciclo del agua en España debe descansar sobre un marco normativo adecua­
+do. En este sentido, se han identificado las siguientes líneas de actuación:
+6.1.1. Modificación del Texto Refundido de la Ley de Aguas.
+•	
+Apuesta por la gestión digital del ciclo hidrológico y del conocimiento para la protección 
+de las aguas.
+•	
+Creación del Observatorio de la gestión del agua en España.
+•	
+Mejora del régimen sancionador en materia de incumplimientos en materia de informa­
+ción sobre captaciones de aguas o vertidos.
+6.1.2. Transposición de la nueva Directiva de calidad de las aguas destinadas al con­
+sumo humano.
+•	
+Nuevos requisitos en materia de calidad de las aguas y umbrales asociados.
+•	
+Nuevos requisitos asociados derivadas de la gestión del riesgo y otras actuaciones.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Líneas de actuación:
+2:
+3:
+4:
+Digitalización 
+organismos de
+Programas
+de ayudas
+Formación e
+innovación
+cuenca
+usuarios
++++
++++
++++
+++
++++
++++
++++
+++
+++
++++
++++
+++
+++
++++
++++
++++
+31
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+6.1.3. Modificación del Reglamento del Dominio Público Hidráulico.
+•	
+Incorporación al RDPH de los requisitos de control volumétrico establecidos en el TRLA 
+y LPHN.
+•	
+Apuesta por la digitalización y la teledetección en el control de los usos del agua.
+•	
+Condiciones de digitalización para los nuevos aprovechamientos de agua en el futuro y 
+régimen transitorio para los existentes.
+•	
+Habilitación de las Entidades Colaboradoras de la Administración Hidráulica (ECAH) para 
+el control volumétrico de los usos del agua.
+•	
+Mejora de la gestión de los vertidos, y en especial de las descargas al DPH de los sistemas 
+de saneamiento en episodios de lluvias.
+6.1.4. Actualización de la Orden Ministerial, por la que se regulan los sistemas para 
+realizar el control efectivo de los volúmenes de agua utilizados y de los vertidos al 
+mismo.
+•	
+Incorporación de las herramientas digitales para el control volumétrico, eliminando el 
+Libro de control del aprovechamiento y establecer la obligatoriedad de remitir informa­
+ción digital a todos los aprovechamientos.
+•	
+Establecer funciones de las ECAH en materia de control de aprovechamientos de aguas.
+•	
+Obligatoriedad de transmisión en tiempo real de las principales variables de los vertidos de las 
+grandes EDARES al dominio público hidráulico.
+6.1.5. Actualización de la Orden Ministerial, por la que se desarrolla el régimen jurídi­
+co de las entidades colaboradoras de la administración hidráulica (ECAH).
+•	
+Actualizar régimen jurídico de las ECAH.
+•	
+Establecer requisitos administrativos de las ECAH en materia de control de aprovecha­
+mientos de aguas.
+6.1.6. Nuevo Real Decreto que regule contenido y funcionamiento del Observatorio 
+de la gestión del agua en España y el sello de “gestión transparente del agua”.
+•	
+Organización y composición de los miembros del Observatorio
+•	
+Mecanismos de envío de la información al portal web de intercambio de información y 
+transparencia.
+•	
+Condiciones para el otorgamiento y mantenimiento de los sellos de transparencia a los 
+usuarios del agua.
+El esfuerzo que supone la implantación de este PERTE debe tener herramientas de gobernanza 
+que permitan el mantenimiento y conservación de toda la infraestructura digital que va a implan­
+tarse, siendo un PERTE que permita la colaboración público-privada y suponga una evolución tec­
+nológica del país, siendo España un referente en estos sistemas en el mundo.
+Para ello, una de las herramientas esenciales es la creación del Observatorio en la gestión del 
+agua en España y dentro de él, una plataforma web que permita poner en valor y colaborar con 
+la mejora de la transparencia en la gestión del agua, que permita otorgar un nuevo “sello” a los
+32
+distintos usuarios del agua en España, a similitud de los sellos actuales de productos ecológicos 
+por ejemplo, en el que se otorgue uno o varios distintivos a los distintos concesionarios del agua 
+que remitan información periódica a la plataforma y que además, realicen una ejemplar gestión 
+del agua,  que permita a los usuarios distinguir a aquellos los concesionarios que realizan esta 
+gestión ejemplar.
+6.2. LÍNEA DE ACTUACIÓN 2: Impulso a la digitalización de los 
+organismos de cuenca.
+Las inversiones necesarias para el impulso a la digitalización del ciclo del agua debe abordar dis­
+tintos mecanismos para que todos los agentes involucrados en su gestión puedan ser partícipes 
+de la misma. Por ello se plantea un impulso a la digitalización en los organismos de cuenca, pues­
+to que la administración hidráulica necesita realizar un profundo paquete de inversión interna 
+para mejorar su gestión y digitalización, aspecto que se ha identificado en un plan de digitaliza­
+ción interno basado en el apartado 1 del componente 5 e inversión 3 del PRTR.
+Las actuaciones previstas son las siguientes:
+6.2.1. Digitalización de la gestión administrativa de la administración hidráulica.
+Por un lado, se proponen acciones de digitalización del trabajo ordinario de la administración 
+hidráulica, centrada en los Organismos de cuenca intercomunitarios, Mancomunidad de Cana­
+les del Taibilla  y de la Dirección General del Agua en el marco de la ejecución directa y las admi­
+nistraciones competentes de las Comunidades Autónomas (a ejecutar a través de repartos en 
+Conferencia Sectorial) ya que tramitan una cantidad ingente de expedientes administrativos en 
+el marco del TRLA, a través de las declaraciones responsables, autorizaciones y concesiones de 
+aguas, contratación administrativa, cobros de tasas, cánones, expedientes sancionadores, etc. 
+Asimismo deben informar, en el ámbito de sus competencias, dentro de los numerosos proce­
+dimientos tramitados por otras administraciones (CCAA y EELL), fundamentalmente los relacio­
+nados con ordenación del territorio y urbanismo, y evaluación ambiental. Para ello, se procederá 
+a transformar la tramitación administrativa existente en una tramitación digital, simplificando 
+procedimientos y además se dotará a estos Organismos de instrumentos y herramientas de 
+información territorial que permitan optimizar los desplazamientos sobre el terreno. Igualmen­
+te se fomentará la tramitación digital de cánones, tasas, etc., todo ello en colaboración con la 
+Agencia Tributaria.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+33
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+6.2.2. Implantación del Registro de Aguas electrónico, impulsando decididamente los tra­
+bajos en marcha en estos momentos y la puesta en marcha de la Base Central del Agua.
+Igualmente se trabajará en la implantación del Registro de Aguas electrónico, impulsando deci­
+didamente los trabajos en marcha en estos momentos y la puesta en marcha de la Base Central 
+del Agua, así como la creación de herramientas que permitan la accesibilidad de una información 
+básica sobre el contenido del Registro de Aguas al público en general, a través de Internet.
+6.2.3. Impulsar el desarrollo tecnológico de las redes de Información Hidrológica, 
+en relación con la gestión de los datos hidrológicos, el control de usos del agua y el 
+cumplimento de los caudales ecológicos.
+En relación con la gestión de los datos hidrológicos, el control de usos del agua y el cumpli­
+mento de los caudales ecológicos, se prevé desarrollar una evolución tecnológica de las redes 
+de información hidrológica. En especial, de los sistemas automáticos de información hidrológica 
+existentes, revisando su funcionalidad, para avanzar en una optimización económica de su man­
+tenimiento, conjuntamente con la incorporación de nuevos puntos de medida, en función de las 
+necesidades ambientales de las masas de agua y la conexión con los distintos usos del agua con­
+forme a la normativa de control volumétrico de las extracciones y vertidos de aguas residuales, 
+tanto en situación ordinaria como en episodios de lluvia
+6.2.4. Impulso y avance en la modelización numérica del ciclo hidrológico y coordi­
+nación con la AEMET.
+Además, se procederá a avanzar en la modelización numérica del ciclo hidrológico, a través de 
+desarrollos numéricos de modelización de los distintos sistemas de explotación de las cuencas 
+hidrográficas, en coordinación con previsiones a medio plazo de la AEMET y otros Organismos 
+internacionales que permitan una mejor caracterización del régimen existente, de los efectos 
+sobre la cantidad y calidad de las aguas y que permita conocer o estimar los recursos hídricos 
+disponibles a medio plazo. En especial, se desarrollará un programa específico de modelización 
+numérica de las masas de agua subterráneas en riesgo de incumplir los objetivos ambientales.
+En materia de riesgos de inundación, se va a proceder a crear un portal nacional de internet que 
+conecte los avisos meteorológicos de la AEMET y sus previsiones, con los avisos recibidos por la Co­
+misión Europea y la red de Organismos de cuenca, y que genere información coordinada para las 
+autoridades de protección civil y público en general, con previsiones de caudales circulantes en ríos 
+y embalses en tiempo real y conectado con el Sistema Nacional de Cartografía de Zonas Inundables, 
+de forma que se disponga de cartografía de la mayor parte de las masas de agua en España y puedan 
+conocerse con anticipación los daños probables en situación de crecidas.
+6.2.5. Elaborar el Libro Digital del Agua, como medida de gobernanza y transparencia.
+Por último, y como medida de gobernanza y transparencia, se pretende realizar el Libro Digital 
+del Agua. Lugar común al que recurrir con facilidad en busca de información fija y variable sobre 
+las aguas en España.
+6.2.6. Programa de actuación para la modelización digital a través de la metodología 
+BIM de las obras hidráulicas de titularidad estatal y un programa específico para la 
+digitalización de todo el ciclo de seguridad de presas y embalses.
+En materia de infraestructuras hidráulicas, se pondrá en marcha un programa de actuación para 
+la modelización digital a través de la metodología BIM de las obras hidráulicas del Estado y un 
+programa específico para la digitalización de todo el ciclo de seguridad de presas y embalses,
+34
+mediante la digitalización de la información existente, la evolución de la plataforma “eGISPE” que 
+permite el conocimiento del control que se está ejerciendo en las infraestructuras hidráulicas en 
+estos momentos y que será la base de la tramitación electrónica de esta documentación, habili­
+tando conexiones digitales con los organismos de cuenca y creando el Registro Digital de Seguri­
+dad de Presas, Embalses y Balsas.
+La digitalización irá también destinada a una mejor conservación y explotación de estas obras hi­
+dráulicas, e incluirá alguna experiencia piloto de telemando en grandes conducciones hidráulicas.
+6.2.7. Mejora de los sistemas informáticos existentes del estado, calidad de las aguas 
+y condiciones hidromorfológicas de las distintas masas de agua.
+En materia de estado y calidad de las aguas, se procederá a mejorar los sistemas informáticos 
+existentes, de forma que permita una mejor coordinación entre todos los agentes implicados, 
+que convenientemente georreferenciado, permita planificar y gestionar todos los datos de 
+estado y calidad de las aguas, asegurando una correcta trazabilidad de los datos desde los la­
+boratorios, Organismos de cuenca, Dirección General del Agua, a su notificación a la Comisión 
+Europea, integrando plataformas para  facilitar el uso y difusión de la información así como la 
+digitalización de los planes de muestreo e inspección.
+Se impulsará la tramitación electrónica de las autorizaciones y revisiones de los vertidos 
+de aguas residuales y se actualizarán los programas de seguimiento y control de los ver­
+tidos, mediante la monitorización en tiempo real de las variables básicas de los vertidos 
+de aguas residuales de mayor volumen, así como una revisión del régimen sanciona­
+dor asociado. Del mismo modo, se incluirá información sobre las distintas condiciones 
+hidromorfológicas de las masas de agua, incluyendo ríos, ramblas, humedales, zonas 
+húmedas, basados en la mejora de la información sobre el estado del dominio público 
+hidráulico, fomentado la información geográfica, incluyendo proyectos en relación con 
+la viabilidad de la inclusión de la “realidad aumentada” que añade elementos visuales 
+virtuales (información adicional en forma de datos, gráficos o imágenes) a nuestro en­
+torno real, monitoreo satelital, sondas multiparamétricas  y desarrollando, en su caso, 
+herramientas de ayuda a la decisión incluso con modelos predictivos de la calidad físi­
+co-química del medio con capacidad para estimar su estado en función de los caudales 
+circulantes, los posibles vertidos al cauce y la capacidad de adaptación y autodepuración 
+del propio medio.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+35
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+6.3. LÍNEA DE ACTUACIÓN 3: Desarrollo de programas de ayudas 
+para el impulso a la digitalización a los distintos usuarios del agua.
+Tal y como se ha reflejado con anterioridad, es imprescindible la implicación de los distintos usua­
+rios del agua para el avance de la digitalización del mismo, por lo que es necesario que el PERTE 
+aporte diversas ayudas que permitan, a través de la colaboración público-privada, el fomento de 
+la digitalización de estos usos del agua y para lo cual, deben habilitarse los mecanismos de sub­
+venciones y el repartos de fondos en Conferencia Sectorial a las Comunidades Autónomas, para 
+con ello, lograr una mayor colaboración público-privada y la generación de una inversión adicio­
+nal. Las bases de las convocatorias fomentarán la colaboración con universidades y organismos 
+públicos de investigación para facilitar la transferencia e intercambio de conocimiento con el 
+sector público-privado.
+Además, la coordinación con otros componentes del PRTR logrará movilizar una mayor inversión y la 
+implicación de otros agentes y departamentos ministeriales implicados, especialmente, en el desa­
+rrollo de la administración local y la agricultura, que conjuntamente con el MITERD, puedan avanzar 
+en la protección del medio ambiente, la mejora de la gestión de los recursos hídricos, la lucha contra 
+el cambio climático y el reto demográfico, fomentando la colaboración público-privada, siendo un 
+proyecto de país.
+Si bien este PERTE permitirá mejorar la gestión de todo el ciclo del agua, la gran apuesta del mis­
+mo se centra en el ciclo urbano del agua, en el que se desarrollarán gran parte de las actuaciones 
+previstas.
+En este sentido, y con el fin de fomentar la coordinación y garantizar la gobernanza del PERTE, podrán 
+presentarse a las diferentes convocatorias del ciclo urbano del agua programas de digitalización que 
+incluyan a uno o varios términos municipales, siempre que, de forma aislada o en su conjunto superen 
+los 20.000 habitantes, bien de forma permanente o población estacional.
+Las bases establecerán los mecanismos de agrupación de programas, así como la agrupación de 
+las administraciones competentes en la gestión del ciclo integral del agua, pudiendo presentar 
+solicitudes los operadores de los servicios de agua urbana, ya sean entidades locales, organismos
+públicos, o sociedades gestoras de agua urbana de capital 100 % público (cuando la prestación 
+sea en régimen de gestión directa), así como las sociedades concesionarias gestoras de agua 
+urbana mixtas o privadas, cuando la prestación lo sea en régimen de gestión indirecta, con el 
+acuerdo de las entidades locales.
+La posibilidad de que dichos gestores resulten ser eventuales beneficiarios de las ayudas redunda 
+en su idoneidad para acometer y asumir la ejecución de un programa de estas características, dado 
+su óptimo conocimiento de la situación real de las redes y parque de contadores. De igual modo, 
+ello posibilitará la presentación de programas para una gestión agregada de las ayudas en caso de 
+que dichos gestores lo sean de varios municipios a la vez, reduciendo drásticamente el número de 
+solicitudes a tramitar sin excluir a ninguna Entidad Local, independiente de su tamaño.
+Del mismo modo, las bases de las convocatorias fomentarán la agrupación de municipios con el fin 
+de facilitar una gestión conjunta de los procesos de digitalización, así como facilitar la tarea de control 
+de ejecución de las ayudas, su justificación técnica y económica de la realización de la actividad para 
+la que se conceda la ayuda y posterior revisión de todo el proceso.
+En el caso de los servicios titularidad de una Entidad Local se gestionen indirectamente 
+(concesionarios, empresas mixtas), será necesaria aprobación de la propuesta por el órgano
+36
+competente de la entidad local. Esta documentación debería formar parte del conjunto de 
+documentos que debería aportar el operador que solicite la ayuda. En el caso de que el pro­
+grama subvencionable afectase a más de una Entidad Local —por prestar el operador servi­
+cio en más de un municipio—, se deberían incorporar tantas aprobaciones como municipios 
+afectase el programa.
+A continuación, se establecen las convocatorias a realizar, las cuales tienen como fin último desa­
+rrollar en fases programas de digitalización integrales, de forma que ninguna convocatoria será 
+excluyente, sino todo lo contrario. Se tratará de implantar en fases coordinadamente programas 
+integrales, de forma que se podrán presentar programas a más de una convocatoria de financia­
+ción, siempre que lógicamente se trate de actuaciones diferentes y coordinadas con un programa 
+global de digitalización, a personalizar por las entidades que presenten los programas, puesto 
+que la gestión del ciclo integral del agua en España es muy diversa tanto administrativamente 
+como técnica, debido a los condicionantes climatológicos, de dispersión de la población y de con­
+diciones geográficas hacen que la solución técnica de cada territorio dependa de un conjunto de 
+variables que deben ser flexibles e implantarse de forma escalonada.
+En este sentido, se prevén las siguientes inversiones:
+6.3.1. Primera Convocatoria de subvenciones en concurrencia competitiva de progra­
+mas singulares de digitalización del ciclo urbano del agua.
+A desarrollar durante el primer semestre de 2022, esta primera convocatoria, con un importe es­
+tablecido de 200 millones de euros, permitirá financiar los primeros programas demostrativos 
+relativos a la digitalización del ciclo urbano del agua y en especial, a la telelectura de contadores 
+y los beneficios que de ella se derivan, en la que los distintos organismos, entidades locales y ges­
+tores del agua urbana podrán presentar programas, cuyas bases establecerán los requisitos de los 
+programas, que deberán justificar y analizar la totalidad del ciclo del uso del agua urbana en los 
+ámbitos de cada programa.
+Los beneficiarios deberán suministrar la información obtenida, a través de la plataforma desarro­
+llada en el Observatorio de la gestión del agua y servir de ejemplo para el resto de los programas 
+de digitalización que se materialicen posteriormente.
+Las bases establecerán los mecanismos de colaboración público–privada y una cofinanciación 
+asociada, que será mayor para aquellas actuaciones del ciclo integral del agua con mayor 
+dificultad para la recuperación de costes, tales como la gestión del alcantarillado, vertidos y 
+descargas en época de lluvias. Con vistas a desarrollar programas demostrativos y manejar un 
+número adecuado de programas, las bases de la Convocatoria establecerán la posibilidad de 
+presentar proyectos integrales a financiar en distintas fases, previéndose en la primera con­
+vocatoria una selección de actuaciones con unos rangos de importe de la subvención entre 
+3 a 10 millones de euros, con posibilidad de reservar parte del presupuesto a las poblaciones 
+de menor entidad, y establecerán, en la medida de lo posible, que también podrán obtener 
+ayudas las actuaciones que se hayan iniciado después del 1 de febrero de 2020, siempre que 
+cumplan los requisitos del Reglamento 2021/241 del Parlamento Europeo y del Consejo por el 
+que se establece el Mecanismo de Recuperación y Resiliencia, y que no hayan culminado a 
+fecha de inicio de la convocatoria.
+En estos momentos ya está en marcha una convocatoria similar de 1.000 millones de euros, que 
+se realiza en el ejemplo del Ministerio de Transportes, Movilidad y Agenda Urbana para zonas de 
+bajas emisiones.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+37
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+6.3.2. Reparto de fondos en Conferencia Sectorial de Medio Ambiente a las CCAA
+Continuando los repartos de fondos realizados en 2021, en 2022 se procederá al reparto en Confe­
+rencia Sectorial de nuevos fondos a las CCAA para el fomento de digitalización en los sistemas de 
+reducción de pérdidas de abastecimientos, depuración, reutilización, digitalización del ciclo urbano 
+del agua, establecimiento de sistemas urbanos de drenaje sostenible y mejoras a la gestión del 
+ciclo hidrológico y funcionamiento interno de las Comunidades Autónomas en esta materia. A de­
+sarrollar durante el primer semestre de 2022 con una inversión estimada de 200 millones de euros. 
+El reparto de estos fondos se realizará en Conferencia Sectorial, con los siguientes condicionantes:
+a.	 Una parte se reservará para la digitalización de las administraciones asociadas a la ges­
+tión del agua a nivel autonómico y en especial de los organismos de cuenca intracomu­
+nitarios.
+b.	 Otra parte se destinará, en su caso, a las Diputaciones Provinciales en los casos que sea
+de aplicación, para el fomento de la mejora de la gestión del agua a los municipios de 
+menos de 20.000 habitantes conforme al artículo 26.2 de la Ley 7/1985, de 2 de abril, Re­
+guladora de las Bases del Régimen Local.
+En este reparto de fondos será complementario a las convocatorias de subvenciones y, en general, se 
+buscarán actuaciones que fomenten la sinergia y mejoras en toda la gestión del ciclo urbano del agua, 
+en especial, centrándose en la depuración de aguas residuales, reutilización y las líneas estratégicas 
+sobre la digitalización y mejora de la gestión asociadas a nuevas técnicas de tratamiento, depuración y 
+reutilización de las aguas urbanas e industriales.
+6.3.3. Segunda convocatoria de subvenciones de programas de digitalización del ci­
+clo urbano del agua.
+A desarrollar durante 2023, esta segunda convocatoria, con un importe establecido de 1.000 millones de 
+euros, permitirá financiar de forma considerable programas de implantación efectiva relativos a la digi­
+talización del ciclo urbano del agua con el objetivo de llegar a las principales aglomeraciones urbanas 
+de España, estableciéndose como umbral mínimo todos los municipios de más de 20.000 habitantes, 
+así como aquellos otros de menor tamaño que puedan agruparse en programas que alcancen este 
+umbral mínimo. Igualmente considerarán la población estacional o que no vive permanentemente en 
+el municipio pero que se verá beneficiada igualmente por el mismo.
+Las bases establecerán los requisitos de los programas, que deberán justificar y analizar la to­
+talidad del ciclo del uso del agua urbana y fomentarán la telelectura, la descarbonización y la 
+protección y mejora de las masas de agua. Los beneficiarios deberán suministrar igualmente la 
+información obtenida, a través de la plataforma desarrollada al Observatorio anteriormente cita­
+do según se regule reglamentariamente.
+38
+Para esta nueva convocatoria se desarrollará una estructura en régimen de concurrencia no com­
+petitiva con asignaciones predeterminadas, todo ello de forma coordinada con la primera convo­
+catoria realizada, en los términos que se señalan en el artículo 62 del Real Decreto-Ley 36/2020, 
+de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Ad­
+ministración Pública y para la ejecución del PRTR, de forma que se podrán dictar las resolucio­
+nes de concesión una vez realizadas las comprobaciones de la actuación subvencionable y el 
+cumplimiento del resto de requisitos exigidos, hasta el agotamiento del crédito presupuestario 
+asignado en la convocatoria.
+Ejemplo de este tipo de convocatoria es la convocatoria del Ministerio de Política Territorial, inver­
+sión 3 del componente 11, de subvenciones destinadas a la transformación digital y modernización de 
+las Administraciones de las Entidades Locales, en el marco del Plan de Recuperación, Transformación 
+y Resiliencia aprobada mediante Orden TER/1204/2021, de 3 de noviembre.
+6.3.4. Convocatoria de subvenciones en concurrencia competitiva de programas sin­
+gulares de digitalización de Comunidades de Regantes y Comunidades de usuarios de 
+aguas subterráneas.
+A desarrollar durante 2023, con un importe establecido de 200 millones de euros, que permiti­
+rá financiar los programas relativos a la digitalización de las Comunidades de Regantes y otros 
+usuarios del agua del regadío, así como la disminución de insumos agrarios asociados.
+Estas ayudas fomentarán la mejora de la digitalización de la gestión del regadío, desde la ges­
+tión de la información e implantación de contadores en las tomas, los contadores en parcelas, 
+la mejora en la gestión de las infraestructuras del regadío, los procesos de facturación interna, 
+la automatización de los elementos del regadío, el control de la humedad y conductividad del 
+suelo y su conexión con las variables meteorológicas, los aportes de fertilizantes, etc. así como la 
+gestión digital y administrativa interna de las distintas comunidades de regantes, de usuarios y 
+los concesionarios en general.
+Las bases reguladoras de estas ayudas establecerán los mecanismos de colaboración público – privada 
+y contemplarán una cofinanciación asociada, que será mayor para aquellas actuaciones con mayor 
+dificultad para la recuperación de costes, tales como, por ejemplo, la gestión de los retornos de regadío.
+Para la elaboración de estas bases se contará con el asesoramiento del MAPA para garantizar la com­
+plementariedad y sinergias de estas ayudas con otras actuaciones en materia de regadíos que realiza 
+este departamento.
+6.3.5. Convocatoria de subvenciones en concurrencia competitiva de programas sin­
+gulares de digitalización de los usos del agua en el sector industrial.
+A desarrollar durante 2023, con un importe establecido de 100 millones de euros, que permitirá finan­
+ciar los programas relativos a la digitalización de la gestión del agua en el sector industrial de nuestro 
+país, con el doble objetivo de reducir insumos y mejorar la gestión de los vertidos de aguas residuales 
+asociados a la industrial, fomentando la reutilización del agua y el establecimiento de sistemas e in­
+fraestructuras verdes en la gestión del agua y de los vertidos, especialmente en épocas de lluvia en los 
+entornos industriales.
+Para la elaboración de estas bases se contará con el asesoramiento del Ministerio de Industria, 
+Comercio y Turismo para garantizar la complementariedad y sinergias de estas ayudas con otras 
+actuaciones que realiza este departamento.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+39
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+6.4. LÍNEA DE ACTUACIÓN 4: Fomento de la formación e innovación 
+en competencias digitales en la administración y gestión del agua.
+La transformación digital que supondrá la implantación efectiva de este programa no podrá reali­
+zarse sin una adecuada formación de todos los agentes implicados en la gestión del mismo, desde 
+los funcionarios de las distintas administraciones implicadas en la gestión del agua, los trabajado­
+res de las distintas empresas de gestión del agua, comunidades de regantes y usuarios en general 
+del regadío y ciudadanía en general. Esta formación debe dar soporte para tener las habilidades 
+digitales que permitan una correcta implantación efectiva de estas tecnologías, de forma además 
+que se produzca un enriquecimiento personal en este proceso, sin dejar a nadie atrás, de forma que 
+se venzan posibles resistencias al cambio, viendo las oportunidades que trae la digitalización y que 
+no se vea como una amenaza. La mejor forma de evitar este problema es incrementar la formación 
+y dotar a la implementación de las nuevas herramientas de formación interna a los empleados.
+Con este fin, se establecen las siguientes medidas de actuación:
+6.4.1. Elaboración de guías técnicas, recomendaciones y materiales divulgativos so­
+bre los programas de digitalización y la transformación digital asociada.
+Como primer desarrollo, se procederá a elaborar diverso material técnico que permita una 
+primera formación en competencias digitales fácilmente accesible para el personal directa­
+mente implicado en la digitalización del agua tales como recomendaciones sobre la digita­
+lización del ciclo hidrológico en general y tecnologías de medición de caudales, ciclo urbano 
+del agua, del regadío, y otros sectores a través de los distintos procesos técnicos a desarrollar, 
+que se complementarán con material divulgativo y explicativo de cada proceso.
+6.4.2. Programas innovación específicos y formación para personal implicado en la 
+digitalización de cada agente implicado.
+A realizar de forma coordinada por el MITERD, MAPA, CCAA y FEMP y otros agentes implicados, como 
+universidades y organismos públicos de investigación, se procederán a realizar cursos y jornadas de di­
+vulgación de la digitalización, explicando las ventajas, los desafíos y fomentando la innovación asociada.
+En el caso del personal de los distintos beneficiarios de las ayudas establecidas en la tercera línea 
+de actuación, las bases de las convocatorias establecerán unos requisitos mínimos para garanti­
+zar la formación de los agentes involucrados.
+Se colaborará igualmente, a través del Observatorio de la gestión del agua, con los principales agentes 
+y foros en materia de la gestión del agua para fomentar las buenas prácticas e innovación asociada.
+6.4.3. Desarrollo y colaboración en proyectos de I+D+i específicos para la gestión del agua.
+El Plan DSEAR incorpora como un objetivo de gobernanza (OG7) con entidad propia, a través del OG7. 
+INNOVACIÓN Y TRANSFERENCIA TECNOLÓGICA EN EL SECTOR DEL AGUA, a través de las siguientes 
+acciones que irán desarrollándose de forma paralela a la implantación de este Programa, tales como:
+•	
+Habilitar mecanismos de coordinación y cooperación administrativa impulsores de la 
+innovación y la transferencia tecnológica en el ámbito del agua.
+•	
+Actualizar periódicamente el documento “Innovación e investigación en el sector del 
+agua. Líneas estratégicas”.
+•	
+Organizar una jornada sobre innovación y transferencia tecnológica en el sector de agua.
+40
+•	
+Crear un apartado sobre I+D+i en la sección ‘Agua’ del portal web del MITECO.
+•	
+Desarrollar herramientas de apoyo a la Compra Pública de Innovación por parte de la 
+Administración del agua.
+•	
+Establecer un plan de formación sobre herramientas innovadoras de contratación
+Estas actuaciones se complementarán con la inversión en I+D+i ya en marcha y en desarrollo a 
+través de otros programas del Plan de Recuperación, Transición y Resiliencia tales como los Pro­
+yectos Agrupación Empresariales Innovadoras (AEIs) del MINCOTUR, las misiones o proyectos IDI 
+del CDTI a través del Plan Estatal de Investigación Científica, Técnica y de Innovación 2021-2023 
+aprobado por Acuerdo del Consejo de Ministros el 15 de junio de 2021, así como los proyectos de 
+colaboración Público-Privada de la Agencia Estatal de Investigación del Ministerio de Ciencia e 
+Innovación y otras líneas de actuación en desarrollo por los distintos organismos de investigación 
+existentes.
+6.4.4. Desarrollo de campañas de divulgación y formación destinadas a la ciudada­
+nía en general y a los usuarios del agua.
+La transformación digital del sector del agua debe llegar también al usuario final, y a la ciudadanía 
+en su conjunto, que debe emplear y exigir a partir de las herramientas disponibles, una mejora 
+continua en la gestión del agua en España. Para ello, se establecerán materiales divulgativos que 
+se incluirán en las campañas que deberán realizar los beneficiarios de las convocatorias de ayudas 
+establecidas en la línea de actuación tercera.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+41
+DEL AGUA Y SOCIEDAD
+7
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+La puesta en marcha de este PERTE transformará la gestión del ciclo del agua en España.
+7.1. Impacto sobre el empleo.
+En relación con el impacto sobre el empleo, en primer lugar, es necesario destacar que la mejora 
+de las estructuras internas de los Organismos de cuenca y administraciones en general asociadas 
+a la gestión del agua, exigirá un refuerzo tanto de empleados públicos como externalizaciones 
+asociadas para gestionar adecuadamente toda la información generada. Por ello, los perfiles que 
+tradicionalmente forman parte de la administración y gestión del agua y que deben seguir sien­
+do la base de las mismas, serán complementados con nuevos funcionarios de los cuerpos asocia­
+dos a los sistemas y tecnologías de la información (TIC) que permitan controlar y dirigir las partes 
+tecnológicas de los distintos sistemas.
+Según las estimaciones efectuadas, el personal debería ser al menos doblado frente a la situación 
+actual, incrementándose en el entorno de unos 30 empleados públicos, con al menos un coordi­
+nador TIC por organismo de cuenca y unas 100 personas más asociadas a contratos de servicios 
+de apoyo en el conjunto de los organismos de cuenca y administración hidráulica en general, 
+incluyendo la Dirección General del Agua.
+En segundo lugar, las entidades colaboradoras de la administración hidráulica (ECAH), actualmen­
+te dedicadas al control y vigilancia de la calidad de las aguas y gestión de vertidos al dominio públi­
+co hidráulico, pasarán a tener un papel relevante también en el control de las captaciones y usos del 
+dominio público hidráulico lo que repercutirá también positivamente sobre las cifras de empleo.
+Actualmente en España existen 152 laboratorios de ensayo y 52 organismos de inspección acre­
+ditados como entidades colaboradoras de la administración hidráulica, que se potenciarán no­
+tablemente con el incremento de sus funciones, En concreto, se estima que el empleo asociado 
+a las ECAH se incremente en 300 puestos de alta cualificación técnica distribuidos, además, por 
+el medio rural con el siguiente beneficio de consolidación de personas en estos entornos y su 
+colaboración con la fijación de la población en el medio rural minimizando el impacto del reto 
+demográfico, dedicadas a la verificación de estos sistemas, tanto para el ciclo urbano del agua 
+como para la gestión del regadío y otros usos del agua.
+En tercer lugar, la digitalización del ciclo del agua generará nuevos empleos en personal técnico 
+cualificado, aumentando el porcentaje de los titulados universitarios y técnicos en general, tanto
+42
+IMPACTO DEL PERTE 
+SOBRE EL EMPLEO Y 
+BENEFICIOS EN LA GESTIÓN
+en informática (bases de datos y big data, ciberseguridad, portales web, etc.), como en telecomu­
+nicaciones, sensorización, sistemas energéticos, etc. de forma que podrá impulsarse el desarrollo 
+tecnológico en España, creando nichos de trabajo actualmente en desarrollo.
+Por otro lado, será necesario mantener e impulsar los equipos actuales de conservación y man­
+tenimiento de estas infraestructuras, que en algunos casos deberán actualizar sus funciones, pa­
+sando por ejemplo de labores de simple telelectura a realización de funciones de la conservación 
+y mantenimiento de todos los sensores instalados, de forma que deberá realizarse una pequeña 
+reconversión tecnológica de este nicho de empleo.
+Esto viene confirmado con los estudios y auditorías (PWC,2018 ) que respaldan la gran capacidad 
+del sector del agua urbana para generar empleo de calidad y equitativo, puesto que se dispone 
+de un mayor salario medio (+15% que la media española), mayor peso de los contratos fijos (85% 
+respecto a la 74% en la media española) y menor brecha salarial de género (38% inferior a la media 
+española).
+La tabla siguiente muestra, por lo tanto, la estimación en la generación de empleo asociada a este 
+PERTE:
+Tipología
+Número de
+Empleados públicos de la 
+administración hidráulica
+30
+Profesionales asociados
+a las empresas de 
+seguimiento hidrológico de la
+100
+Administración Hidráulica
+Profesionales asociados a las 
+Entidades colaboradoras de la
+300
+Administración Hidráulica
+Profesionales integrados en
+los concesionarios del agua 
+tanto urbana como regadío
+3.000
+TOTAL NUEVO PERSONAL
+3.430
+7.2. Beneficios del PERTE en la gestión del agua y en la sociedad.
+El proceso de digitalización del ciclo del agua permitirá su transformación, configurando, de un 
+lado, una administración robusta, ágil y moderna, con una mayor resiliencia frente a las necesi­
+dades de agua para los distintos usos y, de otro lado, unos usuarios con un alto grado de avance 
+tecnológico, más formados y sensibilizados en la gestión eficiente y sostenible del agua. La com­
+binación de ambos elementos fomentará un aumento de la eficiencia del consumo de agua y 
+una menor vulnerabilidad frente a los impactos del cambio climático, redundando en un una 
+mayor seguridad hídrica y garantía del suministro.
+En particular, gracias a la implantación de este PERTE, todos los abastecimientos (bien indivi­
+duales o agrupaciones, mancomunidades o asociaciones en general) de nuestro país de más de
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+empleos
+Observaciones
+Profesionales de la ingeniería y licenciados en 
+ciencias junto con profesionales en tecnologías
+de la información y comunicación.
+Profesionales y técnicos en ingeniería y 
+comunicaciones distribuidos por todo el
+territorio nacional.
+Profesionales y técnicos en ingeniería y 
+comunicaciones distribuidos por todo el
+territorio nacional.
+Profesionales y técnicos en ingeniería y 
+comunicaciones, tratamiento de datos, etc.
+distribuidos por todo el territorio nacional.
+43
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+20.000 habitantes, tendrán sistemas digitales de gestión del agua, conocerán las pérdidas en sus 
+redes y el agua no registrada, tendrán contadores digitales que permitan conocer en tiempo real 
+los consumos, con una reducción notable de las emisiones de CO2 asociadas y, con todo ello, la efi­
+ciencia de los sistemas de abastecimiento se incrementará notablemente, de forma que se per­
+mita compensar la disminución de las aportaciones derivadas del cambio climático con la opti­
+mización de los sistemas de abastecimiento existentes, se reducirá la contaminación atmosférica 
+derivada de la lectura manual de contadores y se optimizará igualmente la gestión energética de 
+estos sistemas de abastecimiento. La eficiencia de los sistemas de abastecimiento, saneamiento 
+y depuración se incrementará notablemente igualmente, mejorando la calidad de las aguas en 
+general y los vertidos asociados, tanto en situaciones ordinarias como en los días de lluvia.
+Los abastecimientos de pequeñas poblaciones también verán reforzados sus sistemas de gestión 
+y digitalización, personalizadas a su ámbito territorial y necesidades específicas, a partir de los 
+sistemas de explotación que las Comunidades Autónomas y Diputaciones Provinciales, Consor­
+cios y otras formas de agrupación y coordinación asociadas que se diseñen, teniendo en cuenta 
+además la estacionalidad y las segundas residencias y ventajas asociadas para las personas que 
+no viven habitualmente en el medio rural.
+Los Organismos de cuenca y la administración hidráulica en general, y a través de ella la sociedad,
+tendrán información veraz y continua sobre las captaciones de agua, los usos del agua, los vertidos 
+de aguas residuales y la gestión de los sistemas de saneamiento en episodios de lluvia, fomentando 
+la protección de las aguas y el cumplimiento de los objetivos ambientales establecidos en la plani­
+ficación hidrológica, en especial, en las zonas protegidas o en los espacios con alto valor ambiental 
+asociados al agua en los que el riesgo de pérdida de sus valores ambientales cada día es mayor.
+Los organismos de cuenca y la AEMET dispondrán de sistemas integrados de información, que 
+permitirán generar previsiones, avisos y alertas en coordinación con las autoridades de protec­
+ción civil para minimizar los riesgos asociados a los fenómenos meteorológicos extremos.
+A los ciudadanos, a nivel individual, la gestión digital realizada les permitirá ahorrar en sus gastos 
+a través de un mejor conocimiento de sus consumos y anticiparse a posibles roturas o pérdidas 
+asociadas. A nivel global, además, toda la ciudadanía dispondrá de información fácilmente acce­
+sible con datos abiertos sobre la gestión del agua de sus entornos urbanos, conociendo las prin­
+cipales variables, consumos, precios, en un ejercicio de transparencia.
+Del mismo modo sucederá con el regadío. La gestión digital del regadío permitirá la disminución 
+de insumos asociados y el nuevo marco normativo asegurará que la tecnología española en el re­
+gadío pueda exportarse en aquellas zonas de climas o producciones similares en todo el planeta.
+Los sectores industriales más ligados a la gestión del agua tendrán también la oportunidad de finan­
+ciar proyectos que, a través de la digitalización, permitan la optimización de la gestión del agua en sus 
+procesos industriales, disminuyendo la dependencia del agua en sus procesos, fomentando la reuti­
+lización, descarbonización y la mejora de la calidad de las aguas en sus vertidos de aguas residuales.
+Se dispondrá además de un sistema de gestión que premiará a los distintos concesionarios del agua 
+que realizan una correcta gestión, distinguiendo y premiando las buenas prácticas y los ejemplos de 
+gestión reconocidos mundialmente, todo ello con el fin de hacer valer su buena gestión a través del 
+reconocimiento de sus esfuerzos por las distintas administraciones.
+Se potenciará notablemente la ya importante estructura empresarial asociada a la gestión del agua 
+en España, que, además de generar un importante empleo tecnológico y digital en España, permitirá 
+a las empresas españolas ser punteras en la gestión del Digitalización del ciclo del agua en el mundo
+44
+CRONOGRAMA
+8
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+En este punto se establece el presupuesto y mecanismos de financiación junto con el cronogra­
+ma de implantación del PERTE.
+8.1. Resumen del Presupuesto y mecanismos de financiación.
+Para poner en marcha las actuaciones previstas, el PERTE pretende movilizar 3.060 mi­
+llones de euros, contando con una inversión pública directa de 1.940 millones de euros y 
+estimándose la movilización de 1.120 millones de euros de colaboración público-privada.
+La tabla siguiente presenta un resumen de las principales líneas de actuación y la inver­
+sión global media, detallándose en la tabla del anexo nº1 por tipología.
+En relación con la procedencia de los fondos, el Plan de Recuperación es la principal fuen­
+te de fondos e impulso del programa, habilitándose los mecanismos de subvenciones y el 
+reparto de fondos en Conferencia Sectorial a las Comunidades Autónomas. La aportación 
+del Plan de Recuperación proviene principalmente del Componente 5, de las que desta­
+can las inversiones 1, 2 y 5. En cuanto a los PGE, se aportan 115 millones de euros del presu­
+puesto del MITERD.
+En resumen, de los 3.060 millones de euros, un 59% procederá del PRTR, un 4% serán 
+fondos complementarios de los Presupuestos Generales del Estado del MITERD y el 37% 
+será complementaria a partir de los  presupuestos de las  Comunidades Autónomas, las 
+Entidades Locales y otros gestores y usuarios del agua en general, tales como empresas 
+concesionarias de gestión del agua, comunidades de regantes, y comunidades de usua­
+rios de las aguas subterráneas, empresas beneficiarias en sector industrial, etc.
+Finalmente, las actuaciones previstas podrán ver incrementado su presupuesto con 
+fuentes adicionales relativas a las nuevas fases de implantación del Mecanismo de Recu­
+peración y Resiliencia.
+Los porcentajes de cofinanciación que se determinarán en las bases de la convocatoria, 
+que serán mayores para aquellas partes, por ejemplo, en el ciclo urbano del agua con 
+mayor problemática (saneamiento, descargas en época de lluvia, etc.), y para los usuarios 
+del regadío en zonas de especial relevancia y otros criterios a determinar en las convo­
+catorias.
+45
+PRESUPUESTO, 
+FINANCIACIÓN Y
+Presupuesto 
+inversión directa
+Línea de actuación
+(M€)
+1. Mejora Gobernanza
+10
+0
+10
+2. Digitalización 
+organismos de cuenca
+225
+0
+225
+3. Ayudas sectores
+1.700
+1.120
+2.820
+4. Formación e
+innovación
+5
+0
+5
+TOTAL PERTE (M€)
+1.940
+1.120
+3.060
+8.2. Cronograma
+La implantación de este PERTE se hará de forma progresiva hasta el horizonte temporal 
+del Plan de Recuperación.
+En el anexo nº2 del PERTE se presenta una tabla resumen con las principales medidas 
+del PERTE y su interconexión temporal, tanto en las fases de diseño y tramitación admi­
+nistrativa como en su implantación progresiva.
+Dada la importancia de la mejora de la gobernanza, como aspecto clave para la movili­
+zación de la dinámica necesaria a la hora de implantar los aspectos más relevantes del 
+PERTE, a continuación, se presenta una tabla resumen con la propuesta de calendario y 
+fases de actuación de la línea de actuación 1:
+Mejora de la Gobernanza 
+2022
+1er semestre
+1.1. Modificación del Texto Refundido de la Ley de Aguas
+1.2. Transposición de la nueva directiva de calidad de las
+1.3. Modificación del Reglamento del Dominio Público Hi­
+1.4. Actualización de la Orden Ministerial, por la que se 
+regulan los sistemas para realizar el control efectivo de los
+volúmenes de agua utilizados y de los vertidos al mismo.
+1.5. Actualización de la Orden Ministerial por la que se desa­
+rrolla el régimen jurídico de las entidades colaboradoras de
+la administración hidráulica
+1.6. Real Decreto que regule contenido y funcionamiento
+del Observatorio de la gestión del agua.
+ 
+Tramitación
+Aprobación
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Fondos 
+complementarios
+Total inversión
+público-privados
+(M€)
+(M€)
+2022
+2º semestre
+2023
+1er semestre
+(TRLA)
+Tramitación
+Aprobación
+aguas de consumo humano
+Tramitación
+Aprobación
+dráulico (RDPH)
+Tramitación
+Aprobación
+Tramitación
+Aprobación
+Tramitación
+Aprobación
+46
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Por otro lado, igualmente, por la trascendencia para los distintos sectores implicados en este PER­
+TE externos a la administración hidráulica, las inversiones se desarrollarán en las siguientes fases 
+y calendario previsto:
+Principales medidas del
+2022 1er 
+semestre
+PERTE
+Creación y mantenimiento 
+del observatorio y portal web 
+de la gestión del agua
+Impulso a la digitalización de 
+los organismos de cuenca
+Licitación y encargo de ac­
+tuaciones
+Primera 
+Convocatoria 
+de 
+subvenciones digitalización 
+del ciclo urbano del agua
+Diseño y 
+publicación 
+convocatoria
+Reparto de fondos en Con­
+ferencia Sectorial de Medio 
+Ambiente a las CCAA
+Diseño y 
+tramitación
+Segunda 
+convocatoria 
+de 
+subvenciones digitalización 
+del ciclo urbano del agua
+Convocatoria de subvencio­
+nes digitalización del regadío
+Diseño
+Convocatoria de subvencio­
+nes digitalización en la ges­
+tión del agua del sector in­
+dustrial.
+Diseño y 
+puesta en
+Fomento de la formación e 
+innovación
+marcha
+8.3. Indicadores del PERTE
+En relación con la selección de los indicadores de implementación del PERTE, con vistas a buscar 
+una serie de indicadores sencillos de recopilar pero claves a la hora de evaluar el impacto del mis­
+mo en la gestión del ciclo de agua, se han seleccionado, en una primera fase 15 grupos de indica­
+dores que intentan resumir en ellos los distintos beneficios que se obtendrán de la implantación 
+de este PERTE y que serán actualizados anualmente.
+47
+2022 2º 
+semestre
+2023
+2024
+2025
+2026
+Diseño y licitación
+Puesta en marcha, funcionamiento y
+mantenimiento evolutivo
+Puesta en marcha, funcionamiento y
+mantenimiento evolutivo
+Selección 
+programas
+puesta en marcha y desarrollo de progra­
+mas
+Reparto de
+puesta en marcha y desarrollo de progra­
+fondos
+mas
+Publicación de 
+la convocatoria 
+y selección pro­
+puesta en marcha y de­
+Diseño
+sarrollo de programas
+yectos
+Publicación de 
+la convocatoria 
+y selección pro­
+puesta en marcha y de­
+sarrollo de programas
+yectos
+Publicación de 
+la convocatoria 
+y selección pro­
+puesta en marcha y de­
+Diseño
+sarrollo de programas
+yectos
+Inicio de las 
+actuaciones
+Ejecución de las actuaciones
+Elemento seleccionado
+Nº 
+Grupo de indicador
+Observatorio sobre la gestión del
+agua 
+1
+Funcionamiento de las Entidades 
+Colaboradoras en materia de control
+2
+de los usos del agua
+Funcionamiento SAIH Organismos
+de cuenca
+3
+Mejora de la gestión digital del ciclo
+urbano del agua
+Mejora de la gestión digital del re­
+gadío
+Mejora en la gestión digital del agua 
+en el sector industrial
+Formación e innovación
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Número de usuarios y volumen de agua asociado inclui­
+dos en la plataforma del Observatorio por tipología de
+concesionarios
+Número de Entidades Colaboradoras de la Administra­
+ción Hidráulica en materia de control de los usos del
+agua en España existentes.
+Volumen y porcentaje sobre el total de usos del agua en
+la cuenca con información sobre suministros en alta en
+tiempo real recibidos en los SAIH
+4
+Nº de programas financiados e inversión asociada
+5
+Volumen total de agua utilizada anualmente y evolución
+asociada en toda España
+6
+Porcentaje de agua no registrada y pérdidas en toda
+España
+7
+Porcentaje de telelectura en contadores instalados en
+toda España
+8
+Nº de programas financiados e inversión asociada
+9
+Volumen total de agua consumida anualmente y evolu­
+ción asociada en los programas financiados
+10
+Eficiencia del regadío y pérdidas de agua asociadas en
+los programas financiados
+11
+Porcentaje de telelectura en contadores instalados en
+los programas financiados
+12
+Nº de programas financiados e inversión asociada
+13
+Volumen total de agua utilizada anualmente y evolución
+asociada en toda España
+14
+Nº de actividades formativas y participantes
+15
+Nº de proyectos I+D+i en materia de gestión del agua y
+presupuesto asociado
+48
+GOBERNANZA
+9
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+De acuerdo con lo previsto en las Ordenes HFP 1030/2021 y 1031/2021, la implementación de este 
+PERTE será responsabilidad del Ministerio para la Transición Ecológica y Reto Demográfico, sien­
+do la impulsora del mismo la Dirección General del Agua, con participación esencial de las Con­
+federaciones Hidrográficas y Organismos de cuenca intracomunitarios, de la Mancomunidad de 
+Canales del Taibilla y de las sociedades estatales ACUAMED y ACUAES.
+También intervendrán los siguientes agentes públicos y privados que son imprescindibles para 
+su desarrollo, implementación y posterior gestión:
+•	
+Ministerio de Agricultura, Pesca y Alimentación y en especial, la Sociedad Mercantil Esta­
+tal de Infraestructuras Agrarias (SEIASA).
+•	
+Ministerio de Política Territorial
+•	
+Ministerio de Asuntos Económicos y Transformación Digital
+•	
+Comunidades Autónomas.
+•	
+Municipios y otras entidades locales competentes.
+•	
+Federación Española de Municipios y Provincias
+•	
+Operadores, públicos o privados, del ciclo urbano del agua.
+•	
+Comunidades de Regantes y Comunidades de usuarios de aguas subterráneas.
+•	
+Operadores de telecomunicaciones.
+•	
+Fabricantes de elementos de sensorización, y en especial de contadores.
+•	
+Centros de investigación, universidades y empresas de gestión de servicios, startup y 
+otras empresas asociadas a la gestión de la información, machine learning, gemelos di­
+gitales, big data e inteligencia artificial.
+Dada la pluralidad de agentes públicos y privados, es necesario establecer una gobernanza del 
+PERTE con el fin de garantizar la adecuada participación de todos ellos que, en el marco del PER­
+TE, deben coordinarse para la programación de sus actuaciones y para hacer efectiva la colabo­
+ración público-privada.
+49
+A tal fin, se establece un modelo de gobernanza integrado por los siguientes instrumentos:
+1. En relación con la coordinación en el ámbito administrativo estatal, se dota al PERTE de una
+gobernanza interdepartamental que a través por tanto de un grupo de trabajo con represen­
+tantes de los Ministerios y Comunidades Autónomas implicadas, que no supondrá incremento 
+de gasto público.
+Este grupo de trabajo servirá de marco de colaboración y coordinación estable entre los distin­
+tos departamentos implicados en el PERTE, canalizará propuestas de mejora, recomendacio­
+nes y observaciones relativas a aquellas iniciativas que pueden apoyar la gestión eficiente del 
+PERTE. Además, asesorará e informará al Gobierno sobre la marcha del Proyecto y, en su caso, 
+sobre el diseño, ejecución y evaluación de las políticas relacionadas con el mismo.
+El Grupo de Trabajo estará compuesto por la persona titular de la DG del Agua (DGA) del Ministe­
+rio para la Transición Ecológica y el Reto Demográfico (MITECO) que lo presidirá, así como por los 
+siguientes Vocales:
+a.	 Un representante de la Subsecretaría del MITECO.
+b.	 Un representante del Ministerio de Agricultura, Alimentación y Pesca (MAPA).
+c.	 Un representante del Ministerio de Sanidad.
+d.	 Un representante del Ministerio de Asuntos Económicos y Transformación Digital
+(MAETD).
+e.	 Un representante del Ministerio de Política Territorial.
+f.	 Un representante del Ministerio de Industria, Comercio y Turismo (MINCOTUR).
+g.	 Un representante del CEDEX del Ministerio de Transportes, Movilidad y Agenda Urbana.
+2. La gobernanza del PERTE debe reflejar, además, la colaboración con todas las administra­
+ciones implicadas, a través de las Confederaciones Hidrográficas, cuencas intracomunitarias, 
+Mancomunidad de los Canales del Taibilla, todas las Comunidades Autónomas y Entidades lo­
+cales a través la Federación de Municipios y Provincias y la colaboración público-privada, y con­
+tar con la participación de todos los actores relevantes para garantizar un dialogo permanente.
+3. En relación con los actores privados se garantizará a través de diálogos bilaterales estructura­
+dos en los que participarán la administración y las distintas asociaciones sectoriales, relaciona­
+das con la gestión del agua (Mesa del ciclo urbano del agua, AEAS, AEOPAS, AGA, FENACORE, 
+ONG ambientales, etc.)
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+50
+RESILIENCIA
+10
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Este PERTE Digitalización del ciclo del agua cumple todos los requisitos para ser considerado 
+como tal, de conformidad con el artículo 8.3 del Real Decreto-ley 36/2020, de 30 de diciembre, por 
+el que se aprueban medidas urgentes para la modernización de la Administración Pública y para 
+la ejecución del Plan de Recuperación, Transformación y Resiliencia:
+a)	 Representa una importante contribución al crecimiento económico, a la creación de
+empleo y a la competitividad de la industria y la economía española, habida cuenta 
+de sus efectos de arrastre positivos en el mercado interior y la sociedad.
+b)	 Permite combinar conocimientos, experiencia, recursos financieros y actores eco­
+nómicos, con el fin de remediar importantes deficiencias del mercado o sistémicas 
+y retos sociales a los que no se podría hacer frente de otra manera.
+Los nuevos modelos sostenibles que promueve este PERTE abrirán oportunidades de 
+negocio y de empleo y estrecharán los vínculos entre los distintos operadores económi­
+cos, tanto nacionales como europeos. Fomentará también la colaboración en la gestión 
+del agua entre empresas promoviendo, de esta manera, la transferencia de conocimien­
+tos y experiencia.
+La aportación de recursos financieros por parte de la Administración permitirá abordar 
+retos que se antojan difícilmente alcanzables sin su concurrencia, ya que contribuyen 
+a paliar las deficiencias existentes en la actualidad, impulsando modelos e iniciativas 
+innovadores.
+Las actuaciones contempladas se encuentran, además, alineadas con los objetivos de 
+reactivación de la economía general y de la adaptación al cambio climático, más impor­
+tante aún en situación de sequía. Para ello, es imprescindible el apoyo gubernamental 
+a proyectos que promuevan esta transformación, complementando así los esfuerzos en 
+este ámbito.
+c)	 Tiene un importante carácter innovador o aporte un importante valor añadido en
+términos de I+D+i, por ejemplo, posibilitando el desarrollo de nuevos productos, ser­
+vicios o procesos de producción.
+La finalidad de buena parte de las actuaciones que contempla este PERTE consiste en 
+fomentar la digitalización de los procesos de gestión del agua para mejorar la competiti­
+51
+CUMPLIMIENTO DEL REAL
+DECRETO-LEY 36/2020
+Y DEL MECANISMO 
+DE RECUPERACIÓN Y
+vidad e innovación asociada. Adicionalmente, recoge diversas actuaciones concretas en 
+materia de I+D+i en los diferentes procesos y a lo largo de toda la cadena de gestión de 
+los recursos hídricos.
+La aplicación en la industria de diversas tecnologías como la inteligencia artificial (IA) 
+desempeña un papel importante en la implementación de los principios de gestión del 
+agua, fomentando además la economía circular.
+d)	 Tanto el conjunto de las 4 líneas de actuación y medidas asociadas incorporadas en
+este PERTE, como la cuantía total de asignada al PERTE se consideran de tamaño y 
+alcance particularmente grandes.
+e)	 El carácter multisectorial de este PERTE y la transversalidad propia de la gestión del
+agua facilitarán la generación de importantes sinergias tanto intra como intersec­
+toriales, favoreciendo, de este modo, la integración y el crecimiento de los usuarios, 
+empresas y administraciones dedicadas a la gestión del agua. Prueba de ello es que 
+las diferentes convocatorias promoverán especialmente la participación de las PYME 
+y entidades de asociadas, así como las agrupaciones de las mismas.
+f)	 El PERTE Digitalización del ciclo del agua contribuye, tal y como se ha descrito en
+el epígrafe 2 de la memoria, a los objetivos del PRTR de la Economía Española, en 
+particular, en lo que se refiere a los objetivos del Mecanismo de Recuperación y Re­
+siliencia establecidos en el artículo 3 del Reglamento (UE) 2021/241 del Parlamento 
+Europeo y del Consejo de 12 de febrero de 2021 por el que se establece el Mecanismo 
+de Recuperación y Resiliencia (Reglamento MRR).
+Este PERTE no distorsiona la competencia efectiva en los mercados en los términos contempla­
+dos en el apartado 5, del artículo 8, del Real Decreto Ley 36/2020. Asimismo, todas las entidades 
+vinculadas al desarrollo de este PERTE, independientemente de su naturaleza jurídica pública o 
+privada y de su forma de constitución, deberán inscribirse en el Registro estatal de entidades in­
+teresadas en los PERTE, en cumplimiento de lo establecido en el art. 8 del citado Real Decreto Ley.
+Por otro lado, conforme a lo indicado en el apartado 4, del artículo 8, del Real Decreto Ley 36/2020 
+se considera que es un proyecto único claramente definido en cuanto a sus objetivos y sus mo­
+dalidades de ejecución.
+En relación con el desarrollo del mismo y conforme al registro estatal de entidades interesadas
+en el PERTE al que se refiere el artículo 9 y siguientes de dicha norma, se estará a lo establecido 
+en la Orden HFP/168/2022, de 7 de marzo, por la que se regula el funcionamiento y estructura del 
+Registro Estatal de las entidades interesadas en los Proyectos Estratégicos para la Recuperación 
+y Transformación Económica.
+Las empresas que se acrediten para participar en el PERTE tendrán que ceder la información que 
+se exija por el Ministerio correspondiente, dando cumplimiento a la normativa europea y nacional 
+aplicable.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+52
+AMBIENTE” (DNSH7)
+11
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Las actuaciones que se lleven a cabo contempladas en este PERTE respetarán el principio de «no 
+causar un perjuicio significativo al medio ambiente» (principio ”Do no Significant Harm - DNSH) 
+en cumplimiento con lo dispuesto en el Reglamento (UE) 2021/241 del Parlamento Europeo y del Con­
+sejo, de 12 de febrero de 2021, por el que se establece el Mecanismo de Recuperación y Resiliencia, y 
+su normativa de desarrollo, en particular el Reglamento (UE) 2020/852, relativo al establecimiento de 
+un marco para facilitar las inversiones sostenibles y la Guía Técnica de la Comisión Europea (2021/C 
+58/01) sobre la aplicación de este principio, así como con lo requerido en la Decisión de Ejecución del 
+Consejo relativa a la aprobación de la evaluación del plan de recuperación y resiliencia de España y su 
+documento Anexo, así como en la Decisión sobre los Acuerdos Operativos (OA).
+Ello incluye el cumplimiento de las condiciones específicas asignadas en la Componente 5, fun­
+damentalmente en las medidas I1, I2 e I3 en la que se enmarcan las actuaciones específicas de 
+este PERTE, tanto en lo referido al principio DNSH, como al etiquetado climático y digital, y espe­
+cialmente las recogidas en los apartados 3, 6 y 8 del documento del Componente del Plan y en 
+el Anexo a la CID.
+En ese sentido, como ya se ha indicado, este Ministerio ha editado la Guía para el diseño y desarrollo 
+de actuaciones acordes con el principio DNSH,  cuestionario de autoevaluación, listado de etiquetas 
+climáticas y otras referencias.
+Asimismo, las actuaciones que se realicen deberán asegurar el cumplimiento de la legislación medioam­
+biental pertinente de la UE y nacional, y habrán de corresponderse con las etiquetas climáticas que 
+tengan asignadas. Concretamente, las actuaciones contempladas en este PERTE centradas en la Com­
+ponente 5, fuente principal de financiación del mismo, se encuentran en campos de intervención que 
+reconocen una contribución del 40% y del 100 % a los objetivos climáticos y del 100% a los objetivos 
+medioambientales, de conformidad con lo establecido en el  Anexo VI del Reglamento (UE) 2021/241 
+del Parlamento Europeo y del Consejo de 12 de febrero de 2021 por el que se establece el Mecanismo de 
+Recuperación y Resiliencia, que son las siguientes:
+53
+CUMPLIMIENTO DEL
+PRINCIPIO DE “NO 
+CAUSAR UN PERJUICIO 
+SIGNIFICATIVO AL MEDIO
+7     “Do Not Significant Harm” en sus siglas en inglés.
+Etiqueta
+Descripción de la etiqueta a cumplir por las medidas y submedidas según el Anexo VI 
+del Reglamento MRR
+Medidas de adaptación al cambio climático y prevención y gestión de riesgos relacionados con 
+el clima: inundaciones (incluidas las acciones de sensibilización, la protección civil, los sistemas e 
+infraestructuras de gestión de catástrofes y los enfoques ecosistémicos).
+035
+Gestión del agua y conservación de los recursos hídricos (incluida la gestión de las cuencas 
+fluviales, medidas específicas de adaptación al cambio climático, reutilización, reducción de 
+fugas).
+040
+Recogida y tratamiento de aguas residuales de acuerdo con los criterios de eficiencia energé­
+tica. Si el objetivo de la medida es que el sistema completo de tratamiento de aguas residuales 
+construido tenga un consumo de energía neto nulo o que la renovación del sistema completo 
+de tratamiento de aguas residuales conduzca a una reducción del consumo medio de energía 
+de al menos un 10 % (únicamente mediante medidas de eficiencia energética y no mediante 
+cambios materiales o cambios en la carga)
+041 bis
+Carácter transversal y actuación integral sobre la gestión de los recursos hídricos
+Teniendo que cuenta el carácter transversal propio de la gestión integrada de los recursos hídri­
+cos, así como que los instrumentos previstos en este PERTE, no es posible hacer una evaluación 
+global del principio de DNSH para toda la inversión.
+Por tanto, para cumplir con el objetivo de DNSH, se ha optado por exigir la presentación, para 
+cada una de las actuaciones elegibles que soliciten ayuda al amparo de este régimen de una eva­
+luación de los seis objetivos medioambientales del reglamento de taxonomía, no concediéndose
+ayuda si de la evaluación se desprende que no cumple el criterio de DNSH.
+Documentación requerida para evaluar el cumplimiento de los criterios DNSH
+En los distintos proyectos de ejecución, convocatorias, bases reguladoras y en las respectivas con­
+vocatorias que regulen cada línea de ayudas se concretarán los criterios DNSH que se deben cum­
+plir, así como la documentación exigida para acreditar dicho cumplimiento.
+Los solicitantes deberán aportar una Declaración de no causar perjuicio significativo a los objetivos 
+medioambientales, acreditativa del cumplimiento del principio DNSH conforme al Anexo I de la Co­
+municación de la Comisión “Guía técnica sobre la aplicación del principio de «no causar un perjuicio 
+significativo» en virtud del Reglamento relativo al Mecanismo de Recuperación y Resiliencia”. Con el 
+fin de facilitar la presentación de esta documentación, se ofrecerá un modelo en uno de los anexos 
+de la convocatoria.
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+54
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Como norma general, las actuaciones incluidas en este PERTE serán en principio la mayor parte 
+clasificadas como de bajo impacto ambiental o con una contribución sustancial a los objetivos 
+climáticos y ambientales, no obstante, si existiese alguna  actividad que no sean de bajo impacto
+ambiental, pero sean elegibles en casos excepcionales y claramente justificados conforme a la 
+Comunicación de la Comisión Europea 2021/C 58/01, Guía Técnica sobre la aplicación del princi­
+pio de “no causar un perjuicio significativo” en virtud del Reglamento relativo al Mecanismo de 
+Recuperación y Resiliencia, adicionalmente, deberán disponer de una valoración independiente 
+realizada por un tercero.
+En concreto, se identificarán además actividades excluidas aquellas identificadas en la Guía Téc­
+nica de la Comisión y a las que se refiere expresamente el Anexo de la Propuesta de Decisión de 
+Ejecución del Consejo relativa a la aprobación de la evaluación del plan de recuperación y resi­
+liencia de España, no susceptibles de financiación, que quedan relacionadas más detalladamente 
+en el listado no exhaustivo de la Guía para el diseño y desarrollo de actuaciones acordes con el 
+principio de no causar un perjuicio significativo al medio ambiente.
+Por otro lado, las convocatorias incorporarán como criterio de valoración el impacto medioam­
+biental. Es decir, mediante esta convocatoria no se apoyará ningún proyecto que sea contrario al 
+DNSH y, además, se podrán valorar positivamente aquellos que contribuyan a la mejora de la sos­
+tenibilidad medioambiental. Se deberá, asimismo, prever mecanismos para asegurar que los sub­
+contratistas cumplan con el principio de «no causar un perjuicio significativo al medio ambiente».
+Por último, se resalta que todos los condicionantes de cumplimiento del principio DNSH y etique­
+tado climático se incluirán en todos los instrumentos jurídicos a través de los cuales se formaliza­
+rán los compromisos financieros resultantes del PERTE, como por ejemplo en las instrucciones 
+sobre obligaciones a cumplir por las entidades o Administraciones y sobre inversiones y gastos 
+financiables de las bases reguladoras, convocatorias y licitaciones que desarrollen el PERTE. De 
+igual modo, se incluirá el cumplimiento de estos requisitos en la resolución de concesión, la ad­
+judicación a la oferta ganadora, en la verificación de las actuaciones ejecutadas o en cualquier 
+otro apartado de órdenes, contratos y convocatorias que, a juicio del órgano convocante, permita 
+asegurar el cumplimiento de las instrucciones recogidas en las Componentes del Plan.
+Como resumen final, a partir de la información ya comentada, se presenta una tabla para cada 
+inversión del Componente 5, fuente financiación esencial del PERTE, junto con el extracto de con­
+diciones del PRTR, CID y etiquetas climáticas y digital:
+55
+INVER­
+SIÓN
+ACTUACIÓN
+Extracto de condiciones PRTR
+En la ejecución de las actuacio­
+nes se garantizará que al menos 
+el 70 % (en peso) de los residuos 
+de construcción y demolición 
+no peligrosos (generados en las 
+obras de construcción se reutili­
+zará, reciclará o recuperará [...] Se 
+cumplirán los criterios estable­
+cidos en la Directiva 91/271/CEE 
+[...]. Las emisiones a la atmosfera 
+por cogeneración serán iguales 
+o menores a los niveles de emi­
+sión asociados con las mejores 
+técnicas disponibles. Los lodos 
+de depuradora se gestionarán o 
+utilizarán, incluida la digestión 
+anaeróbica y la aplicación a la 
+tierra, de conformidad con la Di­
+rectiva del Consejo 86/278/CEE y 
+la legislación nacional.
+Materialización 
+de 
+actuaciones de de­
+puración, 
+sanea­
+miento y reutilización
+C5.I1
+Mejora de la eficien­
+cia y reducción de 
+pérdidas en el uso del 
+agua
+C5.I1
+Inversiones para me­
+jorar la seguridad de 
+las presas y los em­
+balses
+C5.I1
+Actuaciones de se­
+guimiento y restau­
+ración en ecosiste­
+mas fluviales
+C5.I2
+En la ejecución de las actuacio­
+nes se garantizará que al menos 
+el 70 % (en peso) de los residuos 
+de construcción y demolición 
+no peligrosos (generados en las 
+obras de construcción se reutili­
+zará, reciclará o recuperará [...] El 
+proyecto y las técnicas de cons­
+trucción serán compatibles con 
+la circularidad y mostrarán, con 
+referencia a la ISO 20887 [...]
+Actuaciones 
+para 
+mitigar el riesgo de 
+inundación
+C5.I2
+Medidas de reduc­
+ción de la extracción 
+de agua subterránea 
+con la aplicación de 
+recursos alternativos
+C5.I2
+Mejora de la Gober­
+nanza en la gestión 
+del agua
+En el uso de equipos y equipa­
+mientos tecnológicos se selec­
+cionarán los mejores disponibles 
+por la tecnología existente en 
+cuanto al consumo de energía. 
+Los equipos cumplirán con los 
+requisitos relacionados con la 
+energía establecidos de acuer­
+do con la Directiva 2009/125 / EC 
+para servidores y almacenamien­
+to de datos, o computadoras y 
+servidores de computadoras o 
+pantallas electrónicas. Los equi­
+pos cumplirán con los requisitos 
+de eficiencia de materiales esta­
+blecidos de acuerdo con la Direc­
+tiva 2009/125 / EC. Al final de su 
+vida útil, los equipos se somete­
+rán a una preparación para ope­
+raciones de reutilización[...]
+C5.I3
+C5.I3
+Transición digital en 
+el sector del agua
+011 (100%)
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+Extracto de 
+condiciones
+Etiqueta 
+climática
+Etiqueta
+digital
+CID
+041bis
+Sin eti­
+(40%)
+queta
+Sin con­
+dicionado 
+específico 
+para la 
+adecua­
+ción de la 
+medida
+040  
+(40%)
+Sin eti­
+queta
+040  
+(40%)
+Sin eti­
+queta
+040  
+(40%)
+Sin eti­
+queta
+Sin con­
+dicionado 
+específico 
+para la 
+adecua­
+ción de la 
+medida
+035 
+(100%)
+Sin eti­
+queta
+040  
+(40%)
+Sin eti­
+queta
+011 (100%)
+Sin con­
+dicionado 
+específico 
+para la 
+adecua­
+ción de la 
+medida
+040 (40%)
+56
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+ACTUACIONES
+ANEXO 1
+LÍNEA 
+ACTUACIÓN
+LISTADO DETALLADO DE ACTUACIONES E INVERSIONES 
+ASOCIADAS
+1.1. Modificación del Texto Refundido de la Ley de Aguas (TRLA)
+0
+0
+0
+1.2. Transposición de la nueva Directiva de calidad de las aguas 
+destinadas al consumo humano.
+0
+0
+0
+1.3. Modificación del Reglamento del Dominio Público Hi­
+dráulico (RDPH)
+0
+0
+0
+1.  Mejora de
+la gober­
+nanza en 
+materia de
+1.4. Actualización de la Orden Ministerial por la que se regulan 
+los sistemas para realizar el control efectivo de los volúmenes 
+de agua utilizados y de los vertidos.
+gestión de 
+los usos del
+1.5. Actualización de la Orden Ministerial por la que se desa­
+rrolla el régimen jurídico de las entidades colaboradoras de la 
+administración hidráulica
+agua.
+1.6. Nuevo Real Decreto que regule contenido y funciona­
+miento del Observatorio del agua en España y el sello de “ges­
+tión transparente del agua”.
+TOTAL LÍNEA ACTUACIÓN 1
+10
+0
+10
+2.1. Digitalización de la gestión administrativa de la adminis­
+tración hidráulica
+69,6
+0
+69,6
+2.2. Implantación del Registro de Aguas electrónico, impul­
+sando decididamente los trabajos en marcha en estos mo­
+mentos y la puesta en marcha de la Base Central del Agua.
+2.3. Impulsar el desarrollo tecnológico de las redes de Infor­
+mación Hidrológica, en relación con la gestión de los datos 
+hidrológicos, el control de usos del agua y el cumplimento de 
+los caudales ecológicos.
+2: Impulso a 
+la digitaliza­
+2.4. Impulso y avance en la modelización numérica del ciclo 
+hidrológico
+26,0
+0
+26,0
+ción de los 
+organismos
+de cuenca
+2.5. Programa de actuación para la modelización digital a tra­
+vés de la metodología BIM de las obras hidráulcias de titulari­
+dad estatal y un programa específico para la digitalización de 
+todo el ciclo de seguridad de presas y embalses.
+2.6. Mejora de los sistemas informáticos existentes del estado 
+y calidad de las aguas. 
+21,4
+0
+21,4
+2.7. Elaborar el Libro Digital del Agua.
+5,0
+0
+5,0
+TOTAL LÍNEA ACTUACIÓN 2
+225
+0
+225
+57
+CUADRO GENERAL DE LAS
+TOTAL 
+PROGRA­
+MA (MEU­
+IMPORTE 
+TOTAL AGE
+OTRAS 
+FUENTES 
+(MEUROS)
+(MEUROS)
+ROS)
+0
+0
+0
+0
+0
+0
+10
+0
+10
+30,0
+0
+30,0
+45,0
+0
+45,0
+28,0
+0
+28,0
+LÍNEA 
+ACTUACIÓN
+LISTADO DETALLADO DE ACTUACIONES E INVERSIONES 
+ASOCIADAS
+3.1. Primera Convocatoria de subvenciones en concurrencia 
+competitiva de programas singulares de digitalización del ci­
+clo urbano del agua
+3.2. Reparto de fondos en Conferencia Sectorial de Medio Am­
+biente a las CCAA
+200
+150
+350
+3: Desa­
+rrollo de 
+programas 
+de ayudas a 
+los distintos 
+usuarios del
+3.3. Segunda convocatoria de subvenciones de programas de 
+digitalización del ciclo urbano del agua
+1000
+600
+1600
+3.4. Convocatoria de subvenciones en concurrencia compe­
+titiva de programas singulares de digitalización de Comu­
+nidades de Regantes y Comunidades de usuarios de aguas 
+subterráneas.
+agua
+3.5. Convocatoria de subvenciones en concurrencia competi­
+tiva de proyectos singulares de digitalización en la gestión del 
+agua del sector industrial.
+TOTAL LÍNEA DE ACTUACIÓN 3
+1700
+1120
+2820
+4: Fomen­
+4.1 Elaboración de guías técnicas, recomendaciones y mate­
+riales divulgativos
+5,0
+0
+5
+to de la 
+formación e
+4.2 Programas de formación e innovación específicos inter­
+nos para personal implicado en la digitalización
+innovación
+en com­
+petencias 
+digitales en
+4.3 Desarrollo y colaboración en proyectos de I+D+i específi­
+cos para la gestión del agua.
+la adminis­
+4.4 Desarrollo de campañas de divulgación y formación desti­
+nadas a la ciudadanía y los usuarios del agua.
+tración y 
+gestión del
+agua
+TOTAL LÍNEA DE ACTUACIÓN 4
+5,0
+0
+5
+TOTAL GLOBAL
+1940
+1120
+3060
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+TOTAL 
+PROGRA­
+MA (MEU­
+IMPORTE 
+TOTAL AGE
+OTRAS 
+FUENTES 
+(MEUROS)
+(MEUROS)
+ROS)
+200
+120
+320
+200
+150
+350
+100
+100
+200
+(integrado en convoca­
+torias)
+0
+(integrado en convoca­
+torias)
+0
+(integrado en convoca­
+torias)
+0
+58
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+CRONOGRAMA GENERAL DE 
+IMPLANTACIÓN DE LAS ACTUACIONES
+ANEXO 2
+Línea 
+actuación
+Actuación
+1.1. Modificación del Texto Refundido de la Ley 
+de Aguas (TRLA)
+1.2. Transposición de la nueva Directiva de ca­
+lidad de las aguas destinadas al consumo hu­
+mano.
+1.3. Modificación del Reglamento del Dominio 
+Público Hidráulico (RDPH)
+1.  Mejora
+de la go­
+bernanza 
+en materia
+1.4. Actualización de la Orden Ministerial por 
+la que se regulan los sistemas para realizar el 
+control efectivo de los volúmenes de agua uti­
+lizados y de los vertidos.
+de gestión 
+de los usos
+1.5. Actualización de la Orden Ministerial por 
+la que se desarrolla el régimen jurídico de las 
+entidades colaboradoras de la administración 
+hidráulica
+del agua.
+1.6. Nuevo Real Decreto que regule contenido y 
+funcionamiento del Observatorio del agua en 
+España y el sello de “gestión transparente del 
+agua”.
+2.1. Digitalización de la gestión administrativa 
+de la administración hidráulica
+2.2. Implantación del Registro de Aguas elec­
+trónico, impulsando decididamente los traba­
+jos en marcha en estos momentos y la puesta 
+en marcha de la Base Central del Agua.
+2.3. Impulsar el desarrollo tecnológico de las 
+redes de información hidrológica.
+2: Impulso 
+a la digita­
+lización de
+2.4. Impulso y avance en la modelización nu­
+mérica del ciclo hidrológico y avisos hidrológi­
+cos en coordinación la AEMET
+los orga­
+nismos de
+2.5. Programa de actuación para la modeliza­
+ción digital a través de la metodología BIM de 
+las obras hidráulicas de titularidad estatal y un 
+programa específico para la digitalización de 
+todo el ciclo de seguridad de presas y embalses.
+cuenca
+2.6. Mejora de los sistemas informáticos exis­
+tentes del estado y calidad de las aguas.
+2.7. Elaborar el Libro Digital del Agua, como 
+medida de gobernanza y transparencia.
+59
+1er  
+semestre
+2º 
+semestre
+2023
+2024
+2025
+2026
+2022
+2022
+Línea 
+actuación
+Actuación
+3.1. Primera Convocatoria de subvenciones en 
+concurrencia competitiva de proyectos sin­
+gulares de digitalización del ciclo urbano del 
+agua
+3: Desa­
+rrollo de 
+programas
+3.2. Reparto de fondos en Conferencia Sectorial 
+de Medio Ambiente a las CCAA
+de ayudas
+3.3. Segunda convocatoria de subvenciones de 
+proyectos de digitalización del ciclo urbano del 
+agua
+para el 
+impulso a 
+la digitali­
+zación a los
+3.4. Convocatoria de subvenciones en concu­
+rrencia competitiva de proyectos singulares de 
+digitalización de Comunidades de Regantes y 
+Comunidades de usuarios de aguas subterrá­
+neas.
+distintos 
+usuarios 
+del agua 
+en España
+3.5. Convocatoria de subvenciones en concu­
+rrencia competitiva de proyectos singulares de 
+digitalización en la gestión del agua del sector 
+industrial.
+4.1 Elaboración de guías técnicas, recomenda­
+ciones y materiales divulgativos
+4: Fomento
+de la for­
+mación e 
+innovación 
+en compe­
+4.2 Programas de formación e innovación es­
+pecíficos internos para personal implicado en 
+la digitalización
+4.3 Desarrollo y colaboración en proyectos de 
+I+D+i específicos para la gestión del agua.
+tencias di­
+gitales  en
+4.4 Desarrollo de campañas de divulgación 
+y formación destinadas a la ciudadanía y los 
+usuarios del agua.
+la gestión
+del agua
+PERTE DE DIGITALIZACIÓN DEL CICLO DEL AGUA
+1er  
+semestre
+2º 
+semestre
+2023
+2024
+2025
+2026
+2022
+2022
+diseño y tramitación administrativa
+Implantación
+60
+MEMORIA DESCRIPTIVA
+PERTE
+Digitalización
+del ciclo del agua
+MARZO 2022
+España
+transforma
+#EspañaTransforma

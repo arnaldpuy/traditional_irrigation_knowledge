@@ -1,0 +1,553 @@
+Plan de Modernización de Regadíos de
+Andalucía
+Índice de contenido
+1.  ANTECEDENTES..................................................................................................................3
+1.1. INTRODUCCIÓN......................................................................................................................................3
+1.2. MARCO LEGISLATIVO..............................................................................................................................4
+2. OBJETIVOS Y ÁMBITO DE ACTUACIÓN DEL PLAN.....................................................................7
+3. ENTIDADES QUE PUEDEN SOLICITAR PARTICIPAR EN EL PLAN Y REQUISITOS QUE DEBEN REUNIR
+.............................................................................................................................................7
+3.1. ENTIDADES QUE PUEDEN SOLICITAR PARTICIPAR EN EL PLAN........................................................................7
+3.2. REQUISITOS QUE DEBEN REUNIR QUIENES SOLICITEN PARTICIPAR EN EL PLAN................................................8
+4.  CRITERIOS DE ELEGIBILIDAD DE LAS ACTUACIONES...............................................................8
+5. DOCUMENTACIÓN A PRESENTAR JUNTO CON LA SOLICITUD DE PARTICIPACIÓN.......................9
+6. CRITERIOS DE VALORACIÓN DE LAS ACTUACIONES...............................................................11
+7. SOLICITUD Y TRAMITACIÓN DE LAS ACTUACIONES................................................................12
+7.1. APROBACIÓN Y PUBLICACIÓN DEL PLAN...................................................................................................12
+7.2. SOLICITUD DE PARTICIPACIÓN Y DOCUMENTACIÓN JUSTIFICATIVA................................................................12
+7.3. SELECCIÓN DE LAS ACTUACIONES A EJECUTAR..........................................................................................13
+8.  EJECUCIÓN DE LAS ACTUACIONES......................................................................................14
+8.1. PROYECTOS.........................................................................................................................................14
+8.2. EJECUCIÓN DE LAS OBRAS.....................................................................................................................14
+8.3. ESQUEMA DE FINANCIACIÓN Y DECLARACIÓN AL FEADER...........................................................................15
+9. PRESUPUESTO DEL PLAN...................................................................................................16
+10. INDICADORES..................................................................................................................16
+11. ANEXOS..........................................................................................................................16
+2
+1.  ANTECEDENTES
+1.1. Introducción
+El  Estatuto  de  Autonomía  de  Andalucía  establece  en  el  Artículo  50,  la  competencia  exclusiva  de  la
+Comunidad Autónoma en materia de recursos y aprovechamientos hidráulicos, canales y regadíos, cuando
+las aguas transcurran por Andalucía y las aguas subterráneas cuando su aprovechamiento no afecte a otro
+territorio.
+El 10 de agosto de 2015, la Comisión Europea aprobó el Programa de Desarrollo Rural de Andalucía (PDR)
+2014/2020, conteniendo entre sus medidas actuaciones de modernización de regadíos que pueden obtener
+financiación del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) en el marco de este Programa. Por su
+parte, el 31 de agosto de 2022, la Comisión Europea aprobó el Plan Estratégico de la Política Agraria Común
+en España, incluyendo de nuevo financiación del FEADER para actuaciones de modernización de regadíos
+en Andalucía, en el marco 2023/2027.
+La Consejería de Agricultura, Pesca, Agua y Desarrollo Rural (CAPADR) actúa de acuerdo con lo establecido
+en el Decreto 165/2024, de 26 de agosto, por el que se modifica el Decreto 157/2022, de 9 de agosto, por el
+que se establece la estructura orgánica de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural. El
+artículo 11.s) del citado Decreto, atribuye a la Dirección General de la Producción Agrícola y Ganadera, el
+fomento  y  la  ejecución de  obras  destinadas  a  la  transformación,  modernización  y  consolidación  de
+regadíos, incluidas las obras de infraestructuras hidráulicas asociadas a los mismos, destinadas al ahorro y
+uso eficiente del agua de riego y de la energía, así como las conexiones desde las estaciones regeneradoras
+de aguas residuales y desaladoras a las zonas regables.
+El Ministerio de Agricultura, Pesca y Alimentación (MAPA) actúa de acuerdo con lo establecido en el Real
+Decreto 717/2024, de 23 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de
+Agricultura, Pesca y Alimentación. El artículo 3.1.u del citado Real Decreto, atribuye a la Dirección General
+de Desarrollo Rural, Innovación y Formación Agroalimentaria,  el ejercicio de las competencias  de  la
+Administración General del Estado en materia de regadíos e infraestructuras rurales de interés general y, en
+particular,  la  planificación,  coordinación,  ejecución,  modernización  y  seguimiento  de  los  planes  de
+regadíos.
+En desarrollo del artículo 99 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y
+del Orden Social mediante Acuerdos de Consejo de Ministros de 5 y 12 de noviembre de 1999, el Gobierno
+autorizó la creación de las Sociedades Estatales: SEIASA del Norte, S.A, SEIASA de la Meseta Sur, S.A, SEIASA
+del Nordeste, S.A, y SEIASA del Sur y Este, S.A, como nuevo instrumento de actuación pública en relación
+con las obras de modernización y consolidación de regadíos, en concurrencia con los usuarios de las obras
+y, en su caso, de las Comunidades Autónomas afectadas territorialmente.
+Con posterioridad, de conformidad con el artículo 169 de la Ley 33/2003, de 3 de noviembre, del Patrimonio
+de las Administraciones Públicas, mediante acuerdo del Consejo de Ministros de 30 de abril de 2010, se
+acordó la fusión por absorción de SEIASA del Norte, S.A, como sociedad absorbente, de las sociedades
+estatales SEIASA de la Meseta Sur, S.A, SEIASA del Nordeste, S.A, y SEIASA del Sur y Este, S.A, y el cambio de
+denominación de la sociedad absorbente a Sociedad Estatal de Infraestructuras Agrarias, S.A. El 6 de
+octubre de 2016 y por acuerdo de la Junta General Extraordinaria de Accionistas, la Sociedad pasa a
+denominarse Sociedad Mercantil Estatal de Infraestructuras Agrarias S.A., conservando sus siglas, SEIASA.
+Con fecha 25 de junio  de 2021, se suscribió el Convenio entre  el Ministerio  de Agricultura,  Pesca y
+Alimentación y la Sociedad Mercantil Estatal de Infraestructuras Agrarias, S.A., en relación con las obras de
+3
+modernización y consolidación de regadíos, contempladas en la planificación del Ministerio de Agricultura,
+Pesca y Alimentación y declaradas de interés general.
+En la Comunidad Autónoma de Andalucía, desde la creación de SEIASA, se han venido ejecutando proyectos
+de  modernización  de  regadíos  gracias  a  los  mecanismos  de  financiación  de  la  propia  SEIASA  y  la
+colaboración de la Junta de Andalucía, firmando Convenios con las Comunidades de Regantes implicadas.
+Estas fórmulas de colaboración han tenido un resultado muy satisfactorio en esta Comunidad Autónoma,
+por lo que procede seguir colaborando en la mejora, consolidación y modernización de otras zonas regables
+en Andalucía, en aplicación de la financiación del Fondo FEADER en esta Comunidad Autónoma.
+Con fecha  20 de mayo de 2025 se ha firmado Convenio entre  el Ministerio De Agricultura, Pesca y
+Alimentación, la Junta de Andalucía y la Sociedad Mercantil Estatal de Infraestructuras Agrarias, S.A. para la
+realización  de  obras  de  modernización  y  consolidación  de  determinados  regadíos  en  la  Comunidad
+Autónoma de Andalucía.
+El citado Convenio marco establece el esquema de colaboración y los compromisos iniciales de las partes
+firmantes, que posteriormente se desarrollarán a través de Convenios específicos. En desarrollo de este, el
+MAPA, a través de SEIASA, y la Junta de Andalucía, a través de la Consejería de Agricultura, Pesca, Agua y
+Desarrollo Rural (CAPADR), deberán suscribir el correspondiente Convenio específico con cada una de las
+Comunidades de Regantes que finalmente se adhieran a este Convenio, en el que se desarrollen las
+condiciones finales y los compromisos de cada una de las partes. Asimismo, estos Convenios reguladores
+recogerán la cofinanciación del FEADER en el caso de que la actuación correspondiente haya resultado
+beneficiaria del mismo.
+1.2. Marco Legislativo
+a)
+Reglamento Delegado (UE) nº 640/2014 de la Comisión, de 11 de marzo de 2014, por el que se
+completa el Reglamento (UE) nº 1306/2013 del Parlamento Europeo y del Consejo en lo que respecta al
+sistema integrado de gestión y control y a las condiciones sobre la denegación o retirada de los pagos y
+sobre las sanciones administrativas aplicables a los pagos directos, a la ayuda al desarrollo rural y a la
+condicionalidad.
+b)
+ Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021 sobre
+la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el
+Reglamento (UE) nº 1306/2013.
+c)  Reglamento Delegado (UE) 2022/1172 de la Comisión de 4 de mayo de 2022 por el que se completa el
+Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo en lo que respecta al sistema
+integrado de gestión y control de la política agrícola común y la aplicación y el cálculo de las sanciones
+administrativas en el marco de la condicionalidad.
+d)   Reglamento  Delegado  (UE)  2023/744  de  la  Comisión  de  2 de febrero  de  2023  que  corrige  el
+Reglamento Delegado (UE) 2022/1172 en lo que atañe a las disposiciones transitorias para facilitar la
+condicionalidad y los controles de la condicionalidad de determinados pagos por superficie en el marco
+de la política agrícola común.
+e)  Reglamento (UE) 2024/1468 del Parlamento Europeo y del Consejo, de 14 de mayo de 2024, por el que
+se modifican los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 en lo que respecta a las normas en
+materia de buenas condiciones agrarias y medioambientales, los regímenes en favor del clima, el medio
+ambiente y el bienestar animal, las modificaciones de los planes estratégicos de la PAC, la revisión de
+los planes estratégicos de la PAC y las exenciones de controles y sanciones.
+f) Reglamento Delegado (UE) Nº 907/2014 de la Comisión de 11 de marzo de 2014 que completa el
+4
+Reglamento (UE) nº 1306/2013 del Parlamento Europeo y del Consejo en lo relativo a los organismos
+pagadores y otros órganos, la gestión financiera, la liquidación de cuentas, las garantías y el uso del
+euro.
+g) Reglamento Delegado (UE) 2022/127 de la Comisión de 7 de diciembre de 2021 que completa el
+Reglamento  (UE)  2021/2116  del  Parlamento  Europeo  y  del  Consejo  con  normas  relativas  a  los
+organismos pagadores y otros órganos, la gestión financiera, la liquidación de cuentas, las garantías y el
+uso.
+h) Reglamento Delegado (UE) 2023/1309 de la Comisión de 26 de abril de 2023 por el que se modifica el
+Reglamento Delegado (UE) 2022/127 en lo que atañe a las disposiciones transitorias y se corrige dicho
+Reglamento en lo que atañe a determinadas disposiciones correspondientes al FEAGA y al FEADER.
+i) Reglamento (UE) Nº 808/2014 de la Comisión, de 17 de julio de 2014, por el que se establecen
+disposiciones de aplicación del Reglamento (UE) nº 1305/2013 del Parlamento Europeo y del Consejo,
+relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER).
+j) Reglamento De Ejecución (UE) nº 809/2014 DE LA COMISIÓN de 17 de julio de 2014 por el que se
+establecen disposiciones de aplicación del Reglamento (UE) nº 1306/2013 del Parlamento Europeo y del
+Consejo en lo que se refiere al sistema integrado de gestión y control, las medidas de desarrollo rural y
+la condicionalidad.
+k) Reglamento de Ejecución (UE) 2022/1173 de la Comisión de 31 de mayo de 2022 por el que se
+establecen disposiciones de aplicación del Reglamento (UE) 2021/2116 del Parlamento Europeo y del
+Consejo en lo que respecta al sistema integrado de gestión y control de la política agrícola común.
+l) Reglamento (UE) nº 1303/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por
+el que se establecen disposiciones comunes relativas al Fondo Europeo de Desarrollo Regional, al Fondo
+Social Europeo, al Fondo de Cohesión, al Fondo Europeo Agrícola de Desarrollo Rural y al Fondo
+Europeo Marítimo y de la Pesca, y por el que se establecen disposiciones generales relativas al Fondo
+Europeo de Desarrollo Regional, al Fondo Social Europeo, al Fondo de Cohesión y al Fondo Europeo
+Marítimo y de la Pesca, y se deroga el Reglamento (CE) nº 1083/2006 del Consejo.
+m) Reglamento (UE) nº 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013,
+relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y
+por el que se deroga el Reglamento (CE) nº 1698/2005 del Consejo.
+n) Reglamento (UE) nº 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013,
+sobre la financiación, gestión y seguimiento de la Política Agrícola Común, por el que se derogan los
+Reglamentos (CE) nº 352/78, (CE) nº 165/94, (CE) nº 2799/98, (CE) nº 814/2000, (CE) nº 1290/2005 y (CE) nº
+485/2008 del Consejo.
+ñ)  Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021 por el
+que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los
+Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada
+con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo
+Rural (FEADER), y por el que se derogan los Reglamentos (UE) nº. 1305/2013 y (UE) nº. 1307/2013.
+o) Reglamento Delegado (UE) 2022/126 de la Comisión de 7 de diciembre de 2021 por el que se completa
+el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo relativo a los requisitos
+adicionales para determinados tipos de intervención especificados por los Estados miembros en sus
+planes estratégicos de la PAC para el período 2023-2027 en virtud de dicho Reglamento, y a las normas
+sobre la proporción relativa a la norma 1 de las buenas condiciones agrarias y medioambientales
+(BCAM).
+p) Reglamento Delegado (UE) 2023/370 de la Comisión de 13 de diciembre de 2022 por el que se
+completa el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que respecta a los
+procedimientos, los plazos de presentación por los Estados miembros de solicitudes de modificación de
+5
+los  planes  estratégicos  de  la PAC  y  otros  casos en los  que no  se  aplica  el número  máximo  de
+modificaciones de los planes estratégicos de la PAC.
+q) Reglamento Delegado (UE) 2023/813 de la Comisión de 8 de febrero de 2023 que modifica el
+Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que atañe a las asignaciones de
+los Estados miembros para pagos directos y al desglose anual por Estado miembro de la ayuda de la
+Unión para el desarrollo rural.
+r) Reglamento (UE) 2020/741 del Parlamento Europeo y del Consejo de 25 de mayo de 2020, relativo a
+los requisitos mínimos para la reutilización del agua.
+s) Reglamento Delegado (UE) 2024/1765  de la Comisión de 11 de marzo de 2024 por el que se completa
+el  Reglamento  (UE)  2020/741  del  Parlamento  Europeo  y  del  Consejo  en  lo  que  respecta  a  las
+especificaciones técnicas de los elementos clave de la gestión del riesgo.
+t) Directiva 2000/60/CE, de 23 de octubre de 2000, del Parlamento Europeo y del Consejo, por la que se
+establece un marco comunitario de actuación en el ámbito de la política de aguas.
+u) Real Decreto Legislativo 1/2001, de 20 de julio, que aprueba el texto refundido de la Ley de Aguas.
+v) Real Decreto 1071/2007, de 27 de julio, por el que se regula el sistema geodésico de referencia oficial
+en España.
+w) Real Decreto 1085/2024, de 22 de octubre, por el que se aprueba el Reglamento de reutilización del
+agua y se modifican diversos reales decretos que regulan la gestión del agua.
+x) Ley 9/2010, de 30 de julio, de Aguas de Andalucía.
+y) Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y la Sociedad Mercantil Estatal de
+Infraestructuras Agrarias, S.A., en relación con las obras de modernización y consolidación de regadíos,
+contempladas en la planificación del Ministerio de Agricultura, Pesca y Alimentación y declaradas de
+interés general, suscrito el 25 de junio de 2021.
+z) Convenio entre el Ministerio De Agricultura, Pesca y Alimentación, la Junta de Andalucía y la Sociedad
+Mercantil Estatal de Infraestructuras Agrarias, S.A. para la realización de obras de modernización y
+consolidación de determinados regadíos en la Comunidad Autónoma de Andalucía, suscrito con fecha
+20 de mayo de 2025.
+aa) Programa de Desarrollo Rural de Andalucía 2014-2022 (en adelante PDR 2014-2022).
+ab) Plan Estratégico de la PAC 2023-2027 (en adelante PEPAC 2023-2027).
+2. OBJETIVOS Y ÁMBITO DE ACTUACIÓN DEL PLAN
+El objetivo principal de este Plan es establecer los requisitos que deben reunir las entidades que participen
+en este Plan, los criterios de admisibilidad de las actuaciones, los criterios de valoración de las actuaciones,
+la priorización que establezca SEIASA respecto de los criterios de selección y/o priorización de actuaciones
+establecidos  en  la  Cláusula  Tercera  A)  8.  del  Convenio  entre  el  Ministerio  de  Agricultura,  Pesca  y
+Alimentación y la Sociedad Mercantil Estatal de Infraestructuras Agrarias, SA, en relación con las obras de
+modernización y consolidación de regadíos, contempladas en la planificación del Ministerio de Agricultura,
+Pesca y Alimentación y declaradas de interés general, de 25 de junio de 2021, así como la documentación
+que deben acompañar a las solicitudes de participación, para que las entidades seleccionadas puedan
+firmar Convenios específicos con esta CAPADR y con SEIASA.
+La adhesión a este Convenio por parte de las Entidades seleccionadas se hace necesaria para la realización
+6
+de las obras de modernización y consolidación de regadíos en la Comunidad Autónoma de Andalucía en las
+condiciones reflejadas en él, mediante las correspondientes adhesiones sucesivas al mismo. Para ello, cada
+Entidad firmará el Acto de Adhesión como paso previo a la suscripción de su Convenio específico con la
+CAPADR y SEIASA.
+El Convenio específico se suscribirá para la financiación, construcción y explotación de las obras de
+modernización y consolidación de regadíos de Andalucía con cada una de las Entidades adheridas.
+Las actuaciones directas incluidas en este Plan, se incluyen en el Programa de Desarrollo Rural de Andalucía
+2014-2020 (en adelante PDR), bajo la medida 4, «Inversiones en Activos Físicos», submedida 4.3 Inversiones
+en infraestructuras agrícolas. Esta operación se programa dentro del focus área 5A, “Lograr un uso más
+eficiente del agua en la agricultura”.
+Para  el  caso  de  que  determinadas  actuaciones  incluidas  en  este  Plan  pudieran  ser  susceptibles  de
+financiarse mediante importes unitarios transitorios con el PEPAC 23-27 en virtud del artículo 155 del
+Reglamento (UE) 2021/2115, habría que satisfacer los requisitos de admisibilidad, criterios y condiciones
+que se programen con cargo al PEPAC en la intervención y con los criterios que se indiquen.
+Cada Convenio específico contendrá la relación de obras de modernización y consolidación de los regadíos
+a ejecutar, con indicación de los compromisos de actuaciones y los compromisos económicos que asumen
+cada una de las partes conforme las condiciones financieras y de realización de las obras establecidas en el
+Convenio marco y en este Plan.
+3. ENTIDADES QUE PUEDEN SOLICITAR PARTICIPAR EN EL PLAN Y
+REQUISITOS QUE DEBEN REUNIR
+3.1. Entidades que pueden solicitar participar en el Plan
+Las Comunidades de regantes u otras Comunidades de usuarios de aguas vinculadas al regadío que sean
+corporaciones de derecho público, adscritas al Organismo de cuenca correspondiente, según los artículos
+81 y 82 del Real Decreto Legislativo 1/2001, de 20 de julio.
+3.2. Requisitos que deben reunir quienes soliciten participar en el
+Plan
+1. Ser titulares de las infraestructuras de regadío existentes y disponer de las autorizaciones y permisos
+correspondientes para la construcción de las nuevas infraestructuras.
+2. Tener plena disponibilidad de los terrenos, ocupaciones y servidumbres necesarios para ejecutar las
+obras.
+3. Que las obras de ejecución de las actuaciones proyectadas no se hayan iniciado a la fecha de solicitud.
+4. Que las actuaciones propuestas no hayan recibido otra financiación de fondos europeos.
+7
+5. Disponer de los correspondientes derechos de usos de agua, título concesional o certificado que acredite
+el derecho de uso de agua.
+6. Contar con el acuerdo favorable de la Asamblea o Junta General para solicitar la participación en este
+Plan, y para comprometerse a financiar las obras y su explotación en la forma en la que se establece en el
+Convenio marco.
+7. Que las actuaciones proyectadas cumplan con los criterios de elegibilidad que se detallan en el apartado
+4 de este Plan.
+8. Comprometerse a mantener las infraestructuras ejecutadas durante el plazo de 5 años tras la declaración
+del gasto a FEADER.
+9. Mantener los requisitos desde el momento de la solicitud de participación en el Plan hasta 5 años a contar
+desde la declaración a FEADER de los gastos, obviando aquellos requisitos que quedan sin efecto por la
+ejecución de las inversiones objeto de actuación.
+10.  Cumplir con todas las obligaciones que se establezcan en el Convenio específico.
+4.  CRITERIOS DE ELEGIBILIDAD DE LAS ACTUACIONES
+Tendrán la consideración de actuaciones elegibles aquellas que cumplan todas y cada una de las siguientes
+condiciones:
+1. Aquellos  proyectos  de  inversión dirigidos  a  la  modernización y  consolidación  de  los  regadíos,  de
+infraestructuras relacionadas con el uso y gestión del agua y la energía para el regadío en Andalucía,
+declarados de interés general del Estado.
+2. Las actuaciones a ejecutar deben beneficiar exclusivamente a la zona regable de la entidad solicitante.
+3. Los proyectos o actuaciones y su ejecución deben haber sido aprobados válidamente por la Asamblea u
+órgano soberano para la toma de decisiones de la entidad solicitante.
+4. La actuación deberá estar justificada técnica y económicamente, y ser compatible con las características y
+requisitos establecidos junto con los derechos de aguas, título concesional o certificado que acredite el
+derecho de uso de agua.
+5. Las obras y actuaciones deberán prever instrumentos que permitan medir el volumen de agua consumida
+durante el riego y, la energía eléctrica generada y consumida, sin perjuicio de la autorización que requiera su
+instalación, que deberán ser permanentes, accesibles para la Administración, con totalizadores y protegidos
+contra manipulaciones.
+6. Las actuaciones sobre las infraestructuras directamente relacionadas con el regadío deberán indicar en el
+momento de la solicitud, y acreditar en el proyecto, que posibilitarán un ahorro potencial de agua, medido
+como diferencia de pérdidas en la infraestructura antes y después de la realización del proyecto, en los
+porcentajes que establece el PDR 2014-2022 y el PEPAC 2023-2027, en su caso. Los datos evaluados de
+pérdidas, volúmenes y ahorro potencial harán referencia exclusivamente a los debidos a la parte de la
+infraestructura de regadío objeto de las actuaciones. Estarán exentos de este criterio y el siguiente aquellas
+8
+actuaciones que sean sólo para la creación de un embalse o almacenamiento de agua.
+7. Si el proyecto afectase a masas de agua subterráneas o superficiales cuyo estado haya sido calificado
+como inferior a bueno en la Planificación hidrológica que resulte de aplicación, por motivos relativos a la
+cantidad de agua, deberá garantizar una reducción efectiva del consumo a escala de inversión de cómo
+mínimo el 50% del ahorro potencial posibilitado por las actuaciones (artículo 46.4 del Reglamento (UE) nº
+1305/2013).
+8.  Las  actuaciones  serán  cofinanciadas  con  fondos  FEADER  y  deberán  cumplir  las  condiciones  de
+admisibilidad y los criterios de selección del FEADER, así como los requisitos de información y publicidad
+establecidos para este tipo de actuaciones de modernización de regadíos en el marco de la normativa
+específica de cada marco de programación.
+9. Serán admisibles aquellas actuaciones que obtengan la puntuación mínima establecido en el apartado de
+Criterios de valoración de las actuaciones de este Plan, así como la priorización que establezca SEIASA
+respecto de los criterios de selección y/o priorización de actuaciones establecidos en la Cláusula Tercera A)
+8. del Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y la Sociedad Mercantil Estatal de
+Infraestructuras Agrarias, SA, en relación con las obras de modernización y consolidación de regadíos,
+contempladas en la planificación del Ministerio de Agricultura, Pesca y Alimentación y declaradas de interés
+general, de 25 de junio de 2021.
+10. Quedarán excluidas las instalaciones y obras en el interior de parcela, especialmente las referentes a los
+sistemas de aplicación de agua. En ningún caso, con motivo de las obras, se incrementará la superficie
+regable, ni podrá efectuarse ningún tipo de ampliación de la misma.
+5. DOCUMENTACIÓN A PRESENTAR JUNTO CON LA SOLICITUD DE 
+PARTICIPACIÓN
+1. Acta o Certificado de Acuerdo de la Asamblea General de la Entidad nombrando a la persona que ejerce la
+representación de la misma en la presidencia y a la persona que asume la secretaría.
+2. Certificado de la Secretaría de la entidad solicitante en el que se haga constar que los documentos
+aportados para la acreditación de la representación se encuentran vigentes.
+3.  Acreditación de la titularidad de la infraestructura de regadío objeto de la inversión.
+4. Acreditación de la plena titularidad de los terrenos, ocupaciones y servidumbres necesarios para ejecutar
+las obras:
+a) En caso de régimen de tenencia bajo propiedad y no consentir la consulta a través de Catastro,
+certificación catastral cuya antigüedad de emisión no sea superior a dos meses antes de presentar la
+solicitud de participación.
+b)  En  caso  de  régimen  de  uso  bajo  arrendamiento  o  alquiler:  Contrato  de  arrendamiento  vigente
+debidamente liquidado de impuestos junto con la certificación catastral en la que conste la persona
+arrendadora como propietaria y declaración de esta al respecto de la vigencia del contrato y la autorización
+para la ejecución de las obras proyectadas al amparo de la solicitud de participación en el Plan Regadía,
+9
+incluyendo copia del DNI de la persona arrendadora.
+5. Certificado de Acuerdo de la Asamblea General de la Entidad de puesta a disposición de los terrenos
+donde se realizarán las obras.
+6. Certificado de Acuerdo de la Asamblea General de la Entidad en el que se acuerde la participación en el
+Plan RegadíA.
+7. Certificado de Acuerdo de la Asamblea General de la Entidad en el que se acuerde la participación en la
+financiación de las obras y su explotación, en la forma que se establece en el Convenio marco.
+8. Certificado de Acuerdo de la Asamblea General de la Entidad de compromiso de mantenimiento de las
+infraestructuras ejecutadas durante el plazo de 5 años tras la declaración del gasto a FEADER.
+9. Certificado de Acuerdo de la Asamblea General de la Entidad de compromiso de mantenimiento de los
+requisitos que deben reunir las Entidades desde el momento de la firma del Convenio específico hasta 5
+años a contar desde la declaración a FEADER de los gastos, obviando aquellos requisitos que queden sin
+efecto por la ejecución de las inversiones objeto de la actuación.
+10. En relación a las actuaciones a financiar en el marco del proyecto de inversión:
+a) Resolución otorgada a los efectos de la viabilidad de la ejecución y las condiciones a que estuviera
+sometida la actuación de inversión a subvencionar, en cumplimiento de lo establecido en la Ley 7/2007, de 9
+de julio, de Gestión Integrada de la Calidad Ambiental de Andalucía.
+b) Licencia de obras, certificado de compatibilidad urbanística o documento de exención por Organismo
+competente.
+c) Resolución de concesión del Organismo de cuenca competente, en la que se encuentre incluida la
+infraestructura objeto de la subvención.
+d) Otras licencias, permisos y/o autorizaciones necesarias para iniciar la ejecución.
+10. Acreditación del cumplimiento del objeto de la actuación con la presentación del proyecto de inversión:
+a) Proyecto de mejora de regadíos, que deberá acreditar la viabilidad y sostenibilidad técnica y económica
+de la actuación proyectada, así como su adecuado dimensionamiento y el empleo de materiales con la
+calidad  suficiente,  debiendo  presentar:  análisis  de  alternativas,  justificación  técnica  de  la  solución
+adoptada, valoración de la situación inicial, estudio de viabilidad económica, plan de financiación, plan de
+mantenimiento de la inversión. Deberá acreditar asimismo el ahorro de agua potencial y efectivo a alcanzar,
+en su caso, según lo indicado en los Criterios 6 y 7 de elegibilidad del apartado 4 de este Plan.
+b) Archivo digital en formato *.shp con las parcelas sobre las que repercute la actuación del proyecto de
+inversión, georreferenciadas en ETRS89/UTM zona 30N, con los siguientes campos: provincia, municipio,
+polígono,  parcela  y  uso  SIGPAC  (en  la  versión  vigente  en  el  momento  de  presentar  la  solicitud  de
+participación).
+c) Aportar, en formato digital, los archivos necesarios para verificar las mediciones de las características
+geométricas de la inversión: Archivo digital georreferenciado en ETRS89/UTM zona 30N, en formato *.shp y
+*.dxf.
+d) Aportar en formato digital (en *.pdf y en *.bc3) el presupuesto para verificar que las mediciones que han
+servido de base para la confección del mismo son coincidentes con las características geométricas del
+proyecto.
+10
+6. CRITERIOS DE VALORACIÓN DE LAS ACTUACIONES
+Actuaciones directas para la mejora de las infraestructuras hidráulicas
+Criterio 1 - Volumen de agua (Hm3) suministrado a las zonas regables.
+Volumen (Hm3)
+Puntos
+>0–2
+1
+>2 – 5
+2
+ >5 – 10
+3
+>10 – 50
+4
+>50
+5
+Criterio 2 - Utilidad Hídrica (miles de Ha/Hm3). (UH)
+Ratio entre superficie y volumen de agua suministrado a las zonas regables.
+Utilidad hídrica (Has/
+Hm3)
+>0–0,25
+1
+>0,25 – 0,5 
+2
+>0,5 – 1
+3
+>1 
+4
+Criterio 3 - Longitud de canalización o conducción (Km/Hm3).
+Ratio entre longitud de canalización o conducción y volumen de agua suministrado a las zonas regables.
+Longitud 
+(Km/Hm3)
+<1
+0
+1 – 2,5 
+1
+>2,5 – 5
+2
+>5 
+3
+Criterio 4 – Potencia Instalada Relativa (KW/Hm3).
+Ratio entre potencia instalada y volumen de agua suministrado a las zonas regables.
+Potencia instalada
+(Kw/Hm3)
+<50
+0
+50 – 100 
+1
+       >100–150
+2
+>150 
+3
+Puntos
+Puntos
+Puntos
+11
+Puntuación Máxima: 15 puntos.
+Puntuación Mínima: 2 puntos.
+7. SOLICITUD Y TRAMITACIÓN DE LAS ACTUACIONES
+7.1. Aprobación y publicación del Plan
+El presente Plan se encuentra recogido en el Catálogo de Procedimientos y Servicios de la Sede Electrónica
+de la Administración de la Junta de Andalucía, en la siguiente dirección:
+https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25833.html.
+7.2. Solicitud de participación y documentación justificativa
+Las Comunidades de regantes u otras Comunidades de usuarios que reúnan los requisitos y criterios de
+admisibilidad establecidos en este Plan, podrán presentar la correspondiente «Solicitud de participación»
+de conformidad con el modelo recogido en el Anexo I de este Plan.
+Estas solicitudes se presentarán a través del vínculo y procedimiento señalado en el apartado anterior, e
+irán dirigidas a las persona titular de la Dirección General de la Producción Agrícola y Ganadera, debiendo
+venir adoptadas por el representante legal de la entidad titular, cuya identidad será acreditada mediante
+certificado digital.
+Junto a la «Solicitud de participación» se acompañará la documentación recogida en el apartado 5 del Plan,
+Documentación a presentar junto con la solicitud de participación.
+Podrán presentarse solicitudes de participación en el plazo de dos meses desde la publicación en el Boletín
+Oficial de la Junta de Andalucía de la Orden por la que se aprueba el presente Plan.
+7.3. Selección de las actuaciones a ejecutar
+El Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y la Sociedad Mercantil Estatal de
+Infraestructuras Agrarias, SA, en relación con las obras de modernización y consolidación de regadíos,
+contempladas en la planificación del Ministerio de Agricultura, Pesca y Alimentación y declaradas de interés
+general, recoge en su exponendo Tercero, que entre las competencias que ejerce el MAPA como Ministerio
+de tutela  respecto  de SEIASA, se encuentra  instruir a la misma respecto  de las líneas de actuación
+estratégicas y establecer las prioridades de ejecución de las mismas.
+En este sentido, se recoge en la Cláusula Tercera A) 8. Compromisos de SEIASA, que:
+Los criterios de selección y/o priorización de actuaciones para la ejecución de las obras de modernización
+son los siguientes, y se adoptarán uno o varios de los siguientes criterios, por orden de preferencia, según la
+ordenación que se presenta:
+12
+1. Las zonas que sustituyan aguas superficiales y/o subterráneas por aguas regeneradas, con motivo de la
+modernización.
+Se utilizará el concepto de modernización de zona regable en lugar del de sector, por lo que sería prioritario
+el finalizar zonas regables íntegramente, antes que iniciar la modernización de sectores de otras zonas.
+2. Las peticiones de modernización de Comunidades de Regantes que agrupen el mayor número de sectores
+correlativos de una zona regable.
+3. Las peticiones de Comunidades de Regantes que, en su conjunto, completen la modernización de
+unidades de demanda agraria definidas en los planes de demarcación.
+4. Las actuaciones que no necesiten energía eléctrica para su funcionamiento serán preferidas sobre las que
+la necesiten o haya que instalar energías renovables, quedando excluidas aquellas que supongan el uso de
+acequias.
+5. Las que supongan mayor superficie de actuación, siendo deseable no actuar por debajo de 5.000 ha.
+6. Las que generen mayor ahorro de agua o consigan una mayor disminución de la demanda de agua o un
+mayor ahorro energético.
+7. Las que propongan un mayor grado de intensidad en la modernización.
+8. Las más alejadas de núcleos urbanos, en las que puedan establecerse las condiciones de ruralidad.
+9. Aquellas actuaciones de modernización que faciliten el autoabastecimiento eléctrico contemplando el
+uso de energías renovables.
+Por tanto, serán seleccionadas las actuaciones que, cuenten con la «Solicitud de participación» presentada
+por entidad que cumplan con los requisitos para participar en el Plan, además de cumplir con los criterios
+de admisibilidad del Plan y del FEADER, que las actuaciones cumplan con los criterios de valoración de las
+actuaciones, y que estén priorizadas por la Sociedad Mercantil Estatal de Infraestructuras Agrarias, SA
+respecto de los criterios de selección y/o priorización de actuaciones establecidos en la Cláusula Tercera A)
+8. del Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y la Sociedad Mercantil Estatal de
+Infraestructuras Agrarias, SA, en relación con las obras de modernización y consolidación de regadíos,
+contempladas en la planificación del Ministerio de Agricultura, Pesca y Alimentación y declaradas de interés
+general, de 25 de junio de 2021.
+La unidad encargada de la valoración de las solicitudes de participación y tramitación de los expedientes
+administrativos será el Servicio de Regadíos e Infraestructuras perteneciente a la Dirección de la Producción
+Agrícola y Ganadera.
+8.  EJECUCIÓN DE LAS ACTUACIONES
+8.1. Proyectos
+La redacción del proyecto será aportada por la Entidad participante en este Plan pudiendo, de forma
+excepcional, ser realizada por SEIASA bien directamente, bien mediante la contratación con terceros,
+correspondiendo a SEIASA en todos los casos la determinación del contenido del mismo, así como su
+modificación en el caso de que fuera necesaria.
+En el caso de que la Entidad aporte el proyecto de las obras, SEIASA procederá a su revisión con carácter
+13
+previo a la tramitación del mismo.
+El coste de la redacción del Proyecto, así como de cualquier modificación que fuera necesaria realizar sobre
+el mismo, solo formará parte del coste total de la actuación si es realizado por SEIASA bien directamente,
+bien mediante la contratación con terceros.
+En ningún caso formará parte del coste total de la actuación el importe de los proyectos que sean aportados
+directamente por la Entidad.
+Esta fase finalizará con la aprobación del proyecto por el Ministerio de Agricultura, Pesca y Alimentación.
+8.2. Ejecución de las obras
+Para el inicio de esta segunda fase será requisito imprescindible la aprobación del proyecto por el Ministerio
+de Agricultura, Pesca y Alimentación.
+Esta fase se iniciará con la licitación de las obras o encargo a medio propio y finalizará con la recepción
+provisional de las obras, previa a la puesta en uso de las instalaciones, marcando el inicio del período de
+garantía.
+SEIASA no podrá realizar la licitación de las obras o proceder a su encargo a un medio propio, hasta que la
+Entidad acredite la plena disponibilidad de los terrenos, ocupaciones y servidumbres necesarios para
+ejecutar las obras.
+La ejecución de las obras se realizará bien con medios propios o mediante la contratación con terceros y de
+acuerdo con el Proyecto aprobado definitivamente por el Ministerio de Agricultura, Pesca y Alimentación.
+SEIASA realizará la Dirección Facultativa de las obras, bien con medios propios o mediante la contratación
+con terceros y llevará a cabo la recepción y liquidación de las mismas al finalizar su ejecución, conforme
+Acuerdo de encargo de obra o al Proyecto contratado y órdenes de la Dirección Facultativa, en los términos
+establecidos en el contrato entre el constructor y la Sociedad para la ejecución de las obras.
+8.3. Esquema de financiación y declaración al FEADER
+La financiación del “coste total de la actuación” se estructura y detalla de acuerdo con las previsiones que,
+al respecto, se contienen en el Convenio marco y específico.
+En base a tales principios el esquema de financiación de las obras será el siguiente:
+a) SEIASA financiará como máximo, con cargo a su capital social, el 20% del coste total de la actuación, y
+será recuperado de la Entidad en veinticinco (25) anualidades a partir del vigésimo sexto año contado desde
+la terminación de las obras, esto es, del año veintiséis (26) al cincuenta (50), ambos inclusive.
+b) La Consejería de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía financiará el 50% del
+coste total de la ejecución de obra finalmente realizada, mediante el pago a SEIASA del 50% de cada una de
+las certificaciones, pudiendo anticipar todo o parte de la aportación prevista con carácter previo a la
+realización de las obras.
+c) El importe restante del “coste total de la actuación”, una vez deducida la aportación finalmente recibida
+de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía, será financiado por
+la Entidad mediante el pago a SEIASA de cada una de las facturas emitidas en relación con cada uno de los
+costes que se integran dentro del “coste total de la actuación”, y que se produzcan tanto durante la fase de
+14
+redacción y tramitación del proyecto, como a lo largo de la ejecución de las obras, y durante el periodo
+comprendido entre la finalización de las obras y la liquidación de la tarifa de amortización anticipada.
+El Servicio de Regadíos e Infraestructuras de la Dirección General de la Producción Agrícola y Ganadera  será
+el encargado  de  tramitar  la propuesta  contable  de  pago de la CAPADR a SEIASA, y remitir para su
+fiscalización a  la  Intervención  Delegada  FEADER,  conforme  a los  procedimientos  establecidos  por  la
+Intervención General de la Junta de Andalucía.
+Finalmente,  será  el  Servicio  de  Gestión  y  Control  de  Ayudas  FEADER  de  la  Dirección  General  de  la
+Producción Agrícola y Ganadera , el encargado de proceder a la declaración del gasto elegible al FEADER.
+9. PRESUPUESTO DEL PLAN
+Este Plan se incluye en el Programa de Desarrollo Rural de Andalucía 2014-2022 (PDR), dentro de la
+Operación 4.3.1. “Inversiones en infraestructuras de regadíos así como las instalaciones y equipamientos
+asociados incluidas aquellas actuaciones declaradas de interés general y acordes a los objetivos de la
+Agenda Andaluza del Regadío H-2015 y sus actualizaciones”, financiada al 75% con cargo al Fondo Europeo
+Agrícola y de Desarrollo Rural (FEADER), al 7,5% con cargo al Presupuesto de la Administración General del
+Estado y al 17,5% con cargo al Presupuesto de la Comunidad Autónoma de Andalucía.
+No obstante, al estar previsto que las actuaciones se prolonguen más allá de la fecha límite de elegibilidad
+del PDR 2014-2022, el Plan RegadíA incluye compromisos que serán elegibles bajo las condiciones de los
+reglamentos  del  Plan  Estratégico  de  la  PAC  2023-2027  (“carry  over”).  Dichos  compromisos  serán
+subvencionados con cargo a la Intervención 68431_4 – ayudas a inversiones en infraestructuras de regadíos,
+la cual está financiada al 85% con cargo al Fondo Europeo Agrícola y de Desarrollo Rural (FEADER), al 9,81%
+con cargo al Presupuesto de la Administración General del Estado y al 5,19% con cargo al Presupuesto de la
+Comunidad Autónoma de Andalucía.
+El Plan RegadíA cuenta con un presupuesto total de ciento cuarenta millones de euros (140.000.000 euros).
+La aportación de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural, de la Junta de Andalucía se
+imputará a las siguientes partidas presupuestarias:
+•  1200110000 G/71B/66810/00 C15A0431G5 2025000869.
+•  1200110000 G/71B/66810/00 C4684314A3 202600083.
+Además del crédito máximo disponible para la convocatoria que lleva asociada la publicación de este Plan,
+excepcionalmente, se podrá contar con una cuantía adicional, cuya aplicación podrá ser empleada para dar
+respuesta a nuevas actuaciones.
+15
+10. INDICADORES
+Los indicadores que se utilizarán para el seguimiento del presente Plan serán los establecidos en el
+Programa de Desarrollo Rural de Andalucía 2014-2022 para la Operación 4.3.1, y en el Plan Estratégico de la
+PAC 2023-2027 para la Intervención 68431_4:
+• Número de operaciones (actuaciones)
+• Gasto público total
+• Inversión total
+11. ANEXOS
+Anexo. Solicitud de participación.
+16

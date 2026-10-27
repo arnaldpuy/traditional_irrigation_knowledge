@@ -1,0 +1,190 @@
+family,phrasing,vote,site,n_assumptions,n_practices,n_functions,n_degenerate,med_practices,null_degenerate,retained,pooled_functions,pooled_degenerate
+anthropic,strict,any draw,arriate,49,11,11,9,3,8.9,0.986376021798365,12,10
+anthropic,strict,any draw,durcal,62,12,11,9,3,8.82,0.986376021798365,12,10
+anthropic,strict,any draw,huetortajar,45,11,10,7,2,8.47,0.986376021798365,12,10
+anthropic,strict,any draw,murcia,59,11,10,7,3,7.805,0.986376021798365,12,10
+anthropic,strict,any draw,oria,73,12,9,9,4,8.97,0.986376021798365,12,10
+anthropic,strict,any draw,ricote,32,9,8,5,2.5,4.805,0.986376021798365,12,10
+anthropic,strict,any draw,sudanell,42,9,10,7,2.5,8.86,0.986376021798365,12,10
+anthropic,strict,majority,arriate,49,11,11,9,2,8.765,0.986376021798365,12,10
+anthropic,strict,majority,durcal,62,12,10,9,3.5,8.585,0.986376021798365,12,10
+anthropic,strict,majority,huetortajar,45,11,9,6,2,7.585,0.986376021798365,12,10
+anthropic,strict,majority,murcia,59,11,9,7,3,7.855,0.986376021798365,12,10
+anthropic,strict,majority,oria,73,12,9,9,4,8.835,0.986376021798365,12,10
+anthropic,strict,majority,ricote,32,9,7,5,3,4.805,0.986376021798365,12,10
+anthropic,strict,majority,sudanell,42,9,10,6,2,8.06,0.986376021798365,12,10
+anthropic,strict,unanimous,arriate,49,11,11,8,2,7.86,0.986263736263736,12,10
+anthropic,strict,unanimous,durcal,62,12,10,8,3.5,7.725,0.986263736263736,12,10
+anthropic,strict,unanimous,huetortajar,45,11,8,6,3,7.625,0.986263736263736,12,10
+anthropic,strict,unanimous,murcia,59,11,9,7,3,7.84,0.986263736263736,12,10
+anthropic,strict,unanimous,oria,72,12,8,7,4,7.985,0.986263736263736,12,10
+anthropic,strict,unanimous,ricote,32,9,7,5,3,4.855,0.986263736263736,12,10
+anthropic,strict,unanimous,sudanell,40,9,9,6,2,7.235,0.986263736263736,12,10
+anthropic,standard,any draw,arriate,53,11,11,10,3,9.785,0.987113402061856,12,11
+anthropic,standard,any draw,durcal,64,12,11,9,4,8.965,0.987113402061856,12,11
+anthropic,standard,any draw,huetortajar,47,11,10,9,3,8.735,0.987113402061856,12,11
+anthropic,standard,any draw,murcia,61,11,11,8,3,8.855,0.987113402061856,12,11
+anthropic,standard,any draw,oria,78,11,11,10,4,9.845,0.987113402061856,12,11
+anthropic,standard,any draw,ricote,35,9,8,7,2.5,7.5,0.987113402061856,12,11
+anthropic,standard,any draw,sudanell,45,9,10,8,2.5,9.11,0.987113402061856,12,11
+anthropic,standard,majority,arriate,53,11,11,10,3,9.77,0.987113402061856,12,11
+anthropic,standard,majority,durcal,64,12,11,9,4,8.93,0.987113402061856,12,11
+anthropic,standard,majority,huetortajar,47,11,9,9,3,8.695,0.987113402061856,12,11
+anthropic,standard,majority,murcia,61,11,10,7,3.5,8.7,0.987113402061856,12,11
+anthropic,standard,majority,oria,78,11,10,10,4,9.82,0.987113402061856,12,11
+anthropic,standard,majority,ricote,35,9,8,5,2.5,4.795,0.987113402061856,12,11
+anthropic,standard,majority,sudanell,45,9,9,6,3,8.17,0.987113402061856,12,11
+anthropic,standard,unanimous,arriate,53,11,11,10,3,9.775,0.987080103359173,12,11
+anthropic,standard,unanimous,durcal,64,12,11,9,4,8.98,0.987080103359173,12,11
+anthropic,standard,unanimous,huetortajar,47,11,9,8,2,7.8,0.987080103359173,12,11
+anthropic,standard,unanimous,murcia,61,11,10,7,3.5,7.845,0.987080103359173,12,11
+anthropic,standard,unanimous,oria,78,11,10,9,4,8.81,0.987080103359173,12,11
+anthropic,standard,unanimous,ricote,35,9,8,5,2.5,4.79,0.987080103359173,12,11
+anthropic,standard,unanimous,sudanell,44,9,9,6,2,7.29,0.987080103359173,12,11
+anthropic,broad,any draw,arriate,56,11,11,11,5,10.87,0.989873417721519,12,12
+anthropic,broad,any draw,durcal,65,12,12,10,5.5,9.91,0.989873417721519,12,12
+anthropic,broad,any draw,huetortajar,49,11,10,8,4.5,8.96,0.989873417721519,12,12
+anthropic,broad,any draw,murcia,61,11,11,10,3,9.82,0.989873417721519,12,12
+anthropic,broad,any draw,oria,79,11,11,11,6,10.83,0.989873417721519,12,12
+anthropic,broad,any draw,ricote,35,9,8,8,4.5,7.85,0.989873417721519,12,12
+anthropic,broad,any draw,sudanell,46,9,10,8,3,9.4,0.989873417721519,12,12
+anthropic,broad,majority,arriate,56,11,11,11,4,10.86,0.989873417721519,12,12
+anthropic,broad,majority,durcal,65,12,11,9,6,8.975,0.989873417721519,12,12
+anthropic,broad,majority,huetortajar,49,11,10,8,4.5,8.925,0.989873417721519,12,12
+anthropic,broad,majority,murcia,61,11,11,9,3,9.78,0.989873417721519,12,12
+anthropic,broad,majority,oria,79,11,11,10,5,9.905,0.989873417721519,12,12
+anthropic,broad,majority,ricote,35,9,8,7,4,7.535,0.989873417721519,12,12
+anthropic,broad,majority,sudanell,46,9,10,7,3,8.545,0.989873417721519,12,12
+anthropic,broad,unanimous,arriate,56,11,11,11,4,10.815,0.989873417721519,12,12
+anthropic,broad,unanimous,durcal,65,12,11,9,6,8.965,0.989873417721519,12,12
+anthropic,broad,unanimous,huetortajar,49,11,10,8,3.5,8.735,0.989873417721519,12,12
+anthropic,broad,unanimous,murcia,61,11,11,9,3,9.805,0.989873417721519,12,12
+anthropic,broad,unanimous,oria,79,11,10,10,5,9.84,0.989873417721519,12,12
+anthropic,broad,unanimous,ricote,35,9,8,7,4,6.71,0.989873417721519,12,12
+anthropic,broad,unanimous,sudanell,46,9,9,7,3,8.395,0.989873417721519,12,12
+openai,strict,any draw,arriate,44,10,10,7,2,6.815,0.926630434782609,12,10
+openai,strict,any draw,durcal,54,11,11,6,2,5.98,0.926630434782609,12,10
+openai,strict,any draw,huetortajar,43,10,7,5,3,5.925,0.926630434782609,12,10
+openai,strict,any draw,murcia,58,11,10,7,3,6.73,0.926630434782609,12,10
+openai,strict,any draw,oria,70,10,9,6,3,7.845,0.926630434782609,12,10
+openai,strict,any draw,ricote,30,9,5,5,4,4.93,0.926630434782609,12,10
+openai,strict,any draw,sudanell,42,7,9,4,1,5.82,0.926630434782609,12,10
+openai,strict,majority,arriate,44,10,9,6,2,5.94,0.926630434782609,12,9
+openai,strict,majority,durcal,54,11,11,5,1,5.795,0.926630434782609,12,9
+openai,strict,majority,huetortajar,43,10,7,5,3,5.91,0.926630434782609,12,9
+openai,strict,majority,murcia,58,11,9,7,3,6.77,0.926630434782609,12,9
+openai,strict,majority,oria,70,10,9,5,2,6.82,0.926630434782609,12,9
+openai,strict,majority,ricote,30,9,5,5,2,4.63,0.926630434782609,12,9
+openai,strict,majority,sudanell,42,7,9,4,1,4.895,0.926630434782609,12,9
+openai,strict,unanimous,arriate,43,10,8,5,2.5,4.95,0.928571428571429,12,9
+openai,strict,unanimous,durcal,54,11,11,5,1,5.795,0.928571428571429,12,9
+openai,strict,unanimous,huetortajar,43,10,7,5,3,5.915,0.928571428571429,12,9
+openai,strict,unanimous,murcia,57,11,8,7,3,6.575,0.928571428571429,12,9
+openai,strict,unanimous,oria,70,10,8,5,3.5,6.82,0.928571428571429,12,9
+openai,strict,unanimous,ricote,30,9,5,4,2,3.77,0.928571428571429,12,9
+openai,strict,unanimous,sudanell,41,7,7,4,2,4.99,0.928571428571429,12,9
+openai,standard,any draw,arriate,40,10,11,7,2,7,0.894308943089431,12,10
+openai,standard,any draw,durcal,53,12,11,7,2,7.62,0.894308943089431,12,10
+openai,standard,any draw,huetortajar,42,9,9,7,3,6.93,0.894308943089431,12,10
+openai,standard,any draw,murcia,56,11,8,7,4,6.855,0.894308943089431,12,10
+openai,standard,any draw,oria,66,9,9,7,3,7.95,0.894308943089431,12,10
+openai,standard,any draw,ricote,31,8,5,5,6,4.94,0.894308943089431,12,10
+openai,standard,any draw,sudanell,42,8,10,7,2,7.59,0.894308943089431,12,10
+openai,standard,majority,arriate,40,10,10,7,2,6.825,0.894308943089431,12,10
+openai,standard,majority,durcal,53,12,11,6,2,6.76,0.894308943089431,12,10
+openai,standard,majority,huetortajar,42,9,8,7,3,6.925,0.894308943089431,12,10
+openai,standard,majority,murcia,56,11,8,7,3,6.645,0.894308943089431,12,10
+openai,standard,majority,oria,66,9,9,5,3,7.855,0.894308943089431,12,10
+openai,standard,majority,ricote,31,8,5,5,3,4.92,0.894308943089431,12,10
+openai,standard,majority,sudanell,42,8,10,6,2,6.57,0.894308943089431,12,10
+openai,standard,unanimous,arriate,39,10,8,7,3.5,6.825,0.893732970027248,11,10
+openai,standard,unanimous,durcal,53,12,11,5,1,6.675,0.893732970027248,11,10
+openai,standard,unanimous,huetortajar,42,9,7,7,3,6.92,0.893732970027248,11,10
+openai,standard,unanimous,murcia,56,11,8,7,3,6.68,0.893732970027248,11,10
+openai,standard,unanimous,oria,66,9,8,5,4,6.97,0.893732970027248,11,10
+openai,standard,unanimous,ricote,31,8,5,5,3,4.725,0.893732970027248,11,10
+openai,standard,unanimous,sudanell,41,8,10,4,1,5.23,0.893732970027248,11,10
+openai,broad,any draw,arriate,50,10,12,9,3,8.64,0.930769230769231,12,11
+openai,broad,any draw,durcal,61,12,11,8,5,8,0.930769230769231,12,11
+openai,broad,any draw,huetortajar,43,11,9,9,3,8.905,0.930769230769231,12,11
+openai,broad,any draw,murcia,60,11,11,8,4,8.715,0.930769230769231,12,11
+openai,broad,any draw,oria,71,10,10,9,4,9,0.930769230769231,12,11
+openai,broad,any draw,ricote,33,8,7,6,6,6,0.930769230769231,12,11
+openai,broad,any draw,sudanell,45,8,10,8,2.5,8.36,0.930769230769231,12,11
+openai,broad,majority,arriate,50,10,10,7,3,6.995,0.930769230769231,12,11
+openai,broad,majority,durcal,61,12,11,8,3,7.955,0.930769230769231,12,11
+openai,broad,majority,huetortajar,43,11,9,8,3,7.705,0.930769230769231,12,11
+openai,broad,majority,murcia,60,11,10,7,4,7.65,0.930769230769231,12,11
+openai,broad,majority,oria,71,10,10,8,3,8.995,0.930769230769231,12,11
+openai,broad,majority,ricote,33,8,7,6,5,5.99,0.930769230769231,12,11
+openai,broad,majority,sudanell,45,8,10,7,2,8.135,0.930769230769231,12,11
+openai,broad,unanimous,arriate,50,10,9,7,3,6.99,0.930769230769231,12,11
+openai,broad,unanimous,durcal,61,12,11,8,2,7.9,0.930769230769231,12,11
+openai,broad,unanimous,huetortajar,43,11,9,7,3,6.9,0.930769230769231,12,11
+openai,broad,unanimous,murcia,60,11,10,7,3.5,7.57,0.930769230769231,12,11
+openai,broad,unanimous,oria,71,10,10,7,3,7.97,0.930769230769231,12,11
+openai,broad,unanimous,ricote,33,8,6,5,4,4.975,0.930769230769231,12,11
+openai,broad,unanimous,sudanell,45,8,10,7,2,7.68,0.930769230769231,12,11
+deepseek,strict,any draw,arriate,42,10,9,5,3,6.465,0.841432225063939,12,10
+deepseek,strict,any draw,durcal,51,11,11,7,2,7.325,0.841432225063939,12,10
+deepseek,strict,any draw,huetortajar,43,11,10,7,2,6.815,0.841432225063939,12,10
+deepseek,strict,any draw,murcia,55,11,8,8,3.5,7.145,0.841432225063939,12,10
+deepseek,strict,any draw,oria,62,10,8,6,4,6.845,0.841432225063939,12,10
+deepseek,strict,any draw,ricote,28,7,6,5,3,4.705,0.841432225063939,12,10
+deepseek,strict,any draw,sudanell,48,7,9,4,1,6.505,0.841432225063939,12,10
+deepseek,strict,majority,arriate,42,10,8,5,2.5,4.97,0.843589743589744,11,9
+deepseek,strict,majority,durcal,51,11,10,5,2,5.75,0.843589743589744,11,9
+deepseek,strict,majority,huetortajar,43,11,8,7,2,6.54,0.843589743589744,11,9
+deepseek,strict,majority,murcia,55,11,8,7,3,6.5,0.843589743589744,11,9
+deepseek,strict,majority,oria,62,10,7,5,4,5.97,0.843589743589744,11,9
+deepseek,strict,majority,ricote,28,7,6,4,2,4.27,0.843589743589744,11,9
+deepseek,strict,majority,sudanell,48,7,8,4,1.5,4.44,0.843589743589744,11,9
+deepseek,strict,unanimous,arriate,39,10,7,5,3,4.77,0.844504021447721,11,9
+deepseek,strict,unanimous,durcal,50,11,8,5,2,4.765,0.844504021447721,11,9
+deepseek,strict,unanimous,huetortajar,42,11,7,5,2,5.415,0.844504021447721,11,9
+deepseek,strict,unanimous,murcia,52,11,8,6,3,5.62,0.844504021447721,11,9
+deepseek,strict,unanimous,oria,62,10,7,5,4,5.97,0.844504021447721,11,9
+deepseek,strict,unanimous,ricote,27,7,4,2,3,2,0.844504021447721,11,9
+deepseek,strict,unanimous,sudanell,43,7,8,4,1.5,4.385,0.844504021447721,11,9
+deepseek,standard,any draw,arriate,34,11,11,8,3,7.735,0.804812834224599,12,10
+deepseek,standard,any draw,durcal,51,11,11,8,2,7.535,0.804812834224599,12,10
+deepseek,standard,any draw,huetortajar,38,10,9,8,2,7.68,0.804812834224599,12,10
+deepseek,standard,any draw,murcia,52,10,10,7,3.5,7.585,0.804812834224599,12,10
+deepseek,standard,any draw,oria,58,8,8,6,3,7.425,0.804812834224599,12,10
+deepseek,standard,any draw,ricote,28,7,6,6,4,5.84,0.804812834224599,12,10
+deepseek,standard,any draw,sudanell,40,8,9,5,2,6.955,0.804812834224599,12,10
+deepseek,standard,majority,arriate,34,11,9,7,3,6.765,0.804812834224599,12,10
+deepseek,standard,majority,durcal,51,11,10,5,1.5,4.745,0.804812834224599,12,10
+deepseek,standard,majority,huetortajar,38,10,7,7,3,6.655,0.804812834224599,12,10
+deepseek,standard,majority,murcia,52,10,8,7,3,6.175,0.804812834224599,12,10
+deepseek,standard,majority,oria,58,8,8,6,3,6.59,0.804812834224599,12,10
+deepseek,standard,majority,ricote,28,7,6,4,3,4.47,0.804812834224599,12,10
+deepseek,standard,majority,sudanell,40,8,9,4,1,4.705,0.804812834224599,12,10
+deepseek,standard,unanimous,arriate,33,11,7,5,2,4.98,0.804347826086957,11,9
+deepseek,standard,unanimous,durcal,50,11,8,5,2,4.79,0.804347826086957,11,9
+deepseek,standard,unanimous,huetortajar,38,10,6,6,2.5,5.71,0.804347826086957,11,9
+deepseek,standard,unanimous,murcia,52,10,8,6,2,5.38,0.804347826086957,11,9
+deepseek,standard,unanimous,oria,58,8,7,5,3,5.815,0.804347826086957,11,9
+deepseek,standard,unanimous,ricote,27,7,5,3,2,2.895,0.804347826086957,11,9
+deepseek,standard,unanimous,sudanell,38,8,8,4,1.5,4.435,0.804347826086957,11,9
+deepseek,broad,any draw,arriate,41,9,12,8,3,7.91,0.82716049382716,12,10
+deepseek,broad,any draw,durcal,51,11,11,9,4,8.945,0.82716049382716,12,10
+deepseek,broad,any draw,huetortajar,41,9,10,7,2.5,6.805,0.82716049382716,12,10
+deepseek,broad,any draw,murcia,59,11,10,8,4.5,8.49,0.82716049382716,12,10
+deepseek,broad,any draw,oria,63,9,10,10,4,9.785,0.82716049382716,12,10
+deepseek,broad,any draw,ricote,32,8,8,6,4.5,5.88,0.82716049382716,12,10
+deepseek,broad,any draw,sudanell,48,8,10,7,2.5,8.285,0.82716049382716,12,10
+deepseek,broad,majority,arriate,41,9,10,7,2.5,6.94,0.82716049382716,12,10
+deepseek,broad,majority,durcal,51,11,10,7,3,6.86,0.82716049382716,12,10
+deepseek,broad,majority,huetortajar,41,9,8,7,2.5,6.645,0.82716049382716,12,10
+deepseek,broad,majority,murcia,59,11,10,7,3.5,6.915,0.82716049382716,12,10
+deepseek,broad,majority,oria,63,9,8,5,3.5,6.93,0.82716049382716,12,10
+deepseek,broad,majority,ricote,32,8,7,6,3,5.55,0.82716049382716,12,10
+deepseek,broad,majority,sudanell,48,8,9,5,2,5.805,0.82716049382716,12,10
+deepseek,broad,unanimous,arriate,40,9,8,6,2,6.675,0.826302729528536,11,9
+deepseek,broad,unanimous,durcal,51,11,10,4,1,5.53,0.826302729528536,11,9
+deepseek,broad,unanimous,huetortajar,41,9,6,6,3,5.725,0.826302729528536,11,9
+deepseek,broad,unanimous,murcia,59,11,8,7,3.5,6.5,0.826302729528536,11,9
+deepseek,broad,unanimous,oria,63,9,7,5,3,6.79,0.826302729528536,11,9
+deepseek,broad,unanimous,ricote,32,8,6,5,2.5,4.44,0.826302729528536,11,9
+deepseek,broad,unanimous,sudanell,47,8,8,4,2,4.665,0.826302729528536,11,9

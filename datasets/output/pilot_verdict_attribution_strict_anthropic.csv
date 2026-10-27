@@ -1,0 +1,2 @@
+arm,phrasing,provider,base_mean_functions,arm_mean_functions,shift,base_omitted_core2,arm_omitted_core2,criterion_min_shift,criterion_direction,passed
+attribution_strict_anthropic,strict,anthropic,2.38736842105263,2,-0.387368421052631,0.682105263157895,0.627368421052632,0.3,decrease,TRUE

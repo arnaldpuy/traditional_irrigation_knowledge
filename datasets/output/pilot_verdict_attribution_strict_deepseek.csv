@@ -1,0 +1,2 @@
+arm,phrasing,provider,base_mean_functions,arm_mean_functions,shift,base_omitted_core2,arm_omitted_core2,criterion_min_shift,criterion_direction,passed
+attribution_strict_deepseek,strict,deepseek,2.18736842105263,1.93052631578947,-0.256842105263158,0.551578947368421,0.492631578947368,0.3,decrease,FALSE

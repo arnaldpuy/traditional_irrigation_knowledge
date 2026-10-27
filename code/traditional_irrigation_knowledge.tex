@@ -1,0 +1,2016 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  11pt,
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage[font=footnotesize]{caption}
+\usepackage{dirtytalk}
+\usepackage{booktabs}
+\usepackage{tabulary}
+\usepackage{enumitem}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage[T1]{fontenc}
+\usepackage{tikz}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Irrigation modernisation is blind to most traditional knowledge},
+  pdfauthor={Arnald Puy},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Irrigation modernisation is blind to most traditional knowledge}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{R code}
+\author{Arnald Puy}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\newpage
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# PRELIMINARY FUNCTIONS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+\FunctionTok{library}\NormalTok{(benchmarkme)}
+
+\CommentTok{\# Load packages {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\ControlFlowTok{if}\NormalTok{ (}\SpecialCharTok{!}\FunctionTok{requireNamespace}\NormalTok{(}\StringTok{"sensobol"}\NormalTok{, }\AttributeTok{quietly =} \ConstantTok{TRUE}\NormalTok{)) }\FunctionTok{install.packages}\NormalTok{(}\StringTok{"sensobol"}\NormalTok{)}
+\NormalTok{sensobol}\SpecialCharTok{::}\FunctionTok{load\_packages}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\StringTok{"here"}\NormalTok{, }\StringTok{"data.table"}\NormalTok{, }\StringTok{"ggplot2"}\NormalTok{, }\StringTok{"cowplot"}\NormalTok{, }\StringTok{"scales"}\NormalTok{,}
+                          \StringTok{"readxl"}\NormalTok{, }\StringTok{"jsonlite"}\NormalTok{, }\StringTok{"sf"}\NormalTok{, }\StringTok{"rnaturalearth"}\NormalTok{,}
+                          \StringTok{"rnaturalearthdata"}\NormalTok{, }\StringTok{"ggrepel"}\NormalTok{))}
+
+\CommentTok{\# Source all .R files in the "functions" folder {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{r\_functions }\OtherTok{\textless{}{-}} \FunctionTok{list.files}\NormalTok{(}\AttributeTok{path =} \FunctionTok{here}\NormalTok{(}\StringTok{"functions"}\NormalTok{),}
+                          \AttributeTok{pattern =} \StringTok{"}\SpecialCharTok{\textbackslash{}\textbackslash{}}\StringTok{.R$"}\NormalTok{, }\AttributeTok{full.names =} \ConstantTok{TRUE}\NormalTok{)}
+\FunctionTok{invisible}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(r\_functions, source))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# LOAD DATA \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{out }\OtherTok{\textless{}{-}} \FunctionTok{here}\NormalTok{(}\StringTok{"datasets"}\NormalTok{, }\StringTok{"output"}\NormalTok{)}
+\NormalTok{arm\_dir }\OtherTok{\textless{}{-}} \FunctionTok{file.path}\NormalTok{(out, }\StringTok{"arm"}\NormalTok{); chk\_dir }\OtherTok{\textless{}{-}} \FunctionTok{file.path}\NormalTok{(out, }\StringTok{"checkpoint"}\NormalTok{)}
+\NormalTok{col\_irr }\OtherTok{\textless{}{-}} \StringTok{"\#b2182b"}\NormalTok{; col\_leg }\OtherTok{\textless{}{-}} \StringTok{"\#2166ac"}
+
+\CommentTok{\# Corpus metadata {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{dt }\OtherTok{\textless{}{-}} \FunctionTok{load\_coded\_corpus\_fun}\NormalTok{()}
+\NormalTok{dt[, domain\_short }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{fcase}\NormalTok{(}
+\NormalTok{  main\_category }\SpecialCharTok{==} \StringTok{"Crop knowledge and management"}\NormalTok{, }\StringTok{"Crop"}\NormalTok{,}
+\NormalTok{  main\_category }\SpecialCharTok{==} \StringTok{"Irrigation practices and communal water management"}\NormalTok{, }\StringTok{"Irrigation"}\NormalTok{,}
+\NormalTok{  main\_category }\SpecialCharTok{==} \StringTok{"Soil and moisture management"}\NormalTok{, }\StringTok{"Soil \& moisture"}\NormalTok{,}
+\NormalTok{  main\_category }\SpecialCharTok{==} \StringTok{"Weather and climate conditions"}\NormalTok{, }\StringTok{"Weather \& climate"}\NormalTok{)]}
+
+\CommentTok{\# Rule{-}only draws, deepseek leg on v4 {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{read\_arm }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(f) }\FunctionTok{as.data.table}\NormalTok{(utils}\SpecialCharTok{::}\FunctionTok{read.csv}\NormalTok{(f, }\AttributeTok{stringsAsFactors =} \ConstantTok{FALSE}\NormalTok{,}
+                                                      \AttributeTok{encoding =} \StringTok{"UTF{-}8"}\NormalTok{))}
+\NormalTok{parse\_json\_field }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(txt, field) \{}
+  \FunctionTok{vapply}\NormalTok{(txt, }\ControlFlowTok{function}\NormalTok{(t) \{}
+    \ControlFlowTok{if}\NormalTok{ (}\FunctionTok{is.na}\NormalTok{(t) }\SpecialCharTok{||}\NormalTok{ t }\SpecialCharTok{==} \StringTok{""}\NormalTok{) }\FunctionTok{return}\NormalTok{(}\ConstantTok{NA\_character\_}\NormalTok{)}
+\NormalTok{    o }\OtherTok{\textless{}{-}} \FunctionTok{tryCatch}\NormalTok{(}\FunctionTok{fromJSON}\NormalTok{(t), }\AttributeTok{error =} \ControlFlowTok{function}\NormalTok{(e) }\ConstantTok{NULL}\NormalTok{)}
+\NormalTok{    v }\OtherTok{\textless{}{-}}\NormalTok{ o[[field]]}
+    \ControlFlowTok{if}\NormalTok{ (}\FunctionTok{is.null}\NormalTok{(v)) }\ConstantTok{NA\_character\_} \ControlFlowTok{else} \FunctionTok{as.character}\NormalTok{(v)}
+\NormalTok{  \}, }\FunctionTok{character}\NormalTok{(}\DecValTok{1}\NormalTok{), }\AttributeTok{USE.NAMES =} \ConstantTok{FALSE}\NormalTok{)}
+\NormalTok{\}}
+\NormalTok{bin\_files }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{standard =} \FunctionTok{file.path}\NormalTok{(chk\_dir, }\StringTok{"chk\_standard\_raw\_all.csv"}\NormalTok{),}
+               \AttributeTok{short =} \FunctionTok{file.path}\NormalTok{(arm\_dir, }\StringTok{"arm\_short\_raw\_all.csv"}\NormalTok{),}
+               \AttributeTok{strict =} \FunctionTok{file.path}\NormalTok{(arm\_dir, }\StringTok{"arm\_strict\_raw\_all.csv"}\NormalTok{))}
+\NormalTok{bin }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(}\FunctionTok{names}\NormalTok{(bin\_files), }\ControlFlowTok{function}\NormalTok{(nm) \{}
+\NormalTok{  d }\OtherTok{\textless{}{-}} \FunctionTok{read\_arm}\NormalTok{(bin\_files[[nm]])}
+\NormalTok{  d[, legible }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{as.logical}\NormalTok{(}\FunctionTok{parse\_json\_field}\NormalTok{(text, }\StringTok{"efficiency\_legible"}\NormalTok{))]}
+\NormalTok{  d[, .(}\AttributeTok{prompt =}\NormalTok{ nm, provider, }\AttributeTok{id\_cite =} \FunctionTok{sub}\NormalTok{(}\StringTok{"\_\_s.*$"}\NormalTok{, }\StringTok{""}\NormalTok{, custom\_id), legible)]}
+\NormalTok{\}))[}\SpecialCharTok{!}\FunctionTok{is.na}\NormalTok{(legible)]}
+\NormalTok{v4 }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(}\FunctionTok{names}\NormalTok{(bin\_files), }\ControlFlowTok{function}\NormalTok{(nm) \{}
+\NormalTok{  d }\OtherTok{\textless{}{-}} \FunctionTok{read\_arm}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\FunctionTok{sprintf}\NormalTok{(}\StringTok{"v4\_ruleonly\_\%s\_deepseek\_raw\_all.csv"}\NormalTok{, nm)))}
+\NormalTok{  d[, legible }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{as.logical}\NormalTok{(}\FunctionTok{parse\_json\_field}\NormalTok{(text, }\StringTok{"efficiency\_legible"}\NormalTok{))]}
+\NormalTok{  d[, .(}\AttributeTok{prompt =}\NormalTok{ nm, }\AttributeTok{provider =} \StringTok{"deepseek"}\NormalTok{,}
+        \AttributeTok{id\_cite =} \FunctionTok{sub}\NormalTok{(}\StringTok{"\_\_s.*$"}\NormalTok{, }\StringTok{""}\NormalTok{, custom\_id), legible)]}
+\NormalTok{\}))[}\SpecialCharTok{!}\FunctionTok{is.na}\NormalTok{(legible)]}
+\NormalTok{bin }\OtherTok{\textless{}{-}} \FunctionTok{rbind}\NormalTok{(bin[provider }\SpecialCharTok{!=} \StringTok{"deepseek"}\NormalTok{], v4)}
+
+\CommentTok{\# Per{-}draw function sets for the nine full{-}instrument arms {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{funcs12 }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"crop\_production"}\NormalTok{, }\StringTok{"water\_conservation"}\NormalTok{, }\StringTok{"soil\_health"}\NormalTok{,}
+             \StringTok{"risk\_management"}\NormalTok{, }\StringTok{"groundwater\_recharge"}\NormalTok{,}
+             \StringTok{"microclimate\_regulation"}\NormalTok{, }\StringTok{"biodiversity"}\NormalTok{, }\StringTok{"pest\_control"}\NormalTok{,}
+             \StringTok{"livestock"}\NormalTok{, }\StringTok{"medicinal\_food"}\NormalTok{, }\StringTok{"social\_cohesion"}\NormalTok{,}
+             \StringTok{"recreation\_wellbeing"}\NormalTok{)}
+\NormalTok{core2 }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"crop\_production"}\NormalTok{, }\StringTok{"water\_conservation"}\NormalTok{)}
+\NormalTok{fun\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{crop\_production =} \StringTok{"Crop production"}\NormalTok{,}
+             \AttributeTok{water\_conservation =} \StringTok{"Water conservation"}\NormalTok{,}
+             \AttributeTok{soil\_health =} \StringTok{"Soil health"}\NormalTok{, }\AttributeTok{risk\_management =} \StringTok{"Risk management"}\NormalTok{,}
+             \AttributeTok{social\_cohesion =} \StringTok{"Social cohesion"}\NormalTok{, }\AttributeTok{biodiversity =} \StringTok{"Biodiversity"}\NormalTok{,}
+             \AttributeTok{groundwater\_recharge =} \StringTok{"Groundwater recharge"}\NormalTok{,}
+             \AttributeTok{microclimate\_regulation =} \StringTok{"Microclimate regulation"}\NormalTok{,}
+             \AttributeTok{pest\_control =} \StringTok{"Pest control"}\NormalTok{, }\AttributeTok{livestock =} \StringTok{"Livestock"}\NormalTok{,}
+             \AttributeTok{medicinal\_food =} \StringTok{"Medicinal/food plants"}\NormalTok{,}
+             \AttributeTok{recreation\_wellbeing =} \StringTok{"Recreation/wellbeing"}\NormalTok{)}
+
+\NormalTok{arm\_file }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(fam, ph) \{}
+  \ControlFlowTok{if}\NormalTok{ (fam }\SpecialCharTok{==} \StringTok{"anthropic"} \SpecialCharTok{\&\&}\NormalTok{ ph }\SpecialCharTok{==} \StringTok{"standard"}\NormalTok{)}
+    \FunctionTok{file.path}\NormalTok{(out, }\StringTok{"coding\_results\_raw\_analytical\_anthropic.csv"}\NormalTok{)}
+  \ControlFlowTok{else} \FunctionTok{file.path}\NormalTok{(out, }\FunctionTok{sprintf}\NormalTok{(}\StringTok{"coding\_results\_raw\_attribution\_\%s\_\%s.csv"}\NormalTok{, ph, fam))}
+\NormalTok{\}}
+\NormalTok{families }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"anthropic"}\NormalTok{, }\StringTok{"openai"}\NormalTok{, }\StringTok{"deepseek"}\NormalTok{)}
+\NormalTok{phrasings }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"strict"}\NormalTok{, }\StringTok{"standard"}\NormalTok{, }\StringTok{"broad"}\NormalTok{)}
+\NormalTok{draws }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(families, }\ControlFlowTok{function}\NormalTok{(fam)}
+  \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(phrasings, }\ControlFlowTok{function}\NormalTok{(ph) \{}
+\NormalTok{    d }\OtherTok{\textless{}{-}} \FunctionTok{read\_arm}\NormalTok{(}\FunctionTok{arm\_file}\NormalTok{(fam, ph))[}\SpecialCharTok{!}\FunctionTok{duplicated}\NormalTok{(custom\_id)]}
+    \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(}\FunctionTok{seq\_len}\NormalTok{(}\FunctionTok{nrow}\NormalTok{(d)), }\ControlFlowTok{function}\NormalTok{(i) \{}
+\NormalTok{      o }\OtherTok{\textless{}{-}} \FunctionTok{tryCatch}\NormalTok{(}\FunctionTok{fromJSON}\NormalTok{(d}\SpecialCharTok{$}\NormalTok{text[i]), }\AttributeTok{error =} \ControlFlowTok{function}\NormalTok{(e) }\ConstantTok{NULL}\NormalTok{)}
+\NormalTok{      fs }\OtherTok{\textless{}{-}} \ControlFlowTok{if}\NormalTok{ (}\FunctionTok{is.null}\NormalTok{(o}\SpecialCharTok{$}\NormalTok{functions)) }\FunctionTok{character}\NormalTok{(}\DecValTok{0}\NormalTok{) }\ControlFlowTok{else}
+        \FunctionTok{intersect}\NormalTok{(}\FunctionTok{unlist}\NormalTok{(o}\SpecialCharTok{$}\NormalTok{functions), funcs12)}
+      \ControlFlowTok{if}\NormalTok{ (}\SpecialCharTok{!}\FunctionTok{length}\NormalTok{(fs)) }\FunctionTok{return}\NormalTok{(}\ConstantTok{NULL}\NormalTok{)}
+      \FunctionTok{data.table}\NormalTok{(}\AttributeTok{family =}\NormalTok{ fam, }\AttributeTok{phrasing =}\NormalTok{ ph,}
+                 \AttributeTok{id\_cite =} \FunctionTok{sub}\NormalTok{(}\StringTok{"\_\_s.*$"}\NormalTok{, }\StringTok{""}\NormalTok{, d}\SpecialCharTok{$}\NormalTok{custom\_id[i]),}
+                 \AttributeTok{draw =}\NormalTok{ d}\SpecialCharTok{$}\NormalTok{custom\_id[i], }\AttributeTok{f =}\NormalTok{ fs)}
+\NormalTok{    \}))}
+\NormalTok{  \}))))}
+\NormalTok{vote\_rules }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{any draw}\StringTok{\textasciigrave{}} \OtherTok{=} \FloatTok{0.2}\NormalTok{, }\AttributeTok{majority =} \FloatTok{0.6}\NormalTok{, }\AttributeTok{unanimous =} \FloatTok{1.0}\NormalTok{)}
+\NormalTok{fam\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{anthropic =} \StringTok{"Claude"}\NormalTok{, }\AttributeTok{openai =} \StringTok{"GPT{-}5.4"}\NormalTok{, }\AttributeTok{deepseek =} \StringTok{"DeepSeek{-}v4"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{results-1-how-much-knowledge-efficiency-metrics-can-hold}{%
+\section{Results 1: how much knowledge efficiency metrics can
+hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# FIGURE 1 PANELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{sob\_grid }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_headline\_grid.csv"}\NormalTok{))}
+\NormalTok{sob\_ind }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_headline\_indices.csv"}\NormalTok{))}
+\NormalTok{sob\_tot }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_headline\_totals.csv"}\NormalTok{))}
+\NormalTok{sob\_sum }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_headline\_summary.csv"}\NormalTok{))}
+\NormalTok{anchor }\OtherTok{\textless{}{-}}\NormalTok{ sob\_sum[quantity }\SpecialCharTok{==} \StringTok{"anchor\_full\_instrument"}\NormalTok{, value]}
+\NormalTok{fac\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{community =} \StringTok{"Community"}\NormalTok{, }\AttributeTok{domain =} \StringTok{"Knowledge domain"}\NormalTok{,}
+             \AttributeTok{model =} \StringTok{"LLM family"}\NormalTok{, }\AttributeTok{prompt =} \StringTok{"Prompt"}\NormalTok{, }\AttributeTok{vote =} \StringTok{"Vote rule"}\NormalTok{)}
+
+\CommentTok{\# Panel a: the share across specifications, split by vote rule {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{sob\_grid[, vote }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(vote, }\AttributeTok{levels =} \FunctionTok{c}\NormalTok{(}\StringTok{"any draw"}\NormalTok{, }\StringTok{"majority"}\NormalTok{, }\StringTok{"unanimous"}\NormalTok{),}
+                          \AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\StringTok{"Any draw"}\NormalTok{, }\StringTok{"Majority"}\NormalTok{, }\StringTok{"Unanimous"}\NormalTok{))]}
+\NormalTok{vote\_labs }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\FunctionTok{expression}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"Any draw ("}\NormalTok{, }\StringTok{""} \SpecialCharTok{\textgreater{}=} \DecValTok{1}\NormalTok{, }\SpecialCharTok{\textasciitilde{}}\StringTok{"of 5)"}\NormalTok{)),}
+               \FunctionTok{expression}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"Majority ("}\NormalTok{, }\StringTok{""} \SpecialCharTok{\textgreater{}=} \DecValTok{3}\NormalTok{, }\SpecialCharTok{\textasciitilde{}}\StringTok{"of 5)"}\NormalTok{)),}
+               \FunctionTok{expression}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"Unanimous (5 of 5)"}\NormalTok{)))}
+
+\NormalTok{plot\_sob\_a }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(sob\_grid, }\FunctionTok{aes}\NormalTok{(share, }\AttributeTok{fill =}\NormalTok{ vote)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_histogram}\NormalTok{(}\AttributeTok{binwidth =} \FloatTok{0.01}\NormalTok{, }\AttributeTok{boundary =} \DecValTok{0}\NormalTok{, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.5}\NormalTok{,}
+                 \AttributeTok{position =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{Any draw}\StringTok{\textasciigrave{}} \OtherTok{=}\NormalTok{ col\_leg, }\AttributeTok{Majority =} \StringTok{"\#e08214"}\NormalTok{,}
+                               \AttributeTok{Unanimous =}\NormalTok{ col\_irr), }\AttributeTok{name =} \StringTok{""}\NormalTok{,}
+                    \AttributeTok{labels =}\NormalTok{ vote\_labs) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{()) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.04}\NormalTok{))) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Irreducible share"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Specifications"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.01}\NormalTok{, }\FloatTok{0.98}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{))}
+
+\CommentTok{\# Panel b: first{-} and total{-}order indices {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{sob\_long }\OtherTok{\textless{}{-}} \FunctionTok{melt}\NormalTok{(sob\_tot[, .(}\AttributeTok{factor =}\NormalTok{ fac\_lab[factor], }\AttributeTok{Si =}\NormalTok{ si\_first, }\AttributeTok{Ti =}\NormalTok{ ti)],}
+                 \AttributeTok{id.vars =} \StringTok{"factor"}\NormalTok{)}
+
+\NormalTok{plot\_sob\_b }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(sob\_long, }\FunctionTok{aes}\NormalTok{(}\FunctionTok{reorder}\NormalTok{(factor, value, max), value,}
+                                   \AttributeTok{fill =}\NormalTok{ variable)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{, }\AttributeTok{position =} \FunctionTok{position\_dodge}\NormalTok{(}\FloatTok{0.6}\NormalTok{),}
+           \AttributeTok{colour =} \StringTok{"black"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.2}\NormalTok{, }\AttributeTok{width =} \FloatTok{0.6}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{coord\_flip}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_manual}\NormalTok{(}\AttributeTok{name =} \StringTok{""}\NormalTok{,}
+                    \AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\AttributeTok{Si =} \StringTok{"\#F8766D"}\NormalTok{, }\AttributeTok{Ti =} \StringTok{"\#00BFC4"}\NormalTok{),}
+                    \AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\FunctionTok{expression}\NormalTok{(S[}\FunctionTok{italic}\NormalTok{(i)]),}
+                               \FunctionTok{expression}\NormalTok{(T[}\FunctionTok{italic}\NormalTok{(i)]))) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.04}\NormalTok{)),}
+                     \AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{3}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{""}\NormalTok{, }\AttributeTok{y =} \StringTok{"Sobol\textquotesingle{} index"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.99}\NormalTok{, }\FloatTok{0.03}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{),}
+        \AttributeTok{legend.key.size =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.3}\NormalTok{, }\StringTok{"cm"}\NormalTok{), }\AttributeTok{legend.title =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{))}
+
+\CommentTok{\# Panel c: the ten second{-}order terms {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{sob\_int }\OtherTok{\textless{}{-}}\NormalTok{ sob\_ind[order }\SpecialCharTok{==} \DecValTok{2}\NormalTok{]}
+\NormalTok{sob\_int[, lab }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{vapply}\NormalTok{(}\FunctionTok{strsplit}\NormalTok{(term, }\StringTok{":"}\NormalTok{, }\AttributeTok{fixed =} \ConstantTok{TRUE}\NormalTok{), }\ControlFlowTok{function}\NormalTok{(p)}
+  \FunctionTok{paste}\NormalTok{(fac\_lab[p], }\AttributeTok{collapse =} \StringTok{" : "}\NormalTok{), }\FunctionTok{character}\NormalTok{(}\DecValTok{1}\NormalTok{))]}
+
+\NormalTok{plot\_sob\_c }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(sob\_int, }\FunctionTok{aes}\NormalTok{(}\FunctionTok{reorder}\NormalTok{(lab, si), si)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \DecValTok{0}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dashed"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"red"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \FloatTok{1.5}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{coord\_flip}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{2}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{""}\NormalTok{, }\AttributeTok{y =} \FunctionTok{expression}\NormalTok{(S[ij])) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.y =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \FloatTok{5.6}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# FIGURE 1 PANELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{draw\_share }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(bin[, .(}\AttributeTok{s\_irr =} \FunctionTok{mean}\NormalTok{(}\SpecialCharTok{!}\NormalTok{legible)),}
+                        \AttributeTok{by =}\NormalTok{ .(prompt, provider, id\_cite)],}
+\NormalTok{                    dt[, .(id\_cite, site, domain\_short, epistemic\_type)],}
+                    \AttributeTok{by =} \StringTok{"id\_cite"}\NormalTok{)}
+\NormalTok{spec\_grid }\OtherTok{\textless{}{-}} \FunctionTok{CJ}\NormalTok{(}\AttributeTok{vote =} \FunctionTok{names}\NormalTok{(vote\_rules), }\AttributeTok{drop =} \FunctionTok{c}\NormalTok{(}\StringTok{"none"}\NormalTok{, }\FunctionTok{unique}\NormalTok{(dt}\SpecialCharTok{$}\NormalTok{site)),}
+                \AttributeTok{sorted =} \ConstantTok{FALSE}\NormalTok{)}
+\NormalTok{ensemble\_by }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(grp) \{}
+  \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(}\FunctionTok{seq\_len}\NormalTok{(}\FunctionTok{nrow}\NormalTok{(spec\_grid)), }\ControlFlowTok{function}\NormalTok{(i) \{}
+\NormalTok{    sub }\OtherTok{\textless{}{-}}\NormalTok{ draw\_share[spec\_grid}\SpecialCharTok{$}\NormalTok{drop[i] }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{|}\NormalTok{ site }\SpecialCharTok{!=}\NormalTok{ spec\_grid}\SpecialCharTok{$}\NormalTok{drop[i]]}
+\NormalTok{    sub[, .(}\AttributeTok{share =} \FunctionTok{mean}\NormalTok{(s\_irr }\SpecialCharTok{\textgreater{}=}\NormalTok{ vote\_rules[[spec\_grid}\SpecialCharTok{$}\NormalTok{vote[i]]])),}
+\NormalTok{        by }\OtherTok{=} \FunctionTok{c}\NormalTok{(grp, }\StringTok{"prompt"}\NormalTok{, }\StringTok{"provider"}\NormalTok{)]}
+\NormalTok{  \}))}
+\NormalTok{\}}
+
+\CommentTok{\# Panel a: irreducible share by knowledge domain {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{dom\_full }\OtherTok{\textless{}{-}} \FunctionTok{ensemble\_by}\NormalTok{(}\StringTok{"domain\_short"}\NormalTok{)}
+\NormalTok{dom\_ens }\OtherTok{\textless{}{-}}\NormalTok{ dom\_full[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(share), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(share), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(share)),}
+\NormalTok{                    by }\OtherTok{=}\NormalTok{ domain\_short]}
+\NormalTok{dom\_ord }\OtherTok{\textless{}{-}}\NormalTok{ dom\_ens[}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{med), domain\_short]}
+\NormalTok{dom\_full[, domain\_short }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(domain\_short, }\AttributeTok{levels =}\NormalTok{ dom\_ord)]}
+\NormalTok{dom\_ens[, domain\_short }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(domain\_short, }\AttributeTok{levels =}\NormalTok{ dom\_ord)]}
+
+\NormalTok{plot\_share\_dom }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(dom\_full, }\FunctionTok{aes}\NormalTok{(domain\_short, share)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_violin}\NormalTok{(}\AttributeTok{fill =}\NormalTok{ col\_irr, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{scale =} \StringTok{"width"}\NormalTok{,}
+              \AttributeTok{width =} \FloatTok{0.8}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ dom\_ens, }\FunctionTok{aes}\NormalTok{(domain\_short, med), }\AttributeTok{size =} \FloatTok{1.6}\NormalTok{,}
+             \AttributeTok{colour =}\NormalTok{ col\_irr) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{),}
+                     \AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\AttributeTok{mult =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.02}\NormalTok{, }\FloatTok{0.06}\NormalTok{))) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_discrete}\NormalTok{(}\AttributeTok{labels =} \ControlFlowTok{function}\NormalTok{(x) }\FunctionTok{gsub}\NormalTok{(}\StringTok{" \& "}\NormalTok{, }\StringTok{" \&}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, x)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{""}\NormalTok{, }\AttributeTok{y =} \StringTok{"Irreducible share"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\CommentTok{\# Panel b: reducible share by form of knowledge {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{epi\_labels }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{heuristic\_rule =} \StringTok{"Heuristic rule"}\NormalTok{,}
+                \AttributeTok{mechanistic\_belief =} \StringTok{"Mechanistic belief"}\NormalTok{,}
+                \AttributeTok{valuation =} \StringTok{"Valuation"}\NormalTok{, }\AttributeTok{indicator =} \StringTok{"Indicator"}\NormalTok{,}
+                \AttributeTok{astronomical =} \StringTok{"Astronomical"}\NormalTok{, }\AttributeTok{calendrical =} \StringTok{"Calendrical"}\NormalTok{,}
+                \AttributeTok{normative\_social =} \StringTok{"Normative{-}social"}\NormalTok{)}
+\NormalTok{epi\_full }\OtherTok{\textless{}{-}} \FunctionTok{ensemble\_by}\NormalTok{(}\StringTok{"epistemic\_type"}\NormalTok{)[, .(epistemic\_type, }\AttributeTok{red =} \DecValTok{1} \SpecialCharTok{{-}}\NormalTok{ share)]}
+\NormalTok{epi\_full }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(epi\_full, dt[, .(}\AttributeTok{n =}\NormalTok{ .N), }\AttributeTok{by =}\NormalTok{ epistemic\_type],}
+                  \AttributeTok{by =} \StringTok{"epistemic\_type"}\NormalTok{)}
+\NormalTok{epi\_full[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%s (\%d)"}\NormalTok{, epi\_labels[epistemic\_type], n)]}
+\NormalTok{ep }\OtherTok{\textless{}{-}}\NormalTok{ epi\_full[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(red), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(red), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(red),}
+                   \AttributeTok{at\_zero =} \FunctionTok{mean}\NormalTok{(red }\SpecialCharTok{==} \DecValTok{0}\NormalTok{)), by }\OtherTok{=}\NormalTok{ label]}
+\NormalTok{epi\_ord }\OtherTok{\textless{}{-}}\NormalTok{ ep[}\FunctionTok{order}\NormalTok{(med), label]}
+\NormalTok{epi\_full[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(label, }\AttributeTok{levels =}\NormalTok{ epi\_ord)]}
+\NormalTok{ep[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(label, }\AttributeTok{levels =}\NormalTok{ epi\_ord)]}
+
+\NormalTok{plot\_share\_epi }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(epi\_full, }\FunctionTok{aes}\NormalTok{(red, label)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_violin}\NormalTok{(}\AttributeTok{fill =}\NormalTok{ col\_leg, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{scale =} \StringTok{"width"}\NormalTok{,}
+              \AttributeTok{width =} \FloatTok{0.8}\NormalTok{, }\AttributeTok{trim =} \ConstantTok{TRUE}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ ep, }\FunctionTok{aes}\NormalTok{(med, label), }\AttributeTok{size =} \FloatTok{1.6}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{3}\NormalTok{),}
+                     \AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\ConstantTok{NA}\NormalTok{),}
+                     \AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\AttributeTok{mult =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.02}\NormalTok{, }\FloatTok{0.08}\NormalTok{))) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Reducible share"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# FIGURE 2, PANELS C AND D \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\CommentTok{\# Panel c: the twelve{-}function vocabulary and how common each function is {-}{-}{-}{-}{-}{-}}
+
+\NormalTok{fun\_prev }\OtherTok{\textless{}{-}}\NormalTok{ dt[, .(}\AttributeTok{f =} \FunctionTok{trimws}\NormalTok{(}\FunctionTok{unlist}\NormalTok{(}\FunctionTok{strsplit}\NormalTok{(functions, }\StringTok{";"}\NormalTok{, }\AttributeTok{fixed =} \ConstantTok{TRUE}\NormalTok{)))),}
+\NormalTok{               by }\OtherTok{=}\NormalTok{ id\_cite][f }\SpecialCharTok{\%in\%} \FunctionTok{names}\NormalTok{(fun\_lab), .N, by }\OtherTok{=}\NormalTok{ f]}
+\NormalTok{fun\_prev[, share }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ N }\SpecialCharTok{/} \FunctionTok{uniqueN}\NormalTok{(dt}\SpecialCharTok{$}\NormalTok{id\_cite)]}
+\NormalTok{fun\_prev[, core }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{fifelse}\NormalTok{(f }\SpecialCharTok{\%in\%}\NormalTok{ core2, }\StringTok{"Water/yield core"}\NormalTok{, }\StringTok{"Other functions"}\NormalTok{)]}
+\NormalTok{fun\_prev[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(fun\_lab[f], }\AttributeTok{levels =}\NormalTok{ fun\_lab[fun\_prev[}\FunctionTok{order}\NormalTok{(share), f]])]}
+
+\NormalTok{plot\_share\_fun }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(fun\_prev, }\FunctionTok{aes}\NormalTok{(share, label, }\AttributeTok{colour =}\NormalTok{ core)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_segment}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =} \DecValTok{0}\NormalTok{, }\AttributeTok{xend =}\NormalTok{ share, }\AttributeTok{yend =}\NormalTok{ label), }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \FloatTok{1.7}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_text}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{label =}\NormalTok{ N), }\AttributeTok{hjust =} \SpecialCharTok{{-}}\FloatTok{0.5}\NormalTok{, }\AttributeTok{size =} \DecValTok{2}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey30"}\NormalTok{,}
+            \AttributeTok{show.legend =} \ConstantTok{FALSE}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_colour\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{Water/yield core}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"grey20"}\NormalTok{,}
+                                 \StringTok{\textasciigrave{}}\AttributeTok{Other functions}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"grey65"}\NormalTok{), }\AttributeTok{name =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.97}\NormalTok{),}
+                     \AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{3}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Share of the corpus serving the function"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.98}\NormalTok{, }\FloatTok{0.03}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{))}
+
+\CommentTok{\# Panel d: reducibility against functions served outside the core {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{dt[, n\_noncore }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{vapply}\NormalTok{(}\FunctionTok{strsplit}\NormalTok{(functions, }\StringTok{";"}\NormalTok{, }\AttributeTok{fixed =} \ConstantTok{TRUE}\NormalTok{),}
+                         \ControlFlowTok{function}\NormalTok{(f) }\FunctionTok{sum}\NormalTok{(}\SpecialCharTok{!}\FunctionTok{trimws}\NormalTok{(f) }\SpecialCharTok{\%in\%}\NormalTok{ core2), }\FunctionTok{integer}\NormalTok{(}\DecValTok{1}\NormalTok{))]}
+\NormalTok{dt[, ncat }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{fifelse}\NormalTok{(n\_noncore }\SpecialCharTok{\textgreater{}=}\NormalTok{ 2L, }\StringTok{"2 or more"}\NormalTok{, }\FunctionTok{as.character}\NormalTok{(n\_noncore))]}
+\NormalTok{draw\_share[dt, on }\OtherTok{=} \StringTok{"id\_cite"}\NormalTok{, ncat }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ i.ncat]}
+\NormalTok{ncat\_n }\OtherTok{\textless{}{-}}\NormalTok{ dt[, .N, by }\OtherTok{=}\NormalTok{ ncat]}
+\NormalTok{ncat\_labs }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{0}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"none"}\NormalTok{, }\StringTok{\textasciigrave{}}\AttributeTok{1}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"one"}\NormalTok{, }\StringTok{\textasciigrave{}}\AttributeTok{2 or more}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"two or more"}\NormalTok{)}
+\NormalTok{ncat\_full }\OtherTok{\textless{}{-}} \FunctionTok{ensemble\_by}\NormalTok{(}\StringTok{"ncat"}\NormalTok{)[, .(ncat, }\AttributeTok{red =} \DecValTok{1} \SpecialCharTok{{-}}\NormalTok{ share)]}
+\NormalTok{ncat\_full[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%s}\SpecialCharTok{\textbackslash{}n}\StringTok{(\%d)"}\NormalTok{, ncat\_labs[ncat],}
+\NormalTok{                                    ncat\_n}\SpecialCharTok{$}\NormalTok{N[}\FunctionTok{match}\NormalTok{(ncat, ncat\_n}\SpecialCharTok{$}\NormalTok{ncat)]),}
+                            \AttributeTok{levels =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%s}\SpecialCharTok{\textbackslash{}n}\StringTok{(\%d)"}\NormalTok{, ncat\_labs,}
+\NormalTok{                                             ncat\_n}\SpecialCharTok{$}\NormalTok{N[}\FunctionTok{match}\NormalTok{(}\FunctionTok{names}\NormalTok{(ncat\_labs),}
+\NormalTok{                                                            ncat\_n}\SpecialCharTok{$}\NormalTok{ncat)]))]}
+\NormalTok{ncat\_med }\OtherTok{\textless{}{-}}\NormalTok{ ncat\_full[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(red)), by }\OtherTok{=}\NormalTok{ label]}
+
+\NormalTok{plot\_share\_ncat }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(ncat\_full, }\FunctionTok{aes}\NormalTok{(label, red)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_violin}\NormalTok{(}\AttributeTok{fill =}\NormalTok{ col\_leg, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{scale =} \StringTok{"width"}\NormalTok{,}
+              \AttributeTok{width =} \FloatTok{0.75}\NormalTok{, }\AttributeTok{trim =} \ConstantTok{TRUE}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{(}\AttributeTok{data =}\NormalTok{ ncat\_med, }\FunctionTok{aes}\NormalTok{(label, med, }\AttributeTok{group =} \DecValTok{1}\NormalTok{), }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{,}
+            \AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ ncat\_med, }\FunctionTok{aes}\NormalTok{(label, med), }\AttributeTok{size =} \FloatTok{1.6}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{geom\_text}\NormalTok{(}\AttributeTok{data =}\NormalTok{ ncat\_med, }\FunctionTok{aes}\NormalTok{(label, med, }\AttributeTok{label =} \FunctionTok{percent}\NormalTok{(med, }\AttributeTok{accuracy =} \DecValTok{1}\NormalTok{)),}
+            \AttributeTok{vjust =} \SpecialCharTok{{-}}\FloatTok{1.2}\NormalTok{, }\AttributeTok{size =} \FloatTok{2.2}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\ConstantTok{NA}\NormalTok{),}
+                     \AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{4}\NormalTok{),}
+                     \AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\AttributeTok{mult =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.02}\NormalTok{, }\FloatTok{0.1}\NormalTok{))) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Functions served beyond}\SpecialCharTok{\textbackslash{}n}\StringTok{crop production and}\SpecialCharTok{\textbackslash{}n}\StringTok{water conservation"}\NormalTok{,}
+       \AttributeTok{y =} \StringTok{"Reducible share"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\FunctionTok{cat}\NormalTok{(}\StringTok{"Reducible share by number of functions outside the core:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Reducible share by number of functions outside the core:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(ncat\_full[, .(}\AttributeTok{median =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(red)),}
+                    \AttributeTok{range =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f{-}\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(red),}
+                                    \DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(red))), }\AttributeTok{by =}\NormalTok{ label])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                label median  range
+##               <fctr> <char> <char>
+## 1:       none\n(151)    16%  0-36%
+## 2:        one\n(243)     5%  0-21%
+## 3: two or more\n(81)     0%  0-21%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# MAIN FIGURE 1 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{fig1 }\OtherTok{\textless{}{-}} \FunctionTok{plot\_grid}\NormalTok{(plot\_share\_dom }\SpecialCharTok{+} 
+                    \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Knowledge domain"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Irreducible }\SpecialCharTok{\textbackslash{}n}\StringTok{share"}\NormalTok{),}
+\NormalTok{                  plot\_share\_epi }\SpecialCharTok{+} 
+                    \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Reducible share"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Type of }\SpecialCharTok{\textbackslash{}n}\StringTok{knowledge"}\NormalTok{), }
+                  \AttributeTok{ncol =} \DecValTok{2}\NormalTok{, }\AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.45}\NormalTok{, }\FloatTok{0.55}\NormalTok{),}
+          \AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\StringTok{"a"}\NormalTok{, }\StringTok{"b"}\NormalTok{))}
+\NormalTok{fig1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig1-shares-panels-1.pdf}
+\caption{The irreducible share by knowledge domain and by form of
+knowledge. Both panels summarise the 216 specifications that apply to a
+breakdown by group (three LLM families, three wordings of the
+removal-test rule, three vote rules, and keeping all communities or
+dropping one). The spread is specification uncertainty, not binomial
+sampling error. (a) Distribution of the irreducible share by knowledge
+domain: violins are scaled to equal width, points are medians. The
+distributions are skewed, with mass at 100\% and a long lower tail, and
+irreducibility extends even to the domains closest to efficiency
+frameworks. Only the irreducible share is shown, the reducible share
+being its exact complement. (b) Distribution of the reducible share by
+form of knowledge (corpus counts in parentheses), violins scaled to
+equal width and points marking medians. Heuristic rules and mechanistic
+beliefs are partly absorbed. The remaining types return a reducible
+share of exactly zero in most specifications --- 97\% for calendrical,
+94\% for astronomical, 76\% for normative-social, 63\% for valuation and
+54\% for indicator --- so their width near zero represents a spike
+rather than a spread, the share of a type with \(n\) assumptions being
+restricted to multiples of \(1/n\).}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# MAIN FIGURE 1, WITH THE FUNCTION PANELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{bottom }\OtherTok{\textless{}{-}} \FunctionTok{plot\_grid}\NormalTok{(plot\_share\_fun }\SpecialCharTok{+} 
+                      \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Share of assumptions"}\NormalTok{, }
+                           \AttributeTok{y =} \StringTok{"Function"}\NormalTok{), plot\_share\_ncat, }\AttributeTok{ncol =} \DecValTok{2}\NormalTok{, }\AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.62}\NormalTok{, }\FloatTok{0.38}\NormalTok{),  }\AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\StringTok{"c"}\NormalTok{, }\StringTok{"d"}\NormalTok{))}
+
+\FunctionTok{plot\_grid}\NormalTok{(fig1, bottom, }\AttributeTok{ncol =} \DecValTok{1}\NormalTok{, }\AttributeTok{rel\_heights =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.4}\NormalTok{, }\FloatTok{0.6}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig1-shares-1.pdf}
+\caption{Share of reducible and irreducible assumptions. a) Irreducible
+share grouped by knowledge domain. b) Reducible share grouped by type of
+knowledge (total numbers per type in parentheses). c) The functions of
+traditional irrigation and the number of assumptions serving each
+function. d) Reducible share by the number of functions an assumption
+serves beyond crop production and water management (total number in
+parentheses).}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# NUMBERS CITED IN RESULTS 1 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{hl }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_headline\_grid.csv"}\NormalTok{))}
+\NormalTok{hi }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_headline\_indices.csv"}\NormalTok{))}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Headline share over \%d specifications: \%.0f\%\%{-}\%.0f\%\%, median \%.0f\%\%}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{nrow}\NormalTok{(hl), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(hl}\SpecialCharTok{$}\NormalTok{share), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(hl}\SpecialCharTok{$}\NormalTok{share),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(hl}\SpecialCharTok{$}\NormalTok{share)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Headline share over 1080 specifications: 70%-100%, median 93%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Specifications above 80\%\%: \%.0f\%\%}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{mean}\NormalTok{(hl}\SpecialCharTok{$}\NormalTok{share }\SpecialCharTok{\textgreater{}=} \FloatTok{0.80}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Specifications above 80%: 94%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{first }\OtherTok{\textless{}{-}}\NormalTok{ hi[order }\SpecialCharTok{==} \DecValTok{1}\NormalTok{][}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{si)]}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{First{-}order indices:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## First-order indices:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(first[, .(}\AttributeTok{factor =}\NormalTok{ term, }\AttributeTok{Si =} \FunctionTok{round}\NormalTok{(si, }\DecValTok{3}\NormalTok{))])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##       factor    Si
+##       <char> <num>
+## 1:      vote 0.353
+## 2:    prompt 0.144
+## 3:    domain 0.064
+## 4:     model 0.025
+## 5: community 0.005
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Second{-}order terms above 0.02:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Second-order terms above 0.02:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(hi[order }\SpecialCharTok{==} \DecValTok{2} \SpecialCharTok{\&}\NormalTok{ si }\SpecialCharTok{\textgreater{}} \FloatTok{0.02}\NormalTok{][}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{si), .(term, }\AttributeTok{Sij =} \FunctionTok{round}\NormalTok{(si, }\DecValTok{3}\NormalTok{))])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##            term   Sij
+##          <char> <num>
+## 1: model:prompt 0.183
+## 2:   model:vote 0.147
+## 3:  prompt:vote 0.020
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Grouped (closed) indices: what the corpus contains vs how it is read {-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{closed\_index }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(ind, group)}
+\NormalTok{  ind[}\FunctionTok{vapply}\NormalTok{(}\FunctionTok{strsplit}\NormalTok{(term, }\StringTok{":"}\NormalTok{, }\AttributeTok{fixed =} \ConstantTok{TRUE}\NormalTok{),}
+             \ControlFlowTok{function}\NormalTok{(p) }\FunctionTok{all}\NormalTok{(p }\SpecialCharTok{\%in\%}\NormalTok{ group), }\FunctionTok{logical}\NormalTok{(}\DecValTok{1}\NormalTok{)), }\FunctionTok{sum}\NormalTok{(si)]}
+\NormalTok{cc }\OtherTok{\textless{}{-}} \FunctionTok{closed\_index}\NormalTok{(hi, }\FunctionTok{c}\NormalTok{(}\StringTok{"community"}\NormalTok{, }\StringTok{"domain"}\NormalTok{))}
+\NormalTok{cr }\OtherTok{\textless{}{-}} \FunctionTok{closed\_index}\NormalTok{(hi, }\FunctionTok{c}\NormalTok{(}\StringTok{"model"}\NormalTok{, }\StringTok{"prompt"}\NormalTok{, }\StringTok{"vote"}\NormalTok{))}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Corpus composition \%.3f | reading of the corpus \%.3f | cross \%.3f}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+\NormalTok{            cc, cr, }\DecValTok{1} \SpecialCharTok{{-}}\NormalTok{ cc }\SpecialCharTok{{-}}\NormalTok{ cr))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Corpus composition 0.070 | reading of the corpus 0.881 | cross 0.049
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Per{-}group medians quoted in the text {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Irreducible share by domain (median [range] across specifications):}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Irreducible share by domain (median [range] across specifications):
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(dom\_ens[}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{med), .(domain\_short, }\AttributeTok{median =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ med),}
+                             \AttributeTok{range =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f{-}\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ lo, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ hi))])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##         domain_short median   range
+##               <fctr> <char>  <char>
+## 1: Weather & climate   100% 82-100%
+## 2:   Soil & moisture    97% 59-100%
+## 3:              Crop    94% 82-100%
+## 4:        Irrigation    87% 64-100%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Reducible share by form of knowledge:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Reducible share by form of knowledge:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(ep[}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{med), .(label, }\AttributeTok{median =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ med),}
+                        \AttributeTok{max =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ hi),}
+                        \AttributeTok{at\_zero =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ at\_zero))])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                       label median    max at_zero
+##                      <fctr> <char> <char>  <char>
+## 1:     Heuristic rule (114)    13%    38%      0%
+## 2: Mechanistic belief (194)     9%    38%      4%
+## 3:        Astronomical (13)     0%    10%     94%
+## 4:         Calendrical (10)     0%    14%     97%
+## 5:          Indicator (101)     0%    14%     54%
+## 6:    Normative-social (24)     0%    28%     76%
+## 7:           Valuation (19)     0%    13%     63%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# The calendrical / astronomical claim, stated exactly {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{cal }\OtherTok{\textless{}{-}} \FunctionTok{ensemble\_by}\NormalTok{(}\StringTok{"epistemic\_type"}\NormalTok{)[}
+\NormalTok{  epistemic\_type }\SpecialCharTok{\%in\%} \FunctionTok{c}\NormalTok{(}\StringTok{"calendrical"}\NormalTok{, }\StringTok{"astronomical"}\NormalTok{)][, red }\SpecialCharTok{:}\ErrorTok{=} \DecValTok{1} \SpecialCharTok{{-}}\NormalTok{ share]}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Calendrical/astronomical: reducible in \%.0f\%\% of the 216 "}\NormalTok{,}
+                   \StringTok{"specifications per type (max reducible share \%.0f\%\%);}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+                   \StringTok{"every affected specification uses \%s.}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{mean}\NormalTok{(cal}\SpecialCharTok{$}\NormalTok{red }\SpecialCharTok{\textgreater{}} \DecValTok{0}\NormalTok{), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(cal}\SpecialCharTok{$}\NormalTok{red),}
+            \FunctionTok{paste}\NormalTok{(}\FunctionTok{unique}\NormalTok{(cal[red }\SpecialCharTok{\textgreater{}} \DecValTok{0}\NormalTok{, }\FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%s + \%s rule"}\NormalTok{, fam\_lab[provider],}
+\NormalTok{                                              prompt)]), }\AttributeTok{collapse =} \StringTok{", "}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Calendrical/astronomical: reducible in 5% of the 216 specifications per type (max reducible share 14%);
+## every affected specification uses DeepSeek-v4 + short rule.
+\end{verbatim}
+
+\hypertarget{results-2-no-narrow-framework-captures-most-of-it}{%
+\section{Results 2: no narrow framework captures most of
+it}\label{results-2-no-narrow-framework-captures-most-of-it}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# FIGURE 2 PANELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{n\_draws }\OtherTok{\textless{}{-}}\NormalTok{ draws[, .(}\AttributeTok{nd =} \FunctionTok{uniqueN}\NormalTok{(draw)), by }\OtherTok{=}\NormalTok{ .(family, phrasing, id\_cite)]}
+\NormalTok{counts }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(draws[, .(}\AttributeTok{k =} \FunctionTok{uniqueN}\NormalTok{(draw)),}
+                      \AttributeTok{by =}\NormalTok{ .(family, phrasing, id\_cite, f)],}
+\NormalTok{                n\_draws, }\AttributeTok{by =} \FunctionTok{c}\NormalTok{(}\StringTok{"family"}\NormalTok{, }\StringTok{"phrasing"}\NormalTok{, }\StringTok{"id\_cite"}\NormalTok{))}
+\NormalTok{counts }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(counts, dt[, .(id\_cite, site, domain\_short)], }\AttributeTok{by =} \StringTok{"id\_cite"}\NormalTok{)}
+
+\NormalTok{fgrid }\OtherTok{\textless{}{-}} \FunctionTok{CJ}\NormalTok{(}\AttributeTok{community =} \FunctionTok{c}\NormalTok{(}\StringTok{"none"}\NormalTok{, }\FunctionTok{unique}\NormalTok{(dt}\SpecialCharTok{$}\NormalTok{site)),}
+            \AttributeTok{domain =} \FunctionTok{c}\NormalTok{(}\StringTok{"none"}\NormalTok{, }\FunctionTok{unique}\NormalTok{(dt}\SpecialCharTok{$}\NormalTok{domain\_short)),}
+            \AttributeTok{family =}\NormalTok{ families, }\AttributeTok{phrasing =}\NormalTok{ phrasings,}
+            \AttributeTok{vote =} \FunctionTok{names}\NormalTok{(vote\_rules), }\AttributeTok{sorted =} \ConstantTok{FALSE}\NormalTok{)}
+
+\NormalTok{curves }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(}\FunctionTok{seq\_len}\NormalTok{(}\FunctionTok{nrow}\NormalTok{(fgrid)), }\ControlFlowTok{function}\NormalTok{(i) \{}
+\NormalTok{  g }\OtherTok{\textless{}{-}}\NormalTok{ fgrid[i]}
+\NormalTok{  keep }\OtherTok{\textless{}{-}}\NormalTok{ counts[family }\SpecialCharTok{==}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{family }\SpecialCharTok{\&}\NormalTok{ phrasing }\SpecialCharTok{==}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{phrasing }\SpecialCharTok{\&}
+\NormalTok{                   k }\SpecialCharTok{/}\NormalTok{ nd }\SpecialCharTok{\textgreater{}=}\NormalTok{ vote\_rules[[g}\SpecialCharTok{$}\NormalTok{vote]] }\SpecialCharTok{\&}
+\NormalTok{                   (g}\SpecialCharTok{$}\NormalTok{community }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{|}\NormalTok{ site }\SpecialCharTok{!=}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{community) }\SpecialCharTok{\&}
+\NormalTok{                   (g}\SpecialCharTok{$}\NormalTok{domain }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{|}\NormalTok{ domain\_short }\SpecialCharTok{!=}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{domain)]}
+  \ControlFlowTok{if}\NormalTok{ (}\SpecialCharTok{!}\FunctionTok{nrow}\NormalTok{(keep)) }\FunctionTok{return}\NormalTok{(}\ConstantTok{NULL}\NormalTok{)}
+\NormalTok{  m }\OtherTok{\textless{}{-}} \FunctionTok{dcast}\NormalTok{(}\FunctionTok{unique}\NormalTok{(keep[, .(id\_cite, f)]), id\_cite }\SpecialCharTok{\textasciitilde{}}\NormalTok{ f,}
+             \AttributeTok{fun.aggregate =}\NormalTok{ length, }\AttributeTok{value.var =} \StringTok{"f"}\NormalTok{)}
+\NormalTok{  mat }\OtherTok{\textless{}{-}} \FunctionTok{as.matrix}\NormalTok{(m[, }\SpecialCharTok{{-}}\DecValTok{1}\NormalTok{]); mat[mat }\SpecialCharTok{\textgreater{}} \DecValTok{0}\NormalTok{] }\OtherTok{\textless{}{-}} \DecValTok{1}
+\NormalTok{  s }\OtherTok{\textless{}{-}} \FunctionTok{svd}\NormalTok{(mat)}
+\NormalTok{  best }\OtherTok{\textless{}{-}} \FunctionTok{vapply}\NormalTok{(}\FunctionTok{seq\_len}\NormalTok{(}\FunctionTok{ncol}\NormalTok{(mat)), }\ControlFlowTok{function}\NormalTok{(k) \{}
+\NormalTok{    a }\OtherTok{\textless{}{-}}\NormalTok{ s}\SpecialCharTok{$}\NormalTok{u[, }\DecValTok{1}\SpecialCharTok{:}\NormalTok{k, drop }\OtherTok{=} \ConstantTok{FALSE}\NormalTok{] }\SpecialCharTok{\%*\%} \FunctionTok{diag}\NormalTok{(s}\SpecialCharTok{$}\NormalTok{d[}\DecValTok{1}\SpecialCharTok{:}\NormalTok{k], k, k) }\SpecialCharTok{\%*\%}
+      \FunctionTok{t}\NormalTok{(s}\SpecialCharTok{$}\NormalTok{v[, }\DecValTok{1}\SpecialCharTok{:}\NormalTok{k, }\AttributeTok{drop =} \ConstantTok{FALSE}\NormalTok{])}
+    \FunctionTok{mean}\NormalTok{(}\FunctionTok{rowSums}\NormalTok{(((a }\SpecialCharTok{\textgreater{}=} \FloatTok{0.5}\NormalTok{) }\SpecialCharTok{*} \DecValTok{1}\NormalTok{) }\SpecialCharTok{!=}\NormalTok{ mat) }\SpecialCharTok{==} \DecValTok{0}\NormalTok{)}
+\NormalTok{  \}, }\FunctionTok{numeric}\NormalTok{(}\DecValTok{1}\NormalTok{))}
+  \FunctionTok{data.table}\NormalTok{(}\AttributeTok{cell =}\NormalTok{ i, }\AttributeTok{phrasing =}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{phrasing, }\AttributeTok{k =} \FunctionTok{seq\_along}\NormalTok{(best), }\AttributeTok{exact =}\NormalTok{ best)}
+\NormalTok{\}))}
+
+\NormalTok{env }\OtherTok{\textless{}{-}}\NormalTok{ curves[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(exact), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(exact), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(exact)), by }\OtherTok{=}\NormalTok{ k]}
+\NormalTok{k90 }\OtherTok{\textless{}{-}}\NormalTok{ curves[exact }\SpecialCharTok{\textgreater{}=} \FloatTok{0.9}\NormalTok{, .(}\AttributeTok{k90 =} \FunctionTok{min}\NormalTok{(k)), by }\OtherTok{=}\NormalTok{ cell]}
+
+\CommentTok{\# Panel a: the recovery envelope {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{plot\_fun\_curve }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(env, }\FunctionTok{aes}\NormalTok{(k, med)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dotted"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey55"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_ribbon}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{ymin =}\NormalTok{ lo, }\AttributeTok{ymax =}\NormalTok{ hi), }\AttributeTok{fill =}\NormalTok{ col\_leg, }\AttributeTok{alpha =} \FloatTok{0.2}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{(}\AttributeTok{linewidth =} \FloatTok{0.5}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \FloatTok{1.1}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{breaks =} \FunctionTok{seq}\NormalTok{(}\DecValTok{2}\NormalTok{, }\DecValTok{12}\NormalTok{, }\DecValTok{2}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Functions retained"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Assumptions recovered"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\CommentTok{\# Panel b: how many functions are needed for 90\% {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{plot\_fun\_k90 }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(k90, }\FunctionTok{aes}\NormalTok{(}\FunctionTok{factor}\NormalTok{(k90))) }\SpecialCharTok{+}
+  \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{fill =}\NormalTok{ col\_irr, }\AttributeTok{width =} \FloatTok{0.7}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.06}\NormalTok{))) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Functions needed to recover 90\%"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Specifications"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\CommentTok{\# Panel c: Sobol\textquotesingle{} indices for the two quantities {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{ft }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_functions\_totals.csv"}\NormalTok{))}
+\NormalTok{ft }\OtherTok{\textless{}{-}}\NormalTok{ ft[quantity }\SpecialCharTok{\%in\%} \FunctionTok{c}\NormalTok{(}\StringTok{"loss"}\NormalTok{, }\StringTok{"k90"}\NormalTok{)]}
+\NormalTok{ft[, }\StringTok{\textasciigrave{}}\AttributeTok{:=}\StringTok{\textasciigrave{}}\NormalTok{(}\AttributeTok{quantity =} \FunctionTok{factor}\NormalTok{(quantity, }\AttributeTok{levels =} \FunctionTok{c}\NormalTok{(}\StringTok{"loss"}\NormalTok{, }\StringTok{"k90"}\NormalTok{),}
+                            \AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\StringTok{"Compression loss"}\NormalTok{,}
+                                       \StringTok{"Functions for 90\%"}\NormalTok{)),}
+          \AttributeTok{factor =} \FunctionTok{c}\NormalTok{(}\AttributeTok{community =} \StringTok{"Community"}\NormalTok{, }\AttributeTok{domain =} \StringTok{"Knowledge domain"}\NormalTok{,}
+                     \AttributeTok{family =} \StringTok{"LLM family"}\NormalTok{, }\AttributeTok{prompt =} \StringTok{"Prompt"}\NormalTok{,}
+                     \AttributeTok{phrasing =} \StringTok{"Phrasing"}\NormalTok{, }\AttributeTok{vote =} \StringTok{"Vote rule"}\NormalTok{)[factor])]}
+\NormalTok{ftl }\OtherTok{\textless{}{-}} \FunctionTok{melt}\NormalTok{(ft[, .(quantity, factor, }\AttributeTok{Si =}\NormalTok{ si\_first, }\AttributeTok{Ti =}\NormalTok{ ti)],}
+            \AttributeTok{id.vars =} \FunctionTok{c}\NormalTok{(}\StringTok{"quantity"}\NormalTok{, }\StringTok{"factor"}\NormalTok{))}
+
+\NormalTok{plot\_fun\_indices }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(ftl, }\FunctionTok{aes}\NormalTok{(}\FunctionTok{reorder}\NormalTok{(factor, value, max), value, }\AttributeTok{fill =}\NormalTok{ variable)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{, }\AttributeTok{position =} \FunctionTok{position\_dodge}\NormalTok{(}\FloatTok{0.6}\NormalTok{), }\AttributeTok{colour =} \StringTok{"black"}\NormalTok{,}
+           \AttributeTok{linewidth =} \FloatTok{0.2}\NormalTok{, }\AttributeTok{width =} \FloatTok{0.6}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{facet\_wrap}\NormalTok{(}\SpecialCharTok{\textasciitilde{}}\NormalTok{ quantity, }\AttributeTok{ncol =} \DecValTok{1}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{coord\_flip}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_manual}\NormalTok{(}\AttributeTok{name =} \StringTok{"Sobol\textquotesingle{} indices"}\NormalTok{,}
+                    \AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\AttributeTok{Si =} \StringTok{"\#F8766D"}\NormalTok{, }\AttributeTok{Ti =} \StringTok{"\#00BFC4"}\NormalTok{),}
+                    \AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\FunctionTok{expression}\NormalTok{(S[}\FunctionTok{italic}\NormalTok{(i)]), }\FunctionTok{expression}\NormalTok{(T[}\FunctionTok{italic}\NormalTok{(i)]))) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.05}\NormalTok{)),}
+                     \AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{3}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{""}\NormalTok{, }\AttributeTok{y =} \StringTok{"Sobol\textquotesingle{} index"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{"top"}\NormalTok{, }\AttributeTok{legend.key.size =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.3}\NormalTok{, }\StringTok{"cm"}\NormalTok{),}
+        \AttributeTok{legend.title =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{), }\AttributeTok{axis.text.y =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \FloatTok{5.8}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# THE COMPRESSION FRONTIER \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{fr }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"compression\_frontier.csv"}\NormalTok{))}
+
+\NormalTok{fr\_env }\OtherTok{\textless{}{-}}\NormalTok{ fr[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(best\_share), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(best\_share),}
+                 \AttributeTok{hi =} \FunctionTok{max}\NormalTok{(best\_share)), by }\OtherTok{=}\NormalTok{ k][, bound }\SpecialCharTok{:}\ErrorTok{=} \StringTok{"Best choice of k functions"}\NormalTok{]}
+\NormalTok{ce\_env }\OtherTok{\textless{}{-}}\NormalTok{ curves[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(exact), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(exact), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(exact)),}
+\NormalTok{                 by }\OtherTok{=}\NormalTok{ k][, bound }\SpecialCharTok{:}\ErrorTok{=} \StringTok{"Best summary of any kind"}\NormalTok{]}
+\NormalTok{env2 }\OtherTok{\textless{}{-}} \FunctionTok{rbind}\NormalTok{(fr\_env, ce\_env)}
+\NormalTok{env2[, bound }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(bound, }\AttributeTok{levels =} \FunctionTok{c}\NormalTok{(}\StringTok{"Best summary of any kind"}\NormalTok{,}
+                                         \StringTok{"Best choice of k functions"}\NormalTok{))]}
+
+\NormalTok{core\_med }\OtherTok{\textless{}{-}}\NormalTok{ fr[k }\SpecialCharTok{==} \DecValTok{2}\NormalTok{, }\FunctionTok{median}\NormalTok{(core\_share)]}
+\NormalTok{core\_is\_best }\OtherTok{\textless{}{-}}\NormalTok{ fr[k }\SpecialCharTok{==} \DecValTok{2}\NormalTok{, }\FunctionTok{mean}\NormalTok{(best\_set }\SpecialCharTok{==} \FunctionTok{sum}\NormalTok{(}\DecValTok{2}\SpecialCharTok{\^{}}\NormalTok{(}\FunctionTok{match}\NormalTok{(core2, funcs12) }\SpecialCharTok{{-}} \DecValTok{1}\NormalTok{)))]}
+
+\NormalTok{plot\_frontier }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(env2, }\FunctionTok{aes}\NormalTok{(k, med, }\AttributeTok{colour =}\NormalTok{ bound, }\AttributeTok{fill =}\NormalTok{ bound)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dotted"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey55"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_ribbon}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{ymin =}\NormalTok{ lo, }\AttributeTok{ymax =}\NormalTok{ hi), }\AttributeTok{alpha =} \FloatTok{0.18}\NormalTok{, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{(}\AttributeTok{linewidth =} \FloatTok{0.5}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \DecValTok{1}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_colour\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{Best summary of any kind}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"grey45"}\NormalTok{,}
+                                 \StringTok{\textasciigrave{}}\AttributeTok{Best choice of k functions}\StringTok{\textasciigrave{}} \OtherTok{=}\NormalTok{ col\_leg),}
+                      \AttributeTok{name =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{Best summary of any kind}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"grey45"}\NormalTok{,}
+                               \StringTok{\textasciigrave{}}\AttributeTok{Best choice of k functions}\StringTok{\textasciigrave{}} \OtherTok{=}\NormalTok{ col\_leg),}
+                    \AttributeTok{name =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{breaks =} \FunctionTok{seq}\NormalTok{(}\DecValTok{2}\NormalTok{, }\DecValTok{12}\NormalTok{, }\DecValTok{2}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \FunctionTok{bquote}\NormalTok{(}\FunctionTok{italic}\NormalTok{(k) }\SpecialCharTok{\textasciitilde{}} \StringTok{"functions retained"}\NormalTok{), }\AttributeTok{y =} \StringTok{"Assumptions represented"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.98}\NormalTok{, }\FloatTok{0.02}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{))}
+
+\CommentTok{\# Panel b: the order in which functions have to be added {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{ord }\OtherTok{\textless{}{-}}\NormalTok{ fr[, .(}\AttributeTok{f =} \FunctionTok{strsplit}\NormalTok{(best\_names, }\StringTok{"|"}\NormalTok{, }\AttributeTok{fixed =} \ConstantTok{TRUE}\NormalTok{)[[}\DecValTok{1}\NormalTok{]]), by }\OtherTok{=}\NormalTok{ .(cell, k)]}
+\NormalTok{ord }\OtherTok{\textless{}{-}}\NormalTok{ ord[, .(}\AttributeTok{share =}\NormalTok{ .N }\SpecialCharTok{/} \FunctionTok{uniqueN}\NormalTok{(fr}\SpecialCharTok{$}\NormalTok{cell)), by }\OtherTok{=}\NormalTok{ .(k, f)]}
+\NormalTok{ord[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(fun\_lab[f], }\AttributeTok{levels =} \FunctionTok{rev}\NormalTok{(fun\_lab[}\FunctionTok{c}\NormalTok{(core2,}
+      \FunctionTok{setdiff}\NormalTok{(}\FunctionTok{names}\NormalTok{(}\FunctionTok{sort}\NormalTok{(}\FunctionTok{tapply}\NormalTok{(ord}\SpecialCharTok{$}\NormalTok{share, ord}\SpecialCharTok{$}\NormalTok{f, sum), }\AttributeTok{decreasing =} \ConstantTok{TRUE}\NormalTok{)), core2))]))]}
+
+\NormalTok{plot\_order }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(ord, }\FunctionTok{aes}\NormalTok{(k, label, }\AttributeTok{fill =}\NormalTok{ share)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_tile}\NormalTok{(}\AttributeTok{colour =} \StringTok{"white"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_gradient}\NormalTok{(}\AttributeTok{low =} \StringTok{"grey92"}\NormalTok{, }\AttributeTok{high =}\NormalTok{ col\_irr, }\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(),}
+                      \AttributeTok{name =} \StringTok{""}\NormalTok{, }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{), }\AttributeTok{breaks =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.5}\NormalTok{, }\DecValTok{1}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{breaks =} \FunctionTok{seq}\NormalTok{(}\DecValTok{2}\NormalTok{, }\DecValTok{12}\NormalTok{, }\DecValTok{2}\NormalTok{), }\AttributeTok{expand =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{0}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \FunctionTok{bquote}\NormalTok{(}\FunctionTok{italic}\NormalTok{(k) }\SpecialCharTok{\textasciitilde{}} \StringTok{"functions retained"}\NormalTok{), }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{"right"}\NormalTok{, }\AttributeTok{legend.key.width =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.25}\NormalTok{, }\StringTok{"cm"}\NormalTok{))}
+
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Best pair recovers \%.0f\%\%; conventional pair \%.0f\%\%; conventional pair is best in \%.0f\%\% of cells}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \DecValTok{100} \SpecialCharTok{*}\NormalTok{ fr[k }\SpecialCharTok{==} \DecValTok{2}\NormalTok{, }\FunctionTok{median}\NormalTok{(best\_share)], }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ core\_med, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ core\_is\_best))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Best pair recovers 33%; conventional pair 33%; conventional pair is best in 87% of cells
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# MAIN FIGURE: THE COMPRESSION FRONTIER \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\FunctionTok{plot\_grid}\NormalTok{(plot\_frontier, plot\_order, }\AttributeTok{ncol =} \DecValTok{2}\NormalTok{, }\AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.44}\NormalTok{, }\FloatTok{0.56}\NormalTok{),}
+          \AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS6-frontier-1.pdf}
+\caption{Share of assumptions represented by an efficiency metric
+serving \(k\) functions across the \(1{,}080\) analytical
+specifications. a) Blue: the highest share reached by any choice of
+\(k\) functions, computed over all \(4{,}095\) subsets of the twelve. An
+assumption counts as represented when every function it serves is
+recorded. Grey: the highest share reached by any optimal
+\(k\)-dimensional summary (for instance, an efficiency framework that
+blends functions by weighting soil health and biodiversity together;
+Eckart-Young theorem). No representation with \(k\) dimensions can do
+better than the grey shade. The lines denote the median across
+specifications and the bands show the full range. The dotted line marks
+90\%. b) Order in which functions enter the best efficiency framework as
+\(k\) gets larger. The color gradation shows the share of the
+\(1{,}080\) analytical specifications in which the function belongs to
+the best set of \(k\) functions.}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# NUMBERS CITED IN RESULTS 2 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{fg }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_functions\_grid.csv"}\NormalTok{))}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Compression loss over \%d specifications: \%.0f\%\%{-}\%.0f\%\%, median \%.0f\%\%}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{nrow}\NormalTok{(fg), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(fg}\SpecialCharTok{$}\NormalTok{loss), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(fg}\SpecialCharTok{$}\NormalTok{loss),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(fg}\SpecialCharTok{$}\NormalTok{loss)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Compression loss over 1080 specifications: 27%-98%, median 67%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Efficiency core recovers: \%.0f\%\%{-}\%.0f\%\%, median \%.0f\%\%}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(fg}\SpecialCharTok{$}\NormalTok{core\_recovers), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(fg}\SpecialCharTok{$}\NormalTok{core\_recovers),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(fg}\SpecialCharTok{$}\NormalTok{core\_recovers)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Efficiency core recovers: 2%-73%, median 33%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Functions needed for 90\%\%: \%d{-}\%d, median \%d; \%.0f\%\% of specifications need \textgreater{}= 8}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{min}\NormalTok{(k90}\SpecialCharTok{$}\NormalTok{k90), }\FunctionTok{max}\NormalTok{(k90}\SpecialCharTok{$}\NormalTok{k90), }\FunctionTok{as.integer}\NormalTok{(}\FunctionTok{median}\NormalTok{(k90}\SpecialCharTok{$}\NormalTok{k90)),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{mean}\NormalTok{(k90}\SpecialCharTok{$}\NormalTok{k90 }\SpecialCharTok{\textgreater{}=} \DecValTok{8}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Functions needed for 90%: 3-9, median 7; 23% of specifications need >= 8
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{fi }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_functions\_indices\_loss.csv"}\NormalTok{))}
+\NormalTok{cc2 }\OtherTok{\textless{}{-}} \FunctionTok{closed\_index}\NormalTok{(fi, }\FunctionTok{c}\NormalTok{(}\StringTok{"community"}\NormalTok{, }\StringTok{"domain"}\NormalTok{))}
+\NormalTok{cr2 }\OtherTok{\textless{}{-}} \FunctionTok{closed\_index}\NormalTok{(fi, }\FunctionTok{c}\NormalTok{(}\StringTok{"family"}\NormalTok{, }\StringTok{"phrasing"}\NormalTok{, }\StringTok{"vote"}\NormalTok{))}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Compression loss {-}{-} corpus \%.3f | reading \%.3f | cross \%.3f}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+\NormalTok{            cc2, cr2, }\DecValTok{1} \SpecialCharTok{{-}}\NormalTok{ cc2 }\SpecialCharTok{{-}}\NormalTok{ cr2))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Compression loss -- corpus 0.040 | reading 0.944 | cross 0.017
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Cell means of the 3 x 3 design, quoted when the arms are compared {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{cells }\OtherTok{\textless{}{-}}\NormalTok{ fg[community }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{\&}\NormalTok{ domain }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{\&}\NormalTok{ vote }\SpecialCharTok{==} \StringTok{"majority"}\NormalTok{,}
+\NormalTok{            .(family, phrasing, }\AttributeTok{loss =} \FunctionTok{round}\NormalTok{(}\DecValTok{100} \SpecialCharTok{*}\NormalTok{ loss))]}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Compression loss by family and phrasing (full corpus, majority vote):}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Compression loss by family and phrasing (full corpus, majority vote):
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(}\FunctionTok{dcast}\NormalTok{(cells, family }\SpecialCharTok{\textasciitilde{}} \FunctionTok{factor}\NormalTok{(phrasing, }\AttributeTok{levels =}\NormalTok{ phrasings),}
+            \AttributeTok{value.var =} \StringTok{"loss"}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Key: <family>
+##       family strict standard broad
+##       <char>  <num>    <num> <num>
+## 1: anthropic     63       68    83
+## 2:  deepseek     50       54    64
+## 3:    openai     57       68    90
+\end{verbatim}
+
+\hypertarget{results-3-bundles}{%
+\section{Results 3: bundles}\label{results-3-bundles}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# FIGURE 4 PANELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{pfi }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"practice\_function\_incidence.csv"}\NormalTok{))}
+\NormalTok{fpc }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"function\_practice\_counts\_grid.csv"}\NormalTok{))}
+\NormalTok{lbg }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_ladder\_bundles\_grid.csv"}\NormalTok{))}
+
+\NormalTok{prac\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{flood\_irrigation =} \StringTok{"Flood irrigation"}\NormalTok{, }\AttributeTok{sky\_reading =} \StringTok{"Sky reading"}\NormalTok{,}
+              \AttributeTok{open\_channel =} \StringTok{"Open channel"}\NormalTok{, }\AttributeTok{tillage =} \StringTok{"Tillage"}\NormalTok{,}
+              \AttributeTok{turn\_exchange =} \StringTok{"Turn exchange"}\NormalTok{, }\AttributeTok{weed\_tolerance =} \StringTok{"Weed tolerance"}\NormalTok{,}
+              \AttributeTok{crop\_rotation =} \StringTok{"Crop rotation"}\NormalTok{, }\AttributeTok{mulching =} \StringTok{"Mulching"}\NormalTok{,}
+              \AttributeTok{ridge\_furrow =} \StringTok{"Ridge and furrow"}\NormalTok{, }\AttributeTok{plot\_leveling =} \StringTok{"Plot levelling"}\NormalTok{,}
+              \AttributeTok{channel\_cleaning =} \StringTok{"Channel cleaning"}\NormalTok{, }\AttributeTok{cover\_crop =} \StringTok{"Cover crop"}\NormalTok{)}
+
+\CommentTok{\# Panel a: how often each function is attributed to each practice {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{fun\_ord }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(core2, }\FunctionTok{setdiff}\NormalTok{(funcs12, core2))}
+\NormalTok{prac\_ord }\OtherTok{\textless{}{-}}\NormalTok{ pfi[, .(}\AttributeTok{tot =} \FunctionTok{sum}\NormalTok{(share)), by }\OtherTok{=}\NormalTok{ practice][}\FunctionTok{order}\NormalTok{(tot), practice]}
+\NormalTok{pfi[, f }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(fun\_lab[f], }\AttributeTok{levels =}\NormalTok{ fun\_lab[fun\_ord])]}
+\NormalTok{pfi[, practice }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(prac\_lab[practice], }\AttributeTok{levels =}\NormalTok{ prac\_lab[prac\_ord])]}
+
+\NormalTok{plot\_bundle\_heat }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(pfi, }\FunctionTok{aes}\NormalTok{(f, practice, }\AttributeTok{fill =}\NormalTok{ share)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_tile}\NormalTok{(}\AttributeTok{colour =} \StringTok{"white"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_vline}\NormalTok{(}\AttributeTok{xintercept =} \FloatTok{2.5}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey20"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_gradient}\NormalTok{(}\AttributeTok{low =} \StringTok{"grey94"}\NormalTok{, }\AttributeTok{high =} \StringTok{"grey15"}\NormalTok{, }\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(),}
+                      \AttributeTok{name =} \StringTok{""}\NormalTok{, }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{),}
+                      \AttributeTok{breaks =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.5}\NormalTok{, }\DecValTok{1}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Function"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Practice"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \FloatTok{5.5}\NormalTok{, }\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{),}
+        \AttributeTok{axis.text.y =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{),}
+        \AttributeTok{legend.position =} \StringTok{"right"}\NormalTok{, }\AttributeTok{legend.key.width =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.25}\NormalTok{, }\StringTok{"cm"}\NormalTok{))}
+
+\CommentTok{\# Panel b: how many practices carry each function {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{fp }\OtherTok{\textless{}{-}}\NormalTok{ fpc[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(n\_practices), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(n\_practices),}
+              \AttributeTok{hi =} \FunctionTok{max}\NormalTok{(n\_practices)), by }\OtherTok{=}\NormalTok{ f]}
+\NormalTok{fp[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(fun\_lab[f], }\AttributeTok{levels =}\NormalTok{ fun\_lab[fp[}\FunctionTok{order}\NormalTok{(med), f]])]}
+
+\NormalTok{plot\_bundle\_fun }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(fp, }\FunctionTok{aes}\NormalTok{(med, label)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_segment}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lo, }\AttributeTok{xend =}\NormalTok{ hi, }\AttributeTok{yend =}\NormalTok{ label), }\AttributeTok{colour =} \StringTok{"grey65"}\NormalTok{,}
+               \AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \FloatTok{1.5}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_irr) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{breaks =} \FunctionTok{seq}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{12}\NormalTok{, }\DecValTok{3}\NormalTok{), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{12}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Nº of practices"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Function"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.y =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{))}
+
+\CommentTok{\# Panel c: perceptual integration, the least stable quantity we report {-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{ind }\OtherTok{\textless{}{-}}\NormalTok{ lbg[}\SpecialCharTok{!}\FunctionTok{is.na}\NormalTok{(ind\_ge2\_vars), .(family, ind\_ge2\_vars)]}
+\NormalTok{ind[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(fam\_lab[family], }\AttributeTok{levels =}\NormalTok{ fam\_lab[families])]}
+\NormalTok{ind\_med }\OtherTok{\textless{}{-}}\NormalTok{ ind[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(ind\_ge2\_vars)), by }\OtherTok{=}\NormalTok{ label]}
+
+\NormalTok{plot\_bundle\_cue }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(ind, }\FunctionTok{aes}\NormalTok{(label, ind\_ge2\_vars)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_violin}\NormalTok{(}\AttributeTok{fill =}\NormalTok{ col\_leg, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{scale =} \StringTok{"width"}\NormalTok{,}
+              \AttributeTok{width =} \FloatTok{0.75}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ ind\_med, }\FunctionTok{aes}\NormalTok{(label, med), }\AttributeTok{size =} \FloatTok{1.5}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{),}
+                     \AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{4}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_discrete}\NormalTok{(}\AttributeTok{guide =} \FunctionTok{guide\_axis}\NormalTok{(}\AttributeTok{n.dodge =} \DecValTok{2}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{""}\NormalTok{, }\AttributeTok{y =} \StringTok{"Cues combining two}\SpecialCharTok{\textbackslash{}n}\StringTok{or more variables"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{plot\_grid}\NormalTok{(plot\_bundle\_heat }\SpecialCharTok{+} 
+            \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{"top"}\NormalTok{), }
+\NormalTok{          plot\_bundle\_fun, }\AttributeTok{ncol =} \DecValTok{1}\NormalTok{, }
+          \AttributeTok{rel\_heights =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.6}\NormalTok{, }\FloatTok{0.4}\NormalTok{), }\AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig2-bundles-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# NUMBERS CITED IN RESULTS 3 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{pc }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"practice\_function\_counts\_grid.csv"}\NormalTok{))}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"Functions per practice: median of the per{-}practice medians \%.0f}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{median}\NormalTok{(pc[, .(}\AttributeTok{m =} \FunctionTok{median}\NormalTok{(N)), }\AttributeTok{by =}\NormalTok{ practice]}\SpecialCharTok{$}\NormalTok{m)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Functions per practice: median of the per-practice medians 5
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Functions served by each practice (median [range]):}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Functions served by each practice (median [range]):
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(pc[, .(}\AttributeTok{median =} \FunctionTok{as.numeric}\NormalTok{(}\FunctionTok{median}\NormalTok{(N)),}
+             \AttributeTok{range =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%d{-}\%d"}\NormalTok{, }\FunctionTok{min}\NormalTok{(N), }\FunctionTok{max}\NormalTok{(N))),}
+         \AttributeTok{by =}\NormalTok{ practice][}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{median)])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##             practice median  range
+##               <char>  <num> <char>
+##  1: flood_irrigation     10   4-12
+##  2:   weed_tolerance      8   4-10
+##  3:     open_channel      8   2-10
+##  4:         mulching      6    2-7
+##  5:       cover_crop      5    2-9
+##  6:     ridge_furrow      5    2-7
+##  7:    turn_exchange      5    3-7
+##  8:      sky_reading      4   1-10
+##  9:    crop_rotation      4    1-9
+## 10:          tillage      4    2-7
+## 11: channel_cleaning      4    1-7
+## 12:    plot_leveling      3    2-7
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Practices carrying each function (median [range]):}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Practices carrying each function (median [range]):
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(fpc[, .(}\AttributeTok{median =} \FunctionTok{as.numeric}\NormalTok{(}\FunctionTok{median}\NormalTok{(n\_practices)),}
+              \AttributeTok{range =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%d{-}\%d"}\NormalTok{, }\FunctionTok{min}\NormalTok{(n\_practices), }\FunctionTok{max}\NormalTok{(n\_practices))),}
+          \AttributeTok{by =}\NormalTok{ f][}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{median)])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                           f median  range
+##                      <char>  <num> <char>
+##  1:         crop_production     12   8-12
+##  2:      water_conservation     12   8-12
+##  3:         risk_management      9   2-12
+##  4:             soil_health      9   3-12
+##  5:            biodiversity      5    1-9
+##  6: microclimate_regulation      4    0-8
+##  7:         social_cohesion      4    0-6
+##  8:    groundwater_recharge      3    0-9
+##  9:               livestock      3    0-5
+## 10:            pest_control      3    1-7
+## 11:          medicinal_food      1    0-4
+## 12:    recreation_wellbeing      1    0-3
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Functions resting on a single practice: median \%.0f (range \%.0f{-}\%.0f)}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{median}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{functions\_single\_practice), }\FunctionTok{min}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{functions\_single\_practice),}
+            \FunctionTok{max}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{functions\_single\_practice)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Functions resting on a single practice: median 2 (range 0-5)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Cues combining \textgreater{}= 2 variables: median \%.0f\%\% (\%.0f{-}\%.0f\%\%)}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{ind\_ge2\_vars, }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{ind\_ge2\_vars, }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{ind\_ge2\_vars, }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Cues combining >= 2 variables: median 34% (17-84%)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(ind[, .(}\AttributeTok{median =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(ind\_ge2\_vars)),}
+              \AttributeTok{range =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f{-}\%.0f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(ind\_ge2\_vars),}
+                              \DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(ind\_ge2\_vars))), }\AttributeTok{by =}\NormalTok{ label])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##          label median  range
+##         <fctr> <char> <char>
+## 1:      Claude    70% 44-84%
+## 2:     GPT-5.4    27% 18-37%
+## 3: DeepSeek-v4    33% 17-40%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Distinct variables tracked: median \%.0f (\%.0f{-}\%.0f)}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{median}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{n\_distinct\_vars), }\FunctionTok{min}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{n\_distinct\_vars),}
+            \FunctionTok{max}\NormalTok{(lbg}\SpecialCharTok{$}\NormalTok{n\_distinct\_vars)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Distinct variables tracked: median 17 (11-24)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Corpus composition versus reading, for the bundle quantities {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{bt }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sobol\_ladder\_bundles\_totals.csv"}\NormalTok{))}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{First{-} and total{-}order indices for the bundle quantities:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## First- and total-order indices for the bundle quantities:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(bt[quantity }\SpecialCharTok{!=} \StringTok{"rung2"}\NormalTok{][}\FunctionTok{order}\NormalTok{(quantity, }\SpecialCharTok{{-}}\NormalTok{ti),}
+\NormalTok{         .(quantity, factor, }\AttributeTok{Si =} \FunctionTok{round}\NormalTok{(si, }\DecValTok{3}\NormalTok{), }\AttributeTok{Ti =} \FunctionTok{round}\NormalTok{(ti, }\DecValTok{3}\NormalTok{))])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                  quantity    factor    Si    Ti
+##                    <char>    <char> <num> <num>
+##  1:  fun_per_practice_med    family 0.540 0.650
+##  2:  fun_per_practice_med  phrasing 0.167 0.244
+##  3:  fun_per_practice_med      vote 0.094 0.164
+##  4:  fun_per_practice_med    domain 0.049 0.112
+##  5:  fun_per_practice_med community 0.010 0.055
+##  6:          ind_ge2_vars    family 0.880 0.932
+##  7:          ind_ge2_vars    domain 0.012 0.057
+##  8:          ind_ge2_vars  phrasing 0.046 0.057
+##  9:          ind_ge2_vars community 0.008 0.012
+## 10:          ind_ge2_vars      vote 0.000 0.000
+## 11: prac_per_function_med    family 0.527 0.627
+## 12: prac_per_function_med  phrasing 0.206 0.307
+## 13: prac_per_function_med      vote 0.083 0.138
+## 14: prac_per_function_med    domain 0.041 0.089
+## 15: prac_per_function_med community 0.007 0.052
+\end{verbatim}
+
+\hypertarget{supplementary-materials}{%
+\section{Supplementary Materials}\label{supplementary-materials}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SUPPLEMENTARY FIGURE INPUTS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\CommentTok{\# Study sites {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{locations }\OtherTok{\textless{}{-}} \FunctionTok{data.table}\NormalTok{(}
+  \AttributeTok{place =} \FunctionTok{c}\NormalTok{(}\StringTok{"Dúrcal"}\NormalTok{, }\StringTok{"Huétor{-}Tájar"}\NormalTok{, }\StringTok{"Murcia"}\NormalTok{, }\StringTok{"Ricote"}\NormalTok{, }\StringTok{"Sudanell"}\NormalTok{,}
+            \StringTok{"Arriate"}\NormalTok{, }\StringTok{"Oria"}\NormalTok{),}
+  \AttributeTok{lon =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{3.5694}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{4.0439}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.1307}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.4361}\NormalTok{, }\FloatTok{0.6011}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{5.0606}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{2.2731}\NormalTok{),}
+  \AttributeTok{lat =} \FunctionTok{c}\NormalTok{(}\FloatTok{37.0022}\NormalTok{, }\FloatTok{37.1964}\NormalTok{, }\FloatTok{37.9922}\NormalTok{, }\FloatTok{38.0714}\NormalTok{, }\FloatTok{41.5261}\NormalTok{, }\FloatTok{36.7914}\NormalTok{, }\FloatTok{37.5225}\NormalTok{))}
+\NormalTok{spain }\OtherTok{\textless{}{-}} \FunctionTok{ne\_countries}\NormalTok{(}\AttributeTok{scale =} \StringTok{"medium"}\NormalTok{, }\AttributeTok{country =} \StringTok{"Spain"}\NormalTok{, }\AttributeTok{returnclass =} \StringTok{"sf"}\NormalTok{)}
+
+\CommentTok{\# Label{-}free semantic witness {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{emb }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"emb\_efficiency\_distance.csv"}\NormalTok{))}
+\NormalTok{lexm }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"emb\_projection\_meta.csv"}\NormalTok{))}
+\NormalTok{scree }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"emb\_scree.csv"}\NormalTok{))}
+\NormalTok{summ }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"emb\_witness\_summary.csv"}\NormalTok{))}
+\NormalTok{meta\_ids }\OtherTok{\textless{}{-}} \FunctionTok{as.data.table}\NormalTok{(}\FunctionTok{read\_xlsx}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"datasets"}\NormalTok{, }\StringTok{"inputs"}\NormalTok{,}
+                                         \StringTok{"assumption\_list\_updated.xlsx"}\NormalTok{)))}
+\FunctionTok{setnames}\NormalTok{(meta\_ids, }\FunctionTok{tolower}\NormalTok{(}\FunctionTok{names}\NormalTok{(meta\_ids)))}
+\NormalTok{demb }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(emb, meta\_ids[, .(}\AttributeTok{id =} \FunctionTok{as.integer}\NormalTok{(our\_id), id\_cite)], }\AttributeTok{by =} \StringTok{"id"}\NormalTok{)}
+
+\NormalTok{lab\_grid }\OtherTok{\textless{}{-}} \FunctionTok{CJ}\NormalTok{(}\AttributeTok{prompt =} \FunctionTok{unique}\NormalTok{(bin}\SpecialCharTok{$}\NormalTok{prompt), }\AttributeTok{provider =} \FunctionTok{unique}\NormalTok{(bin}\SpecialCharTok{$}\NormalTok{provider),}
+               \AttributeTok{vote =} \FunctionTok{names}\NormalTok{(vote\_rules), }\AttributeTok{sorted =} \ConstantTok{FALSE}\NormalTok{)}
+\NormalTok{consensus }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(}\FunctionTok{seq\_len}\NormalTok{(}\FunctionTok{nrow}\NormalTok{(lab\_grid)), }\ControlFlowTok{function}\NormalTok{(i) \{}
+\NormalTok{  g }\OtherTok{\textless{}{-}}\NormalTok{ lab\_grid[i]}
+\NormalTok{  bin[prompt }\SpecialCharTok{==}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{prompt }\SpecialCharTok{\&}\NormalTok{ provider }\SpecialCharTok{==}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{provider,}
+\NormalTok{      .(}\AttributeTok{irr =} \FunctionTok{mean}\NormalTok{(}\SpecialCharTok{!}\NormalTok{legible) }\SpecialCharTok{\textgreater{}=}\NormalTok{ vote\_rules[[g}\SpecialCharTok{$}\NormalTok{vote]]), by }\OtherTok{=}\NormalTok{ id\_cite]}
+\NormalTok{\}))[, .(}\AttributeTok{share\_irr =} \FunctionTok{mean}\NormalTok{(irr)), by }\OtherTok{=}\NormalTok{ id\_cite]}
+
+\NormalTok{demb }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(demb, consensus, }\AttributeTok{by =} \StringTok{"id\_cite"}\NormalTok{)}
+\NormalTok{demb[, code }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{fifelse}\NormalTok{(share\_irr }\SpecialCharTok{\textgreater{}} \FloatTok{0.5}\NormalTok{, }\StringTok{"Irreducible"}\NormalTok{, }\StringTok{"Reducible"}\NormalTok{)]}
+
+\NormalTok{reducible }\OtherTok{\textless{}{-}}\NormalTok{ demb}\SpecialCharTok{$}\NormalTok{code }\SpecialCharTok{==} \StringTok{"Reducible"}
+\NormalTok{auc\_val }\OtherTok{\textless{}{-}} \FunctionTok{local}\NormalTok{(\{}
+\NormalTok{  r }\OtherTok{\textless{}{-}} \FunctionTok{rank}\NormalTok{(demb}\SpecialCharTok{$}\NormalTok{sim\_centroid)}
+\NormalTok{  (}\FunctionTok{sum}\NormalTok{(r[reducible]) }\SpecialCharTok{{-}} \FunctionTok{sum}\NormalTok{(reducible) }\SpecialCharTok{*}\NormalTok{ (}\FunctionTok{sum}\NormalTok{(reducible) }\SpecialCharTok{+} \DecValTok{1}\NormalTok{) }\SpecialCharTok{/} \DecValTok{2}\NormalTok{) }\SpecialCharTok{/}
+\NormalTok{    (}\FunctionTok{sum}\NormalTok{(reducible) }\SpecialCharTok{*} \FunctionTok{sum}\NormalTok{(}\SpecialCharTok{!}\NormalTok{reducible))}
+\NormalTok{\})}
+\NormalTok{auc\_spec }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"embedding\_auc.csv"}\NormalTok{))}
+\NormalTok{auc\_lab }\OtherTok{\textless{}{-}} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"AUC = \%.2f}\SpecialCharTok{\textbackslash{}n}\StringTok{[\%.2f{-}\%.2f]"}\NormalTok{, }\FunctionTok{median}\NormalTok{(auc\_spec}\SpecialCharTok{$}\NormalTok{auc),}
+                   \FunctionTok{min}\NormalTok{(auc\_spec}\SpecialCharTok{$}\NormalTok{auc), }\FunctionTok{max}\NormalTok{(auc\_spec}\SpecialCharTok{$}\NormalTok{auc))}
+\NormalTok{pc90 }\OtherTok{\textless{}{-}}\NormalTok{ summ}\SpecialCharTok{$}\NormalTok{pcs\_for\_90pct\_variance}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"AUC \%.2f | Wilcoxon p \%.1e | \%d of 384 components for 90\%\% variance}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+\NormalTok{            auc\_val, }\FunctionTok{wilcox.test}\NormalTok{(sim\_centroid }\SpecialCharTok{\textasciitilde{}}\NormalTok{ code, }\AttributeTok{data =}\NormalTok{ demb)}\SpecialCharTok{$}\NormalTok{p.value, pc90))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## AUC 0.75 | Wilcoxon p 3.4e-06 | 73 of 384 components for 90% variance
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SM FIGURE: STUDY SITES \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\FunctionTok{ggplot}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_sf}\NormalTok{(}\AttributeTok{data =}\NormalTok{ spain, }\AttributeTok{fill =} \StringTok{"\#f5f0e8"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#aaaaaa"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ locations, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat), }\AttributeTok{shape =} \DecValTok{21}\NormalTok{,}
+             \AttributeTok{fill =} \StringTok{"\#c0392b"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"white"}\NormalTok{, }\AttributeTok{size =} \DecValTok{3}\NormalTok{, }\AttributeTok{stroke =} \FloatTok{0.7}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_text\_repel}\NormalTok{(}\AttributeTok{data =}\NormalTok{ locations, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat, }\AttributeTok{label =}\NormalTok{ place),}
+                  \AttributeTok{size =} \FloatTok{2.6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#222222"}\NormalTok{, }\AttributeTok{box.padding =} \FloatTok{0.5}\NormalTok{,}
+                  \AttributeTok{point.padding =} \FloatTok{0.3}\NormalTok{, }\AttributeTok{segment.colour =} \StringTok{"\#888888"}\NormalTok{,}
+                  \AttributeTok{segment.linewidth =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{min.segment.length =} \FloatTok{0.2}\NormalTok{,}
+                  \AttributeTok{max.overlaps =} \ConstantTok{Inf}\NormalTok{, }\AttributeTok{seed =} \DecValTok{42}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{coord\_sf}\NormalTok{(}\AttributeTok{xlim =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{9.5}\NormalTok{, }\FloatTok{4.5}\NormalTok{), }\AttributeTok{ylim =} \FunctionTok{c}\NormalTok{(}\FloatTok{35.5}\NormalTok{, }\FloatTok{44.5}\NormalTok{), }\AttributeTok{expand =} \ConstantTok{FALSE}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \ConstantTok{NULL}\NormalTok{, }\AttributeTok{y =} \ConstantTok{NULL}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{panel.background =} \FunctionTok{element\_rect}\NormalTok{(}\AttributeTok{fill =} \StringTok{"\#dce8f0"}\NormalTok{, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{),}
+        \AttributeTok{panel.grid =} \FunctionTok{element\_line}\NormalTok{(}\AttributeTok{colour =} \StringTok{"\#cccccc"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.2}\NormalTok{),}
+        \AttributeTok{axis.text =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#555555"}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning in geom_text_repel(data = locations, aes(x = lon, y = lat, label =
+## place), : Ignoring unknown parameters: `segment.linewidth`
+\end{verbatim}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS1-map-1.pdf}
+\caption{Location of the seven traditional irrigation communities
+interviewed in Spain.}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# MAIN FIGURE 1 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\FunctionTok{plot\_grid}\NormalTok{(plot\_sob\_a, plot\_sob\_b, plot\_sob\_c, }\AttributeTok{ncol =} \DecValTok{3}\NormalTok{,}
+          \AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.32}\NormalTok{, }\FloatTok{0.31}\NormalTok{, }\FloatTok{0.37}\NormalTok{), }\AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS2-sobol-1.pdf}
+\caption{Uncertainty and sensitivity analysis of the irreducible share
+across the \(1{,}080\) specifications. a) Distribution of the
+irreducible share, coloured by vote rule. b) Sobol' indices: the
+first-order index (\(S_i\)) is the share of the variance a factor
+explains on its own, the total-order index (\(T_i\)) the share it
+explains together with its interactions with all other factors. c)
+Second-order indices (\(S_{ij}\)), the share of the variance explained
+by each pair of factors.}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SM FIGURE: LABEL{-}FREE SEMANTIC WITNESS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{col\_code }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{Irreducible =}\NormalTok{ col\_irr, }\AttributeTok{Reducible =}\NormalTok{ col\_leg)}
+
+\NormalTok{plot\_emb\_map }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(demb, }\FunctionTok{aes}\NormalTok{(pc1, pc2, }\AttributeTok{colour =}\NormalTok{ code)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \FloatTok{0.7}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.6}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ lexm, }\FunctionTok{aes}\NormalTok{(pc1, pc2), }\AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{, }\AttributeTok{shape =} \DecValTok{8}\NormalTok{,}
+             \AttributeTok{size =} \FloatTok{2.8}\NormalTok{, }\AttributeTok{stroke =} \DecValTok{1}\NormalTok{, }\AttributeTok{colour =} \StringTok{"black"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{annotate}\NormalTok{(}\StringTok{"label"}\NormalTok{, }\AttributeTok{x =}\NormalTok{ lexm}\SpecialCharTok{$}\NormalTok{pc1 }\SpecialCharTok{{-}} \FloatTok{0.04}\NormalTok{, }\AttributeTok{y =}\NormalTok{ lexm}\SpecialCharTok{$}\NormalTok{pc2 }\SpecialCharTok{{-}} \FloatTok{0.12}\NormalTok{,}
+           \AttributeTok{label =} \StringTok{"efficiency}\SpecialCharTok{\textbackslash{}n}\StringTok{lexicon"}\NormalTok{, }\AttributeTok{size =} \DecValTok{2}\NormalTok{, }\AttributeTok{hjust =} \FloatTok{0.5}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{,}
+           \AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{fill =} \StringTok{"white"}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.85}\NormalTok{, }\AttributeTok{label.size =} \DecValTok{0}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_colour\_manual}\NormalTok{(}\StringTok{""}\NormalTok{, }\AttributeTok{values =}\NormalTok{ col\_code) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Semantic axis 1"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Semantic axis 2"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.98}\NormalTok{, }\FloatTok{0.98}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{),}
+        \AttributeTok{legend.background =} \FunctionTok{element\_rect}\NormalTok{(}\AttributeTok{fill =} \StringTok{"white"}\NormalTok{, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning in annotate("label", x = lexm$pc1 - 0.04, y = lexm$pc2 - 0.12, label =
+## "efficiency\nlexicon", : Ignoring unknown parameters: `label.size`
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{plot\_emb\_sim }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(demb, }\FunctionTok{aes}\NormalTok{(sim\_centroid, }\AttributeTok{fill =}\NormalTok{ code, }\AttributeTok{colour =}\NormalTok{ code)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_density}\NormalTok{(}\AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{adjust =} \FloatTok{1.1}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_manual}\NormalTok{(}\StringTok{""}\NormalTok{, }\AttributeTok{values =}\NormalTok{ col\_code) }\SpecialCharTok{+}
+  \FunctionTok{scale\_colour\_manual}\NormalTok{(}\StringTok{""}\NormalTok{, }\AttributeTok{values =}\NormalTok{ col\_code) }\SpecialCharTok{+}
+  \FunctionTok{annotate}\NormalTok{(}\StringTok{"text"}\NormalTok{, }\AttributeTok{x =} \SpecialCharTok{{-}}\FloatTok{0.02}\NormalTok{, }\AttributeTok{y =} \FloatTok{3.7}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{0}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{, }\AttributeTok{size =} \FloatTok{2.3}\NormalTok{,}
+           \AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{label =}\NormalTok{ auc\_lab) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Cosine similarity to the efficiency lexicon"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Density"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{"none"}\NormalTok{)}
+
+\NormalTok{plot\_emb\_scree }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(scree, }\FunctionTok{aes}\NormalTok{(pc, cum\_var)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dotted"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey55"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{(}\AttributeTok{linewidth =} \FloatTok{0.5}\NormalTok{, }\AttributeTok{colour =}\NormalTok{ col\_leg) }\SpecialCharTok{+}
+  \FunctionTok{geom\_vline}\NormalTok{(}\AttributeTok{xintercept =}\NormalTok{ pc90, }\AttributeTok{linetype =} \StringTok{"dashed"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey40"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Principal components"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Cumulative variance"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\FunctionTok{plot\_grid}\NormalTok{(plot\_emb\_map, plot\_emb\_sim, plot\_emb\_scree, }\AttributeTok{ncol =} \DecValTok{3}\NormalTok{, }\AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS3-embedding-1.pdf}
+\caption{The label-free check. a) Principal Component Analysis (PCA) of
+the 475 vectors (one per assumption) against the first two dimensions of
+the analysis. The position of the efficiency lexicon vector is shown by
+the star. b) Cosine similarity of each assumption to the efficiency
+lexicon vector. AUC is the area under the curve, the probability that a
+reducible assumption lies closer to the lexicon than an irreducible one,
+where 0.5 is chance. c) Cumulative share of variance against components
+retained. The dashed line is at 73, the number of components needed to
+reach 90\% of the variance (dotted line).}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# DIMENSIONALITY OF THE CORPUS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{cell\_dim }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(i) \{}
+\NormalTok{  g }\OtherTok{\textless{}{-}}\NormalTok{ fgrid[i]}
+\NormalTok{  keep }\OtherTok{\textless{}{-}}\NormalTok{ counts[family }\SpecialCharTok{==}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{family }\SpecialCharTok{\&}\NormalTok{ phrasing }\SpecialCharTok{==}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{phrasing }\SpecialCharTok{\&}
+\NormalTok{                   k }\SpecialCharTok{/}\NormalTok{ nd }\SpecialCharTok{\textgreater{}=}\NormalTok{ vote\_rules[[g}\SpecialCharTok{$}\NormalTok{vote]] }\SpecialCharTok{\&}
+\NormalTok{                   (g}\SpecialCharTok{$}\NormalTok{community }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{|}\NormalTok{ site }\SpecialCharTok{!=}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{community) }\SpecialCharTok{\&}
+\NormalTok{                   (g}\SpecialCharTok{$}\NormalTok{domain }\SpecialCharTok{==} \StringTok{"none"} \SpecialCharTok{|}\NormalTok{ domain\_short }\SpecialCharTok{!=}\NormalTok{ g}\SpecialCharTok{$}\NormalTok{domain)]}
+  \ControlFlowTok{if}\NormalTok{ (}\SpecialCharTok{!}\FunctionTok{nrow}\NormalTok{(keep)) }\FunctionTok{return}\NormalTok{(}\ConstantTok{NULL}\NormalTok{)}
+\NormalTok{  m }\OtherTok{\textless{}{-}} \FunctionTok{dcast}\NormalTok{(}\FunctionTok{unique}\NormalTok{(keep[, .(id\_cite, f)]), id\_cite }\SpecialCharTok{\textasciitilde{}}\NormalTok{ f,}
+             \AttributeTok{fun.aggregate =}\NormalTok{ length, }\AttributeTok{value.var =} \StringTok{"f"}\NormalTok{)}
+\NormalTok{  mat }\OtherTok{\textless{}{-}} \FunctionTok{as.matrix}\NormalTok{(m[, }\SpecialCharTok{{-}}\DecValTok{1}\NormalTok{]); mat[mat }\SpecialCharTok{\textgreater{}} \DecValTok{0}\NormalTok{] }\OtherTok{\textless{}{-}} \DecValTok{1}
+\NormalTok{  s }\OtherTok{\textless{}{-}} \FunctionTok{svd}\NormalTok{(mat)}
+\NormalTok{  p }\OtherTok{\textless{}{-}}\NormalTok{ s}\SpecialCharTok{$}\NormalTok{d}\SpecialCharTok{\^{}}\DecValTok{2} \SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(s}\SpecialCharTok{$}\NormalTok{d}\SpecialCharTok{\^{}}\DecValTok{2}\NormalTok{)}
+\NormalTok{  recover }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(k) \{}
+\NormalTok{    a }\OtherTok{\textless{}{-}}\NormalTok{ s}\SpecialCharTok{$}\NormalTok{u[, }\DecValTok{1}\SpecialCharTok{:}\NormalTok{k, drop }\OtherTok{=} \ConstantTok{FALSE}\NormalTok{] }\SpecialCharTok{\%*\%} \FunctionTok{diag}\NormalTok{(s}\SpecialCharTok{$}\NormalTok{d[}\DecValTok{1}\SpecialCharTok{:}\NormalTok{k], k, k) }\SpecialCharTok{\%*\%}
+      \FunctionTok{t}\NormalTok{(s}\SpecialCharTok{$}\NormalTok{v[, }\DecValTok{1}\SpecialCharTok{:}\NormalTok{k, }\AttributeTok{drop =} \ConstantTok{FALSE}\NormalTok{])}
+    \FunctionTok{rowSums}\NormalTok{(((a }\SpecialCharTok{\textgreater{}=} \FloatTok{0.5}\NormalTok{) }\SpecialCharTok{*} \DecValTok{1}\NormalTok{) }\SpecialCharTok{!=}\NormalTok{ mat) }\SpecialCharTok{==} \DecValTok{0}
+\NormalTok{  \}}
+\NormalTok{  ok2 }\OtherTok{\textless{}{-}} \FunctionTok{recover}\NormalTok{(}\DecValTok{2}\NormalTok{)}
+
+\NormalTok{  present\_core }\OtherTok{\textless{}{-}} \FunctionTok{intersect}\NormalTok{(core2, }\FunctionTok{colnames}\NormalTok{(mat))}
+\NormalTok{  nnon }\OtherTok{\textless{}{-}} \FunctionTok{rowSums}\NormalTok{(mat[, }\FunctionTok{setdiff}\NormalTok{(}\FunctionTok{colnames}\NormalTok{(mat), core2), }\AttributeTok{drop =} \ConstantTok{FALSE}\NormalTok{])}
+\NormalTok{  cls }\OtherTok{\textless{}{-}} \FunctionTok{factor}\NormalTok{(}\FunctionTok{fifelse}\NormalTok{(nnon }\SpecialCharTok{\textgreater{}=}\NormalTok{ 2L, }\StringTok{"two or more"}\NormalTok{, }\FunctionTok{as.character}\NormalTok{(nnon)),}
+                \AttributeTok{levels =} \FunctionTok{c}\NormalTok{(}\StringTok{"0"}\NormalTok{, }\StringTok{"1"}\NormalTok{, }\StringTok{"two or more"}\NormalTok{))}
+\NormalTok{  cliff }\OtherTok{\textless{}{-}} \FunctionTok{data.table}\NormalTok{(}\AttributeTok{cell =}\NormalTok{ i, }\AttributeTok{nnon =}\NormalTok{ cls, }\AttributeTok{ok =}\NormalTok{ ok2)[}
+\NormalTok{    , .(}\AttributeTok{n =}\NormalTok{ .N, }\AttributeTok{share =} \FunctionTok{mean}\NormalTok{(ok)), by }\OtherTok{=}\NormalTok{ .(cell, nnon)]}
+
+\NormalTok{  core\_mass }\OtherTok{\textless{}{-}} \ControlFlowTok{if}\NormalTok{ (}\FunctionTok{length}\NormalTok{(present\_core)) }\FunctionTok{sum}\NormalTok{(s}\SpecialCharTok{$}\NormalTok{v[}\FunctionTok{match}\NormalTok{(present\_core, }\FunctionTok{colnames}\NormalTok{(mat)), }\DecValTok{1}\NormalTok{]}\SpecialCharTok{\^{}}\DecValTok{2}\NormalTok{) }\ControlFlowTok{else} \ConstantTok{NA\_real\_}
+
+  \FunctionTok{list}\NormalTok{(}\AttributeTok{scalar =} \FunctionTok{data.table}\NormalTok{(}\AttributeTok{cell =}\NormalTok{ i, }\AttributeTok{n\_fun =} \FunctionTok{ncol}\NormalTok{(mat),}
+                           \AttributeTok{pr =} \DecValTok{1} \SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(p}\SpecialCharTok{\^{}}\DecValTok{2}\NormalTok{),}
+                           \AttributeTok{shannon =} \FunctionTok{exp}\NormalTok{(}\SpecialCharTok{{-}}\FunctionTok{sum}\NormalTok{(p }\SpecialCharTok{*} \FunctionTok{log}\NormalTok{(p }\SpecialCharTok{+} \FloatTok{1e{-}300}\NormalTok{))),}
+                           \AttributeTok{k90\_spec =} \FunctionTok{which}\NormalTok{(}\FunctionTok{cumsum}\NormalTok{(p) }\SpecialCharTok{\textgreater{}=} \FloatTok{0.90}\NormalTok{)[}\DecValTok{1}\NormalTok{],}
+                           \AttributeTok{pc1 =}\NormalTok{ p[}\DecValTok{1}\NormalTok{], }\AttributeTok{pc1\_core\_mass =}\NormalTok{ core\_mass,}
+                           \AttributeTok{r1 =} \FunctionTok{mean}\NormalTok{(}\FunctionTok{recover}\NormalTok{(}\DecValTok{1}\NormalTok{)), }\AttributeTok{r2 =} \FunctionTok{mean}\NormalTok{(ok2),}
+                           \AttributeTok{r4 =} \FunctionTok{mean}\NormalTok{(}\FunctionTok{recover}\NormalTok{(}\DecValTok{4}\NormalTok{))),}
+       \AttributeTok{cliff =}\NormalTok{ cliff,}
+       \AttributeTok{spectrum =} \FunctionTok{data.table}\NormalTok{(}\AttributeTok{cell =}\NormalTok{ i, }\AttributeTok{pc =} \FunctionTok{seq\_along}\NormalTok{(p), }\AttributeTok{cum\_var =} \FunctionTok{cumsum}\NormalTok{(p)))}
+\NormalTok{\}}
+\NormalTok{dim\_raw }\OtherTok{\textless{}{-}} \FunctionTok{lapply}\NormalTok{(}\FunctionTok{seq\_len}\NormalTok{(}\FunctionTok{nrow}\NormalTok{(fgrid)), cell\_dim)}
+\NormalTok{dim\_raw }\OtherTok{\textless{}{-}}\NormalTok{ dim\_raw[}\SpecialCharTok{!}\FunctionTok{vapply}\NormalTok{(dim\_raw, is.null, }\FunctionTok{logical}\NormalTok{(}\DecValTok{1}\NormalTok{))]}
+\NormalTok{dimen }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(dim\_raw, }\StringTok{\textasciigrave{}}\AttributeTok{[[}\StringTok{\textasciigrave{}}\NormalTok{, }\StringTok{"scalar"}\NormalTok{))}
+\NormalTok{cliff }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(dim\_raw, }\StringTok{\textasciigrave{}}\AttributeTok{[[}\StringTok{\textasciigrave{}}\NormalTok{, }\StringTok{"cliff"}\NormalTok{))}
+\NormalTok{spectrum }\OtherTok{\textless{}{-}} \FunctionTok{rbindlist}\NormalTok{(}\FunctionTok{lapply}\NormalTok{(dim\_raw, }\StringTok{\textasciigrave{}}\AttributeTok{[[}\StringTok{\textasciigrave{}}\NormalTok{, }\StringTok{"spectrum"}\NormalTok{))}
+\NormalTok{dimen }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(dimen, k90, }\AttributeTok{by =} \StringTok{"cell"}\NormalTok{)}
+
+\NormalTok{rng }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(x, }\AttributeTok{d =} \DecValTok{2}\NormalTok{) }\FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.*f (\%.*f{-}{-}\%.*f)"}\NormalTok{, d, }\FunctionTok{median}\NormalTok{(x), d, }\FunctionTok{min}\NormalTok{(x), d, }\FunctionTok{max}\NormalTok{(x))}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"Over the 1,080 specifications of the function grid:}\SpecialCharTok{\textbackslash{}n\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Over the 1,080 specifications of the function grid:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  spectral rank, participation ratio : \%s of twelve}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, }\FunctionTok{rng}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   spectral rank, participation ratio : 2.17 (1.67--3.30) of twelve
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  spectral rank, Shannon exp(H)      : \%s of twelve}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, }\FunctionTok{rng}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{shannon)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   spectral rank, Shannon exp(H)      : 3.53 (2.64--5.03) of twelve
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  components for 90\%\% of the variance : \%s}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, }\FunctionTok{rng}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{k90\_spec, }\DecValTok{0}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   components for 90% of the variance : 5 (3--6)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  variance in the first component    : \%.0f\%\% (\%.0f{-}\%.0f\%\%)}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pc1), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pc1), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pc1)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   variance in the first component    : 66% (49-77%)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  SUPPORT rank, exact recovery of 90\%\%: \%s}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, }\FunctionTok{rng}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{k90, }\DecValTok{0}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   SUPPORT rank, exact recovery of 90%: 7 (3--9)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{  gap between support and spectral rank: \%s dimensions}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{rng}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{k90 }\SpecialCharTok{{-}}\NormalTok{ dimen}\SpecialCharTok{$}\NormalTok{k90\_spec, }\DecValTok{0}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+##   gap between support and spectral rank: 2 (-1--4) dimensions
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  support rank exceeds spectral rank in \%.0f\%\% of specifications}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{mean}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{k90 }\SpecialCharTok{\textgreater{}}\NormalTok{ dimen}\SpecialCharTok{$}\NormalTok{k90\_spec)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   support rank exceeds spectral rank in 97% of specifications
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Ceilings on any metric of one, two or four dimensions {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Exact{-}recovery ceiling for the best possible metric of k dimensions:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Exact-recovery ceiling for the best possible metric of k dimensions:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\ControlFlowTok{for}\NormalTok{ (k }\ControlFlowTok{in} \FunctionTok{c}\NormalTok{(}\StringTok{"r1"}\NormalTok{, }\StringTok{"r2"}\NormalTok{, }\StringTok{"r4"}\NormalTok{))}
+  \FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  k = \%s : \%.0f\%\% (\%.0f{-}\%.0f\%\%)}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, }\FunctionTok{sub}\NormalTok{(}\StringTok{"r"}\NormalTok{, }\StringTok{""}\NormalTok{, k),}
+              \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(dimen[[k]]), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(dimen[[k]]), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(dimen[[k]])))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   k = 1 : 37% (7-68%)
+##   k = 2 : 64% (37-84%)
+##   k = 4 : 78% (59-96%)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# The coding is itself a compression {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{emb\_summary }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"emb\_witness\_summary.csv"}\NormalTok{))}
+\NormalTok{nuis }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"embedding\_nuisance.csv"}\NormalTok{))}
+\NormalTok{emb\_raw }\OtherTok{\textless{}{-}}\NormalTok{ nuis[stage }\SpecialCharTok{==} \StringTok{"none (raw embedding)"}\NormalTok{]}
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Label{-}free embedding of the same 475 assumptions (\%d dimensions):}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+                   \StringTok{"  participation ratio \%.1f | Shannon exp(H) \%.0f | \%d components for 90\%\%}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{),}
+\NormalTok{            emb\_summary}\SpecialCharTok{$}\NormalTok{dim, emb\_raw}\SpecialCharTok{$}\NormalTok{pr, emb\_raw}\SpecialCharTok{$}\NormalTok{shannon, emb\_raw}\SpecialCharTok{$}\NormalTok{k90))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Label-free embedding of the same 475 assumptions (384 dimensions):
+##   participation ratio 31.3 | Shannon exp(H) 64 | 73 components for 90%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"  compression from embedding to coding: \%.1f{-}fold in participation ratio}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+\NormalTok{            emb\_raw}\SpecialCharTok{$}\NormalTok{pr }\SpecialCharTok{/} \FunctionTok{median}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   compression from embedding to coding: 14.4-fold in participation ratio
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Is that dimensionality linguistic rather than substantive? {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Effective dimensionality after removing nuisance variation from the embedding:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Effective dimensionality after removing nuisance variation from the embedding:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(nuis[, .(stage, }\AttributeTok{removed =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.1f\%\%"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*}\NormalTok{ var\_removed),}
+                \AttributeTok{pr =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.1f"}\NormalTok{, pr), k90)])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                          stage removed     pr   k90
+##                         <char>  <char> <char> <int>
+## 1:        none (raw embedding)    0.0%   31.3    73
+## 2:                      length    1.9%   31.4    74
+## 3:          length + community    4.0%   31.3    74
+## 4: length + community + domain   14.0%   41.7    78
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Where the two{-}dimensional ceiling fails {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{The best two{-}dimensional summary is essentially the efficiency metric:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+                   \StringTok{"  share of the leading component sitting on crop production and}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+                   \StringTok{"  water conservation: \%.0f\%\% (\%.0f{-}\%.0f\%\%)}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pc1\_core\_mass, }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pc1\_core\_mass, }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{),}
+            \DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pc1\_core\_mass, }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## The best two-dimensional summary is essentially the efficiency metric:
+##   share of the leading component sitting on crop production and
+##   water conservation: 87% (62-100%)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Exact recovery at rank two, by functions served outside that pair:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Exact recovery at rank two, by functions served outside that pair:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(cliff[, .(}\AttributeTok{assumptions =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f (\%.0f{-}\%.0f)"}\NormalTok{, }\FunctionTok{median}\NormalTok{(n), }\FunctionTok{min}\NormalTok{(n), }\FunctionTok{max}\NormalTok{(n)),}
+                \AttributeTok{recovered =} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%.0f\%\% (\%.0f{-}\%.0f\%\%)"}\NormalTok{, }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{median}\NormalTok{(share),}
+                                    \DecValTok{100} \SpecialCharTok{*} \FunctionTok{min}\NormalTok{(share), }\DecValTok{100} \SpecialCharTok{*} \FunctionTok{max}\NormalTok{(share))), }\AttributeTok{by =}\NormalTok{ nnon][}\FunctionTok{order}\NormalTok{(nnon)])}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##           nnon  assumptions     recovered
+##         <fctr>       <char>        <char>
+## 1:           0  104 (4-303) 100% (0-100%)
+## 2:           1 162 (69-278)   63% (0-99%)
+## 3: two or more   48 (1-232)    0% (0-43%)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{Specifications in which NO assumption serving two or more outside}\SpecialCharTok{\textbackslash{}n}\StringTok{functions is recovered at rank two: \%.0f\%\% of \%d}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \DecValTok{100} \SpecialCharTok{*}\NormalTok{ cliff[nnon }\SpecialCharTok{==} \StringTok{"two or more"}\NormalTok{, }\FunctionTok{mean}\NormalTok{(share }\SpecialCharTok{==} \DecValTok{0}\NormalTok{)],}
+\NormalTok{            cliff[nnon }\SpecialCharTok{==} \StringTok{"two or more"}\NormalTok{, .N]))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Specifications in which NO assumption serving two or more outside
+## functions is recovered at rank two: 91% of 1080
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SUPPLEMENTARY FIGURE: EFFECTIVE DIMENSIONALITY \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{emb\_pr }\OtherTok{\textless{}{-}}\NormalTok{ emb\_summary}\SpecialCharTok{$}\NormalTok{participation\_ratio}
+\NormalTok{emb\_k90 }\OtherTok{\textless{}{-}}\NormalTok{ emb\_summary}\SpecialCharTok{$}\NormalTok{pcs\_for\_90pct\_variance}
+
+\NormalTok{cod\_curve }\OtherTok{\textless{}{-}}\NormalTok{ spectrum[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(cum\_var), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(cum\_var),}
+                          \AttributeTok{hi =} \FunctionTok{max}\NormalTok{(cum\_var)), by }\OtherTok{=}\NormalTok{ pc]}
+
+\NormalTok{plot\_spec }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dotted"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey55"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.3}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_ribbon}\NormalTok{(}\AttributeTok{data =}\NormalTok{ cod\_curve, }\FunctionTok{aes}\NormalTok{(pc, }\AttributeTok{ymin =}\NormalTok{ lo, }\AttributeTok{ymax =}\NormalTok{ hi), }\AttributeTok{fill =}\NormalTok{ col\_irr,}
+              \AttributeTok{alpha =} \FloatTok{0.2}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{(}\AttributeTok{data =}\NormalTok{ cod\_curve, }\FunctionTok{aes}\NormalTok{(pc, med), }\AttributeTok{colour =}\NormalTok{ col\_irr, }\AttributeTok{linewidth =} \FloatTok{0.5}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{(}\AttributeTok{data =}\NormalTok{ scree[pc }\SpecialCharTok{\textless{}=} \DecValTok{80}\NormalTok{], }\FunctionTok{aes}\NormalTok{(pc, cum\_var), }\AttributeTok{colour =}\NormalTok{ col\_leg,}
+            \AttributeTok{linewidth =} \FloatTok{0.5}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{annotate}\NormalTok{(}\StringTok{"text"}\NormalTok{, }\AttributeTok{x =} \FloatTok{14.5}\NormalTok{, }\AttributeTok{y =} \FloatTok{0.985}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{0}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{, }\AttributeTok{size =} \FloatTok{2.2}\NormalTok{,}
+           \AttributeTok{colour =}\NormalTok{ col\_irr, }\AttributeTok{label =} \StringTok{"twelve{-}function}\SpecialCharTok{\textbackslash{}n}\StringTok{coding"}\NormalTok{, }\AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{annotate}\NormalTok{(}\StringTok{"text"}\NormalTok{, }\AttributeTok{x =} \DecValTok{30}\NormalTok{, }\AttributeTok{y =} \FloatTok{0.56}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{0}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{, }\AttributeTok{size =} \FloatTok{2.2}\NormalTok{,}
+           \AttributeTok{colour =}\NormalTok{ col\_leg, }\AttributeTok{label =} \StringTok{"label{-}free}\SpecialCharTok{\textbackslash{}n}\StringTok{embedding"}\NormalTok{, }\AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Principal components retained"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Cumulative variance"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\NormalTok{pr\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{coding =} \StringTok{"Twelve{-}function}\SpecialCharTok{\textbackslash{}n}\StringTok{coding"}\NormalTok{, }\AttributeTok{embedding =} \StringTok{"Label{-}free}\SpecialCharTok{\textbackslash{}n}\StringTok{embedding"}\NormalTok{)}
+\NormalTok{pr\_dt }\OtherTok{\textless{}{-}} \FunctionTok{data.table}\NormalTok{(}\AttributeTok{what =} \FunctionTok{factor}\NormalTok{(pr\_lab[[}\StringTok{"coding"}\NormalTok{]], }\AttributeTok{levels =} \FunctionTok{rev}\NormalTok{(pr\_lab)),}
+                    \AttributeTok{v =}\NormalTok{ dimen}\SpecialCharTok{$}\NormalTok{pr)}
+\NormalTok{pr\_point }\OtherTok{\textless{}{-}} \FunctionTok{data.table}\NormalTok{(}\AttributeTok{what =} \FunctionTok{factor}\NormalTok{(}\FunctionTok{c}\NormalTok{(pr\_lab[[}\StringTok{"coding"}\NormalTok{]], pr\_lab[[}\StringTok{"embedding"}\NormalTok{]]),}
+                                     \AttributeTok{levels =} \FunctionTok{rev}\NormalTok{(pr\_lab)),}
+                       \AttributeTok{v =} \FunctionTok{c}\NormalTok{(}\FunctionTok{median}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr), emb\_pr))}
+
+\NormalTok{plot\_pr }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_vline}\NormalTok{(}\AttributeTok{xintercept =} \DecValTok{12}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dashed"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey40"}\NormalTok{,}
+             \AttributeTok{linewidth =} \FloatTok{0.35}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_violin}\NormalTok{(}\AttributeTok{data =}\NormalTok{ pr\_dt, }\FunctionTok{aes}\NormalTok{(v, what), }\AttributeTok{fill =}\NormalTok{ col\_irr, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{,}
+              \AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{scale =} \StringTok{"width"}\NormalTok{, }\AttributeTok{width =} \FloatTok{0.6}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ pr\_point, }\FunctionTok{aes}\NormalTok{(v, what),}
+             \AttributeTok{colour =} \FunctionTok{c}\NormalTok{(col\_leg, col\_irr)[}\FunctionTok{c}\NormalTok{(}\DecValTok{2}\NormalTok{, }\DecValTok{1}\NormalTok{)], }\AttributeTok{size =} \FloatTok{1.8}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{36}\NormalTok{), }\AttributeTok{breaks =} \FunctionTok{seq}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{36}\NormalTok{, }\DecValTok{6}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Effective dimensions (participation ratio)"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.y =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{))}
+
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"embedding: participation ratio \%.1f | \%d of \%d components for 90\%\%}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+\NormalTok{            emb\_pr, emb\_k90, emb\_summary}\SpecialCharTok{$}\NormalTok{dim))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## embedding: participation ratio 31.3 | 73 of 384 components for 90%
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"coding:    participation ratio \%.2f (\%.2f{-}\%.2f) over \%d specifications}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{,}
+            \FunctionTok{median}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr), }\FunctionTok{min}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr), }\FunctionTok{max}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr), }\FunctionTok{nrow}\NormalTok{(dimen)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## coding:    participation ratio 2.17 (1.67-3.30) over 1080 specifications
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\FunctionTok{sprintf}\NormalTok{(}\StringTok{"ratio:     \%.1f{-}fold}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, emb\_pr }\SpecialCharTok{/} \FunctionTok{median}\NormalTok{(dimen}\SpecialCharTok{$}\NormalTok{pr)))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## ratio:     14.4-fold
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{plot\_grid}\NormalTok{(plot\_spec, plot\_pr, }\AttributeTok{ncol =} \DecValTok{2}\NormalTok{, }\AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.5}\NormalTok{, }\FloatTok{0.5}\NormalTok{), }\AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: Removed 3 rows containing missing values or values outside the scale range
+## (`geom_ribbon()`).
+\end{verbatim}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS4-dimensions-1.pdf}
+\caption{Comparison between the variance explained by a label-free
+sentence embedding model and the twelve-function coding approach. a)
+Cumulative share of variance against the number of principal components
+retained. The horizontal dotted line is at 90\%; the lines show the
+median and the shade displays the full range across specifications. b)
+Participation ratio of each representation (the number of principal
+components that would carry its variance if they carried it equally).
+The dashed line marks twelve, the maximum the coding can take.}
+\end{figure}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SUPPLEMENTARY FIGURE: SENSORY CHANNELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{sens }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"sensory\_practice\_grid.csv"}\NormalTok{))}
+\NormalTok{ch\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{visual =} \StringTok{"Sight"}\NormalTok{, }\AttributeTok{tactile =} \StringTok{"Touch"}\NormalTok{, }\AttributeTok{olfactory =} \StringTok{"Smell"}\NormalTok{,}
+            \AttributeTok{acoustic =} \StringTok{"Hearing"}\NormalTok{, }\AttributeTok{gustatory =} \StringTok{"Taste"}\NormalTok{)}
+
+\NormalTok{ch\_col }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{Sight =} \StringTok{"\#56B4E9"}\NormalTok{, }\AttributeTok{Touch =} \StringTok{"\#E69F00"}\NormalTok{, }\AttributeTok{Smell =} \StringTok{"\#009E73"}\NormalTok{,}
+            \AttributeTok{Hearing =} \StringTok{"\#CC79A7"}\NormalTok{, }\AttributeTok{Taste =} \StringTok{"\#999999"}\NormalTok{)}
+
+\CommentTok{\# Panel a: how many assumptions each channel carries {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{ch\_tot }\OtherTok{\textless{}{-}}\NormalTok{ sens[, .(}\AttributeTok{n =} \FunctionTok{sum}\NormalTok{(n)), by }\OtherTok{=}\NormalTok{ .(cell, ch)][}
+\NormalTok{  , .(}\AttributeTok{med =} \FunctionTok{as.numeric}\NormalTok{(}\FunctionTok{median}\NormalTok{(n)), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(n), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(n)), by }\OtherTok{=}\NormalTok{ ch]}
+\NormalTok{ch\_tot[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(ch\_lab[ch], }\AttributeTok{levels =}\NormalTok{ ch\_lab[ch\_tot[}\FunctionTok{order}\NormalTok{(med), ch]])]}
+
+\NormalTok{plot\_sens\_tot }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(ch\_tot, }\FunctionTok{aes}\NormalTok{(med, label)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_segment}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lo, }\AttributeTok{xend =}\NormalTok{ hi, }\AttributeTok{yend =}\NormalTok{ label), }\AttributeTok{colour =} \StringTok{"grey65"}\NormalTok{,}
+               \AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{colour =}\NormalTok{ label), }\AttributeTok{size =} \FloatTok{1.8}\NormalTok{, }\AttributeTok{show.legend =} \ConstantTok{FALSE}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_colour\_manual}\NormalTok{(}\AttributeTok{values =}\NormalTok{ ch\_col) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{trans =} \StringTok{"log10"}\NormalTok{, }\AttributeTok{breaks =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{3}\NormalTok{, }\DecValTok{10}\NormalTok{, }\DecValTok{30}\NormalTok{, }\DecValTok{100}\NormalTok{, }\DecValTok{300}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Assumptions read through the channel"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{()}
+
+\CommentTok{\# Panel b: the sensory composition of each practice {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{comp }\OtherTok{\textless{}{-}}\NormalTok{ sens[practice }\SpecialCharTok{\%in\%} \FunctionTok{names}\NormalTok{(prac\_lab), .(}\AttributeTok{n =} \FunctionTok{sum}\NormalTok{(n)),}
+\NormalTok{             by }\OtherTok{=}\NormalTok{ .(cell, practice, ch)]}
+\NormalTok{comp[, share }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ n }\SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(n), by }\OtherTok{=}\NormalTok{ .(cell, practice)]}
+\NormalTok{comp }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(}\FunctionTok{CJ}\NormalTok{(}\AttributeTok{practice =} \FunctionTok{names}\NormalTok{(prac\_lab), }\AttributeTok{ch =} \FunctionTok{names}\NormalTok{(ch\_lab)),}
+\NormalTok{              comp[, .(}\AttributeTok{share =} \FunctionTok{median}\NormalTok{(share)), }\AttributeTok{by =}\NormalTok{ .(practice, ch)],}
+              \AttributeTok{by =} \FunctionTok{c}\NormalTok{(}\StringTok{"practice"}\NormalTok{, }\StringTok{"ch"}\NormalTok{), }\AttributeTok{all.x =} \ConstantTok{TRUE}\NormalTok{)}
+\NormalTok{comp[}\FunctionTok{is.na}\NormalTok{(share), share }\SpecialCharTok{:}\ErrorTok{=} \DecValTok{0}\NormalTok{]}
+\NormalTok{comp[, share }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ share }\SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(share), by }\OtherTok{=}\NormalTok{ practice]}
+\NormalTok{comp[, channel }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(ch\_lab[ch], }\AttributeTok{levels =}\NormalTok{ ch\_lab)]}
+\NormalTok{tac\_ord }\OtherTok{\textless{}{-}}\NormalTok{ comp[ch }\SpecialCharTok{==} \StringTok{"tactile"}\NormalTok{][}\FunctionTok{order}\NormalTok{(share), practice]}
+\NormalTok{comp[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(prac\_lab[practice], }\AttributeTok{levels =}\NormalTok{ prac\_lab[tac\_ord])]}
+
+\NormalTok{plot\_sens\_prac }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(comp, }\FunctionTok{aes}\NormalTok{(share, label, }\AttributeTok{fill =}\NormalTok{ channel)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_col}\NormalTok{(}\AttributeTok{width =} \FloatTok{0.75}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_manual}\NormalTok{(}\AttributeTok{values =}\NormalTok{ ch\_col, }\AttributeTok{name =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(),}
+                     \AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.02}\NormalTok{))) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Share of the channel readings of each practice"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.y =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{), }\AttributeTok{legend.position =} \StringTok{"right"}\NormalTok{,}
+        \AttributeTok{legend.key.width =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.25}\NormalTok{, }\StringTok{"cm"}\NormalTok{))}
+
+\FunctionTok{cat}\NormalTok{(}\StringTok{"Sensory composition of each practice (median share across specifications):}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Sensory composition of each practice (median share across specifications):
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{print}\NormalTok{(}\FunctionTok{dcast}\NormalTok{(comp, label }\SpecialCharTok{\textasciitilde{}}\NormalTok{ channel, }\AttributeTok{value.var =} \StringTok{"share"}\NormalTok{,}
+            \AttributeTok{fun.aggregate =} \ControlFlowTok{function}\NormalTok{(z) }\FunctionTok{round}\NormalTok{(}\DecValTok{100} \SpecialCharTok{*} \FunctionTok{sum}\NormalTok{(z))))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Key: <label>
+##                label Sight Touch Smell Hearing Taste
+##               <fctr> <num> <num> <num>   <num> <num>
+##  1:    Turn exchange   100     0     0       0     0
+##  2:     Open channel    90     7     3       0     0
+##  3: Ridge and furrow    89    11     0       0     0
+##  4:      Sky reading    81    12     4       4     0
+##  5:   Weed tolerance    82    13     0       0     5
+##  6:   Plot levelling    83    17     0       0     0
+##  7:       Cover crop    74    18     8       0     0
+##  8:    Crop rotation    60    20     9       0    11
+##  9: Flood irrigation    69    28     1       2     0
+## 10: Channel cleaning    58    29     0      12     0
+## 11:         Mulching    59    41     0       0     0
+## 12:          Tillage    51    45     0       4     0
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SUPPLEMENTARY FIGURE: SENSORY CHANNELS \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\FunctionTok{plot\_grid}\NormalTok{(plot\_sens\_tot, plot\_sens\_prac, }\AttributeTok{ncol =} \DecValTok{2}\NormalTok{, }\AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.38}\NormalTok{, }\FloatTok{0.62}\NormalTok{),}
+          \AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\centering
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS7-sensory-1.pdf}
+\caption{Sensory channels through which irrigators read their
+environment across the \(1{,}080\) analytical specifications. a) Number
+of assumptions read through each channel. Points denote medians across
+specifications and bars denote the full range. b) Sensory composition of
+each practice.}
+\end{figure}
+
+\hypertarget{figures-of-the-manuscripts}{%
+\section{Figures of the manuscripts}\label{figures-of-the-manuscripts}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# EXPORT FIGURES \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+
+\NormalTok{fig\_dir }\OtherTok{\textless{}{-}} \FunctionTok{here}\NormalTok{(}\StringTok{"code"}\NormalTok{, }\StringTok{"traditional\_irrigation\_knowledge\_files"}\NormalTok{, }\StringTok{"figure{-}latex"}\NormalTok{)}
+\NormalTok{out\_dir }\OtherTok{\textless{}{-}} \FunctionTok{here}\NormalTok{(}\StringTok{"manuscript"}\NormalTok{, }\StringTok{"figures"}\NormalTok{)}
+\ControlFlowTok{for}\NormalTok{ (f }\ControlFlowTok{in} \FunctionTok{c}\NormalTok{(}\StringTok{"fig1{-}shares"}\NormalTok{, }\StringTok{"fig2{-}bundles"}\NormalTok{, }\StringTok{"figS1{-}map"}\NormalTok{, }\StringTok{"figS2{-}sobol"}\NormalTok{,}
+            \StringTok{"figS3{-}embedding"}\NormalTok{, }\StringTok{"figS4{-}dimensions"}\NormalTok{, }\StringTok{"figS6{-}frontier"}\NormalTok{, }\StringTok{"figS7{-}sensory"}\NormalTok{))}
+  \FunctionTok{file.copy}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(fig\_dir, }\FunctionTok{paste0}\NormalTok{(f, }\StringTok{"{-}1.pdf"}\NormalTok{)), }\FunctionTok{file.path}\NormalTok{(out\_dir, }\FunctionTok{paste0}\NormalTok{(f, }\StringTok{".pdf"}\NormalTok{)),}
+            \AttributeTok{overwrite =} \ConstantTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\newpage
+
+\hypertarget{session-information}{%
+\section{Session information}\label{session-information}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# SESSION INFORMATION \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
+\FunctionTok{sessionInfo}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## R version 4.5.2 (2025-10-31)
+## Platform: aarch64-apple-darwin20
+## Running under: macOS Tahoe 26.6.2
+## 
+## Matrix products: default
+## BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+## LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+## 
+## locale:
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## 
+## time zone: Europe/London
+## tzcode source: internal
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## other attached packages:
+##  [1] ggrepel_0.9.6           rnaturalearthdata_1.0.0 rnaturalearth_1.1.0    
+##  [4] sf_1.1-0                jsonlite_2.0.0          readxl_1.4.5           
+##  [7] scales_1.4.0            cowplot_1.2.0.9000      ggplot2_4.0.3.9000     
+## [10] data.table_1.18.4       here_1.0.2              benchmarkme_1.0.8      
+## 
+## loaded via a namespace (and not attached):
+##  [1] generics_0.1.4        class_7.3-23          KernSmooth_2.23-26   
+##  [4] lattice_0.22-7        digest_0.6.39         magrittr_2.0.5       
+##  [7] evaluate_1.0.5        grid_4.5.2            RColorBrewer_1.1-3   
+## [10] iterators_1.0.14      fastmap_1.2.0         cellranger_1.1.0     
+## [13] foreach_1.5.2         doParallel_1.0.17     rprojroot_2.1.1      
+## [16] Matrix_1.7-4          e1071_1.7-17          DBI_1.3.0            
+## [19] tinytex_0.58          httr_1.4.8            codetools_0.2-20     
+## [22] Rdpack_2.6.6          cli_3.6.6             sensobol_1.2.0       
+## [25] rlang_1.2.0           units_1.0-0           rbibutils_2.4.1      
+## [28] withr_3.0.3           yaml_2.3.12           otel_0.2.0           
+## [31] tools_4.5.2           parallel_4.5.2        dplyr_1.1.4          
+## [34] vctrs_0.7.3           R6_2.6.1              proxy_0.4-29         
+## [37] lifecycle_1.0.5       classInt_0.4-11       pkgconfig_2.0.3      
+## [40] pillar_1.11.1         gtable_0.3.6          glue_1.8.1           
+## [43] Rcpp_1.1.1-1.1        benchmarkmeData_1.0.4 xfun_0.55            
+## [46] tibble_3.3.1          tidyselect_1.2.1      knitr_1.51           
+## [49] farver_2.1.2          htmltools_0.5.9       labeling_0.4.3       
+## [52] rmarkdown_2.30        compiler_4.5.2        S7_0.2.2
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# Return the machine CPU {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"Machine:     "}\NormalTok{); }\FunctionTok{print}\NormalTok{(}\FunctionTok{get\_cpu}\NormalTok{()}\SpecialCharTok{$}\NormalTok{model\_name)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Machine:
+\end{verbatim}
+
+\begin{verbatim}
+## [1] "Apple M1 Max"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# Return number of true cores {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"Num cores:   "}\NormalTok{); }\FunctionTok{print}\NormalTok{(parallel}\SpecialCharTok{::}\FunctionTok{detectCores}\NormalTok{(}\AttributeTok{logical =} \ConstantTok{FALSE}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Num cores:
+\end{verbatim}
+
+\begin{verbatim}
+## [1] 10
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# Return number of threads {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"Num threads: "}\NormalTok{); }\FunctionTok{print}\NormalTok{(parallel}\SpecialCharTok{::}\FunctionTok{detectCores}\NormalTok{(}\AttributeTok{logical =} \ConstantTok{FALSE}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Num threads:
+\end{verbatim}
+
+\begin{verbatim}
+## [1] 10
+\end{verbatim}
+
+\end{document}

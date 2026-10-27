@@ -1,0 +1,6 @@
+Decide whether the following traditional-irrigation statement reduces fully to a water-in / yield-out efficiency metric (true) or not (false).
+
+INPUT: id_cite, traditional_knowledge, underlying_assumption, main_category.
+
+OUTPUT: ONLY a single valid JSON object, no prose, no code fences:
+{"id_cite": "<echo the input id_cite>", "efficiency_legible": <true|false>}

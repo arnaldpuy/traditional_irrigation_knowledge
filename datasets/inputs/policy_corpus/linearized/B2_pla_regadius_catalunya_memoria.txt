@@ -1,0 +1,4010 @@
+Generalitat de Catalunya
+Departament d’Agricultura, Ramaderia,
+Pesca, Alimentació i Medi Natural
+Actuació
+Conques
+Comarques
+Termes Municipals
+-
+-
+PLA DE REGADIUS
+Tipus d'estudi
+PLA
+Empresa consultora
+Autors/es
+Documents
+Exemplar
+Tom
+IGNASI GRAU ROCA
+IGREMAP S.L.P.
+U.
+Clau
+-
+E1-VR-07943.A
+Títol
+PLA DE REGADIUS  
+DE CATALUNYA 2008-2020 
+(Text refós)
+1
+I
+MEMÒRIA 
+ANNEXOS 
+PLÀNOLS (I)
+Data de redacció
+FEBRER 2012
+
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+ANNEX 6. INFORMACIÓ DE REGADIUS DE BASE
+TOM I
+ANNEX 1. DESCRIPCIÓ DE L’ESTAT ACTUAL
+TOM II
+ANNEX 2. DESCRIPCIÓ DE LA PROPOSTA
+ANNEX 3. AVALUACIÓ DE LA PROPOSTA
+ANNEX 4. ESTUDI ECONÒMIC DEL PLA
+3. ESTAT ACTUAL DELS REGADIUS
+4. PROPOSTA DE REGADIUS
+ANNEX 5. MARC LEGAL
+2. MEDI FÍSIC
+1. ÍNDEX
+MEMÒRIA
+ANNEXOS
+PLÀNOLS
+5. FITXES REGADIUS
+PLÀNOLS
+
+6 
+AVALUACIÓ DE LA PROPOSTA ............................................................................... 28
+6.1 
+BALANÇ DE LES ACTUACIONS ESTRUCTURALS ................................................................. 29
+6.1.1 Superfícies ................................................................................................. 29
+6.1.2 Demanda d’aigua ......................................................................................... 29
+6.1.3 Eficiències .................................................................................................. 33
+6.1.4 Elasticitat .................................................................................................. 33
+6.2 
+AVALUACIÓ AMBIENTAL DEL PLA ................................................................................ 35
+7 
+ESTUDI ECONÒMIC DEL PLA ................................................................................. 36
+7.1.1 A nivell d’explotació agrícola ........................................................................... 36
+7.1.2 A nivell de país ............................................................................................ 37
+7.2 
+PLA DE FASES ...................................................................................................... 38
+8 
+CONCLUSIONS ................................................................................................. 38
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ANNEXOS.
+1 
+INTRODUCCIÓ I OBJECTE ...................................................................................... 3
+1.1 
+ANTECEDENTS ....................................................................................................... 3
+1.2 
+JUSTIFICACIÓ I CONVENIÈNCIA DE LA REDACCIÓ DEL PLA .................................................... 4
+1.3 
+ÀMBIT DEL PLA I VIGÈNCIA PROPOSADA. ........................................................................ 5
+2 
+DESCRIPCIÓ I ANÀLISI DE L’ESTAT ACTUAL. ................................................................ 6
+2.1 
+ESTRUCTURA HIDRAULICA DE CATALUNYA ..................................................................... 6
+2.2 
+ASPECTES GENERALS DE LA DISPONIBILITAT D’AIGUA PEL REG A CATALUNYA ............................ 6
+2.3 
+MODEL ACTUAL DELS REGADIUS A CATALUNYA ................................................................ 8
+2.3.1 Macromagnituds dels regadius ........................................................................... 8
+2.3.2 Evolució dels regadius ..................................................................................... 9
+2.3.3 Tipologies de regadius ................................................................................... 10
+2.3.4 Delimitació dels espais regables. Estat actual 2008 ................................................. 11
+2.3.5 Demanda d’aigua pel reg ................................................................................ 12
+2.3.6 Situacions generades pel canvi climàtic. .............................................................. 16
+3 
+OBJECTIUS DEL PLA DE REGADIUS ......................................................................... 17
+3.1 
+OBJECTIUS GENERALS DEL PLA .................................................................................. 18
+3.2 
+INTEGRACIÓ DELS ASPECTES AMBIENTALS ..................................................................... 19
+4 
+ALTERNATIVES ................................................................................................ 19
+4.1 
+CONTINUÏTAT DEL MODEL ACTUAL. ALTERNATIVA ZERO .................................................... 20
+4.2 
+DEFINICIÓ ESTRATÈGICA DEL PLA DE REGADIUS. ............................................................. 20
+4.2.1 Ús de l’aigua ............................................................................................... 20
+4.2.2 Implicacions territorials .................................................................................. 21
+4.2.3 Estratègia front al canvi climàtic ....................................................................... 22
+4.2.4 Altres aspectes d’oportunitat i efectes socials ....................................................... 22
+4.3 
+CONCLUSIONS A LA FORMULACIÓ D’ALTERNATIVES .......................................................... 23
+5 
+DESCRIPCIÓ D’ACTUACIONS ................................................................................. 23
+ÍNDEX DE LA MEMÒRIA
+ANNEX 3. AVALUACIÓ DE LA PROPOSTA DEL PLA DE REGADIUS
+ANNEX 2. PROPOSTA DEL PLA DE REGADIUS
+ANNEX 7. ALTRES LLISTATS (FORMAT PDF)
+ANNEX 1. ESTAT ACTUAL DELS REGADIUS
+ANNEX 4. ESTUDI ECONÒMIC DEL PLA
+ANNEX 6. DADES DE BASE.
+ANNEX 5. MARC LEGAL
+5.1 
+ACTUACIONS ESTRUCTURALS .................................................................................... 23
+5.2 
+INTEGRACIÓ DELS ASPECTES AMBIENTALS ..................................................................... 25
+5.2.1 Aspectes que ja venen compensats per la definició del Pla. ....................................... 25
+5.2.2 Mesures estructurals ...................................................................................... 25
+5.2.3 Mesures de gestió ......................................................................................... 26
+5.3 
+ALTRES ACTUACIONS DE TRANSFERÈNCIA TECNOLÒGICA I FORMACIÓ. ................................... 27
+5.3.1 Recerca i desenvolupament ............................................................................. 27
+5.3.2 Transferència tecnològica ............................................................................... 27
+5.3.3 Altres programes en funcionament ..................................................................... 28
+5.4 
+GESTIÓ DEL PLA DE REGADIUS ................................................................................... 28
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+El present document del “Pla de Regadius de Catalunya. 2008-2020”, es redacta en compliment 
+del mandat del Departament d’Agricultura, Ramaderia, Pesca, Alimentació i Medi Natural (DAAM), 
+de la Generalitat de Catalunya.
+L’objecte del present document és el desenvolupament del Pla de Regadius de Catalunya. Aquest no 
+es deriva de l’aplicació d’un marc normatiu específic que determini la necessitat de la seva 
+redacció, sinó de la voluntat del Departament d’Agricultura, Ramaderia, Pesca, Alimentació i Medi 
+Natural (DAAM), per a l’ordenació dels regadius a Catalunya, i la planificació del seu 
+desenvolupament en el període de vigència del Pla.
+Aquest document s’acompanya alhora de l’Informe de Sostenibilitat Ambiental del propi pla, en 
+compliment del marc legislatiu vigent, i concretament de la Llei 6/2009, del 28 d’Abril, d’avaluació 
+ambiental de plans i programes.
+En data Juliol de 2008 es va redactar un avanç del Pla de Regadius 2008-2020 (Pla de Regadius 
+preliminar), que juntament amb l’Informe de Sostenibilitat Ambiental preliminar (ISAP), es va 
+trametre al Departament de Territori i Sostenibilitat (DTS, antic Departament de Medi Ambient i 
+Habitatge).
+Aquests es varen sotmetre a consultes en el període comprès entre el 30 de juliol i el 20 de 
+setembre de 2008, identificant les administracions afectades i el públic interessat. En total es van 
+identificar 19 administracions afectades i 44 entitats, com a públic interessat.
+En data 3 de Febrer de 2009, el DTS va trametre al DAAM, el Document de Referència, on s’exposa 
+l’abast i continguts per a la redacció de l’Informe de Sostenibilitat Ambiental, fent referències 
+alhora al propi Pla.
+Durant la redacció de l’Avanç i del Informe de Sostenibilitat Ambiental Preliminar, no era vigent 
+Llei 6/2009, del 28 d’Abril, d’avaluació ambiental de plans i programes, fent referència doncs 
+aquesta a la legislació, ja transposada d’àmbit estatal, per a determinar la necessitat, o no, de 
+l’avaluació ambiental del pla.
+La transposició de la Directiva a l’ordenament jurídic català, es va fer a través de la Llei 6/2009, 
+del 28 d’Abril, d’avaluació ambiental de plans i programes. Aquesta, en el seu capítol II estableix 
+els plans i programes sotmesos a avaluació ambiental, entre els quals s’inclou específicament el Pla 
+de Regadius de Catalunya. La redacció del Pla i del seu ISA corresponent s’ha fet doncs en el marc 
+d’aquesta transposició.
+1 
+INTRODUCCIÓ I OBJECTE
+1.1 
+ANTECEDENTS
+PAG. 3 DE 38
+Des de febrer de 2010 fins al maig de 2010 es va portar a terme la redacció del Pla de Regadius, 
+juntament amb el corresponent Informe de Sostenibilitat Ambiental.
+El 10 de maig de 2010 es va publicar l’anunci pel qual se sotmet a informació pública l'Informe de 
+sostenibilitat ambiental del Pla de regadius de Catalunya 2008-2020, clau: ISA-VR-07943, i el 
+projecte del Pla de regadius de Catalunya 2008-2020, clau: E1-VR-07943. (DOGC núm. 5625 - 
+10/05/2010).
+En aquest període es van efectuar consultes individualitzades als actors especialment interessats 
+al·ludits en el Document de Referència, utilitzant a l’efecte mitjans convencionals i telemàtics, i 
+restant a exposició pública per un període mínim de 45 dies.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+El Plan Nacional de Regadios (PNR) a Catalunya, preveu un increment de 111.980 ha de substitució 
+de secà per regadiu, entre les quals hi ha operacions tan importants com la del sistema regable 
+Segarra Garrigues, avui en execució.
+En aquest context, la potencial competència pel recurs, fins i tot dins el propi sector primari, 
+sol·licita una visió conjunta del regadiu.
+Moltes de les noves zones de reg no es transformaran finalment, de manera que la xifra final 
+de nova superfície de regadiu s'estima en unes 300.000 ha. L'Ebre continua sent la conca on hi 
+haurà més creixement de la superfície regada, amb aproximadament 90.000 ha.”
+Agua i sostenibilidad. Sostenibilidad de las cuencas. Observatorio de la Sostenibilidad. 
+2008
+Durant el període d’exposició pública i fins a la data de redacció del present document s’ha rebut 
+resposta dels següents organismes:
+Direcció General de Polítiques Ambientals i 
+Sostenibilitat. (Departament de Medi Ambient i 
+Habitatge)
+Consell Assessor per al Desenvolupament Sostenible
+Al·legacions formulades durant el procés d’exposició pública del Pla de 
+Regadius de Catalunya 2008-2020 i el seu Informe de Sostenibilitat 
+Ambiental.
+ASSOCIACIONS, 
+PARTICULARS I 
+EMPRESES 
+Comunitat de regants. Sindicat agrícola de l'Ebre
+Departament de Medi Ambient i Habitatge
+1.2 
+JUSTIFICACIÓ I CONVENIÈNCIA DE LA REDACCIÓ DEL PLA
+Oficina Catalana del Canvi Climàtic.
+Agència de Residus de Catalunya
+Agència Catalana de l'Aigua
+Institut Català d'Energia
+QUADRE 1. AL·LEGACIONS FORMULADES
+ESTATALS 
+Cap al·legació
+LOCALS 
+Cap al·legació
+ 
+Associacions, particulars i empreses: 1 escrit
+Tipus organisme 
+Organisme
+ 
+Organismes estatals: cap al•legació
+ 
+Organismes autonòmics: 6 escrits
+ 
+Organismes locals: cap escrit
+AUTONÒMICS
+PAG. 4 DE 38
+Actualment la dotació mitjana dels regadius a Catalunya és de 8.810,77 m3/ha i any. (Fonts pròpies, 
+calculat a partir de concessions). S’ha de destacar, que aquesta dotació mitjana be esbiaixada per 
+les grans dotacions dels conreus, com els arrossars del Delta de l’Ebre principalment, que amb grans 
+superfícies assoleixen fins a 20.000 m3/ ha i any. Ajustant doncs la dotació mitjana, sense 
+considerar aquestes últimes, resultaria una dada a la baixa i més ajustada a la realitat pels regadius 
+tradicionals de 7.837,16 m3/ha i any. (Fonts pròpies, calculat a partir de concessions)
+El fort creixement del regadiu en el conjunt d’Espanya en els últims anys, contràriament a la 
+situació de Catalunya, fa que les seves eficiències de reg hagin també augmentat notablement. 
+D’acord amb la “Encuesta de Superficies y Rendimientos de Cultivos de España” l’eficiència hauria 
+augmentat des del 66 %, de l’any 1.999 (Instituto Nacional de Estadistica. INE), al 72 %, l’any 2006 
+(a nivell de parcel·la). Aquesta millora ve motivada tant pels nous regadius, com pels plans de 
+modernització portats a terme.
+En l’àmbit mediterrani el regadiu permet incrementar la viabilitat, actualment força compromesa, 
+de les explotacions agràries. En el context de la desconnexió progressiva dels ajuts de la PAC, és 
+clau garantir la competitivitat del sector incrementant la rendibilitat de les explotacions. Entre 
+d’altres, el regadiu ha de ser una eina per afavorir aquesta competitivitat, amb una millora dels 
+rendiments dels conreus actuals, estabilitat en l’oferta, i un increment del ventall de conreus a 
+produir.
+L’increment de regadius pot comportar alhora un increment proporcional de la demanda d’aigua per 
+part de l’agricultura.
+El principal factor determinant de l'expansió de la demanda d'aigua a l'agricultura seria la 
+prevista substitució de superfícies de secà per regadiu que, d' acord amb el Pla Nacional de 
+Regadius vigent, haurien suposat un total de 530.000 hectàrees addicionals a tot el país, 
+300.000 de les quals es localitzaria a l'Ebre
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+L’àmbit del Pla inclou tot el territori català. En la següent figura es mostra la distribució dels 
+regadius actuals al territori de Catalunya, en general, i sobre la divisió hidrogràfica, fent referència 
+a les Conques internes i Conques intercomunitàries.
+El Pla de Regadius de Catalunya proposat haurà de tenir una vigència de 12 anys, i per tant entre 
+l’any 2008 i 2020.
+1.3 
+ÀMBIT DEL PLA I VIGÈNCIA PROPOSADA.
+A Catalunya, aquestes dades són netament inferiors, amb eficiències de reg certament baixes, i 
+relacionades majoritàriament amb els regadius tradicionals.
+En els gràfics inclosos en l’Annex 1 es mostra l’evolució dels sistemes de reg en el conjunt 
+d’Espanya, que contrasten clarament amb la situació de Catalunya. Comparant les dades, resulta 
+que en el global de l’estat espanyol un 35,8 % són regs a tesa, o per gravetat, mentre a Catalunya 
+aquest percentatge ascendeix fins al 68 %. Contràriament els regadius modernitzats a nivell de 
+parcel·la, en el global d’Espanya ocupen un 64,2 % de tota la superfície regable, mentre que a 
+Catalunya aquest percentatge es redueix al 31,5 % (aquesta dada inclou les parcel·les amb reg a 
+pressió, modernitzades a nivell individual, tot i que l’àmbit global de la comunitat de regants no 
+estigui modernitzada)
+La posada al dia dels regadius tradicionals a Catalunya, amb un increment de les eficiències és 
+doncs una exigència, ja no únicament per a una millora de l’ús de l’aigua, sinó també per afavorir la 
+competitivitat de les explotacions.
+El sector agrari, travessa un important procés de canvi amb un increment de la competència 
+externa a la UE, i per l’evolució de la PAC, cap a una desconnexió de les ajudes a la producció. Si 
+bé la vinculació de subvencions a la producció ha contribuït al creixement de l'agricultura de 
+regadiu, les recents reformes de la PAC (Health check) estan conduint a una dissociació. A més, les 
+reformes han reforçat els incentius a l’explotació valorant l'adopció dels plans agroambientals.
+Aquests plans inclouen mesures relacionades amb el recurs aigua, impulsant un ús més sostenible 
+per l'agricultura en el futur.
+Aquest canvi sol·licita, i especialment a Catalunya, una forta inversió en modernització de regadius, 
+amb l’únic objectiu de garantir la competitivitat de l’agricultura en el marc europeu.
+ 
+la forta inversió de les comunitats veïnes en els últims anys en regadius, que els hi confereixen 
+una avantatge competitiva en un mateix mercat.
+ 
+els canvis en la UE, cap una desconnexió dels ajuts directes, i l’afavoriment de polítiques de 
+millora en l’eficiència de l’ús de l’aigua
+ 
+la pèrdua substancial de regadius a Catalunya en un context expansionista del sòl urbà, així com 
+la formulació del planejament territorial amb unes inèrcies derivades d’aquest creixements.
+ 
+els canvis en els últims anys en la política de protecció de sòl, i delimitació d’espais naturals, 
+amb implicacions directes sobre àmplies zones de regadius, existents o planificats.
+ 
+la potencial competència pel recurs, fins i tot dins el propi sector primari.
+Així, es justifica la redacció del present Pla de Regadius, per:
+ 
+la baixa eficiència dels regadius actuals.
+PAG. 5 DE 38
+ZONES ACTUALMENT EN REG A CATALUNYA.
+Font. Elaboració pròpia
+ 
+la importància del sector primari a Catalunya, base d’una important indústria, líder en el 
+mercat europeu.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+La xarxa hidrogràfica de Catalunya està constituïda geomorfològicament per dos grans vessants, 
+dues grans conques: el vessant occidental, que recull les aigües tributàries de la Conca de l'Ebre, i 
+el vessant oriental, format pels rius que neixen a Catalunya i desguassen a la mar Mediterrània, a la 
+costa catalana, entre els Pirineus i el Delta de l'Ebre.
+Aquestes conques corresponen als rius Muga, Fluvià, Ter, Daró, Tordera, Besòs, Llobregat, Foix, 
+Gaià, Francolí i Riudecanyes, i les de totes les rieres costaneres entre la frontera amb França i el 
+desguàs del riu Sénia. Ocupen una superfície de 16.000 km2, és a dir, el 52 % del territori de 
+Catalunya.
+Les conques hidrogràfiques internes constitueixen el Districte de Conca Hidrogràfica o Fluvial de 
+Catalunya d'acord amb la Llei 6/1999. Són competència exclusiva de la Generalitat de Catalunya i la 
+seva gestió està encomanda a l'Agència Catalana de l'Aigua (ACA).
+Estan integrades per la part catalana de les conques dels rius Ebre, Garona i Xúquer, en els termes 
+establerts per la legislació vigent. Ocupen una superfície d'uns 14.000 km2, és a dir, el 48 % de la 
+superfície territorial de Catalunya.
+La gestió de les Conques Intercomunitàries és compartida amb els organismes de conca als quals 
+pertanyen: la Confederació Hidrogràfica de l'Ebre (CHE) i la Confederació Hidrogràfica del Xúquer. 
+Aquesta última, al sud de la província de Tarragona, per la seva escassa superfície a Catalunya, té 
+un caràcter pràcticament irrellevant.
+La gestió de les conques catalanes de l’Ebre és competència de la Confederació Hidrogràfica de 
+l’Ebre (CHE), tot i que també té competències compartides amb l’ACA.
+2 
+DESCRIPCIÓ I ANÀLISI DE L’ESTAT ACTUAL.
+2.1 
+ESTRUCTURA HIDRÀULICA DE CATALUNYA
+LES CONQUES HIDROGRÀFIQUES INTERCOMUNITÀRIES
+LES CONQUES HIDROGRÀFIQUES INTERNES
+En el present document s’inclouen els treballs del Pla de Regadius de Catalunya 2008-2020, i 
+s’estructuraen els següents apartats:
+ 
+Segon capítol, anàlisi de l’estat actual, on es fa una descripció i diagnosi de l’estat actual dels 
+regadius a Catalunya, fent referència a l’estructura hidràulica, aspectes relacionats amb la 
+disponibilitat d’aigua pel reg, i una descripció del model actual dels regadius.
+ 
+Tercer capítol és d’objectius del pla de regadius, formulats en base a la diagnosi portada a 
+terme. S’exposen els objectius generals del pla i els ambientals, pel seu caràcter específic..
+ 
+El quart capítol, és d’alternatives, que es formulen en base als objectius definits. S’analitza de 
+forma específica l’alternativa zero, com l’evolució dels regadius sense l’aplicació del Pla.
+ 
+Cinquè capítol, de descripció de les actuacions, exposa la proposta estratègica del Pla, 
+concretant-se amb un seguit d’actuacions estructurals, els aspectes específics d’integració dels 
+aspectes ambientals, altres relacionats amb transferència tecnològica i formació, i finalment els 
+aspectes de gestió, relacionats amb l’aplicació del Pla.
+ 
+Sisè capítol, és d’avaluació de la proposta, en base a la consecució dels objectius perseguits, en 
+referència principalment evolució de superfícies i demanda d’aigua pel reg. També s’exposa 
+l’avaluació ambiental del Pla.
+La memòria és un resum executiu del Pla. El cos complet del document es desenvolupa en els 
+annexos, seguint l’estructura de la pròpia memòria, però amb un desenvolupament més extens i 
+complet.
+ 
+El cinc que són fitxes unitàries per a cada regadiu, on s’exposen les seves característiques 
+principals relacionades amb la proposta. Són gràficament el cos normatiu del Pla.
+ 
+De l’u al quatre, que són de tipus descriptiu, tant de l’estat actual com de la proposta.
+Finalment el Pla s’acompanya del plànols, que s’estructuren en dos grans capítols:
+ 
+Setè capítol de és l’estudi econòmic i el Pla de fases.
+1.4 
+ESTRUCTURA GENERAL DEL DOCUMENT
+ 
+Primer capítol d’Introducció.
+PAG. 6 DE 38
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+una capacitat de regulació molt superior. Des d’un punt de vista quantitatiu respecte l’aportació 
+mitjana, en les conques catalanes de l’Ebre no s’han de produir excessives tensions, malgrat que 
+l’estacionalitat pot comportar certs dèficits en els períodes de reg, a més de tensions amb els usos 
+hidroelèctrics. S’ha de valorar que les demandes d’aigua per regadiu en aquestes conques, on el 
+regadiu representa el principal ús, estan al voltant del 40 %. Tenen un important pes els regadius 
+del delta de l’Ebre, dividits en dues comunitats principals, la del marge dret i la del marge 
+esquerre, que entre ambdues representen gairebé un 50% la totalitat de les demandes de reg en el 
+propi Ebre, i un 25 % de les demandes de la totalitat de les conques catalanes de l’Ebre (CCE), i que 
+equival a un 10 % de la seva aportació mitjana.
+A les conques internes, amb una major pressió sobre els recursos, i una menor capacitat de 
+regulació, la situació és més incerta. En aquesta, són els usos industrials i domèstics els que 
+presenten una major demanda, i alhora una menor tolerància a possibles períodes de dèficit, 
+malgrat els reduïts consums unitaris que s’han aconseguit en les grans zones metropolitanes en els 
+períodes més recents de sequera.
+Es poden comparar els usos de l’aigua en les CIC (Conques internes de Catalunya) i les CCE (Conques 
+catalanes de l’Ebre) segons “Pla de gestió del districte de conca fluvial de Catalunya” (Agència 
+Catalana de l’Aigua, 2010) i el Pla hidrològic de la conca de l’Ebre (Confederación hidrogràfica del 
+Ebro, 1996), respectivament:
+Concepte 
+CIC (hm3) (1) 
+CCE (hm3) (2)
+Usos urbans  
+592,00 
+107,05
+Ús agrari 
+387,70 
+1.842,64
+Usos industrials  
+150,20 
+105,13
+Usos recreatius  
+7,80
+TOTAL DEMANDES 
+1137,70 
+2054,82
+APORTACIONS 
+2.390,00 
+4664,72
+Balanç comparatiu 
+% 
+%
+Demandes/aportacions 
+47,60  
+44,05
+Sector agrari/demandes totals 
+16,22 
+89,67
+(2) Font Ministerio de Medio Ambiente. (1996)
+(1) Font Agència Catalana de l’Aigua (2010)
+COMPARACIÓ DELS USOS DE L’AIGUA
+Segons el document IMPRESS (Agència Catalana de l’Aigua, 2005), la demanda hídrica principal a 
+Catalunya és del sector agrícola amb 2076 hm3, concentrat al Segre amb un 51% de la demanda i un 
+27 % a la de l’Ebre. La resta, un 22 %, correspon a les conques internes de Catalunya.
+2.2 
+ASPECTES GENERALS DE LA DISPONIBILITAT D’AIGUA PER AL REG A CATALUNYA
+hm3 
+%
+Agricultura 
+2.076,0 
+72,01
+Ramaderia 
+64,6 
+2,24
+Domèstic 
+541,0 
+18,77
+Industrial 
+188,0 
+6,52
+Recreatiu 
+13,3 
+0,46
+Total demanda 
+2.882,9 
+100,00
+Font. Document IMPRESS. Agència Catalana de l’Aigua, 2005
+Ús 
+Consum
+DISTRIBUCIÓ DELS USOS DE L’AIGUA
+PAG. 7 DE 38
+Quant als cabals de manteniment, en el cas de les conques internes de Catalunya, pren un valor 
+d’un 23% del mòdul anual de mitjana (ACA, 2005), que fàcilment pot convertir-se en un 30%-40% si 
+al cabal ambiental s’hi incorpora una variabilitat temporal (mensual) i uns cabals de crescuda 
+(generadors). En el cas de la conca de l’Ebre, el cabal ambiental que ara per ara s’està analitzant 
+com a valor mínim mitjà se situa a l’entorn del 28% del mòdul anual. (A.Palau, 2009), en el tram de 
+la Noguera Pallaresa. En la desembocadura, els requeriments ambientals per a les tres condicions 
+de la conca establertes (anys humits, mitjans i secs) són respectivament de 12.783 hm3, 9.691 hm3 i 
+7.305 hm3. Aquests valors representen aproximadament el 70%, 53% i 40% de l’aportació mitjana 
+natural del riu Ebre.
+La demanda d’aigua per l’agricultura a les conques catalanes del riu Ebre reconeguda per 
+l’organisme de conca (Confederación Hidrogràfica del Ebro), és sensiblement superior a la 
+reconeguda per l’ACA en el document IMPRESS. La CHE reconeix una demanda de 1.849 hm3, mentre 
+que l’ACA els limita a 1.577 hm3.
+En relació als diferents usos de l’aigua hi ha una important competència, més marcada en les 
+conques internes que en les conques catalanes de l’Ebre que, amb una menor pressió, presenten
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+La distribució territorial d’aquests regadius és molt desigual a Catalunya. Lleida, és la demarcació 
+amb una major superfície de reg, quantificada en 165.978 ha, que representen el 53,7 % de la 
+superfície regable de tot Catalunya. Li segueix la demarcació de Tarragona, incloses les Terres de 
+l’Ebre (a les Terres de l’Ebre li corresponen 53.596 ha), amb un 26,3% de la superfície, 81.163 ha. 
+La demarcació de Girona, amb 43.943 ha de superfície regable representa un 14,2 % del total, i 
+finalment, les comarques de  Barcelona, on es reguen 17.806 ha, representen el 5,8 % de la 
+superfície agrícola regable.
+En la conca del Segre, la implantació de cabals ambientals no afectaria en termes quantitatius 
+globals, però sí en les garanties estacionals de l’aigua de reg i en les garanties diàries de producció 
+hidroelèctrica.
+En el cas de les conques internes de Catalunya, la demanda ambiental, malgrat que el percentatge 
+proposat és lleugerament inferior que en el Segre (un 23% envers un 28%), la situació és crítica. 
+L’aportació natural és més baixa i la capacitat d’embassament molt inferior. (A.Palau, 2009).
+Globalment les necessitats de reg estan per sota les aportacions. Els regs modernitzats són elàstics i 
+amb capacitat d’adaptar-se a eventuals situacions de dèficit.
+Catalunya té una superfície total de 3.210.654 ha, de les quals 2.044.111 ha corresponen a 
+superfície no agrícola i 1.166.543 ha són superfície agrícola útil. (SAU). La superfície no agrícola 
+representa un 63,7 % del total. De la resta, el 26,8 % correspon a sòls de secà mentre que el 9,5 % 
+són sòls de regadiu. En valors relatius respecte la SAU resulta que un 73 % són de secà, mentre que 
+el 27 % són de regadiu.
+Concepte 
+ha 
+% 
+ha 
+% 
+ha
+Secà 
+857.653 
+73,52 %
+Regadiu 
+308.889,82 
+26,48 %
+TOTAL SAU 
+ 
+1.166.543 
+36,33 %
+NO SAU 
+ 
+2.044.111 
+63,67 %
+TOTAL Catalunya 
+ 
+ 
+3.210.654
+2.3 
+MODEL ACTUAL DELS REGADIUS A CATALUNYA
+DISTRIBUCIÓ DE SUPERFÍCIES A CATALUNYA (ha)
+2.3.1 
+Macromagnituds dels regadius
+PAG. 8 DE 38
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+En els últims decennis, i en la proporció de l’abandonament de l’activitat agrícola cap a altres 
+activitats com la indústria i serveis a Catalunya, hi ha hagut també una pèrdua de sòl agrícola, 
+bàsicament per dos efectes, i sobre sòls de qualitat agrològica diferent:
+ 
+Pèrdua de sòl agrícola per abandonament dels conreus, especialment en zones menys 
+productives, amb aptituds agrològiques baixes. Són conreus que s’han emboscat, generalment.
+ 
+Pèrdua de sòl agrícola per canvi d’ús de sòl, i especialment per increment de sòls urbans, i 
+d’activitats. En aquest cas, els sòls afectats presentaven en general aptituds agrològiques molt 
+altes, i en alguns casos eren de regadiu. Aquest fet ha estat general a tot Catalunya, però 
+especialment intens al voltant de les zones metropolitanes de les principals ciutats, i àmbits de 
+fort creixement, com el Vallès, la Selva, el Maresme, i el Camp de Tarragona.
+2.3.2 
+Evolució dels regadius
+En relació a la procedència de les aigües, també hi ha diferències importants. La major part d’aigua 
+és superficial, regant 241.122 ha, que correspon a un 77 % de la superfície regable. Un 19,9 %, prové 
+d’aigües subterrànies, que correspon a una superfície de 59.498 ha, les quals majoritàriament estan 
+a les conques internes de Catalunya. Les aigües de retorns, és a dir, de drenatge de zones regables, 
+representen un 2,4 %, que equival a 7.515 ha. Finalment 755 hectàrees es reguen mitjançant aigües 
+procedents de depuradores.
+Quant al sistema de reg 190.354 ha es reguen amb sistemes de reg a tesa o superficial, 37.602 ha 
+per aspersió i 80.934 per degoteig. Les eficiències d’aplicació en parcel·la dels diferents sistemes 
+de reg poden oscil·lar entre el 50 % i el 90 %
+PAG. 9 DE 38
+El planejament territorial de Catalunya, incrementa la pèrdua de sòl agrícola, i també 
+conseqüentment de regadius.
+ 
+Pèrdua neta de sòl agrícola de 53.407 ha, a Catalunya, entre els anys 1982 al 2002, que 
+s’incrementa fins a 87.494 ha, a l’any 2026
+D’aquesta pèrdua neta un 15.80 % ho és de regadiu, que comporta una pèrdua neta de 13.827 
+ha.
+ 
+La protecció dels espais naturals ha comportat una pèrdua neta del sòl agrícola, en els àmbits 
+delimitats, al voltant del 10 % de la superfície agrícola.
+Aquests dos efectes han comportat:
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+L’estat actual dels regadius a Catalunya és molt diversa. Des de regadius tradicionals, que han estat 
+l’impuls econòmic i social de moltes comarques, fins a les més modernes transformacions amb 
+regadius de suport de conreus tradicionals, i els processos de consolidació de grans regadius, com el 
+Segarra- Garrigues, planificat des dels inicis del segle XX, tot i que els primers estudis daten del 
+segle XVIII
+Per tal d’exposar aquesta situació es fa una primera divisió, que fa referència als regadius 
+tradicionals, amb una tipologia de reg en general poc eficient, i els altres regadius, que són 
+moderns i eficients, i provenen de substitucions de secà per regadiu o de modernitzacions ja 
+executades de regadius tradicionals. Així es fa aquesta primera divisió general en:
+El Pla d’Aprofitament Integral dels Rius de Catalunya (1930), ja considerava la proposta del SegarraGarrigues, més altres 
+desenvolupaments a les planes agrícoles del Vallès i del Francolí.
+2.3.3 
+Tipologies de regadius
+La pèrdua de sòl de regadiu, contrasta amb la construcció de nous regadius a Catalunya en el 
+mateix període. El “Plan Nacional de Regadios” preveu la substitució de secans per regadius a 
+Catalunya en una superfície regable de 112.000 ha (correspon a una superfície dominada de 
+146.620), de les quals a l’any 2008 només n’hi ha en servei 4.652. Aquestes, en cap cas compensen 
+la pèrdua de superfície, ni tampoc la planificada en els propers anys.
+En un context europeu, a Espanya, entre l’any 1990 i 2002, s’ha produït un increment de regadius al 
+voltant de 1.500.000 ha. De fet, segons EEA (European Environment Agency, 2007), Espanya, 
+juntament amb França, Itàlia i Grècia, són les zones on el reg ha presentat un increment més 
+notable.
+Dins aquest marc contrasta la situació de Catalunya, respecte la resta de l’estat espanyol. 
+Comparant en termes relatius de SAU, l’increment de reg a Catalunya ha estat del 0,41 %, mentre 
+que en el conjunt d’Espanya ho ha estat en 8,54 %. El pes relatiu de Catalunya a Espanya en termes 
+de SAU és de 6,48 %. En aquest sentit i en termes relatius de SAU, la transformació de secà a 
+regadiu al conjunt d’Espanya ha estat 21 (2090 %) vegades superior que a Catalunya.
+PAG. 10 DE 38
+Dins d’aquesta divisió, els regadius presenten diferents estadis de desenvolupament, ja sigui en 
+relació a les modernitzacions, pel que fa als regadius tradicionals, com d’execució dels altres 
+regadius, com seria el cas del Segarra- Garrigues. Per tant, s’ha de definir un segon nivell de 
+caracterització. En aquest segon nivell de caracterització es defineixen dos conceptes:
+ 
+Situació: fa referència a la seva caracterització transitòria quant al nivell de planificació.
+ 
+Estat: fa referència a com està regant actualment.
+ 
+Regadius tradicionals
+ 
+Altres regadius
+De tot el que s’exposa es pot concloure que la regressió del regadiu a Catalunya, en termes absoluts 
+és certament important, i en termes relatius en un context espanyol i de competitivitat en un marc 
+europeu, la pèrdua de pes del regadiu, i en conjunt de l’agricultura, és significativa.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+En aquest grup s’inclouen les actuacions en què ja s'ha finalitzat l’obra d’implantació del 
+regadiu, així com també els regadius que, estant estructurats en una sola fase d’execució, 
+s’estan construint actualment. També es consideren dins d’aquest grup els regadius en què 
+l’obra ja està adjudicada a data 31/12/2007, no obstant encara s’hagi d’iniciar.
+En aquest grup s’inclouen els regadius que estan estructurats en diverses fases o etapes 
+d’execució, en els que ja s'ha executat una part (fase) de l'obra de execució, queda alguna part 
+que s’està executant, encara no s’ha adjudicat, o bé es troba en situació de planificació.
+Actualment no existeix una base única amb una delimitació dels àmbits de regadiu. De fet, en les 
+recents planificacions territorials de Catalunya, i en nombrosos planejaments municipals, la realitat 
+agrícola en general no queda reflectida, ni conseqüentment els regadius. Per tant, ha estat 
+necessària la delimitació dels regadius en tot el conjunt del territori d’abast del pla.
+La informació de base per a l’elaboració del Pla de Regadius ha estat facilitada per REGSA. 
+Concretament s’ha partit d’una base SIG, amb tres nivells d’informació:
+ 
+Zones regables on s’han portat a terme actuacions recentment, on hi ha estudis desenvolupats 
+que es concreten en una delimitació de la zona regable. Aquesta és una base de treball de 
+REGSA, i és la que presenta, en aquelles zones on hi hagut activitat, la millor referència quant a 
+l’àmbit de regadiu. L’anomenarem base REGSA.
+ 
+Llistat de zones regables, on no sempre hi ha correspondència entre la base gràfica i la 
+informació del regadiu delimitat. Sovint hi ha referències gràfiques indicatives que mostren la 
+presència de zones regables però sense delimitar-les exactament. L’anomenarem base DAAM.
+ 
+Bases del Plan Nacional de Regadios, de l’any 1986. És una base gràfica amb informació 
+associada certament detallada, basada en cartografia de gran escala i, donada la seva 
+antiguitat, obsoleta en alguns casos. L’obsolescència es mostra especialment on la pressió 
+urbana ha estat més intensa, havent nombroses superposicions amb zones urbanes consolidades.
+És una base excel·lent, considerant la seva antiguitat, que ha permès redibuixar, en allò que ha 
+estat possible, les zones de regadiu actuals a Catalunya. L’anomenarem base PNR.
+2.3.4 
+Delimitació dels espais regables. Estat actual 2008
+ 
+En procés d’execució i parcialment en servei
+Es preveuen dos tipus de regadius:
+ALTRES REGADIUS
+ 
+En servei
+En aquest grup s’inclouen els regadius en què ja s'ha finalitzat les obres de modernització, així 
+com també els regadius que estant estructurats en una sola fase d’execució, s’estan executant 
+actualment. També es consideren dins d’aquest grup els regadius en què l’obra ja està 
+adjudicada a data 31/12/07, no obstant encara no s’hagi inicial.
+En aquest grup s’inclouen els regadius que estan estructurats en diverses fases o etapes 
+d’execució, en els que ja s'ha executat una part (fase) de l'obra de modernització, queda alguna 
+part que s’està executant, encara no s’ha adjudicat, o bé es troba en situació de planificació.
+Són regadius on no s’ha portat a terme cap obra de modernització substancial ni total ni 
+parcialment. Són regadius tradicionals amb baixes eficiències, i generalment de forma 
+majoritària amb reg a tesa.
+Altres regadius 
+En execució i parcialment en servei 
+En procés d'execució i parcialment en 
+servei
+Regadiu tradicional 
+No modernitzat. 
+En fase prèvia de planificació de 
+modernització.
+En planificació de modernització.
+En procés de modernització. 
+En procés de modernització.
+La definició específica de cada una de les categories definides és la següent:
+Modernitzat. 
+Modernitzat.
+CLASSIFICACIÓ DE LA SITUACIÓ I ESTAT ACTUAL DELS REGADIUS A CATALUNYA
+Tipus de reg 
+Estat 
+Situació
+En servei 
+En servei
+ 
+En planificació de modernització
+Es diferencien dues situacions:
+ 
+En procés de modernització
+Es diferencien tres categories:
+REGADIUS TRADICIONALS
+ 
+No modernitzat.
+ 
+Modernitzat
+PAG. 11 DE 38
+El resultat dels creuaments entre les diferents bases s’ha superposat amb les bases del SIGPAC. 
+Partint de la base de que els regadius tenen caràcter estratègic, i són un be patrimonial del país, 
+s’ha portat a terme la lectura del territori reconstruint els àmbits regables potencials, definint 
+evolvents, que inclouen les parcel·les regades.
+En base a cartografia 1:25.000 del ICC, contrastada amb les imatges de satèl·lit més actualitzades 
+(google earth, i ortoexpress de l’ICC), les evolvents facilitades per REGSA (base REGSA, base DAAM, 
+i base PNR) i les dades del SIGPAC 2007, s’ha redibuixat tot el territori de Catalunya, excloent dels 
+àmbits delimitats pels planejament territorial, i les bases següents del SIG del Departament de 
+Territori i Sostenibilitat (DTS):
+ 
+Zones esportives
+ 
+Zones urbanes.
+Inclou els regadius on s'està redactant o recentment s’ha finalitzat la redacció dels 
+projectes constructius.
+En aquest grup s’inclou un gran nombre de comunitats de regants disperses per tot el 
+territori català on encara no s’han definit actuacions. S'han de portar a terme estudis previs 
+(superfícies, dotacions, infraestructures, etc.) per tal de determinar les seves 
+característiques i la seva possible modernització.
+ 
+En fase prèvia de planificació de modernització
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+amb la seva tramitació completa, i que es posaran en servei en els propers anys, durant la vigència 
+del present pla.
+En principi, els regadius parteixen d’una dotació (m3/ha i any) que es formalitza en una alternativa 
+de conreus, i una tipologia de reg. En els nous regadius, i en base a les estimacions de les 
+alternatives de conreus més adequades, s’ajusten les dotacions. En els regadius consolidats i 
+històrics les alternatives de conreu s’ajusten a la disponibilitat d’aigua. En aquest sentit, cal 
+remarcar que les demandes d’aigua depenen fortament de la variabilitat climàtica, mentre que les 
+dotacions són paràmetres fixos.
+Malgrat els dos conceptes estan relacionats, la forma de determinar-los és diferent. La demanda 
+dependrà directament de l’any corrent, mentre que la dotació, en principi hauria de fer referència 
+a un valor envolvent, que estigui per sobre dels valors corrents, amb una determinada probabilitat, 
+la qual correspondria a un tercer concepte; el de garantia.
+Per al càlcul de la demanda d’aigua pel reg, es pren de referència metodològica l’estudi “Pla per a 
+l’eficiència en l’ús de l’aigua per a reg agrícola”, de setembre de 2008, portat a terme per 
+l’Agència Catalana de l’Aigua i l’Institut de Recerca i Tecnologia Agroalimentària (IRTA), que és, 
+fins a la data, el més recent i detallat. Aquest va prendre les dades de la DUN de l’any 2007, i 
+també les dades climàtiques de l’any 2007, i per tant el càlcul de demanda correspondria doncs a 
+un any corrent.
+El present estudi, si be pren les dades per les alternatives de conreu de la DUN del 2007, les dades 
+climàtiques són les de l’any mig, extretes de l’Atles Climàtic de Catalunya.
+Com a metodologia bàsica per a estimar les necessitats netes d’aigua dels conreus es pren la 
+publicació FAO 56 “Evapotranspiració del cultiu. Guies per a la determinació dels requeriments 
+d'aigua dels cultius” 1998.
+2.3.5.1 
+Metodologia d’estimació de la demanda d’aigua
+e
+c
+n
+P
+ET
+N
+
+
+ 
+ETc: Evapotranspiració del conreu
+Les necessitats netes (Nn) s’obtenen de:
+2.3.5 
+Demanda d’aigua pel reg
+On;
+El resultat d’aquesta primera delimitació ha permès que la superfície resultant, tingui la coherència 
+territorial que li mancava, i ara es pot superposar als Plans Territorials Parcials de Catalunya, 
+donant també coherència a tot el conjunt.
+Un cop determinat l’evolvent del regadiu s’ha determinat la superfície neta regable. Donada 
+l’antiguitat d’algunes bases i la velocitat de canvi del usos de part del territori, s’han contrastat les 
+dades de superfícies netes provinents de la informació de base, amb les dades gràfiques noves 
+generades. Per estimar la superfície neta s’ha pres de referència:
+No sempre, la informació resultant ha estat coincident, i s’ha pres en cada cas aquella que 
+s’ajustava més a la realitat territorial. Hi ha hagut regadius que han perdut superfície neta de reg, 
+especialment en relació al sòl urbà i infraestructures, on destaquen regadius molt propers a zones 
+urbanes o en zones on hi hagut una forta pressió urbanística, com per exemple els regadius històrics 
+al voltant de Lleida i el seu àmbit metropolità.
+En la següent taula es mostra la superfície de regadiu, diferenciant la que està en reg d’aquella que 
+encara, malgrat les obres estan en marxa, no està en servei.
+ha 
+% 
+ha 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+115.053,01 
+37,25 
+115.053,01 
+28,22
+EN PROCÉS DE MODERNITZACIÓ 
+141.147,96 
+45,70 
+141.147,96 
+34,62
+MODERNITZAT 1 
+19.311,84 
+6,25 
+19.311,84 
+4,74
+TOTAL REGADIUS TRADICIONALS 
+275.512,81 
+89,19 
+275.512,81 
+67,57
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+26.965,83 
+8,73 
+125.800,57 
+30,85
+Tipus de reg 
+Estat 
+Superfície consolidada 
+en reg1 
+Superfície total de 
+regadiu2
+ 
+Les bases de dades facilitades per REGSA, relacionades anteriorment.
+ 
+Espais protegits incompatibles amb el regadiu
+ 
+Mapes de cobertes en SIG del DTS
+ESTAT ACTUAL DELS REGADIUS. SUPERFÍCIE
+ 
+Xarxa fluvial de gran entitat.
+ 
+Masses forestals d’entitat
+ 
+Base SIGPAC 2008
+ 
+Infraestructures
+PAG. 12 DE 38
+ 
+Les alternatives de conreu de cada àmbit regable, que correspondran amb una estimació del 
+Coeficient de conreu (Kc)
+ 
+Climatologia, de la que s’obtindrà l’Evapotranspiració de referència (ETo), i la pluviometria 
+efectiva
+ 
+Eficiència de reg, incloent tant el transport com l’aplicació en parcel·la.
+Per a cada un dels regadius s’ha determinat l’alternativa de conreus actual.
+Les dades necessàries per al càlcul de la demanda, s’obtindran de:
+ 
+Pe: Precipitació efectiva
+ALTERNATIVES DE CONREU
+Per tant, es pot concloure que la superfície total de regadiu a Catalunya és de 407.724 ha, de les 
+quals 308.889 estan actualment consolidades, i al voltant de 99.000 estan en construcció, i per tant
+EN SERVEI 
+6.411,18 
+2,08 
+6.411,18 
+1,57
+TOTAL ALTRES REGADIUS 
+33.377,01 
+10,81 
+132.211,76 
+32,43
+TOTAL 
+ 
+308.889,82 
+100,00 
+407.724,57 
+100,00
+2. Superfície total de regadiu: fa referència a totes les zones actualment de regadiu, incloent aquelles que efectivament 
+es reguen i aquelles altres que estan en el moment de redacció del Pla, en construcció, i per tant com correspon es 
+preveu finalitzar i posar en reg.
+1. Superfície consolidada de reg: fa referència a la superfície que actualment es rega de forma efectiva.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Dels anteriors gràfics es pot concloure que l’alternativa de conreus és clau per a determinar les 
+demandes de reg, i alhora mostra una certa capacitat d’adaptació a variacions de disponibilitat 
+d’aigua, si més no a mig termini. Per tant, es lògic pensar que davant de situacions continuades de 
+falta d’aigua es tendirà a conreus menys exigents, mantenint, llevat de casos extrems, el caràcter 
+de regadiu.
+Quant a les dades climàtiques, pel present pla de regadiu, es prenen de base les dades climàtiques 
+de l’any mig, extretes de l’Atles Climàtic de Catalunya (període 1961-1990) del  Servei Metereològic 
+de Catalunya. Les dades utilitzades han estat:
+En base a aquestes dades, i per a cada regadiu, s’ha calculat la ETo (Evapotranspiració de 
+referència), pel mètode de radiació, que utilitza valors de temperatura i radiació solar. Aquest 
+mètode és el més fiable amb les dades climàtiques disponibles amb raster a nivell de tot Catalunya.
+No tota l’aigua de la precipitació ( i del reg) es posa a disposició de la planta. Hi ha pèrdues per 
+evaporació, per quedar l’aigua retinguda, per exemple, en les fulles, o per no arribar al sòl, 
+pèrdues per escolament superficial, o pèrdues per percol·lació profunda.
+En els annexos es mostra l’ETo estacional per a cada un dels regadius.
+s
+Mit
+o
+R
+T
+ET
+
+
+
+
+)
+78
+.
+17
+(
+0135
+.
+0
+L’expressió per al càlcul de l’ETo, és la següent:
+Evapotranspiració de referència
+ 
+Tmit: Temperatura mitjana
+ 
+Temperatura mitjana (ºC)
+ 
+Rs: Radiació solar
+Pluviometria efectiva
+ 
+Precipitació (mm)
+DADES CLIMÀTIQUES
+ 
+Radiació (mm)
+On;
+Hi ha diversos estudis portats a terme per a estimar la distribució probable dels conreus en els 
+regadius. El més recent, i més detallat, és el desenvolupat en el “Pla per a l’eficiència en l’ús de 
+l’aigua per a reg agrícola”, de setembre de 2008, portat a terme per l’Agència Catalana de l’Aigua, 
+l’Institut de Recerca i Tecnologia Agroalimentària (IRTA) i el DAAM
+En aquest document s’associa a cada regadiu els sis conreus més probables. L’assignació es fa tenint 
+en compte l’estudi de conreus de regadiu més probables assignats a cada municipi segons 
+l’estimació realitzada a partir dels recintes on es va fer la declaració de la DUN l’any 2007. La 
+caracterització dels cultius de cada actuació en els diferents escenaris, està composta per sis cultius 
+principals i una categoria de ”Altres” inferior al 15-20 % de la superfície de l’actuació. Aquesta 
+metodologia es va utilitzar també en l’estudi portat a terme per REGSA, “Pla de regadius a 
+Catalunya. Anàlisi de la seva adaptació al canvi climàtic”. Institut Cerdà. Març de 2010.
+En el present document, i en base a la mateixa metodologia, s’ha portat a terme, també a partir 
+dels recintes on es va fer la declaració de la DUN l’any 2007, l’estimació de les alternatives de 
+conreu per a cada regadiu, ponderant en base als municipis inclosos en cada un d’ells, les dades 
+esmentades de la DUN. Per determinar les alternatives de conreu s’han considerat únicament els 
+que fan referència al regadiu, excloent per tant els sòls de secà.
+L’evapotranspiració de conreu (ETc), que expressa les necessitats d’aigua dels conreus en 
+condicions òptimes, es calcula segons la següent expressió:
+Quant a les dades dels conreus, es prenen les alternatives de conreu estimades, segons s’ha explicat 
+en l’apartat anterior, calculant una kc (Coeficient de conreu) estacional equivalent per a cada 
+regadiu, en base a les kc corresponents a l’alternativa de conreu estimada.
+En els següents gràfics es mostren diferents patrons de kc estacional de diferents regadius de 
+Catalunya.
+c
+o
+c
+K
+ET
+ET
+
+
+ 
+ETo: Evapotranspiració de referència
+ 
+Kc: Coeficient de conreu
+On
+PAG. 13 DE 38
+La precipitació efectiva expressa doncs la precipitació (o aigua de reg) que es posa a disposició de 
+les plantes en el sòl, i sempre és menor que la pluja caiguda. L’expressió per al càlcul de la 
+precipitació efectiva és:
+
+
+)
+000955
+.
+0
+(
+824
+.
+0
+10
+93
+.
+2
+25
+.
+1
+)
+(
+c
+ET
+t
+e
+P
+D
+f
+P
+
+
+
+
+
+
+ 
+Pt: precipitació total en el període de referència.
+ 
+F(D): és un factor que depèn de la precipitació
+ 
+ETc: Evapotranspiració de conreu
+On;
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+explotacions individuals que es doten de petits embassaments i pressuritzen la seva xarxa de 
+distribució incorporant sistemes més eficients. Aquest és un fet habitual en els àmbits dels regs 
+tradicionals, donant com a resultat un increment efectiu de la superfície de reg, més que un estalvi 
+efectiu d’aigua.
+Per altra banda, per tal de contrastar el valor exposat d’eficiència, s’ha calculat el valor potencial, 
+considerant tots els regadius modernitzats, i per tant, associant a cada conreu el tipus de reg més 
+eficient que li correspon, i alhora també la millora del transport. L’eficiència potencial actual dels 
+regadius a Catalunya resulta en 74,11 %, que està molt per sobre dels valors actuals, i per tant hi 
+ha un important marge de millora.
+Les necessitats d’aigua a punt de captació (Npc) seran les resultants d’aplicar a les necessitats 
+netes l’eficiència de reg (transport fins a parcel·la i reg). Resultat del que s’ha exposat la demanda 
+dels regadius actuals, diferenciant allò que està en reg, d’allò que està previst que entri en reg en 
+la vigència del pla, és de:
+De les anteriors taules se’n desprèn que, de les zones en reg actualment a Catalunya, gairebé el 90 
+% són regadius tradicionals, amb un consum que arriba 96 % del total disposat. Els altres regadius es 
+limiten a un 10 % de la superfície, amb un consum que no arriba la 4 % del total disposat.
+hm3 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+680,31 
+28,45 
+680,31 
+25,77
+EN PROCÉS DE MODERNITZACIÓ 
+1.587,31 
+66,39 
+1.587,31 
+60,13
+MODERNITZAT  
+30,47 
+1,27 
+30,47 
+1,15
+TOTAL REGADIUS TRADICIONALS 
+2.298,09 
+96,12 
+2.298,09 
+87,06
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+73,87 
+3,09 
+322,83 
+12,23
+EN SERVEI 
+18,88 
+0,79 
+18,88 
+0,72
+TOTAL ALTRES REGADIUS 
+92,75 
+3,88 
+341,71 
+12,94
+TOTAL 
+ 
+2.390,84 
+100,00 
+2.639,80 
+100,00
+Tipus de reg 
+Estat 
+Superfície consolidada 
+en reg 
+Superfície total de 
+regadiu
+2.3.5.2 
+Demanda d’aigua i dotacions
+ESTAT ACTUAL DELS REGADIUS. DEMANDA D’AIGUA1
+Per tal d’estimar l’eficiència actual per a cada un dels regadius s’ha caracteritzat el tipus de 
+transport i el tipus de reg, associant una eficiència. La combinació d’ambdós dóna com a resultat 
+l’eficiència en parcel·la.
+Si be els sistemes de transport es poden acotar en cada un dels regadius, el sistema de reg en 
+parcel·la presenta una major complexitat. En aquells regadius no modernitzats total o parcialment, 
+i per tant, on el reg és a tesa, s’associen eficiències de reg a tesa per tots els conreus. En els 
+regadius on s’han portat a terme total o parcialment la seva modernització, l’eficiència en parcel·la 
+s’obté de les alternatives de conreu específiques, associant a cada un dels conreus una tipologia de 
+reg, i per tant una eficiència. En el cas de conreus on s’ha modernitzat una part es pondera 
+l’eficiència associada als conreus amb la resta, a la que se li associa la corresponent de reg a tesa.
+Capítol 
+Mode 
+Eficiència
+TRANSPORT 
+T1. CANAL OBERT + BASSES, DISTRIBUCIÓ A CEL OBERT 
+60,00
+T2. CANAL OBERT + BASSES MODERNITZAT, DISTRIBUCIÓ PRESSIÓ 
+88,00
+T3. PRESSIÓ 
+97,50
+APLICACIÓ 
+A1. TESA 
+65,00
+A2. ASPERSIÓ 
+85,00
+A3. DEGOTEIG 
+90,00
+En els annexos es mostra la pluviometria efectiva estacional per a cada un dels regadius.
+3
+7
+2
+5
+10
+32
+.
+2
+10
+94
+.
+8
+0116
+.
+0
+53
+.
+0
+)
+(
+D
+D
+D
+D
+f
+
+
+
+
+
+
+
+
+
+
+
+Les tipologies de reg per conreu segueixen la següent lògica:
+ 
+D: és la precipitació en el període referència
+ 
+ETc: Evapotranspiració de conreu
+PARÀMETRES PER A AVALUAR L’EFICIÈNCIA.
+EFICIÈNCIA DE REG
+On;
+PAG. 14 DE 38
+La consolidació dels regadius en execució comportarà que els altres regadius augmentin fins el 30 % 
+amb un consum del 15 % del total, mentre que els tradicionals es redueixen al 70 % de superfície i al 
+85 % del consum total.
+Resultat del que s’ha mostrat en els apartats anteriors es pot fer un càlcul de la demanda d’aigua 
+per a cada un dels regadius. A aquest se li han definit dues situacions:
+ 
+Demanda potencial: aplicant l’eficiència màxima que correspondria a cada conreu i sistema de 
+transport. El resultat és la demanda mínima d’aigua en els regadius actuals.
+CARACTERITZACIÓ DE LA DEMANDA D’AIGUA. COMPARACIÓ AMB LES DOTACIONS
+ 
+Demanda actual. Aplicant les eficiències actuals de reg
+Aplicant les eficiències a les actuacions previstes, en funció dels horitzons definits resulten en una 
+eficiència actual del 41,77 %
+El fort creixement del regadiu en el conjunt d’Espanya, ha fet que les eficiències de reg hagin 
+també augmentat notablement. Aquestes haurien passat del 66 %, de l’any 1999 de l’INE, al 72% 
+l’any 2006. Aquesta millora ve motivada tant pels nous regadius com pels plans de modernització 
+portats a terme. A Catalunya, aquestes dades són netament inferiors, amb eficiències de reg 
+certament baixes, i relacionades majoritàriament amb els regadius tradicionals.
+S’ha de dir que possiblement l’eficiència en explotació és superior a l’exposada, en molts casos 
+comportant sovint un increment de la superfície regable. En tot cas, aquesta eficiència es limita a
+ 
+Conreus llenyosos: reg per degoteig
+ 
+Conreus herbacis: reg per aspersió.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ 
+Regadius on la demanda està per sobre de la dotació, i per tant es generen tensions 
+importants en captació, i/o els conreus no tenen les demandes de reg satisfetes i per tant es 
+veu limitada la seva producció.
+ 
+Regadius on la demanda està ajustada a la dotació, amb una folgança més o menys 
+significativa.
+En la següent taula es mostra el nombre de regadius on la demanda està per sobre de la dotació, i 
+el que representa en percentatge respecte el nombre total de regadius. Alhora, es fa una anàlisi 
+qualitatiu mostrant el nivell de desajust, que es divideix en tres classes: aquelles on la diferència 
+de demanda i dotació és inferior al 10 %, aquella que està entre el 10 i el 50 %, i la que supera el 
+50%
+De la taula es pot concloure que el 34 % dels regadius, en nombre, tenen demandes per sobre de les 
+dotacions, ascendint al 62 %, si l’anàlisi es fa en superfície. En aquest context, cal matisar que hi ha 
+regadius de gran entitat que aprofiten les aigües de retorn, com els Canals d’Urgell, suplint en gran 
+part el dèficit aparent de la dotació, calculat des de les demandes dels conreus.
+Fent el mateix per a les demandes potencials, la situació canvia considerablement. El resultat 
+mostra que si es reguessin tots els conreus amb el tipus de reg que li correspongués d’una forma 
+eficient, el nombre de regadius amb demandes superiors a la seva dotació seria testimonial, 
+reduint-se al 0.4 % de la superfice total de regadius.
+Concepte 
+Demanda > Dotació 
+Desviació < 10 % 
+10 % < Desviació < 
+50 % 
+Desviació >50 %
+Demanda (nombre) 
+128 
+34,88 
+36 
+9,81 
+77 
+20,98 
+15 
+4,09
+Demanda (ha) 
+191.623 
+62,04 
+20.913 
+6,77 
+167.126 
+54,11 
+3.584 
+1.16
+Concepte 
+Demanda > Dotació 
+Desviació < 10 % 
+10 % < Desviació < 
+50 % 
+Desviació >50 %
+Valor 
+% 
+Valor 
+% 
+Valor 
+% 
+Valor 
+%
+En un segona fila es repeteix el mateix anàlisi, fet aquest cop en superfícies de regadiu.
+ANÀLISI DE LA SATISFACCIÓ DE LA DEMANDA POTENCIAL
+ANÀLISI DE LA SATISFACCIÓ DE LA DEMANDA ACTUAL
+Es presenten bàsicament dues situacions:
+Alhora, per a cada un dels regadius s’ha establert la seva dotació. Les fonts d’informació han estat 
+diverses:
+ 
+Consultes específiques a les dades de cada comunitat  de regants a la Confederació Hidrogràfica 
+de l’Ebre
+En cas de que no hi hagi font, o les dades no siguin fiables, s’ha optat per estimar una dotació en 
+base a les dades mitjanes generals de la conca a que pertanyen. Aquesta situació es dona en casos 
+on es disposa de cabals instantanis, que en la seva transformació a dotació donen valor molt 
+elevats, superiors a 10.000 m3/ha i any, o en altres casos on simplement no hi ha més dades.
+La distribució de demandes i dotacions en valor absolut (màxima i mínima), ponderada per 
+superfície, és mostra en les següents taules:
+La diferència entre la demanda actual, i la potencial, mostra el marge de millora en els regadius 
+actuals.
+De fet, de l’anàlisi comparativa de les dades exposades es pot concloure que les demandes actuals 
+sense limitacions (regant per les demandes del conreu en un any mig) estan per sobre de les 
+dotacions, generant per tant una important pressió sobre els punts de captació, i una pèrdua de 
+rendiment dels conreus.
+En tot cas, les demandes potencials estan per sota de les concessions, i per tant es pot concloure 
+que es podria mantenir, amb millores, la superfície de reg amb prou garantia d’abastament. La 
+diferència de la demanda actual de 9.395 amb la potencial, de 5.131, mostra un important 
+potencial de millora en l’estalvi d’aigua.
+Mitjana ponderada
+En tots els casos, les dades expressen les demandes sense limitacions, i per tant, pot ser que hi 
+hagi regadius que estiguin sol·licitant aigua per sobre de les seves dotacions
+(m3/ha i any)
+Demanda actual 
+22.799 
+1.232 
+9.395
+Demanda potencial 
+14.779 
+679 
+5.131
+Dotacions 
+20.213 
+850 
+8.005
+CARACTERITZACIÓ COMPARATIVA DE LES DOTACIONS DELS REGADIUS ACTUALS
+ 
+Plan Nacional de Regadios 1997. Ministerio de Medio Ambiente.
+ 
+Cens de les comunitats de regants de Catalunya. DAAM. 2007.
+ 
+Cens de comunitats de regants de Catalunya (MOPTMA. 1994)
+(m3/ha i any)
+Mín.
+(m3/ha i any)
+Concepte 
+Màx.
+PAG. 15 DE 38
+En els annexos es mostren les dades de tots els regadius, mostrant aquelles que estan per sobre la 
+demanda.
+Valor 
+% 
+Valor 
+% 
+Valor 
+% 
+Valor 
+%
+Demanda (nombre) 
+4 
+1,09 
+2 
+0,54 
+2 
+0,54 
+0 
+0
+Demanda (ha) 
+1.225,82 
+0,40 
+376,10 
+0,12 
+849,73 
+0,28 
+0 
+0
+Un cop determinades les demandes en punt de captació és important fer una anàlisi de satisfacció 
+de la demanda. Aquest es porta a terme comparant les necessitats en punt de captació i les 
+dotacions.
+En els annexos es mostren les dades per a cada un dels regadius actuals.
+2.3.5.3 
+Anàlisi de satisfacció de la demanda.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Aplicant aquestes demandes energètiques a les demandes d’aigua de cada un dels regadius, en un 
+any mig, classificats segons la tipologia exposada, resulta una demanda energètica actual dels 
+regadius a Catalunya de 118,44 GWh, que segons la tipologia de regadius es reparteixen de la 
+següent manera:
+Les emissions de CO2 associades a aquest consum energètic, prenent com a referència el valor del 
+mix energètic nacional de 385 gCO2/kwh, és de 45.599,39 Tn CO2eq/any, que representen el 0,90% 
+de les emissions del sector agrari l’any base (5.041.710 Tn CO2eq/any).
+Resulten alhora unes mitjanes de consum elèctric de 386 kw h ha-1 any-1 que equival a 148 kg CO2 
+ha-1 any-1
+En el quart informe del Grup Intergovernamental d’Experts sobre el Canvi Climàtic (IPCC), fet públic 
+a finals de l’any 2007, s’afirma que el clima de la Terra està canviant d’una manera que no té 
+precedents coneguts. El canvi climàtic actual es qualifica d’inequívoc, i una part principal o 
+significativa de les causes s’atribueixen a les emissions de gasos amb efecte d’hivernacle. El canvi 
+climàtic actual és un fenomen d’escala global, però que també es reflecteix a escala local, i en 
+aquest cas a Catalunya.
+Els escenaris d’emissions estan definits per l’IPCC, representen diferents possibles evolucions en les 
+emissions de gasos d’efecte hivernacle per efecte de diversos factors socioeconòmics. 
+Concretament, les projeccions considerades en el present pla, són els escenaris d’emissions A2 i B1, 
+en tres blocs temporals que inclou els períodes 2001-2020, 2041-2060 i 2081-2100.
+any-1 
+Kg C ha-1
+any-1
+ALTRES REGADIUS 
+EN 
+PROCÉS 
+D'EXECUCIÓ 
+I 
+PARCIALMENT EN SERVEI 
+26.965,83 
+64,82 
+2.403,78 
+925,46
+EN SERVEI 
+6.411,18 
+24,11 
+3.760,62 
+1.447,84
+REGADIU 
+TRADICIONAL 
+MODERNITZAT 
+10.616,84 
+19,16 
+1.804,68 
+694,80
+EN PROCÈS DE MODERNITZACIÓ 
+149.842,96 
+0,00 
+0,00 
+0,00
+NO MODERNITZAT 
+112.287,79 
+10,35 
+92,17 
+35,49
+Kw h ha-1
+Tipus de reg 
+Estat 
+Superfície 
+regada (ha) 
+Demanda 
+energètica 
+(GWh/any)
+2.3.7 
+Situacions generades pel canvi climàtic.
+DEMANDA ENERGÈTICA DELS REGADIUS
+Per a determinar la demanda energètica del model actual dels regadius, s’ha portat a terme una 
+anàlisi del consum dels diferents regadius associant una caracterització per a les diferents tipologies 
+de regadius. Aquesta s’ha portat a terme en base a la recopilació de diferents projectes de 
+regadius, extraient, per tipologia de reg, l’energia necessària prevista pels bombaments
+ 
+E1. Regadius a tesa/gravetat, on el transport i el sistema de reg, no requereixen cap tipus de 
+bombament.
+ 
+E.2. Regadius tradicionals modernitzats, que responen a les actuacions de modernització, 
+generalment derivant aigua del canal a basses, que donen servei per pisos a diferents sectors de 
+reg. En aquests, ja sigui pel bombament a basses, o de les basses contra la xarxa, es requereix 
+algun tipus de bombament.
+Reguen zones de regs històrics, generalment planes, i per tant tenen uns requeriments 
+energètics relativament reduïts.
+ 
+E.3. Altres regadius, amb dotació completa, segueixen l’esquema de la modernització, en 
+general, malgrat sovint, les zones regades presenten majors desnivells, i per tant uns 
+requeriments energètics superiors.
+ 
+E.4. Regadius de suport a conreus llenyosos. Són els qui presenten uns majors requeriments 
+energètics, amb bombament amb gran desnivells, i en alguns casos també importants 
+distàncies.
+Malgrat aquests requeriments energètics, les dotacions són molt reduïdes, al voltant dels 2000 
+m3/ha i any. Amb dotacions completes, els costos energètics farien inviables les explotacions.
+ 
+E.5. Regadius de suport a conreus herbacis. Són zones generalment on per les característiques 
+agràries permetrien dotacions completes, però per altre tipus de condicionants, es redueixen 
+les seves dotacions.
+A partir de l’anàlisi de regadius executats i en execució, així com de projectes aprovats, es generen 
+els estàndards de consum que han servit de base per a l’estimació de les demandes energètiques del 
+model actual dels regadius:
+Codi 
+Descripció 
+Demanda (kwh/m3)
+ESTÀNDARD DE DEMANDA D’ENERGIA ESTIMATS PEL PLA.
+Els requeriments energètics són similars als E.3.
+S’han determinat cinc tipus de regadiu:
+2.3.6 
+Demanda energètica
+PAG. 16 DE 38
+ 
+A2: Escenari representatiu d’una no intervenció i no reducció dels gasos d’efecte hivernacle. 
+Implica un major grau d’emissions i, en conseqüència, un major impacte del canvi climàtic.
+ 
+B1: Escenari caracteritzat per les hipòtesis generals d’adopció de polítiques de control de les 
+emissions i d’adaptació al canvi climàtic. Comparativament amb l’A2, les emissions són menors 
+i, per tant, les conseqüències del canvi climàtic haurien de ser més moderades.
+La caracterització fonamental d’aquests escenaris és la següent:
+E0 
+Sense reg 
+0,000
+E1 
+Regs a Tesa/ gravetat 
+0,000
+E2 
+Modernització de regadius tradicionals 
+0,279
+E3 
+Altres regadius amb dotació completa 
+0,388
+E4 
+Regs de suport a arbrat 
+1,390
+E5 
+Regs de suport a herbacis 
+0,388
+Font. Elaboració pròpia
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Incorporant els regadius en execució, i per tant, si a les superfícies en reg actualment no 
+modernitzats li afegim els regadius en construcció, considerant que estan totalment executats, la 
+situació és la següent:
+Actual 
+Potencial 
+Concessions 
+Sense limitacions
+Potencial: és el consum aplicant les eficiències màximes als conreus. Per tant és regar el que hi ha ara, i modernitzant tots 
+els regadius. S'aplica el topall de la dotació quan és superada per les demandes reals
+ 
+Segueix havent una important pressió sobre els recursos, donat que la demanda d’aigua sense 
+limitacions de la superfície total de regadiu actual, supera significativament les concessions, en 
+tots els escenaris temporals i de canvi climàtic. Aquesta pressió és deguda als regadius actuals 
+tradicionals.
+ 
+La modernització, entesa com la millora de l’eficiència de reg, permet situar les demandes 
+d’aigua significativament per sota de les concessions, en tots els escenaris de canvi climàtic i 
+horitzons temporals.
+ 
+La consolidació dels regadius actualment en construcció, juntament amb la millora de 
+l’eficiència dels regs actualment en reg, no superen, llevat d’en l’horitzó més allunyat i en la 
+hipòtesi de canvi climàtic més extrema, el consum actual dels regadius.
+Actual: és el consum mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la demanda real 
+(calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. S’estima doncs que 
+un regadiu mai regarà per sobre de l’aigua que té concedida, per tant és l’escenari que respon a la situació actual
+Sense limitacions: és el consum mantenint les eficiències actuals i sense limitacions, i per tant sense topall de dotació. És 
+rega satisfent al màxim les demandes de conreu amb les eficiències actuals
+3249,33
+A2 
+2001_2020 
+2783,86 
+2042,12 
+3451,23
+2041_2060 
+2868,00 
+2310,54 
+3951,79
+2081_2100 
+2902,94 
+2470,14 
+4277,97
+B1 
+2001_2020 
+2771,95 
+2023,50 
+3418,84
+2041_2060 
+2747,62 
+1968,88 
+3320,49
+2081_2100 
+2871,38 
+2295,10 
+3929,19
+2.919,65
+Concessions: és el consum de les concessions, i per tant esgotant al màxim la concessió d’aigua
+Escenari 
+Període 
+Sup. (ha) 
+Demanda (hm3)
+2.639,80 
+1932,21
+ESCENARIS DE CONSUM DE LES SUPERFÍCIE TOTAL DE REGADIUS
+D’aquesta situació és pot concloure:
+407.724,5655
+00 
+2001_2100
+La caracterització climàtica quant a variació de temperatura (ºC) i precipitació (%), pels diferents 
+escenaris i blocs temporals, suposa un increment gradual de les temperatures, i una disminució de 
+les precipitacions, així com una alteració estacional de les seves freqüències. El detall d’aquestes 
+variacions en els diferents escenaris es presenta en els annexos.
+En base a aquestes dades s’ha tornat a definir els rasters a nivell de Catalunya de les dades 
+climàtiques de l’Atles climàtic digital de Catalunya, tornant a portar a terme el càlcul de les ETo 
+(Evapotranspiració de Referència), i l’estimació de les necessitats netes de reg, segons la 
+metodologia ja exposada.
+D’aquest anàlisi en resulta per tant també un canvi en la demanda d’aigua, i en el cas de mantenir 
+les alternatives de conreu actual, també uns altres escenaris de satisfacció de la demanda.
+Actual 
+Potencial 
+Concessions 
+Sense limitacions
+ 
+Hi ha una important pressió sobre els recursos, donat que la demanda d’aigua de la superfície 
+consolidada en reg actual, supera significativament les concessions, en tots els escenaris 
+temporals i de canvi climàtic.
+Actual: és el consum mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la demanda real 
+(calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. S’estima doncs que 
+un regadiu mai regarà per sobre de l’aigua que té concedida, per tant és l’escenari que respon a la situació actual
+Potencial: és el consum aplicant les eficiències màximes als conreus. Per tant és regar el que hi ha ara, i modernitzant tots 
+els regadius. S'aplica el topall de la dotació quan és superada per les demandes reals
+Sense limitacions: és el consum mantenint les eficiències actuals i sense limitacions, i per tant sense topall de dotació. És 
+rega satisfent al màxim les demandes de conreu amb les eficiències actuals
+2902,11
+A2 
+2001_2020 
+2423,47 
+1678,69 
+3087,81
+2041_2060 
+2473,76 
+1916,30 
+3557,56
+2081_2100 
+2492,30 
+2059,50 
+3867,33
+B1 
+2001_2020 
+2413,78 
+1665,33 
+3060,67
+2041_2060 
+2400,20 
+1621,46 
+2973,07
+2081_2100 
+2478,60 
+1902,32 
+3536,42
+2.472,55
+Concessions: és el consum de les concessions, i per tant esgotant al màxim la concessió d’aigua
+Escenari 
+Període 
+Sup.(ha) 
+Demanda (hm3)
+2390,84 
+1584,99
+ESCENARIS DE CONSUM DE LA SUPERFÍCIE CONSOLIDADA EN REG.
+D’aquesta situació és pot concloure:
+308.889,8241
+00 
+2001_2100
+PAG. 17 DE 38
+ 
+Resultat de les diferències entre l’estat actual i les dotacions, es pot concloure que hi ha encara 
+un cert marge de creixement, entenent que els regadius es mantenen sempre en el límit de les 
+concessions existents. És a dir, hi ha regadius que no esgoten la seva concessió, en base a les 
+alternatives de conreu actuals.
+ 
+La modernització, entesa com la millora de l’eficiència de reg, permet situar les demandes 
+d’aigua significativament per sota de les concessions actuals, en tots els escenaris de canvi 
+climàtic i horitzons temporals.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+diferents mecanismes per assegurar un ús sostenible de l’aigua, que haurien d’introduir objectius 
+per Catalunya, adaptats a les seves problemàtiques específiques.
+Així, estratègicament, en comptes d’actuar sobre un increment de la pressió sobre els recursos 
+disponibles, pot ser efectiu fer-ho sobre la demanda, incloent la reutilització de les aigües, la 
+millora dels sistemes de reg, transport i l’aplicació, augmentant la seva eficiència, proposant 
+mesures d’ajust del preu de l’aigua i establint sistemes de suport a les comunitats, i de 
+transferència tecnològica.
+En l’anàlisi dels regadius a Catalunya, s’ha exposat com la modernització dels regadius, entesa com 
+les actuacions destinades a millorar la seva eficiència, permet la consolidació dels regadius avui en 
+construcció, mantenint els nivells de pressió sobre les captacions, o fins i tot reduint-los, tot i haver 
+plantejat diferents escenaris de canvi climàtic i horitzons temporals.
+Per tant, aquesta situació es concreta necessàriament en dos dels objectius estratègics del Pla de 
+Regadius:
+ 
+Recolzar les Comunitats de Regants per tal de millorar la seva capacitat de funcionament en la 
+gestió de les funcions que les hi són pròpies.
+Altres objectius es deriven de problemàtiques més específiques, i que fan referència a la 
+consolidació a Catalunya del seu potencial productiu, que ha estat en certa manera aturat, posant 
+en crisi grans transformacions originàries en propostes històriques, mentre altres comunitats veïnes 
+han incrementat notablement aquest potencial productiu. Aquest fet alhora ha estat potenciat amb 
+la pèrdua de visibilitat dels sòls agrícoles en general, i del regadiu en particular, en un entorn 
+altament competitiu amb altres usos. La falta de visibilitat d’aquest sector estratègic ha suposat la 
+pèrdua irreversible de grans extensions de sòl productiu. Per tant, els objectius del pla es formulen 
+per corregir aquests efectes:
+ 
+Transformar en regadiu totes aquelles àrees que tenen un potencial agrícola important i que 
+amb el regadiu poden consolidar-lo, contribuint així a un millor desenvolupament de les zones 
+rurals de Catalunya i a un major equilibri territorial del país, recuperant les superfícies 
+perdudes de regadiu en els últims decennis, en el global de Catalunya.
+ 
+Posar en valor els sòls agrícoles, i concretament els regadius, com a eina d’ordenació 
+territorial i garantia del manteniment del valor patrimonials del sector primari, pel conjunt del 
+país.
+En relació al que s’ha exposat i en el marc de la Directiva 2000/60/CE per la que s'estableix un marc 
+comunitari d’actuació en l’àmbit de la política d’aigües, la Generalitat de Catalunya, a través del 
+DAAM, té establerts els següents objectius:
+ 
+Modernitzar els regadius històrics per tal de millorar l'eficiència i la seva gestió.
+L’agricultura, i en general el sector primari a Catalunya, és un sector estratègic, tot i la pèrdua de 
+pes econòmic en els últims decennis, per a la producció d’aliments per a la població.
+La formulació d’un país equilibrat, capaç d’oferir aliments en quantitat i qualitat a la seva població, 
+és una directriu estratègica, d’acord amb els principis més elementals de sostenibilitat. En aquest 
+sentit, els regadius són una peça clau, i malgrat la disponibilitat limitada dels recursos hídrics, són 
+imprescindibles per assolir els objectius estratègics definits.
+L’objectiu però de la planificació ha de permetre establir els horitzons dels regadius a Catalunya, 
+de forma conceptual, i més enllà de les planificacions específiques de conca, que n’han de ser una 
+conseqüència. Aquesta ha de ser de forma equilibrada entre la producció i la disponibilitat del 
+recurs, considerant la variabilitat en aquesta disponibilitat, i el seu caràcter finit.
+Es pot fer doncs una jerarquització inicial, quant als objectius generals lligats al caràcter estratègic 
+de l’agricultura i en conseqüència dels regadius:
+El regadiu incrementa notablement, en el nostre entorn, la productivitat. Les terres agrícoles de 
+regadiu comprenen menys d'una cinquena part del total de superfície conreada a nivell mundial, 
+però produeixen al voltant de dues cinquenes parts dels aliments del món (Doll i Siebert, 2002). A 
+Espanya l'agricultura de regadiu aporta més del 50% del total de la producció agrícola i més del 60% 
+del valor total dels productes agrícoles (OCDE, 2006).
+En un context europeu, en les últimes dècades, les forces que han mogut l’agricultura han estat la 
+productivitat, els mercats i en certa manera els ajuts. En aquest entorn d’estímul a la productivitat, 
+també mitjançant el regadiu, no es pot obviar que la influència dels mercats i la competència en 
+l’agricultura en la UE ha estat històricament esmorteïda per les ajudes als agricultors. Aquestes 
+subvencions han contribuït a que, tot i que s’apliquen taxes a les extraccions d’aigua, l’agricultura 
+no suporta el cost real del seu ús de l’aigua, amb major o menor grau. En contraposició, també s’ha 
+de dir que el sector primari no rep tots aquells beneficis, en gran part ambientals, que retorna a la 
+societat.
+3 
+OBJECTIUS DEL PLA DE REGADIUS
+1. Font d’aliments i altres matèries primeres
+3.1 
+OBJECTIUS GENERALS DEL PLA
+3. Oportunitat econòmica
+2. Equilibri territorial
+PAG. 18 DE 38
+ 
+Primer, transformar en regadiu totes aquelles àrees que tenen un potencial agrícola 
+important i que amb el regadiu poden consolidar-lo, contribuint així a un millor 
+desenvolupament de les zones rurals de Catalunya i a un major equilibri territorial del país, 
+recuperant les superfícies perdudes de regadiu en els últims decennis, en el global de 
+Catalunya.
+ 
+Segon, modernitzar els regadius històrics per tal de millorar l'eficiència del regadiu i la seva 
+gestió.
+ 
+Tercer, recolzar les Comunitats de Regants per tal de millorar la seva capacitat de 
+funcionament en la gestió de les funcions que les hi són pròpies.
+ 
+Quart, posar en valor els sòls agrícoles, i concretament els regadius, com a eina d’ordenació 
+territorial i garantia del manteniment del valor patrimonials del sector primari, pel conjunt del 
+país.
+En tot cas, a la UE en el seu conjunt, especialment en les grans xarxes col·lectives de reg, el preu 
+de l'aigua als agricultors poques vegades reflecteix els seu cost total ni tampoc el seu cost 
+ambiental, i per tant no actua com un incentiu per reduir la sobreexplotació. (Water resources 
+across Europe — confronting water scarcity and drought. EUROPEAN ENVIRONMENT AGENCY, 2009). 
+Aquest cost de l’aigua és un factor fonamental per les estratègies de modernització de regadius a 
+Catalunya.
+Tradicionalment els mecanismes per assegurar un subministrament suficient d’aigua han estat 
+incrementar la capacitat de regulació, les transferències d’aigua entre conques, o nous punts de 
+captació, tant d’aigües superficials com subterrànies. Aquestes pràctiques, en general, no aporten 
+solucions a llarg termini, i sí incrementen els efectes negatius de l’ús de l’aigua per part de 
+l’agricultura, o altres usos en competència. En un marc territorial ampli, de la UE, es plantegen
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Aquesta, a més del consum de recursos hídrics, descriu els efectes ambientals potencials. Aquests 
+es poden agrupar en cinc capítols:
+En coherència, els criteris i objectius ambientals han d’estar encarats a resoldre o reduir aquests 
+efectes, proposant en definitiva una formulació positiva dels efectes significatius:
+4. Garantir el manteniment dels valors ecològics en les àrees de substitució del secà pel regadiu, i 
+millorar les condicions actuals en els sectors ja en regadiu, especialment en les zones dels 
+regadius tradicionals.
+5. Preveure els efectes ambientals de les infraestructures i dissenyar-les en conseqüència, 
+afavorint la permeabilitat dels sistemes naturals, tant terrestres com fluvials.
+6. Establir un sistema socioeconòmic equilibrat que permeti assolir els objectius de millora en el 
+sector agrari, a partir de l’increment i l’estabilitat de les rendes, l’augment de llocs de treball, 
+com a base per a la dinamització de l’economia local, valorant alhora també la seva estabilitat i 
+qualitat.
+Aquests objectius de caràcter ambiental, tenen el mateix rang que els objectius generals formulats, 
+i per tant s’han de llegir de forma conjunta.
+2. Reduir les afeccions als sistemes fluvials i al drenatge, en relació a la quantitat del recurs.
+3. Millorar la qualitat de les aigües superficials i subterrànies en els àmbits de regadius.
+ 
+Efectes sobre els sòls. Canvis en les processos d’erosió i sedimentació.
+ 
+Desequilibris ecològics i efectes sobre la biodiversitat.
+1. Evitar l’increment de despesa de recursos hídrics.
+ 
+Efectes sobre la qualitat de l’aire i de l’aigua.
+ 
+Efectes sobre la hidrologia.
+ 
+Efectes socioeconòmics.
+Els projectes de reg es realitzen per a la millora de les condicions de vida, directament sobre el 
+món rural, i indirectament per al conjunt de la societat, tant pels efectes econòmics directes, com 
+per la seguretat d’una producció d’aliments suficients.
+Aproximadament un 20 % de la superfície agrícola total del mon és de regadiu, on es produeix però 
+un 50 % de la producció mundial. En contrapartida, els grans projectes de reg, comporten una 
+profunda transformació del territori, amb efectes ambientals associats.
+A Catalunya, la superfície de reg és un 26 % de la superfície total de la SAU (Superfície agrícola 
+útil).
+La iniciativa del camp català va ser pionera en la transformació en regadiu de grans parts del seu 
+territori. En alguns d’aquests, generant un canvi relatiu en la transformació d’espais deltaics o 
+al·luvials dels rius, on la presència de l’aigua ja oferia la possibilitat del conreu en regadiu, i on en 
+alguns casos aquestes infraestructures anaven també associades a importants obres de drenatge, 
+com en el cas dels esmentats sistemes deltaics del Ter- Fluvià- Muga, del delta de l’Ebre o del 
+Llobregat. Les grans transformacions de regadiu però s’han centrat tradicionalment en la depressió 
+de l’Ebre associada als rius més cabalosos i a les zones amb menor pluviometria. Les grans obres 
+hidràuliques del Canal d’Aragó i Catalunya, el Canal d’Urgell o el Canal de Pinyana, daten en alguns 
+casos de mitjans del segle XIX, transformant grans extensions de secà, que avui es reconeixen en 
+altres àmbits del territori, i generant paisatges avui assumits com als propis.
+La realitat generada per la transformació però, manté una estreta dependència de l’aportació 
+d’aigua, i per tant genera situacions amb un cert grau d’incertesa, o inestabilitat, en funció de la 
+seva disponibilitat. Per tant, a més de la pròpia transformació d’espais ecològicament més o menys 
+valuosos, la competència pel recurs en quantitat i en qualitat, amb els sistemes naturals font, 
+poden generar importants efectes ambientals que superen l’àmbit de la pròpia transformació, 
+especialment en períodes de dèficit, o de forma estructural si aquestes fossin excessives.
+Finalment, les infraestructures de captació i transport generen altres efectes ambientals que poden 
+ser significatius, variant localment les condicions hidrològiques dels cursos superficials en els punts 
+de captació (embassaments i en les mateixes captacions), generant efectes aigües avall.
+També l’efecte barrera generat per les infraestructures de transport, com les xarxes de canals i 
+sèquies, equivalents en alguns casos a grans infraestructures de transport terrestre, poden produir 
+efectes ambientals significatius.
+Per tant els efectes ambientals més importants dels regadius, es poden concretar en:
+3.2 
+INTEGRACIÓ DELS ASPECTES AMBIENTALS
+ 
+Increment del consum de recursos hídrics.
+PAG. 19 DE 38
+ 
+Efectes sobre les característiques hidrològiques dels sistemes de drenatge naturals, i les 
+condicions de la qualitat de l’aigua. Efectes sobre les masses d’aigua.
+La FAO, Organització de les Nacions unides per a l'Alimentació i l'Agricultura (FAO, sigles de Food 
+and Agriculture Organization ), estableix en la seva publicació “Environmental impact assessment of 
+irrigation and drainage projects”, les principals afeccions potencials al medi derivat dels grans 
+projectes de transformació de secà a regadiu i de drenatge.
+ 
+Efectes derivats de la construcció de les infraestructures de captació i transport.
+ 
+Transformació d’espais i de les condicions d’hàbitat i la biodiversitat.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+fins i tot obsoleta, i amb un horitzó de demanda d’aigua insostenible. Per tant, no sembla viable el 
+planteig de l’alternativa 0, entesa com el manteniment de la situació actual amb la finalització de 
+les actuacions ja iniciades, que no permet una evolució positiva del propi sector agrícola, 
+condicionant nous desenvolupaments, i que entra sovint en conflicte amb una demanda creixent 
+d’usos de l’aigua prioritaris accentuat en períodes de dèficit.
+En coherència amb el conjunt del document, la proposta i discussió d’alternatives manté 
+l’estructura desenvolupada també en l’Informe de Sostenibilitat, fent una formulació integrada de 
+les alternatives pel desenvolupament el Pla. En el present apartat es fa més incidència en aquells 
+aspectes estructurals, i per tant obviant aquelles formulacions més pròpies de l’Informe de 
+Sostenibilitat.
+La definició d’alternatives estratègiques en relació a l’ús de l’aigua del Pla de Regadius, té 
+múltiples implicacions i en conseqüència presenta una gran complexitat.
+En base als fonaments estratègics de l’agricultura, i per tant alimentació i matèries primeres, 
+equilibri territorial i oportunitat econòmica, s’ha de resoldre quin és el límit dels regadius a 
+Catalunya. Així, sobre aquests tres capítols, i des d’una visió de sostenibilitat, una alternativa 
+estratègica del Pla de Regadius ha de ser establir un sostre del sòl regable a Catalunya, i si aquest 
+sostre ha de ser fix, o pot ser variable, entenent variable com a proposta i no com a conseqüència 
+necessària d’un dèficit no previst. Actualment la superfície agrícola consolidada i planificada en reg 
+a Catalunya està al voltant de les 407.000 ha.
+Des d’un punt de vista estrictament econòmic, i de millora del sector agrícola, s’entendria una 
+proposta d’establir el sostre en el màxim possible, definint el concepte de màxim possible a partir 
+de la rendibilitat.
+4.2 
+DEFINICIÓ ESTRATÈGICA DEL PLA DE REGADIUS.
+Les alternatives es formulen en base a quatre aspectes.
+ 
+Estratègia front al canvi climàtic.
+ 
+Implicacions territorials.
+ 
+Altres aspectes socials.
+4.2.1 
+Ús de l’aigua
+ 
+Ús de l’aigua.
+La inèrcia dels regadius a Catalunya ve marcada pels regadius tradicionals i la consolidació de les 
+grans transformacions ja iniciades. L’estat actual, en relació a les zones regades l’any 2008, 
+presenta una realitat on un 85 % de la superfície es rega amb mètodes tradicionals, fonamentalment 
+a tesa, amb un consum d’aigua que arriba al 96% del total dedicat al reg.
+Les eficiències de reg d’aquests sistemes tradicionals estan, en el millor dels casos, al voltant del 50 
+%. És a dir, una part important de l’aigua aplicada no queda a disposició del conreu. En cap cas però 
+es pot parlar de pèrdua, sinó de bloqueig o retenció en el sistema regable, ja sigui per un increment 
+de l’escolament, un excés en les fraccions de rentat, i per tant en fluxos subsuperficials i la 
+recàrrega dels aqüífers, ... En tot cas es produeix una retenció temporal d’aquest recurs, amb una 
+pèrdua d’oportunitat per a altres usos, inclòs el propi reg, o en casos més extrems per a usos 
+prioritaris com pot ser el domèstic o la garantia de cabals de manteniment en els rius, en períodes 
+de forta sequera com els que es pateixen de forma recurrent.
+A més del bloqueig temporal del recurs quantitatiu, és produeix també una pèrdua de qualitat de 
+l’aigua, en els retorns als sistemes naturals, amb un increment de nutrients i restes de productes 
+utilitzats en l’explotació agrícola, que comporten danys, en alguns casos significatius, als sistemes 
+naturals.
+En relació a les explotacions agrícoles, la gestió actual del regadiu és prou satisfactòria, sempre que 
+es puguin garantir les dotacions de concessió. Contràriament, en períodes de sequera la gestió del 
+dèficit és complexa, no permetent en molts casos una resposta equilibrada en la mateixa zona 
+regada, ni en relació als altres usos, domèstic i ecològic que són prioritaris, bàsicament per una 
+xarxa de distribució i uns sistemes de reg poc eficients, i amb molt poca elasticitat per gestionar un 
+recurs que cíclicament és escàs.
+Actualment ja la demanda d’aigua per part dels conreus està en molts casos per sobre de les 
+dotacions, mostrant una important pressió sobre les captacions, i una pèrdua de rendiments dels 
+conreus. Aquesta situació avaluada en diferents escenaris de canvi climàtic, i en diferents horitzons 
+temporals, es veu certament agreujada.
+En aquest context definir el punt de partida del Pla de Regadius, i per tant la formulació de 
+l’Alternativa 0, planteja diferents possibilitats. Els regadius no són noves realitats en el territori de 
+Catalunya, i per tant, com en qualsevol altra activitat, s’han generat propostes globals o discretes 
+de millora, és a dir planificació, si be no des d’una visió de conjunt com la present. Per tant no té 
+sentit proposar el Pla de Regadius, ni qualsevol altra planificació de realitats tradicionalment 
+existents, com un comptador a zero.
+4.1 
+CONTINUÏTAT DEL MODEL ACTUAL. ALTERNATIVA ZERO
+4 
+ALTERNATIVES
+PAG. 20 DE 38
+La problemàtica es deriva de la variabilitat del recurs, i per tant de que el límit superior del regadiu 
+s’enfronta a una garantia de subministrament. És a dir, si la despesa de reg ha de ser fixa i lligada 
+a una superfície també fixa, la competència amb els usos prioritaris, domèstics i de cabals de 
+manteniment, han de comportar una folgança que eviti un permanent conflicte. Per tant, aquest 
+màxim hauria de ser relativament conservador, i proporcional a l’amplitud de la variabilitat del 
+recurs. Es pot dir doncs que els màxims fixes bloquegen la possibilitat de nous desenvolupaments, 
+especialment en aquelles conques majoritàriament agrícoles, com és el cas de la conca de l’Ebre a 
+Catalunya.
+Una altra alternativa, és assumir una determinada probabilitat de dèficit, entenent aquest no com 
+el resultat d’una despesa excessiva sinó com un desequilibri temporal entre la disponibilitat del 
+recurs i la demanda. Aquesta acceptació del dèficit planteja, a més dels aspectes estrictament 
+econòmics, el següent:
+El Pla planteja l’alternativa zero partint de la realitat actual, preveient la finalització d’aquells 
+regadius ja iniciats. Per tant, tal com s’ha exposat, la superfície de regadiu a Catalunya és de 
+407.724 ha, de les quals 308.889 estan actualment consolidades en reg, i al voltant de 99.000 estan 
+en construcció, i es posaran en servei en els propers anys, durant la vigència del present pla.
+Aquesta situació analitzada en un context de canvi climàtic per diferents escenaris i horitzons 
+temporals resulta en una situació de futur on les demandes dels recursos són certament elevades, 
+malgrat també hi ha un important potencial de millora.
+En qualsevol dels casos la situació actual dels regadius a Catalunya, no assoleix els objectius 
+marcats pel govern, o els condiciona fortament, presentant una situació esgotada, i en molts casos
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+mínima capacitat d’eficiència té un impacte molt important a nivell de balanç territorial per a 
+garantir el servei a la població i la qualitat ecològica dels rius, com a usos prioritaris.
+Per tant, és clau establir mecanismes de control fiables que permetin el coneixement de la 
+despesa, sent, en tot cas, l’esforç proporcional a aquesta.
+ 
+Implementació de sistemes de gestió de variació de la demanda, en funció de la disponibilitat 
+del recurs.
+El reg genera certa independència de la variabilitat climàtica local, quant a precipitacions. Com 
+més gran és la conca on es sostreu el recurs, i la seva capacitat de regulació, la variabilitat en 
+l’aportació es menor, depenent encara en menys grau de la pluja en un àmbit territorial 
+concret. Aquesta es compensa en part per la regulació de conques, especialment a les conques 
+catalanes de l’Ebre, o en l’abastament a partir d’aigües subterrànies, en les conques internes, 
+especialment important en l’àmbit del Camp de Tarragona, la Selva i el Baix Empordà.
+El plantejament no pot ser infalible, i per tant sembla lògic plantejar que entre la dependència 
+total i una cobertura també òptima amb el reg, hi ha un ventall de situacions. Aquestes es 
+poden moure entre els extrems de producció màxima, i la supervivència dels conreus. Tècniques 
+de Reg Deficitari Controlat, experimentats en regs de suport, permeten mantenir les 
+produccions amb dotacions certament escasses.
+Per tant, el Pla de regadius, ha d’implementar els sistemes de gestió que permetin, a partir de 
+les directrius de l’Administració hidràulica, establir els mecanismes d’ajust de les dotacions en 
+base a l’estat dels recursos i les seves previsions. Un sistema de gestió específic que permeti 
+una gestió eficient del dèficit.
+En aquest context, la gestió del dèficit planteja una segona alternativa, en relació a com es 
+disminueix la demanda en períodes de dèficit, podent ser amb la limitació de les dotacions de 
+reg, o de les de superfícies de reg o d’ambdues.
+La millora dels regadius permet l’increment de la productivitat de l’aigua. A part, tècniques 
+agronòmiques com el reg deficitari controlat, permeten una disminució de la dotació pràctica 
+de reg, que no té per que, en certs llindars, disminuir la producció d’una forma sensible. En tot 
+cas, aquesta estratègia comporta un salt tecnològic important.
+Té també una especial importància l’aposta per nous regs de suport, com a base per a dotar-se 
+d’elasticitat davant de períodes de dèficit.
+Aquestes tres estratègies han de convergir en el principal objectiu plantejat, que és no 
+incrementar el consum d’aigua per a regadius a Catalunya, i que en definitiva és el que estableix, 
+en base a la tecnologia, i tècniques de gestió, quin és el sostre de reg a Catalunya.
+Actualment amb els sistemes de reg majoritaris, no es possible una eficient gestió del dèficit.
+ 
+El reg genera dependència per a certs conreus en determinats emplaçaments. És a dir, en 
+absència de reg certs conreus ja no només no produirien, sinó que no viurien, p.e. certs conreus 
+de fruiters del Segrià. Contràriament, una olivera o un ametller amb reg de suport, pot passar 
+una campanya amb menys regs o sense reg sense comprometre la planta, assumint una pèrdua 
+de rendiment.
+Aquesta dependència comporta la definició d’una garantia de subministrament per la banda 
+baixa, és a dir, a més del topall màxim s’ha de definir també un segon topall màxim de conreus 
+amb dependència, amb un nivell suficient de reg per la seva supervivència, fixat sobre episodis 
+extrems de dèficit.
+ 
+La xarxa de reg ha d’estar preparada per a la gestió d’aquest dèficit. Actualment els grans 
+regadius tradicionals no tenen mecanismes àgils per a la gestió d’aquest dèficit, tant a nivell de 
+xarxa, com a nivell de sistemes de reg en parcel·la.
+Hi ha molts aspectes que poden intervenir en la discussió, però en tot cas la millor alternativa és 
+aquella que assolirà amb major grau els objectius del pla, i per tant que permeti el màxim 
+aprofitament de l’aigua disponible sense entrar en conflicte amb els usos prioritaris, no consumptius 
+i consumptius, i que faci un millor ús de l’aigua. En aquest context sembla que és la segona 
+proposta, de sostre variable, la que permet assolir aquests objectius, permetent ajustar-se més a 
+la variabilitat del recurs.
+Així, la diversitat de conreus i tipologies de reg ofereix una oportunitat per un gran estalvi, i 
+alhora la possibilitat d’establir uns llindars o marges per a la definició del sostre de reg. La 
+modernització de la xarxa i l’aposta pels regs de suport pot permetre una gran elasticitat en la 
+definició dels topalls màxims i mínims, lligada fonamentalment a la disponibilitat del recurs.
+ 
+Modernització de la xarxa, com a base per a l’alliberament de recurs, i millora en la gestió, i 
+especialment del dèficit.
+Es parla que l’agricultura, sent un dels principals consumidors d’aigua és molt poc eficient. 
+Aquesta afirmació és parcialment certa. L’agricultura ineficient bloqueja més que gasta. Els 
+conreus evapotranspiren, prenent aigua del sòl enviant-la a l’atmosfera i retenint-la en els seus 
+teixits. També es perd aigua per evaporació en l’aplicació del reg i en el seu transport. Aquesta 
+aigua representa una despesa neta.
+Per altra banda l’aplicació del reg preveu el que s’anomena una fracció de rentat, i una 
+ineficiència de pèrdua d’aigua per escolament superficial, o infiltració profunda, especialment 
+important en els regs per gravetat. Aquesta aigua no surt del sistema, sinó que recàrrega 
+aqüífers o retorna cursos superficials a través dels drenatges. El problema es que es bloqueja el 
+recurs en moments que es sol·liciten per altres usos, en períodes de sequera, o competeixen 
+amb el bon estat ecològic dels rius. Si el sistema fos estable en entrades i sortides, aquest 
+bloqueig no tindria cap importància més enllà del primer cicle. La problemàtica es deriva en la 
+variabilitat de la disposició del recurs, resultant que en períodes de dèficit hi ha una part 
+important de recurs bloquejat en el mateix sistema.
+En aquest sentit el pla de regadius ha de plantejar- se diferents estratègies:
+PAG. 21 DE 38
+ 
+Elasticitat en el sostre de reg, per adaptar-se a fluctuacions en la disponibilitat d’aigua, i en 
+conseqüència:
+ 
+Pressurització de la xarxa, amb l’objectiu de permetre disminucions graduals de dotacions 
+de forma equilibrada en el conjunt dels regadius.
+ 
+Aposta pel reg de suport, com element més tolerant a la reducció d’aportació d’aigua.
+ 
+Modernització dels regadius, com a estratègia fonamental d’alliberament del recurs.
+La modernització permet evitar aquest bloqueig temporal del recurs en moment de dèficit, pel 
+diferencial generat de la seva major eficiència, fen-lo disponible per altres usos, o per a 
+garantir la funcionalitat dels sistemes naturals lligats a l’aigua.
+La concessió del Canal d’Urgell (630 hm3, 423 del canal principal i 207 del canal auxiliar), és 
+superior al consum d’aigua domèstica de tota la població de Catalunya (541 Hm3). Per tant, una
+ 
+Implementació de sistemes de control.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+El DAAM ha portat a terme actualment una anàlisi dels efectes del canvi climàtic sobre l’agricultura 
+i concretament sobre els regadius. També ho ha fet l’ACA i la CHE amb diferents estadis de 
+desenvolupament, preveient en ambdós casos reduccions importants, al voltant del 10-20 % de les 
+aportacions mitjanes dels rius, i en el cas de l’ACA fins i tot incidint en l’estacionalitat.
+En aquest sentit, si be en les xifres no hi ha concordança, si que n’hi ha en les tendències, definint 
+un horitzó d’incertesa que en tot cas convergeix en una disminució d’aportacions, i un increment de 
+demandes.
+En el present pla s’ha portat a terme, amb informació de major detall quant a la delimitació dels 
+espais regables, i de les alternatives de conreus (distribució de conreus actuals i proposta), una 
+anàlisi de les tendències en el marc de diferents escenaris de canvi climàtic i horitzons temporals, 
+de la qual es pot concloure, que:
+ 
+hi ha una important pressió sobre els recursos, donat que la demanda d’aigua en la situació 
+actual dels regadius supera significativament les concessions,
+ 
+i alhora que la modernització, entesa com la millora de l’eficiència de reg, permet situar les 
+demandes d’aigua significativament per sota de les concessions.
+La incertesa en la reducció de recursos i la seva variabilitat, fan que l’estratègia fonamental dels 
+regadius front al canvi climàtic sigui l’adaptació, plantejant l’adaptabilitat a diferents situacions de 
+dèficit, i per tant disminuint el sostre de reg i augmentant l’elasticitat en la demanda. Aquesta 
+estratègia, es complementària a la definida en relació a l’ús de l’aigua, i presenta diverses 
+actuacions en el conjunt dels regadius:
+ 
+Disminució del sostre de reg, en base a les modernitzacions, augmentant l’eficiència, 
+apropant-la a la potencial.
+ 
+Elasticitat en el sostre de reg, per adaptar-se a fluctuacions en la disponibilitat d’aigua, i en 
+conseqüència:
+ 
+Pressurització de la xarxa, amb l’objectiu de permetre disminucions graduals de dotacions 
+de forma equilibrada en el conjunt dels regadius.
+Altres alternatives estratègiques es poden derivar de la prioritat en la localització de les 
+reduccions de la demanda, és a dir, per on començar a incidir en la millora de regadius tradicionals 
+com a opció d’alliberament de recurs. Són molts els aspectes que poden incidir en la decisió, però 
+en tot cas tots fortament condicionats per la divisió hidrogràfica i alhora administrativa, en aigües 
+de Catalunya. En aquest sentit hi ha dues realitats diferenciades:
+ 
+Aposta pel reg de suport, com element més tolerant a la reducció d’aportació d’aigua.
+4.2.4 
+Altres aspectes d’oportunitat i efectes socials
+4.2.3 
+Estratègia front al canvi climàtic
+Els regadius defineixen el caràcter territorial de moltes comarques, i fonamentalment d’aquelles 
+que inclouen regadius tradicionals. Sobre aquesta base s’hi han superposat infraestructures, nous 
+espais urbans, àrees especialitzades, ....,  i també nous regadius. Alhora el planejament territorial 
+ha definit espais de connexió i protecció per garantir la funcionalitat ecològica del conjunt sense 
+que, en aquells espais coincidents amb regadius actuals, en principi, comporti una modificació 
+d’usos. En tot cas, si que se’n pot derivar un major nivell d’exigència en aquells elements 
+estructurals derivat d’aquesta protecció o necessitat de connexió.
+Els esforços derivats de la consecució del pla, especialment en la modernització, comportaran en 
+molts casos la reordenació dels espais agrícoles, ja sigui a través de concentracions parcel·làries, o 
+fins i tot a través de l’increment potencial de zones de reg, com ha estat el cas dels Plans Directors 
+dels canals d’Urgell i de Pinyana.
+Davant d’aquesta situació es poden plantejar alternatives que han de ser necessàriament diferents 
+en els casos d’actuació sobre regadius existents, i per tant modernitzacions, o sobre nous regadius, 
+malgrat que l’objectiu a futur sigui coincident, un cop les actuacions consolidades.
+Es plantegen dues alternatives bàsiques, que es basen en incloure o excloure aquests espais de 
+protecció o connexió en els nous regadius, i en el cas de modernitzacions actuar en el conjunt del 
+regadiu o establir estratègies diferenciades:
+En tots els casos, sembla més adequat actuar sobre el conjunt del regadiu, ja sigui existent, o nou 
+regadiu. En el cas de les modernitzacions, la reordenació permet una segona oportunitat 
+d’internalització de costos ambientals, i en tots els casos, l’aprofitament derivat de les noves 
+inversions, en part públiques, ha de permetre garantir la formulació o renovació dels sectors de 
+reg de forma equilibrada amb el seu entorn.
+És a dir, en general, el pla de regadius ha d’establir un canvi de tendència en coherència amb la 
+planificació territorial, permetent la internalització dels costos ambientals, establint dins la 
+pròpia formulació de la transformació o modernització, els elements de contenció, les 
+permeabilitats i servituds territorials necessàries, i la seva gestió, per a que no hi hagi efectes 
+ambientals fora del propi àmbit regable.
+ 
+Reordenació de les parts, diferenciant espais sense càrregues, i espais amb càrregues.
+4.2.2 
+Implicacions territorials
+ 
+Reordenació del conjunt
+PAG. 22 DE 38
+ 
+Les conques internes on hi ha una major competència entre usos, agrícoles, domèstics, 
+industrials, etc ... i alhora doncs també una major oportunitat de transferències per a portar a 
+terme les millores,
+ 
+La conca de l’Ebre, on la seva vocació és fonamentalment agrícola, i per tant les transferències 
+i oportunitats es concentren en aquesta activitat.
+Sembla doncs que les estratègies de modernització s’han de centrar en les CCE (Conques catalanes 
+de l’Ebre), mentre que les estratègies de reutilització, s’haurien de centrar en les conques internes, 
+on són més accessibles aquestes sinèrgies.
+El plantejament d’aquesta formulació d’internalització de càrregues ambientals sobre tot el conjunt 
+no és baladí. Les formulacions més recents de grans regadius que han sol·licitat revisions importants 
+de la seva tramitació ambiental, han tornat a generar aquesta dualitat, complicant enormement el 
+manteniment de la qualitat ambiental dels espais no regats, amb uns aprofitaments que difícilment 
+poden suportar aquestes càrregues, i la dels espais amb aprofitament, per la major pressió sobre els 
+seus sistemes naturals.
+Per altra banda, per reconstruir la realitat actual dels regadius a Catalunya, s’han utilitzat diverses 
+fonts d’informació. D’aquestes es conclou que hi ha regadius sobre els quals es té una informació 
+més completa, tant a nivell de delimitació com de concessions, coincidint amb la intervenció 
+pública en els últims temps. Aquests regadius representen una superfície relativament petita 
+respecte el total dels regadius, i proporcionalment un menor potencial de millora.
+Per tant, el Pla de Regadius, haurà de preveure prioritzar les actuacions sobre aquells regadius amb 
+majors nivells d’informació, i preveure per a la resta mecanismes de retorn per obtenir informació 
+per a la seva planificació durant la vigència del Pla.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ 
+Actuacions estructurals, en referència a la proposta de modernització i nous regadius a 
+Catalunya. Inclou tots aquells aspectes que defineixen els regadius
+ 
+Actuacions de gestió, que estableixen els mecanismes de desenvolupament del pla, i per tant de 
+les actuacions estructurals definides, així com d’aquelles estratègies d’implementació 
+d’infraestructures de control, i de relació sectorial entre els diferents departaments i les 
+pròpies comunitats de regants.
+En base als objectius i a l’estat actual exposat el Pla de regadius proposa la millora general dels 
+regadius a Catalunya, consolidant noves actuacions planificades, i la millora dels regs existents, 
+especialment els tradicionals. Concretament el pla preveu les següents actuacions:
+ 
+Incrementar el coneixement de certes zones de regadiu permetent la Planificació de la seva 
+modernització durant la vigència del Pla.
+S’ha de valorar que durant la vigència del pla, s’ha de preveure la finalització dels regadius iniciats, 
+passant d’una superfície de 308.000 ha a 407.000 ha aproximadament, resultant en una consolidació 
+de regadius iniciats de 99.000 ha.
+La modernització, és formalitza per a tot el conjunt del regadiu i per a les col·lectivitats, proposant 
+com estratègia general:
+ 
+Proposta de nous regadius, pels que s’estudiarà la seva viabilitat, durant la vigència del Pla.
+ 
+Altres actuacions de transferència tecnològica i formació.
+El Pla de Regadius es divideix en quatre tipus d’actuacions:
+MODERNITZACIÓ DE REGADIUS TRADICIONALS
+ 
+Modernització dels regadius tradicionals
+5.1 
+ACTUACIONS ESTRUCTURALS
+ 
+Consolidació de regadius planificats.
+5 
+DESCRIPCIÓ D’ACTUACIONS
+ 
+Integració dels aspectes ambientals
+ 
+Millora dels dispositius de captació.
+Finalment, altres alternatives es poden generar en base a l’impacte socioeconòmic de la proposta 
+de regadius. Si be és cert que la transformació genera una estabilitat de rendes i una major 
+potencialitat de producció, també genera unes fortes inversions, i en alguns casos, especialment en 
+el cas de conreus llenyosos de fruita dolça i hortalisses, amb dotació plena, un increment de la mà 
+d’obra.
+A part dels aspectes econòmics, i de la definició variable del sostre de reg, per a decidir la 
+combinació òptima de tipologia de reg (dotació plena o suport) per garantir l’elasticitat sol·licitada, 
+i la seva localització, també hi ha aspectes socials derivats, i efectes ambientals sinèrgics, que cal 
+valorar, respecte l’estacionalitat de l’oferta de mà d’obra, i la seva qualitat. És a dir, models basats 
+en un creixement màxim, o models per a millorar les condicions actuals, basats en l’estabilitat 
+sobre conreus tradicionals, fixant la població rural.
+Els regadius tenen una implicació important sobre el model de territori, i també molt especialment 
+sobre la qualitat econòmica i social del món rural.
+Davant de les estratègies plantejades, l’alternativa final de formulació del Pla de regadius és centra 
+en:
+ 
+Modernització dels regadius, entesa com a millora de la seva eficiència, per a permetre la 
+consolidació dels regadius actualment en construcció, garantint que la demanda quedi per sota 
+dels nivells actuals.
+ 
+Consolidació dels regadius planificats i proposta de nous regadius, limitant el consum, com a 
+màxim, als nivells actuals de demanda, considerant els escenaris de canvi climàtic.
+ 
+Internalització dels costos ambientals incloent els espais de protecció i major valor ambiental 
+en les delimitacions del propi regadiu, i des d’ells liderar la seva gestió.
+ 
+Aposta pel reg de suport com element clau de regulació de la demanda de períodes de dèficit.
+4.3 
+CONCLUSIONS A LA FORMULACIÓ D’ALTERNATIVES
+PAG. 23 DE 38
+ 
+Construcció o millora dels elements de regulació (basses de reg), i la pressurització de la xarxa, 
+fins a peu de cada una de les parcel·les de reg, en substitució de la xarxa actual de sèquies.
+En aquest capítol el Pla de Regadius inclou 53 actuacions, que sumen una superfície de 176.916,95 
+ha. Inclouen la majoria de superfície de regadiu tradicional de Catalunya, de les quals 6.402 ha 
+responen a dotacions de suport, mentre que la resta són de dotació completa.
+No s’han comptabilitzat en aquesta superfície les 16 comunitats ja modernitzades en l’actualitat 
+totalment, que sumen 10.316,90 ha, més dues parcialment, amb 8.695 ha. Aquestes últimes 
+corresponen a parts de grans regadius on ja s’ha iniciat la modernització, concretament el Canal de 
+Pinyana i Canal d’Aragó i Catalunya.
+ 
+Millora de les infraestructures de transport
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+En els següents taules es mostra el resum de les actuacions estructurals del Pla de Regadius, tant en 
+superfície com en demanda d’aigua.
+Tenint en compte els regadius en estudi i planificació, estimant una superfície i un consum, malgrat 
+són àmbits de regadius encara subjectes als estudis previs, les dades de la proposta són els 
+següents:
+ha 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+71.282,07 
+16,84 
+322,14 
+15,75
+EN PROCÉS DE MODERNITZACIÓ 
+0,00 
+0,00 
+0,00 
+0,00
+MODERNITZAT  
+194.928,85 
+46,05 
+1.222,31 
+59,77
+TOTAL REGADIUS TRADICIONALS 
+266.210,93 
+62,88 
+1.544,45 
+75,53
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+ 
+ 
+0,00 
+0,00
+EN SERVEI 
+157.118,85 
+37,12 
+500,47 
+24,47
+EN ESTUDI 
+0,00 
+0,00 
+0,00 
+0,00
+TOTAL ALTRES REGADIUS 
+157.118,85 
+37,12 
+530,69 
+24.47
+TOTAL 
+ 
+423.329,78 
+100,00 
+2.044,92 
+100,00
+ha 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+71.282,07 
+16,15 
+322,14 
+15,52
+EN PROCÉS DE MODERNITZACIÓ 
+0,00 
+0,00 
+0,00 
+0,00
+MODERNITZAT  
+194.928,85 
+44,18 
+1.222,31 
+58,90
+TOTAL REGADIUS TRADICIONALS 
+266.210,93 
+60,33 
+1.544,45 
+74,42
+Tipus de reg 
+Estat 
+Superfície 
+Demanda
+Tipus de reg 
+Estat 
+Superfície 
+Demanda
+PROPOSTA. SUPERFÍCIE CONSOLIDADA EN REG (SUPERFÍCIE EN SERVEI L’ANY 2020)
+PROPOSTA. SUPERFÍCIE TOTAL DEL REGADIU (SUPERFÍCIE EN SERVEI L’ANY 2040)
+RESUM DE LA PROPOSTA.
+El total d’aquestes 18 comunitats i col·lectivitats que s’han descrit com a regadius modernitzats, 
+que estan ja executades o s’estan portant a terme actualment, tenen una superfície de 19.011,90 
+ha.
+En el marc dels regadius moderns i eficients hi ha actuacions planificades, és a dir amb la redacció 
+de projectes realitzats, i per tant amb les superfícies de reg tancades i les dotacions establertes.
+Algunes d’aquestes actuacions hauran de permetre la connexió a EDAR amb la finalitat d’aprofitar 
+l’aigua regenerada produïda. Existeixen convenis amb l’Agència Catalana de l’Aigua (ACA) per a 
+portar a terme aquestes actuacions.
+En aquest sentit, el Programa de mesures del Pla de gestió del districte de conca fluvial de 
+Catalunya, (en exposició pública, Març 2010) contempla la reutilització en el capítol Descripció de 
+les mesures adoptades per a la gestió de la demanda i dels recursos hídrics. En aquest es preveu 
+arribar a l’any 2015 amb un volum de tractament de 204 hm3/any, incrementant en 153 els 51 hm3 
+actuals.
+Els usos a que es destinaran aquestes aigües, segons l’Agència, són els anomenats prepotables, on 
+s’inclouen els usos agraris més els industrials. Per tant, en aquest aspecte el Pla de Regadius és 
+complementari al PGDCFC, i concretament al Programa de Reutilització d’Aigua de Catalunya.
+En principi els regadius on serà més fàcil la reutilització seran aquells propers a les zones de 
+producció, i per tant al voltant dels àmbits més poblats, en la franja costanera entre Tordera i el 
+Francolí. En tot cas, donada la complementarietat amb la producció de les aigües per la seva 
+reutilització, serà l’Agència qui haurà de determinar les millors localitzacions.
+No es pot determinar exactament el volum d’aigua reutilitzada en els regadius, malgrat es pot fer 
+una estimació en el 50 % de la produïda, i per tant al voltant de 100 hm3, que representen un 4 % 
+del consum actual.
+El nombre total d’actuacions previstes en aquest capítol són 15, amb una superfície total de 
+16.541,21 ha, totes elles amb dotacions de suport.
+També s’ha considerat un conjunt de comunitats de regants més petites, amb un total de 236 que 
+representen 71.282,07 ha. Aquestes formen part dels regadius tradicionals on es té una informació 
+molt limitada, i que provenen fonamentalment de les bases del PNR. Malgrat tenen una entitat 
+petita, en general, amb una mitjana de superfície al voltant de 300 ha, representen gairebé un 17 % 
+de les zones regables de Catalunya. Durant la vigència del present Pla s’haurà d’actuar en cada una 
+d’elles especialment a nivell de delimitació i inventari, permetent al final de la vigència del Pla, 
+tenir una realitat més acotada, com a base per a programar la seva modernització.
+Aquestes constitueixen el creixement net total dels regadius a Catalunya, fins a l’any 2020.
+PLANIFICACIÓ DE LA MODERNITZACIÓ REGADIUS TRADICIONALS
+CONSOLIDACIÓ DELS REGADIUS PLANIFICATS.
+PAG. 24 DE 38
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+ 
+ 
+0,00 
+0,00
+EN SERVEI 
+157.118,85 
+35,61 
+500,47 
+24,12
+EN ESTUDI 
+17.931,63 
+4,06 
+30,22 
+1,46
+TOTAL ALTRES REGADIUS 
+175.050,48 
+39,67 
+530,69 
+25,58
+TOTAL 
+ 
+441.261,40 
+100,00 
+2.075,14 
+100,00
+Malgrat la superfície de reg amb la consolidació dels regadius planificats està gairebé tancada, amb 
+la tecnologia actual, es poden presentar en el context del Pla la proposta de noves zones de 
+regadiu, fonamentalment en entorns agrícoles actius, i on es preveu la disponibilitat d’aigua ja sigui 
+per noves captacions o la reutilització d’aigües regenerades.
+El Pla ja preveu la delimitació de certes “envolvents” on actualment s’està estudiant la viabilitat 
+del regadiu. Aquestes són concretament 6 zones, amb una superfície total de 17.931,63 ha, de les 
+quals més del 90 % es preveuen de suport, i la resta 1.500 ha, amb dotació completa.
+PROPOSTA DE NOUS REGADIUS
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ 
+Protegir els espais naturals, agraris i no urbanitzables en general com a components de 
+l’ordenació del territori.
+ 
+Establir un sistema socioeconòmic equilibrat que permeti assolir els objectius de millora en el 
+sector agrari, a partir del increment i l’estabilitat de les rendes, l’augment de llocs de treball, 
+com a base per a la dinamització de l’economia local, valorant alhora també la seva estabilitat i 
+qualitat
+Per a aquestes mesures, el present document estableix unes directrius que permeten assegurar 
+l’èxit de la proposta de regadius en el seu conjunt, i bàsicament en dos aspectes:
+Foment de la reutilització d’aigües regenerades, implantació de dispositius en les captacions 
+superficials que assegurin els cabals de manteniment, i el volum derivat en les captacions 
+superficials i subterrànies.
+En aquest sentit es discriminen les actuacions que han de portar a terme els promotors del reg, 
+d’aquelles altres que han d’estar definides pels organismes de conca, i que es concreten en la 
+proposta d’una xarxa de control, complementant l’existent.
+Es defineixen sis línies de mesures d’actuació en relació a les aigües, que provenen de la síntesi de 
+les mesures definides en l’anterior quadre:
+ 
+MA1. Foment de la reutilització d’aigües regenerades procedents d’EDAR, especialment en 
+aquelles conques més pressionades i amb un major volum d’aigües generades.
+ 
+MA2. Implantar dispositius de monitoratge que permetin regular el cabal de la captació en 
+cursos superficials i tenir un control en continu de l’aforament.
+ 
+MA3. Implantar dispositius en les captacions superficials que assegurin els cabals de 
+manteniment.
+5.2.1 
+Aspectes que ja venen compensats per la definició del Pla.
+ 
+Reduir el consum efectiu d’aigua en la producció agrícola.
+El pla en la seva definició, i en la pròpia proposta permet:
+ 
+Preveure estratègies d’adaptació al canvi climàtic.
+ 
+Biodiversitat i matriu territorial
+5.2.2 
+Mesures estructurals
+ 
+Aigua
+AIGUA
+ha 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+COMPLETA 
+259.648,20 
+61,33 
+1.531,69 
+74,90
+SUPORT 
+6.562,73 
+1,55 
+12,76 
+0,62
+TOTAL REGADIUS TRADICIONALS 
+266.210,93 
+62,88 
+1544,45 
+75,53
+ALTRES 
+REGADIUS 
+COMPLETA 
+68.362,46 
+16,15 
+322,81 
+15,79
+SUPORT 
+90.256,39 
+21,32 
+177,63 
+8,69
+TOTAL ALTRES REGADIUS 
+157.118,85 
+37,12 
+500,47 
+24,47
+TOTAL 
+ 
+423.329,78 
+100,00 
+2.044,92 
+100,00
+ha 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+COMPLETA 
+259.648,20 
+58,84 
+1.531,69 
+73,81
+SUPORT 
+6.562,73 
+1,49 
+12,76 
+0,61
+TOTAL REGADIUS TRADICIONALS 
+266.210,93 
+60,33 
+1544,45 
+74,42
+ALTRES 
+REGADIUS 
+COMPLETA 
+68.362,46 
+15,49 
+322,84 
+15,56
+SUPORT 
+106.688,01 
+24,18 
+207,85 
+10,02
+TOTAL ALTRES REGADIUS 
+175.050,48 
+39,67 
+530,69 
+25,58
+TOTAL 
+ 
+441.261,40 
+100,00 
+2.075,14 
+100,00
+Tipus de reg 
+Estat 
+Superfície 
+Demanda
+Tipus de reg 
+Estat 
+Superfície 
+Demanda
+PROPOSTA PER TIPUS DE DOTACIÓ. SUPERFÍCIE CONSOLIDADA DE REG (SUPERFÍCIE EN SERVEI L’ANY 2020)
+PROPOSTA PER TIPUS DE DOTACIÓ. SUPERFÍCIE TOTAL DE REGADIU (SUPERFÍCIE EN SERVEI L’ANY 2040)
+Les dades completes i el llistat de les actuacions en presenten en els annexos.
+5.2 
+INTEGRACIÓ DELS ASPECTES AMBIENTALS
+Diferenciant per tipologia de dotació:
+PAG. 25 DE 38
+ 
+MA4. Implantar dispositius de monitoratge que permetin regular el cabal de la captació de pous 
+i tenir un control en continu de l’aforament
+ 
+MA5. Establir una xarxa de control que permeti seguir l’evolució de la qualitat tant de les 
+aigües superficials com subterrànies
+ 
+MA6. Implantar sistemes que permetin incrementar la capacitat de depuració i filtratge de les 
+aigües provinents dels conreus, preferentment limitant amb la xarxa hidrogràfica.
+ 
+Aquesta mesura, donada la seva implicació o relació amb els aspectes de Matriu territorial es 
+desenvolupa en el següent apartat.
+La definició del Pla integra els aspectes ambientals, quedant resolts de forma estructural moltes de 
+les deficiències del model actual, i alhora permetent el desenvolupament sostenible de la proposta. 
+En base als objectius establerts i l’avaluació dels efectes ambientals, s’han establert les mesures 
+preventives i de correcció, generant tres situacions:
+ 
+Aspectes que ja venen compensats per la definició del Pla.
+ 
+Mesures estructurals.
+ 
+Mesures de gestió.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Per altra banda, des de diversos vessants també es sol·licita la millora i potenciació de la xarxa 
+hidrogràfica:
+ 
+Element de millora de la qualitat de les aigües, comportant un tractament terciari continu al 
+llarg de tots els seus marges
+ 
+Millora de les condicions d’hàbitat i de la diversitat. Mantenir espais de límit sense conreu serà 
+un excepcional refugi per a la fauna, incrementant- se la qualitat de l’espai, i en conseqüència 
+la viabilitat de l’explotació agrícola, especialment en espais on avui aquesta explotació en 
+regadiu està en crisi.
+Per tant, tots els regadius, en la seva definició inicial, propostes de modernització, o en el seu 
+manteniment haurien de definir la seva estructura, ja no des de l’àmbit estrictament agrícola, sinó 
+des del seu complementari, el no agrícola. Aquesta serà la primera mesura:
+A més d’aquestes mesures, també s’ha apuntat la possibilitat de transferència d’aprofitament de 
+reg entre zones agrícoles, especialment des de zones de regadius tradicionals, amb enclavaments de 
+gran importància ecològica però certament aïllats, cap a altres zones amb menys pressió.
+ 
+BMT4. TRANSFERÈNCIA D’APROFITAMENT AGRÍCOLA DE REGADIU A ZONES DE SECÀ. Establir un 
+mecanisme de transferència d’aprofitament de regadiu, per a la millora dels espais aïllats de 
+valor en els regadius tradicionals, i en general per a tot el conjunt dels espais regats.
+Els aspectes energètics són fonamentals per raons econòmiques, a més dels relacionats amb les 
+emissions de GEH. De fet, la viabilitat d’un regadiu depèn en gran mesura de la despesa energètica, 
+que es tradueix directament en el preu de l’aigua..
+ 
+ECC1. SEGUIMENT DE LA DEMANDA ENERGÈTICA DEL REGADIU. descripció de les infraestructures 
+de bombament i de la demanda energètica del regadiu
+ 
+BMT3. Definició de la proporció de conreus, en el conjunt el regadiu, com element qualitatiu
+ 
+BMT2. Definició dels elements no estructurals del regadiu.
+ 
+BMT1. Definició de l’estructura no agrícola del regadiu.
+ 
+Reconstrucció funcional de la xarxa hidrogràfica
+Es defineix doncs una última mesura:
+ENERGIA I CANVI CLIMÀTIC
+La mesura es concreta en:
+ 
+...
+Estableix una sèrie de mesures per a garantir l’estructura territorial i l’equilibri per a permetre 
+conservar i millorar les condicions ambientals dels espais de regadiu. Assegura la definició dels 
+espais no agrícoles lligats al regadiu, i implica en la gestió al regant, que lidera ja no únicament la 
+gestió dels aspectes lligats a la producció sinó també els aspectes ambientals.
+Tant en la definició de nous regadius com en la millora dels existents, a través de les 
+modernitzacions, les mesures són coincidents en la necessitat d’establir una estructura de l’àmbit 
+regable en el seu conjunt, i per tant incloent els espais agrícoles i també els forestals.
+Aquesta estructura és pròpia de cada espai. Així en espais més fragmentats, i amb més relleu, hi 
+haurà més superfície d’espais de límit, mentre que en zones més planeres i més extensives aquests 
+espais tindran menor superfície.
+Els àmbits que generen aquests elements són els sòls forestals i els marges, o límits entre camps, 
+que es proposen com elements invariables des d’un punt de vista quantitatiu, i per tant en el seu 
+conjunt. El caràcter qualitatiu de cada una d’ells, serà qui definirà el fet que puguin acumular-se, o 
+concentrar-se, és a dir, siguin espais o enclavaments a respectar exactament on es troben, o no, i 
+per tant, es puguin reordenar en els processos de concentració, si és dona, o en la definició dels 
+projectes dels regadius.
+Distribució parcel·laria del Delta de l’Ebre
+BIODIVERSITAT I MATRIU TERRITORIAL.
+PAG. 26 DE 38
+S’inclouen totes aquelles de seguiment de les mesures estructurals referides a aigua i biodiversitat i 
+matriu territorial . A més es defineix una nova mesura de seguiment, que no té correspondència 
+amb les estructurals, que fa referència al seguiment de les aus com indicador de la qualitat de 
+l’espai agrari.
+Sovint se li atribueixen als regadius efectes ambientals que fan referència a la pràctica agrària en el 
+seu conjunt, i a la ramadera, especialment en relació a la gestió de les dejeccions ramaderes.
+GESTIÓ DE LES MESURES ESTRUCTURALS, quan aquestes en sol·licitin.
+Es desglossen en dos grans capítols:
+BONES PRÀCTIQUES AGRÍCOLES.
+5.2.3 
+Mesures de gestió
+Distribució parcel·laria a Aspa
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+L’Institut de Recerca i Tecnologia Agroalimentàries (IRTA) és una empresa pública de la Generalitat 
+de Catalunya, creada per Llei 23/1985, de 28 de novembre, de Creació de l’Institut d’Investigació i 
+Tecnologia Agroalimentària (DOGC núm. 621 de 04/12/1985), que centra la seva activitat en la 
+investigació científica i la transferència tecnològica en l’àmbit de l’agricultura, l’aqüicultura i la 
+indústria agroalimentària, i que ajusta el seu funcionament a l’ordenament jurídic privat.
+Els seus objectius generals són els d’impulsar la recerca i el desenvolupament tecnològic dins 
+l’àmbit agroalimentari, facilitar la transferència dels avenços científics i valorar els avenços 
+tecnològics propis tot cercant la màxima coordinació i col·laboració amb el sector públic i privat.
+Una de els àrees més destacades del IRTA és la dedicada a la “Tecnologia del Reg”. Les àrees 
+prioritàries d’aquesta unitat de recerca són les següents:
+ 
+Determinar les necessitats d’aigua dels principals conreus fructícoles (pomera, perera, 
+presseguer, olivera, ametller, etc.)
+ 
+Avaluar i posar a punt estratègies de reg que permetin una utilització eficient de reduïdes 
+quantitats d’aigua
+ 
+Posta a punt d’indicadors de l’estat hídric de la planta que ajudin a una programació racional 
+del reg, bàsicament en plantacions fructícoles
+ 
+Posta a punt d’estratègies de reg en presseguer i perer pel control del creixement vegetatiu i 
+millora de la qualitat del fruit
+ 
+Estudi del comportament de la vinya i la qualitat del vi en funció de les estratègies del reg i de 
+les disponibilitats hídriques
+ 
+Desenvolupament de programes d’assessorament i ajuda en la programació del reg a nivell de 
+parcel·la
+El programes de transferència tecnològica es porten a terme sota l’objectiu global d’establir les 
+bases per dotar Catalunya dels instruments necessaris per a desplegar les activitats I+D+T en 
+regadiu, que permetin, en consonància amb les exigències actuals, maximitzar l’eficiència en el 
+consum d’aigua en els regadius de Catalunya.
+ 
+Avaluació de com l’ús de l’aigua i/o el nitrogen afecten la producció i qualitat de la poma
+ 
+Avaluar la resposta de diferents plantes a la qualitat de l’aigua de reg
+ 
+Establiment de parcel·les de demostració en noves zones de regadiu
+5.3.1.2 
+Investigacions dutes a terme per l’IRTA
+5.3.2 
+Transferència tecnològica
+D’aquests efectes se’n deriven alhora mesures generals que sovint no tenen relació amb les 
+activitats portades a terme, o estratègies de retorn a pràctiques tradicionals que serien impensables 
+de plantejar en altres activitats, a qui se’ls hi associa un menor component lligat al territori.
+Seguint les directrius del Pla, de donar valor a l’activitat agrària, és coherent i positiu mantenir la 
+condicionalitat de la PAC com a directriu de les Bones Pràctiques Agràries, sense mesures 
+específiques, que de ben segur serien redundants, en el present pla de regadius.
+El desenvolupament esquemàtic de les mesures es mostren en els annexos. Alhora, la definició 
+completa es presenta en l’Informe de Sostenibilitat Ambiental que acompanya al present document.
+Les administracions implicades, i molt especialment el DAAM, porten a terme, en relació als 
+regadius, nombroses activitats de Recerca, Desenvolupament i Transferència Tecnològica per tal de 
+millorar l’eficiència en la gestió de l’aigua de reg.
+5.3.1.1 
+Investigacions dutes a terme mitjançant conveni DAAM, IRTA i ACA sobre 
+l’eficiència de regadius
+En l’aprovació de la Llei 21/2005, de mesures financeres (DOGC 4541, de 31/12/2005, disposició 
+addicional tretzena), el Govern de la Generalitat de Catalunya ha d’establir, amb la coparticipació 
+dels sectors interessats, un pla d’eficiència de l’ús de l’aigua per a reg agrícola que consideri els 
+volums assignables per a cada tipus de conreu i àmbit territorial, el seu origen com a recurs i els 
+programes de millora proposats en cada cas.
+Per tal de dur a terme aquest Pla es va establir el 2006 un conveni específic de col•laboració 
+tècnica entre l’Institut de Recerca i Tecnologia Agroalimentàries (IRTA), l’Agència Catalana de 
+l’Aigua (ACA) i el DAAM. El conveni compta amb la implicació i participació activa del sector agrari, 
+mitjançant les organitzacions professionals agràries Unió Pagesos (en endavant, UP) i Joves 
+Agricultors i Ramaders de Catalunya (en endavant, JARC). Les comunitats de regants intervenen 
+també com a interlocutors i impulsors en la millora i eficiència dels regadius per l’entitat que 
+representen.
+5.3 
+ALTRES ACTUACIONS DE TRANSFERÈNCIA TECNOLÒGICA I FORMACIÓ.
+5.3.1 
+Recerca i desenvolupament
+PAG. 27 DE 38
+ 
+Crear opinió positiva envers el maneig eficient de l’aigua de reg. Introduir en el món agrari els 
+conceptes bàsics sobre gestió de l’aigua i les seves repercussions en la productivitat dels 
+conreus i els seus efectes medi ambientals.
+ 
+Dissenyar noves tecnologies sobre el maneig de l’aigua de reg o adaptar les ja existents a la 
+pròpia realitat de Catalunya (R+D).
+ 
+Formar el regant en els aspectes esmentats i informar-lo de noves o no tan noves (tradicionals) 
+tecnologies que pot utilitzar (T).
+ 
+Proporcionar assistència tècnica específica a comunitats de regants, agrupacions d’agricultors, 
+etc. (T).
+Els punts concrets a desenvolupar es poden resumir en els següents:
+L’objectiu principal de l’estudi és fer una descripció acurada de la situació actual i poder realitzar 
+una diagnosi real que permeti poder avaluar l’estalvi potencial d’aigua i l’eficiència en el seu ús, 
+tenint present la zona regable i els conreus existents.
+Arrel d’això i fruit del treball, neix el Pla per a l’eficiència en l’ús de l’aigua per a reg agrícola a 
+partir del qual s’ha desenvolupat una eina de càlcul en un entorn de Sistemes d’Informació 
+Geogràfica (SIG), que permet estimar les necessitats d’aigua per a reg, i que s’anomena “GIS Gestió 
+Regs”, tenint en compte l’especificitat dels cultius definits en la Declaració Única Agrària (DUN) i el 
+Sistema d’Informació Geogràfica de Parcel·les Agrícoles (SIGPAC), la variabilitat climàtica pròpia del 
+territori català, i informació, si es disposa, sobre els sistemes de reg a nivell de parcel·la i sobre les 
+característiques del sòl.
+Aquesta eina s’ha concebut a nivell de planificació amb l’objectiu de poder calcular les necessitats 
+d’aigua d’un conjunt de parcel·les agrícoles, més que una eina per a programació de regs d’una 
+parcel·la en concret.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+El present document estableix els mecanismes de desenvolupament del pla, i per tant les actuacions 
+estructurals definides, així com d’aquelles estratègies d’implementació d’infraestructures de 
+control, i de relació sectorial entre els diferents departaments i les pròpies comunitats de regants.
+La gestió del Pla és del Departament d’Agricultura, Ramaderia, Pesca, Alimentació i Medi Natural, i 
+afecta a la gestió íntegra del regadius en el territori de Catalunya.
+Aquest Pla té caràcter sectorial, tot i que no té un desplegament reglamentari, estableix les bases 
+per al desenvolupament dels regadius a Catalunya.
+El pla incorpora dos nivells de seguiment específic, que s’addicionen a l’avaluació ambiental de 
+projectes que ve regulat per la Llei ..., o la que la substitueixi (en negre a la part baixa del gràfic). 
+Els dos punts d’intervenció en el marc del pla són:
+5.4 
+GESTIÓ DEL PLA DE REGADIUS
+Per tal de desenvolupar els punts anteriors es porten a terme un seguit d’activitats agrupades sota 
+el nom de Pla Anual de Transferència Tecnològica.
+El Pla de Transferència Tecnològica Agrària per a l’any 2007 (PATT 2007) va incloure fins un total de 
+970 activitats a realitzar arreu de Catalunya, relacionades amb la totalitat de les orientacions 
+productives agrícoles i ramaderes.
+El Servei de Transferència Tecnològica del DAAM du a terme aquest conjunt d’activitats que tenen 
+per objectiu el foment de la innovació en el sector agroalimentari català, entre els qual hi ha el 
+reg.
+A banda del Pla Anual de Transferència Tecnològica, existeixen d’altres iniciatives desenvolupades 
+amb èxit com l’Assessorament interactiu RuralCat. Sota l’objectiu d’aconseguir un ús eficient de 
+l’aigua de reg, el DAAM disposa d’una pàgina web anomenada “RuralCat”
+En aquesta pàgina web, entre d’altres temes, es realitzen una sèrie de recomanacions adaptades al 
+conreu i al moment de l’any en el que es realitza el reg. Aquest espai dedicat al reg s’estructura en 
+dos apartats: reg en agricultura i reg en jardineria.
+Com que les recomanacions es fan partint de la base que és important conèixer les necessitats 
+hídriques de les plantes per saber quanta aigua cal aportar, segons el seu estat de desenvolupament 
+i les condicions meteorològiques locals, ambdós apartats disposen d’eines de càlcul de 
+recomanacions de reg a partir de les dades setmanals d’evapotranspiració i precipitació, i de les 
+dades meteorològiques mitjanes de les estacions de la Xarxa Agrometeorològica de Catalunya (XAC), 
+entre d’altres.
+5.3.3 
+Altres programes en funcionament
+PAG. 28 DE 38
+ 
+Retorn de la memòria de regadius en fase de projecte, i per tant actualització de dades quan hi 
+hagi intervenció en un regadiu, més enllà de la seva categoria. Assegura la implantació del pla 
+en els regadius en el moment de noves propostes.
+ 
+Retorn de la memòria de regadiu en fase d’explotació i per tant seguint la temporalitat definida 
+en base a la categoria del regadiu. Assegura el retorn d’informació de tots els regadius de 
+Catalunya durant la vigència del Pla.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ha 
+% 
+ha 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+115.053,01 
+37,25 
+71.282,07 
+16,84
+EN PROCÉS DE MODERNITZACIÓ 
+141.147,96 
+47,70 
+0,00 
+0,00
+MODERNITZAT  
+19.311,84 
+6,25 
+194.928,85 
+46,05
+TOTAL REGADIUS TRADICIONALS 
+275.512,81 
+89,19 
+266.210,93 
+62,88
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+26.965,83 
+8,73
+EN SERVEI 
+6.411,18 
+2,08 
+157.118,85 
+37,12
+TOTAL ALTRES REGADIUS 
+33.377,01 
+10,81 
+157.118,85 
+37,12
+TOTAL 
+ 
+308.889,82 
+100,00 
+423.329,78 
+100,00
+ha 
+% 
+ha 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+115.053,01 
+28,22 
+71.282,07 
+16,15
+EN PROCÉS DE MODERNITZACIÓ 
+149.842,96 
+36,75 
+0,00 
+0,00
+MODERNITZAT 1 
+10.616,84 
+2,60 
+194.928,85 
+44,18
+TOTAL REGADIUS TRADICIONALS 
+275.512,81 
+67,57 
+266.210,93 
+60,33
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+125.800,57 
+30,85
+EN SERVEI 
+6.411,18 
+1,57 
+157.118,85 
+35,61
+EN ESTUDI I PLANIFICACIÓ 
+ 
+ 
+17.931,63 
+4,06
+TOTAL ALTRES REGADIUS 
+132.211,76 
+32,43 
+175.050,48 
+39,67
+TOTAL 
+ 
+407.724,57 
+100,00 
+441.261,40 
+100,00
+Tipus de reg 
+Estat 
+Estat actual 
+Proposta
+Tipus de reg 
+Estat 
+Estat actual 
+Proposta
+SUPERFÍCIE CONSOLIDADA DE REG
+SUPERFÍCIE TOTAL DE REGADIU
+L’estratègia definida pel Pla, en compliment dels objectius estratègics, sol·licita el màxim 
+desenvolupament dels regadius, sense increment del consum d’aigua, apostant per la modernització 
+i els regs de suport, com a eines d’adaptació al canvi climàtic. Aquestes eines han de permetre 
+eficiència i elasticitat.
+Així, l’avaluació de la proposta del Pla es fa en base a quatre vectors, comparant aquesta amb 
+l’estat actual:
+El Pla de Regadius proposa un increment limitat de la superfície de regadiu de 17.931 ha que 
+corresponen a noves àrees de reg on es veu un important potencial agrícola i una disponibilitat 
+certa d’aigua. Durant la vigència del pla, es preveu la delimitació d’aquestes zones regables i 
+definir les seves dotacions.
+Per altra banda, sense generar un increment de superfície, el pla proposa la modernització dels 
+regadius tradicionals, actuant sobre una superfície de 175.617 ha.
+Alhora, durant la vigència del pla, es consolidaran les superfícies de reg planificats, i aquells regs 
+iniciats no acabats, sumant un total de superfície de 98.834 ha.
+En les següents taules es mostra el resum de les actuacions estructurals del Pla de Regadius. En 
+cada una de les taules es mostra comparativament l’estat actual amb la proposta, fent referència 
+alhora:
+ 
+Superfície total de regadiu: fa referència a totes les zones actualment de regadiu, incloent 
+aquelles que efectivament es reguen i aquelles altres que estan en el moment de redacció del 
+Pla, en construcció, i per tant, com correspon, es preveu finalitzar i posar en reg.
+6.1 
+BALANÇ DE LES ACTUACIONS ESTRUCTURALS
+6 
+AVALUACIÓ DE LA PROPOSTA
+6.1.1 
+Superfícies
+ 
+Demanda d’aigua
+ 
+Superfícies
+ 
+Eficiències
+ 
+Elasticitat.
+PAG. 29 DE 38
+El mateix exercici portat a terme per les superfícies es fa en relació a les demandes. En aquest cas 
+les diferències són molt significatives, generades per l’important impacte de les modernitzacions.
+De la mateixa manera que en el cas anterior es mostra comparativament l’estat actual amb la 
+proposta, fent referència alhora:
+ 
+Demanda associada a la Superfície total de regadiu: fa referència a totes les zones actualment 
+de regadiu, incloent aquelles que efectivament es reguen i aquelles altres que estan en el 
+moment de redacció del Pla, en construcció, i per tant, com correspon, es preveu finalitzar i 
+posar en reg.
+ 
+Demanda associada a la Superfície consolidada en reg: fa referència a la superfície que 
+actualment es rega de forma efectiva.
+6.1.2 
+Demanda d’aigua
+ 
+Superfície consolidada en reg: fa referència a la superfície que actualment es rega de forma 
+efectiva.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+hm3 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+COMPLETA 
+2.262,40 
+94,63 
+1.531,69 
+74,90
+SUPORT 
+35,69 
+1,49 
+12,7586 
+0,62
+TOTAL REGADIUS TRADICIONALS 
+2.298,09 
+96,12 
+1.544,45 
+75,53
+ALTRES 
+REGADIUS 
+COMPLETA 
+73,87 
+3,09 
+315,37 
+15,42
+SUPORT 
+18,88 
+0,79 
+185,10 
+9,05
+TOTAL ALTRES REGADIUS 
+92,75 
+3,88 
+500,47 
+24,47
+TOTAL 
+ 
+2.390,84 
+100,00 
+2.044,92 
+100,00
+hm3 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+COMPLETA 
+2.262,40 
+85,70 
+1.531,69 
+73,81
+SUPORT 
+35,69 
+1,35 
+12,76 
+0,61
+TOTAL REGADIUS TRADICIONALS 
+2.298,09 
+87,06 
+1.544,45 
+74,42
+ALTRES 
+REGADIUS 
+COMPLETA 
+236,81 
+8,97 
+322,84 
+15,56
+SUPORT 
+104,90 
+3,97 
+207,85 
+10,02
+TOTAL ALTRES REGADIUS 
+341,71 
+12,94 
+530,69 
+25,58
+TOTAL 
+ 
+2.639,80 
+100,00 
+2.075,14 
+100,00
+1 Fa referència a la demanda  mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la 
+demanda real (calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. 
+S’estima doncs que un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que respon a la 
+situació actual.
+1 Fa referència a la demanda  mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la 
+demanda real (calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. 
+S’estima doncs que un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que respon a la 
+situació actual.
+Tipus de reg 
+Estat 
+Estat actual 
+Proposta
+Tipus de reg 
+Estat 
+Estat actual 
+Proposta
+D’aquestes taules es pot concloure la consecució dels objectius formulats:
+DEMANDA1 EN LA SUPERFÍCIE CONSOLIDADA DE REG
+DEMANDA1 EN LA SUPERFÍCIE TOTAL DE REGADIU
+Finalment, es comparen les dades de demanda amb les concessions, portant a terme una anàlisi de 
+satisfacció, que és una expressió de la garantia del subministrament
+hm3 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+680,31 
+28,45 
+322,14 
+15,75
+EN PROCÉS DE MODERNITZACIÓ 
+1.587,31 
+66,39 
+0,00 
+0,00
+MODERNITZAT  
+30,47 
+1,27 
+1.222,31 
+59,77
+TOTAL REGADIUS TRADICIONALS 
+2.298,09 
+96,12 
+1544,45 
+75,53
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+73,87 
+3,09 
+0 
+0,00
+EN SERVEI 
+18,88 
+0,79 
+500,47 
+24,47
+TOTAL ALTRES REGADIUS 
+92,75 
+3,88 
+500,47 
+24,47
+TOTAL 
+ 
+2.390,84 
+100,00 
+2.044,92 
+100,00
+hm3 
+% 
+hm3 
+%
+REGADIUS 
+TRADICIONALS 
+NO MODERNITZAT 
+680,31 
+25,77 
+322,14 
+15,52
+EN PROCÉS DE MODERNITZACIÓ 
+1.587,31 
+60,13 
+0,00 
+0,00
+MODERNITZAT 1 
+30,47 
+1,15 
+1.222,31 
+58,90
+TOTAL REGADIUS TRADICIONALS 
+2.298,09 
+87,06 
+1544,45 
+74,42
+ALTRES 
+REGADIUS 
+EN PROCÉS D'EXECUCIÓ I PARCIALMENT EN 
+SERVEI 
+322,83 
+12,23 
+0,00 
+0,00
+EN SERVEI 
+18,88 
+0,72 
+500,47 
+24,12
+EN ESTUDI I PLANIFICACIÓ 
+0,00 
+0,00 
+30,22 
+1,46
+1 Fa referència a la demanda  mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la 
+demanda real (calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. 
+S’estima doncs que un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que respon a la 
+situació actual.
+Tipus de reg 
+Estat 
+Estat actual 
+Proposta
+Tipus de reg 
+Estat 
+Estat actual 
+Proposta
+DEMANDA1 EN LA SUPERFÍCIE CONSOLIDADA DE REG
+DEMANDA1 EN LA SUPERFÍCIE TOTAL DE REGADIU
+PAG. 30 DE 38
+ 
+Disminució de les demandes d’aigua, que assoleixen fins a 250 hm3 menys respecte l’estat 
+actual, considerant la superfície consolidada en reg, que es deriven de la millora substancial en 
+l’eficiència, en la modernització dels regadius, arribant a nivells propers a la potencial.
+En tot cas, els valors finals de la proposta s’han de prendre com a nivells mínims, establint una 
+forquilla de demanda en el futur que estarà entre l’estat actual (2.639 hm3) i la proposta (2.075 
+hm3), per absorbir la variació interanual i els efectes del canvi climàtic.
+Aquests objectius no es podrien considerar aconseguits sense garantir qualitat en el servei, i per 
+tant conservant o millorant el que s’ha anomenat satisfacció de la demanda, que és una expressió 
+de la garantia del subministrament.
+ 
+Aposta important pels regs de suport, que passen d’un 4 al 10 % de la demanda.
+Les mateixes dades es poden mostrar per tipologies de dotació (regs de suport, o amb dotació 
+completa), per tal d’avaluar l’impacte del pla.
+TOTAL ALTRES REGADIUS 
+341,71 
+12,94 
+530,69 
+25,58
+TOTAL 
+ 
+2.639,80 
+100,00 
+2.075,14 
+100,00
+1 Fa referència a la demanda  mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la 
+demanda real (calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. 
+S’estima doncs que un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que respon a la 
+situació actual.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+En un primer anàlisi es pot fer una comparació entre les diferents situacions i les dotacions 
+corresponents:
+La situació actual està propera a la saturació, entre el 96 i el 91 %, mentre que en la proposta, el 
+nivell de saturació està al voltant del 70 %.
+Concretant per a cada regadiu es pot una anàlisi de satisfacció de la demanda  comptabilitzant el 
+nombre de regadius on es produeix una demanda per sobre la dotació, i quin grau de desajust 
+presenta.
+En l’estat actual un 62% de la superfície de reg presenta una demanda per sobre de la seva dotació, 
+estant els valors més provables de desviació entre el 10 i el 50 %.
+Concepte 
+Demanda > Dotació 
+Desviació < 10 % 
+10 % < Desviació < 
+50 % 
+Desviació >50 %
+Valor 
+% 
+Valor 
+% 
+Valor 
+% 
+Valor 
+%
+Demanda (nombre) 
+128 
+34,88 
+36 
+9,81 
+77 
+20,98 
+15 
+4,09
+Demanda (ha) 
+191.623 
+62,04 
+20.913 
+6,77 
+167.126 
+54,11 
+3.584 
+1.16
+Concepte 
+Demanda > Dotació 
+Desviació < 10 % 
+10 % < Desviació < 
+50 % 
+Desviació >50 %
+Actual 
+2.390,84 
+2.472,55 
+96,70 
+2.639,80 
+2.885,51 
+91,48
+Proposta 
+2.044,92 
+2.919,65 
+70,04 
+2.075,14 
+2.953,13 
+70,27
+hm3 
+% 1 
+hm3 
+% 1
+Escenari 
+Superfície consolidada de reg 
+Superfície total de regadiu
+Demanda 
+Dotació 
+ 
+Demanda 
+Dotació
+ANÀLISI DE LA SATISFACCIÓ DE LA DEMANDA EN LA PROPOSTA. SUPERFÍCIE CONSOLIDADA DE REG
+ANÀLISI DE LA SATISFACCIÓ DE LA DEMANDA ACTUAL. SUPERFÍCIE CONSOLIDADA DE REG
+ANÀLISI DE LA SATISFACCIÓ DE LA DEMANDA. COMPARACIÓ AMB DOTACIONS
+1 Percentatge de la Demanda respecte la Dotació
+PAG. 31 DE 38
+En resum, derivat de l’aplicació del Pla de Regadius hi ha una reducció del consum potencial 
+d’aigua, marcant un llindar mig de consum per sota del nivell actual. Alhora, presenta encara un 
+potencial de millora que es concretarà en les modernitzacions pendents de realitzar, dels regadius 
+tradicionals en fase prèvia de planificació.
+La modernització permet una elasticitat estructural al voltant de 550 hm3, que s’obtenen de la 
+diferència la demanda de la superfície total de regadiu en l’estat actual i en la proposta. Sembla 
+raonable, i més considerant l’evolució dels preus de l’ús de l’aigua a l’alça, que les dotacions 
+efectives es reduiran fins als nivells de màxima eficiència, tot i que sempre es podran donar
+En la proposta, el 90 % dels regadius en nombre i el 83 % en superfície, les seves demandes estarien 
+per sota les seves dotacions, i aquestes en la seva majoria estarien per sota el 10 % de desviació, 
+permetent a mig termini ajustos amb les alternatives de conreu. Aquestes dades respecte la situació 
+actual són certament favorables, i mostren la millora en la qualitat del servei als regadius en la 
+proposta del Pla.
+Valor 
+% 
+Valor 
+% 
+Valor 
+% 
+Valor 
+%
+Demanda (nombre) 
+38 
+10,41 
+21 
+5,75 
+16 
+4,38 
+1 
+0,27
+Demanda (ha) 
+76.148 
+17,26 
+71.284 
+16,15 
+4.193 
+0,95 
+670 
+0,15
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ 
+De la diferència de l’estat actual a les dotacions, hi ha encara un cert marge de creixement, 
+entenent que els regadius es mantenen sempre en el límit de les concessions existents. És a dir, 
+hi ha regadius que no esgoten la seva concessió, en base a les alternatives de conreu actuals.
+En el mateix sentit es pot assegurar que el reg sense limitacions, no és assumible, ni en la 
+situació actual.
+ 
+La comparació de la situació actual i la potencial, entesa com aquella on tots els regadius 
+funcionen amb la màxima eficiència permet situar les demandes d’aigua significativament per 
+sota de les concessions actuals, en tots els escenaris de canvi climàtic i horitzons temporals.
+En un segon escenari, centrant l’anàlisi en les superfície total de regadiu, en l’estat actual, i per 
+tant incorporant els regadius en execució, la situació és la següent:
+Actual 
+Potencial 
+Concessions 
+Sense limitacions
+Potencial: és el consum aplicant les eficiències màximes als conreus. Per tant és regar el que hi ha ara, i modernitzant tots 
+els regadius. S'aplica el topall de la dotació quan és superada per les demandes reals
+De l’anterior taula es pot concloure un increment notable de la demanda, i per tant, una 
+agreujament de la situació:
+Actual: és el consum mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la demanda real 
+(calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. S’estima doncs que 
+un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que respon a la situació actual
+Sense limitacions: és el consum mantenint les eficiències actuals i sense limitacions, i per tant sense topall de dotació. És 
+rega satisfent al màxim les demandes de conreu amb les eficiències actuals
+3249,33
+A2 
+2001_2020 
+2783,86 
+2042,12 
+3451,23
+2041_2060 
+2868,00 
+2310,54 
+3951,79
+2081_2100 
+2902,94 
+2470,14 
+4277,97
+B1 
+2001_2020 
+2771,95 
+2023,50 
+3418,84
+2041_2060 
+2747,62 
+1968,88 
+3320,49
+2081_2100 
+2871,38 
+2295,10 
+3929,19
+2.885,51
+Concessions: és el consum de les concessions, i per tant esgotant al màxim la concessió d’aigua
+Escenari 
+Període 
+En reg (ha) 
+Demanda (hm3)
+2.639,80 
+1932,21
+ESCENARIS DE CONSUM DE LA SUPERFÍCIE TOTAL DE REGADIU ACTUAL
+407.724,57
+00 
+2001_2100
+situacions, en anys excedentaris, de consums superiors a aquets llindars en el marc de les dotacions 
+actuals.
+Per tant el resultat del Pla no comporta de fet una reducció de les dotacions, sinó una elasticitat 
+estructural o estalvi potencial estructural entre topalls.
+De la mateixa manera que en l’anàlisi de l’estat actual del regadius s’ha portat a terme l’anàlisi de 
+la proposta en un context de canvi climàtic. Les projeccions considerades han estat també els 
+escenaris d’emissions A2 i B1, en tres blocs temporals que inclou els períodes 2001-2020, 2041-2060 
+i 2081-2100.
+ 
+La proposta, fent referència, en aquest cas, únicament a la superfície total de regadius, donat 
+que la proposta estarà en principi consolidada en els horitzons definits.
+En les següents taules es mostren els resultats de l’anàlisi de la demanda en els escenaris de canvi 
+climàtic exposats:
+Actual 
+Potencial 
+Concessions 
+Sense limitacions
+Actual: és el consum mantenint les eficiències actuals, però amb el topall màxim de les dotacions. Així, si la demanda real 
+(calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es pren la dotació. S’estima doncs que 
+un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que respon a la situació actual
+2.902,11
+A2 
+2001_2020 
+2.423,47 
+1.678,69 
+3.087,81
+2041_2060 
+2.473,76 
+1.916,30 
+3.557,56
+2081_2100 
+2.492,30 
+2.059,50 
+3.867,33
+B1 
+2001_2020 
+2.413,78 
+1.665,33 
+3.060,67
+2041_2060 
+2.400,20 
+1.621,46 
+2.973,07
+2081_2100 
+2.478,60 
+1.902,32 
+3.536,42
+2.472,55
+6.1.2.1 
+Anàlisi de la demanada en un context de canvi climàtic.
+Escenari 
+Període 
+En reg (ha) 
+Demanda (hm3)
+2.390,84 
+1.584,99
+ESCENARIS DE CONSUM DE LES SUPERFÍCIES CONSOLIDADES DE REG ACTUAL
+ 
+Estat actual que és el de referència, fent referència a:
+El resultat es presenta en tres situacions:
+ 
+Superfícies consolidades de reg.
+ 
+Superfície total de regadius.
+308.889,82
+00 
+2001_2100
+PAG. 32 DE 38
+ 
+Segueix havent una important pressió sobre els recursos, donat que la demanda d’aigua sense 
+limitacions en la situació dels regadius actual, supera significativament les concessions, en tots 
+els escenaris temporals i de canvi climàtic. Aquesta pressió és deguda als regadius actuals 
+tradicionals sense modernitzar.
+ 
+La consolidació dels regadius actualment en construcció, juntament amb la millora de 
+l’eficiència dels regs actualment en reg, expressat en la columna de demanda potencial, no 
+superen, llevat de l’horitzó més allunyat i en la hipòtesi de canvi climàtic més extrema, el 
+consum actual dels regadius.
+ 
+Per tant la modernització, entesa com la millora de l’eficiència de reg, permetria situar les 
+demandes d’aigua significativament per sota de les concessions, en tots els escenaris de canvi 
+climàtic i horitzons temporals.
+Potencial: és el consum aplicant les eficiències màximes als conreus. Per tant és regar el que hi ha ara, i modernitzant tots 
+els regadius. S'aplica el topall de la dotació quan és superada per les demandes reals
+ 
+Hi ha una important pressió sobre els recursos, donat que la demanda d’aigua en la situació dels 
+regadius actual, supera significativament les concessions, en tots els escenaris temporals i de 
+canvi climàtic.
+Sense limitacions: és el consum mantenint les eficiències actuals i sense limitacions, i per tant sense topall de dotació. És 
+rega satisfent al màxim les demandes de conreu amb les eficiències actuals
+De l’anàlisi de la situació de les superfícies consolidades en reg, en l’estat actual, es pot concloure:
+Concessions: és el consum de les concessions, i per tant esgotant al màxim la concessió d’aigua
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Des d’un horitzó inicial del 41,77 % es passa a 72,56 %, derivat de l’aplicació del Pla, assolint una 
+millora de 30 punts en l’eficiència de reg fins a parcel·la.
+Per altra banda, als regadius, en un horitzó més enllà del pla els resta un recorregut fins a gairebé 
+el 76 % de l’eficiència. Aquesta permetria assolir valors que s’estan donant a la resta d’Espanya com 
+a mitjos.
+Sup. consolidada en reg 
+Sup. total de regadiu 
+Sup. total de regadiu
+Horitzons 
+ACTUAL 
+PROPOSTA
+Eficiència global (%) 
+41,77  
+48,00 
+72,56
+Aplicant aquests valors als diferents regadius resulta les següents eficiències:
+EFICIÈNCIA DELS REGADIUS. DIFERENTS HORITZONTS (%)
+ 
+La demanda en la situació de proposta està per sota de la demanda actual de els zones de 
+regadiu (entesa com la consolidació dels regadius avui iniciats i encara no en servei), comparant 
+les dades actuals amb els diferents escenaris de canvi climàtic i horitzons temporals.
+ 
+La modernització, entesa com la millora de l’eficiència de reg, permet situar les demandes 
+d’aigua significativament per sota de les concessions actuals, en tots els escenaris de canvi 
+climàtic i horitzons temporals, permetent un marge significativament superior al de l’estat 
+actual.
+Proposta 
+Potencial 
+Concessions 
+Sense limitacions
+Proposta: és el consum de la proposta, i per tant modernitzant part dels regadius, però amb el topall màxim de les 
+dotacions. Així, si la demanda real (calculada a partir de les alternatives de conreu) d'un reg és superior a la dotació, es 
+pren la dotació. S’estima doncs que un regadiu mai regarà per sobre de l’aigua que te concedida, per tant és l’escenari que 
+respon a la situació real
+Potencial: és el consum aplicant les eficiències màximes als conreus. Per tant és regar el que es proposa, i modernitzant 
+tots els regadius. S'aplica el topall de la dotació quan és superada per les demandes reals. Mostraria un escenari de màxima 
+eficiència
+Sense limitacions: és el consum mantenint les eficiències actuals i sense limitacions, i per tant sense topall de dotació. És 
+rega satisfent al màxim les demandes de conreu amb les eficiències actuals
+2821,86
+A2 
+2001_2020 
+2189,75 
+2088,96 
+3008,34
+2041_2060 
+2467,60 
+2360,24 
+3475,53
+2081_2100 
+2625,39 
+2524,57 
+3777,77
+B1 
+2001_2020 
+2172,08 
+2073,10 
+2981,06
+2041_2060 
+2116,97 
+2019,57 
+2890,58
+2081_2100 
+2457,31 
+2346,55 
+3451,11
+Fent una anàlisi comparatiu amb la proposta del Pla, es confirmen les hipòtesis plantejades:
+2.986,49
+Concessions: és el consum de les concessions, i per tant esgotant al màxim la concessió d’aigua
+Escenari 
+Període 
+En reg (ha) 
+Demanda (hm3)
+2075,14 
+1978,16
+ESCENARIS DE CONSUM. SUPERFICIE TOTAL DEL REGADIU. PROPOSTA
+441.261,4035
+6.1.3 
+Eficiències
+00 
+2001_2100
+PAG. 33 DE 38
+A aquest estalvi potencial estructural se li pot addicionar una capacitat de regulació o d’elasticitat 
+en funció de la demanda en competència a la disponibilitat, i per tant d’adaptació al dèficit.
+L’elasticitat està lligada també a la modernització dels regadius, tant a la xarxa de distribució com 
+al sistema de reg en parcel·la. D’acord amb els sistemes de transport i distribució de l’aigua, i amb 
+els d’aplicació, se’ls hi reconeix una capacitat de rebaixar el reg proporcionalment a tot el 
+domini regable. Sistemes de transport antic i regs a tesa no tenen aquesta capacitat.
+6.1.4 
+Elasticitat
+Per tal d’estimar l’eficiència actual i futura, que és qui dóna l’ordre de magnitud de la millora i els 
+nivells de consum futur, per a cada un dels regadius s’ha caracteritzat el tipus de transport i el 
+tipus de reg. La combinació d’ambdós dóna com a resultat l’eficiència en parcel·la.
+Les tipologies de transport i distribució s’han definit per a cada un dels regadius en base a 
+estimacions de projectes portats a terme, mentre que el tipus de reg s’ha estimat en base a 
+l’alternativa de conreus per a cada un dels regadius, segons la distribució de conreus dels municipis 
+que integren cada zona regable. Les dades dels conreus s’han extret de la DUN de l’any 2007.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+Així, al concepte de reducció estructural del sostre mitjà de reg, s’hi afegeix aquest concepte 
+d’elasticitat, que dóna folgança a la baixa, per adaptar-se a entorns de dèficit de forma 
+potencialment proporcional en gran part del domini regable.
+En l’anàlisi de la situació actual s’ha estimat una demanda energètica dels regadius a Catalunya de 
+118,44 GWh, que segons la tipologia de regadius es reparteixen de la següent manera:
+Les emissions de CO2 associades a aquest consum energètic, prenent com a referència el valor del 
+mix energètic nacional de 385 g CO2/kwh, és de 45.599,39 Tn CO2eq/any, que representen el 0,90% 
+de les emissions del sector agrari l’any base (5.041.710 Tn CO2eq/any).
+Resulten alhora unes mitjanes de consum elèctric de 386 kw h ha-1 any-1 que equival a 148 kg CO2 
+ha-1 any-1
+La demanda energètica de la proposta del pla arriba fins a 707,01 GWh, que equivalen a 63,63 
+KTEP, que representa un 0,42 % de l’energia final consumida a Catalunya (15.237 kTEP segons el Pla 
+de l’Energia de Catalunya 2006-2015). Segons la tipologia de regadius es reparteixen de la següent 
+manera:
+any-1 
+Kg CO2eq 
+ha-1 any-1
+ALTRES REGADIUS 
+EN 
+PROCÉS 
+D'EXECUCIÓ 
+I 
+PARCIALMENT EN SERVEI 
+26.965,83 
+64,82 
+2.403,78 
+925,46
+EN SERVEI 
+6.411,18 
+24,11 
+3.760,62 
+1.447,84
+REGADIU 
+TRADICIONAL 
+MODERNITZAT 
+10.616,84 
+19,16 
+1.804,68 
+694,80
+EN PROCÈS DE MODERNITZACIÓ 
+149.842,96 
+10,35 
+92,17 
+35,49
+NO MODERNITZAT 
+112.287,79 
+0,00 
+0,00 
+0,00
+Kw h ha-1
+Kw h ha-1
+Tipus de reg 
+Estat 
+Superfície 
+regada (ha) 
+Demanda 
+energètica 
+(GWh/any)
+DEMANDA ENERGÈTICA DELS REGADIUS ACTUALS CONSOLIDATS
+DEMANDA ENERGÈTICA DELS REGADIUS. PROPOSTA DEL PLA
+6.1.5 
+Consum energètic
+Per avaluar la resposta de reducció de consum d’aigua, es proposa una rebaixa proporcional de 
+disponibilitat d’aigua en els diferents horitzons. Als sistemes que no permeten aquesta elasticitat no 
+se’ls hi aplica, mentre que als que si que ho permeten se’ls hi redueix la dotació proporcionalment, 
+resultant en una rebaixa efectiva de la demanda.
+Per diferents nivells de rebaixa (10, 20 i 30 %), s’avalua l’elasticitat del sistema, en els diferents 
+horitzons plantejats, i l’adaptació del conjunt de la proposta a situacions de dèficit.
+Capítol 
+Mode 
+Elasticitat (1)
+TRANSPORT 
+T1. CANAL OBERT + BASSES, DISTRIBUCIÓ A CEL OBERT 
+-
+T2. CANAL OBERT + BASSES MODERNITZAT, DISTRIBUCIÓ PRESSIÓ 
+X
+T3. PRESSIÓ 
+X
+APLICACIÓ 
+A1. TESA 
+-
+A2. ASPERSIÓ 
+X
+A3. DEGOTEIG 
+X
+Horitzó 
+% de reducció 
+demanda 
+Consum1 (hm3) 
+% de reducció 
+efectiu
+ESTAT ACTUAL 
+Sup. consolidada en reg 
+0 
+2.390,84 
+-
+10 
+2.373,62 
+0,75
+20 
+2.355,92 
+1,49
+30 
+2.337,98 
+2,24
+Sup. total de regadiu 
+0 
+2.639,80 
+-
+10 
+2.580,14 
+2,26
+20 
+2.520,75 
+4,51
+30 
+2.461,09 
+6,77
+PROPOSTA 
+Sup. total de regadiu 
+0 
+2.075,14 
+-
+10 
+1.905,88 
+8,16
+ELASTICITAT. RESPOSTA A LA DEMANDA DE REDUCCIÓ DE REG
+CAPACITAT D’ELASTICITAT DELS SISTEMES DE REG
+(1) X: Sistemes amb elasticitat
+PAG. 34 DE 38
+La major demanda d’energia es deriva fonamentalment de la modernització dels regadius, i de la 
+consolidació dels regadius en execució i planificats.
+any-1 
+Kg CO2eq 
+ha-1 any-1
+ALTRES REGADIUS 
+EN ESTUDI I PLANIFICACIÓ 
+17.931,62 
+36,89 
+2.057,09 
+791,98
+EN SERVEI 
+157.118,84 
+328,40 
+2.090,12 
+804,69
+REGADIU 
+TRADICIONAL 
+MODERNITZAT 
+194.928,85 
+341,73 
+1.753,07 
+674,93
+NO MODERNITZAT 
+71.282,07 
+0,00 
+0,00 
+0,00
+Tipus de reg 
+Estat 
+Superfície 
+regada (ha) 
+Demanda 
+energètica 
+(GWh/any)
+De l’anterior taula se’n desprèn que, tot i que la dotació de l’estat actual i la proposta presenten 
+consum equivalents, hi ha una important diferència en la capacitat d’elasticitat davant de períodes 
+de dèficit. Aquesta capacitat mostra la nul·la adaptació del model actual a repartir un hipotètic 
+episodi de sequera, mentre que la proposta permet reduccions uniformes, de fins a un 25 % de la 
+demanda mitjana.
+20 
+1.736,55 
+16,32
+30 
+1.567,21 
+24,48
+1. El càlcul es fa sobre dotacions.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+La pèrdua de superfície correspon a regadius tradicionals que han estat absorbits per nous regadius, 
+de forma total, i per tant han desaparegut, o parcial, restant únicament la part no coincident. En 
+total, tant pel que fa referència a superposicions totals o parcials, la superfície potencialment 
+absorbida és la següent:
+En principi seria recomanable que aquestes superfícies passessin als regadius de major entitat, amb 
+una millor gestió i més eficients. Aquesta és l’estratègia del pla, malgrat en aquelles actuacions on 
+la superposició sigui de poca entitat respecte la totalitat del regadiu, o tinguin suficients 
+mecanismes de gestió i infraestructura per a permetre regs eficients com el que se’ls hi superposa, 
+es pugui decidir seguir com a comunitats independents.
+El planejament territorial, amb un fort impuls de definició en els darrers anys, ha generat 
+desenvolupaments urbans i àrees especialitzades en zones de regadiu, generalment tradicionals. 
+Aquests àmbits delimitats tenen un horitzó de desenvolupament fins al 2026, generant una situació 
+transitòria en aquests sòls agrícoles fins que no es desenvolupin els usos urbans proposats.
+Per determinar aquestes superfícies s’han consultat els plans territorials parcials, valorant totes 
+aquelles superfícies de regadiu que es superposen amb les següents figures:
+Seran els òrgans de govern de les comunitats qui determinaran l’estratègia a portar a terme.
+Les dades concretes de les superposicions, regadiu per regadiu es mostren en els annexos.
+Altres 
+Regadius (ha)
+Superposicions totals 
+4.685,89 
+690,00
+Superposicions parcials 
+7.144,57 
+57,95
+Total superposicions 
+11.830,46 
+747,95
+TOTAL 
+12.578,41
+Concepte 
+Reg. 
+Tradicionals 
+(ha)
+SUPERPOSICIÓ DE REGADIUS TOTALS
+6.3.2 
+Superposició amb àmbits urbans
+ 
+Nuclis històrics i les seves extensions
+ 
+Àrees especialitzades.
+Les emissions de CO2 associades a aquesta demanda energètica, prenent com a referència el valor 
+del mix energètic nacional de 385 g CO2/kwh, és de 272.198,71 Tn CO2eq/any, que representarien 
+el 5,40 % de les emissions del sector agrari l’any base (5.041.710 Tn CO2eq/any). Per tant la 
+proposta del pla, inicialment comporta un increment notable de les emissions, associades 
+principalment als bombaments, incrementant els 148 kg C ha-1 any-1, fins a 617 kg CO2eq ha-1 any-1. 
+Aquest increment prové fonamentalment de les modernitzacions, i en segon terme de la 
+consolidació dels regadius actuals.
+L’increment proposat de nous regadius pel pla, genera una demanda nova de 36,89 GWh/any, que 
+suposa un increment d’emissions de 14.202 Tn CO2eq/any, que alhora representa un 0,28 % de les 
+emissions del sector agrari l’any base (5.041.710 Tn CO2eq/any), i 3,30 kTEP que representa un 0,02 
+% de l’energia final consumida a Catalunya (15.237 kTEP segons el Pla de l’Energia de Catalunya 
+2006-2015)
+Per a tots els objectius definits s’ha establert, indicadors que serveixen de base per avaluar la 
+proposta, i mesures d’actuació en els casos que són necessàries.
+L’avaluació del Pla en general és positiva. Alhora, en aquells aspectes on s’han definit tendències 
+negatives s’han previst mesures de correcció, que en principi han de pal·liar aquests efectes 
+negatius.
+Per tant es pot concloure que la definició estratègica del Pla de Regadius s’ajusta als criteris i 
+objectius ambientals definits.
+ 
+Superposició de regadius tradicionals amb àmbits urbans delimitats en el planejament 
+territorial.
+L’aplicació del Pla genera situacions transitòries que afecten a regadius actuals, en dos conceptes:
+6.3.1 
+Superposició de regadius actuals amb nous regadius.
+ 
+Superposició de regadius actuals amb nous regadius
+6.2 
+AVALUACIÓ AMBIENTAL DEL PLA
+6.3 
+SITUACIONS TRANSITÒRIES
+PAG. 35 DE 38
+No s’han considerat el Sòl de Protecció Preventiva, entenent que és sòl no urbanitzable, i per tant, 
+compatible amb el regadiu.
+La superfície total de superposició, que correspon a superfície bruta, és de 22.133,80 ha.
+De l’anàlisi de la taula se’n desprèn que hi ha una diferència significativa entre la superfície de 
+Regadius tradicionals en l’estat actual i el futur.
+També hi ha una petita part d’altres regadius on es generen superposicions, però no és significativa
+Concepte 
+Actual consolidat 
+en reg 
+Total superfície de 
+regadiu
+Regadiu tradicional (ha) 
+275.512,81 
+266.210,93
+Regadiu tradicional (%) 
+100,00 % 
+95,87 %
+REGADIUS TRADICIONALS
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+L’anàlisi econòmic del Pla s’ha portat a terme a dues escales. Una primera a nivell d’explotació, 
+valorant que és el regant qui ha de liderar i dinamitzar les millores i transformacions, malgrat els 
+ajuts públics. Una segona, a nivell de país, per tal d’estimar l’efecte dels regadius sobre el conjunt 
+de l’economia, tant a nivell de rendiments com efectes sobre el mercat de treball.
+En base a l’anàlisi econòmica efectuada, en el que s’han considerat els efectes sobre el patrimoni i 
+sobre l’activitat agrícola que comportarà a nivell d’explotació la implantació de nous regadius i la 
+modernització dels existents, es conclou que:
+El balanç econòmic final és positiu, tant en un context de preus de l’aigua baixos com molt 
+especialment quan els preus són elevats, quan l’agricultor es dedica a conreus intensius (per 
+exemple, pomera), justificant-se en aquests casos la inversió desemborsada a nivell 
+d’explotació.
+En conseqüència, es desprèn que només resultarà rentable la modernització dels regadius en 
+aquelles explotacions agràries disposades a cultivar i comercialitzar conreus d’elevada 
+rendibilitat potencial, sigui fruita fresca, productes hortícoles o altres
+Modernitzar regadius implicarà, doncs, en la majoria dels casos, una reorientació completa de 
+l’activitat agrícola, i això suposarà sens dubte canvis estructurals profunds en l’explotació.
+Contràriament en el cas de mantenir exclusivament conreus herbacis tradicionals (per exemple, 
+ordi), en un context de preus de l’aigua fins i tot baixos, el balanç econòmic final seria negatiu.
+El factor del preu final de l’aigua influeix decisivament en la rendibilitat de les explotacions. 
+Així, un context de preus elevats de l’aigua contribueix a fer inviable econòmicament 
+l’agricultura lligada als regs tradicionals, i afavoreix la pressa de decisió dels agricultors vers la 
+modernització dels seus regadius.
+Un reg modern permet a l’empresari agrari adoptar en cada moment l’alternativa de conreus 
+que inclogui cultius tradicionals i nous cultius intensius, en funció de l’orientació tècnico-
+econòmica de l’explotació, de la disponibilitat de mà d’obra i de l’evolució dels preus de venda 
+dels productes agraris, en un context de perspectives de demanda mundial d’aliments creixent.
+ 
+En el cas de la modernització de regadius:
+7.1.1 
+A nivell d’explotació agrícola
+7 
+ESTUDI ECONÒMIC DEL PLA
+ 
+En el cas dels nous regadius:
+En funció de la tipologia de regadius, el pla defineix una estratègia concreta que s’haurà de portar a 
+terme en el moment de desenvolupament del Pla:
+En procés d'execució 
+1.369,36 S’ajustaran als Plans Territorials les parts no 
+executades
+En procés d'execució i parcialment en 
+servei 
+2.062,52 S’ajustaran als Plans Territorials les parts no 
+executades. Els àmbits en servei es mantindran 
+sense variacions
+En servei 
+307,10 Els àmbits en servei es mantindran sense 
+variacions
+En planificació de modernització. 
+2.050,02 S’ajustaran als Plans Territorials, de manera 
+que no es portaran a terme actuacions de 
+modernització en les zones de superposició.
+En procés de modernització. 
+5.919,94 S’ajustaran als Plans Territorials, de manera 
+que no es portaran a terme actuacions de 
+modernització en les zones de superposició. Els 
+àmbits modernitzats es mantindran sense 
+variacions
+Modernitzats 
+1.335,26 Els àmbits modernitzats es mantindran sense 
+variacions
+En les fitxes de cada un dels regadius es mostra específicament la superfície i àmbit de 
+superposició.
+Altres regadius 
+En estudi (*) 
+499,63 S’ajustaran als Plans Territorials
+En planificació (*) 
+737,13 S’ajustaran als Plans Territorials
+Regadiu tradicional 
+En fase prèvia de planificació de 
+modernització. 
+7.852,83 No hi ha actuacions
+ACTUACIONS EN ZONES DELIMITADES COM ZONES D’ASSENTAMENTS EN ELS PLANS TERRITORIALS.
+Tipus de reg 
+Situació 
+Sup. (ha) Estratègia
+TOTAL (sup bruta) 
+22.133,80
+PAG. 36 DE 38
+El balanç econòmic final és clarament positiu, tant en un context de preus de l’aigua elevats 
+com molt especialment quan els preus són baixos, quan l’agricultor passa a dedicar-se a conreus 
+intensius (per exemple, pomera), justificant-se en aquests casos la inversió desemborsada a 
+nivell d’explotació
+També el balanç econòmic final és clarament positiu, amb independència dels preus de l’aigua, 
+en els nous regadius de suport a l’arbrat amb dotacions baixes degut al increment de rendes 
+agrícoles que s’aconsegueix amb la esmentada transformació.
+Contràriament el balanç econòmic final es manté positiu únicament per la plusvàlua patrimonial 
+que es genera per la propietat, en el cas que l’agricultor cultivi en la nova situació, només 
+conreus extensius (per exemple, blat de moro, alfals i blat). Aquest extrem resulta cert, tant en 
+nous regadius de dotació completa com en nous regadius de suport als conreus herbacis
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+L’increment de producció agrícola que s’obté de l’aplicació del Pla de regadius representa un 
+increment del 91,55% respecte a la producció agrícola actual en aquest àmbit territorial, i del 
+44,13% respecte al total de la producció agrícola catalana (segons dades de 2008).
+L’increment del valor afegit brut generat per la implantació de nous regadius i modernització 
+dels regs tradicionals s’estima en 223.705,84 milers d’euros. Aquesta xifra representa un 
+increment del 16,17% respecte al valor afegit brut de la branca agrària (agrícola i ramadera) a 
+nivell de Catalunya, corresponent a 2008.
+A partir dels supòsits considerats, es preveu que la implementació del Pla de regadius suposi un 
+increment de la ocupació agrària de l’ordre de 9.678 Unitats de Treball Agràries (7.113 UTA en 
+l’àmbit dels nous regadius i 2.565 UTA degut a la modernització), que representa un increment 
+global del 15,29% sobre el total de la població activa registrada a Catalunya l’any 2009 en el 
+sector agrícola.
+L’increment econòmic en el sector agrícola, directament beneficiat per les actuacions de 
+modernització de regadius i implantació de nous regadius, valorat en 640.990,96 milers d’euros, 
+repercuteix en un increment del valor de la producció en el total de sectors econòmics que 
+integren el procés productiu, que s’avalua en 863.414,82 milers d’euros.
+L’increment estimat del valor de la producció final agrícola degut a la posta en marxa del Pla de 
+regadius és de 640.990,96 milers d’euros. S’estima que l’increment del valor afegit brut en 
+conjunt de l’economia repercutirà en un import total de 486.191,64 milers d’euros.
+Seguint una metodologia similar, s’ha determinat  l’efecte sobre la creació de llocs de treball, 
+establint aquest en 25.239 nous llocs de treball. Això és degut a que la producció agrícola és un 
+dels sectors amb el factor multiplicador d’ocupació més elevat (39,375).
+ 
+En relació als efectes sobre el conjunt de l’economia:
+En conseqüència, es desprèn que només resultarà rentable a nivell d’explotació la posada de 
+nous regadius, al marge de la plusvàlua patrimonial que es pugui generar, en dos dels casos 
+estudiats: un, en aquelles explotacions agràries disposades a cultivar i comercialitzar conreus 
+d’elevada rendibilitat potencial, sigui fruita fresca, productes hortícoles o altres i, dos, en els 
+nous regadius de suport a l’arbrat (olivera, ametller i vinya).
+Així, doncs, i al marge d’aquesta tipologia de reg de suport a l’arbrat, els nous regadius 
+implicaran la reorientació de l’activitat agrícola, i això suposarà sens dubte canvis estructurals 
+profunds en l’explotació.
+El factor del preu final de l’aigua influeix molt en la rendibilitat de les explotacions, i ho fa 
+d’una forma inversa que en la modernització dels regadius. Així, un context de preus baixos de 
+l’aigua contribueix a fer més viable econòmicament l’agricultura lligada al reg, i afavoreix la 
+presa de decisió dels agricultors vers la posada en regadiu de les terres de secà.
+La implantació d’un reg modern permet a l’empresari agrari, igual que en el cas de la 
+modernització, adoptar en cada moment la millor alternativa de conreus viable en la seva 
+explotació, en funció de l’orientació tècnico econòmica d’aquesta, la disponibilitat de mà 
+d’obra i l’evolució dels preus d venda dels productes agraris
+Amb base a l’anàlisi econòmica efectuada, en el que s’ha considerat la inversió pública que 
+requereix el Pla, els efectes sobre el sector agrícola quant a redistribució dels conreus, increment 
+dels rendiments productius, increment de la producció agrícola, increment del valor afegit brut i 
+increment de l’ocupació agrària i, finalment, els efectes sobre el conjunt de l’economia, en matèria 
+de valor de la producció, valor afegit brut i ocupació, es conclou que:
+La inversió global necessària amb càrrec a fonts públics per portar a terme el present Pla de 
+regadius ascendeix a un import total de 3.139.054 milers d’euros.
+La xifra anterior, a desemborsar amb càrrec a fonts públics durant el període de vigència del 
+Pla, equival a 2,2 vegades el valor de la producció agrícola anual catalana corresponent a 
+l’exercici 2008.
+Com a conseqüència de l’arribada o millora dels recursos hídrics a les explotacions, es donarà 
+una redistribució dels conreus. Es preveuen les següents tendències: una disminució important 
+en la superfície global destinada als cereals (del 42,8% a un 24,0%), un increment molt rellevant 
+en la superfície dedicada a la fruita fresca (del 9,2% a un 18,0%), uns increments significatius, 
+però més moderats, en les superfícies dedicades als conreus farratgers, olivera, cítrics i 
+hortalisses i un manteniment o lleuger descens de la presència de la resta de conreus.
+ 
+En relació als efectes sobre el sector agrícola:
+ 
+En relació a la inversió pública requerida:
+7.1.2 
+A nivell de país
+PAG. 37 DE 38
+El desenvolupament dels regadius a Catalunya comportarà, en general, un augment en els 
+rendiments productius dels conreus. Aquest fet resulta molt rellevant en la implantació de nous 
+regadius i més moderat en la modernització dels regadius tradicionals.
+S’ha avaluat la producció agrícola a l’àmbit del Pla de regadius, suposant les situacions d’abans 
+i de després de les actuacions projectades de modernització i d’implantació de nous regadius. 
+Es conclou que, com a conseqüència del desenvolupament de regadius que es promouen, 
+s’assolirà un increment de la producció agrícola total de l’ordre de 640.990,96 milers d’euros, 
+que doblarà pràcticament la producció actual.
+PLA DE REGADIUS DE CATALUNYA 2008-2020
+TEXT REFÒS
+MEMÒRIA  i ANNEXOS
+ 
+Limita la proposta de nous regadius en àrees que tenen un potencial agrícola important i 
+que amb el regadiu poden consolidar-lo, contribuint a un millor desenvolupament de les zones 
+rurals, recuperant en part les superfícies perdudes de regadiu en els últims decennis
+ 
+Modernitza els regadius tradicionals, permetent establir un sostre de reg amb una demanda 
+inferior a l’actual, malgrat la consolidació dels regadius en construcció, que es posaran en 
+reg durant la vigència del pla, incrementen notablement la superfície total de reg.
+ 
+Recolza les Comunitats de Regants per tal de millorar la seva capacitat de funcionament en la 
+gestió de les funcions que les hi són pròpies, i les implica en la gestió íntegra de tot l’àmbit 
+delimitat de regadiu, incloent les zones regades i les no regades.
+ 
+Posa en valor els sòls agrícoles, i concretament els regadius, com a eina d’ordenació territorial 
+i garantia del manteniment del valor patrimonials del sector primari pel conjunt del país.
+Aquest pla doncs ha de permetre, fruit de la consolidació del potencial agrícola, recolzar 
+l’agricultura en un context de competitivitat, liderant l’activitat en el seu conjunt, integrant tant 
+els aspectes de producció propis com els de gestió ambiental en els àmbits de regadiu, i en 
+conseqüència generant explotacions agrícoles millors, marc també per una agricultura de qualitat.
+Aquesta proposta de nous regadius es recolza sobre la millora dels regadius existents.
+ENGINYER AGRÒNOM
+Ignasi Grau Roca
+Octubre de 2011
+El Pla de Regadius 2008-2020 proposat permet assolir tots els objectius plantejats:
+9 
+CONCLUSIONS
+La planificació d’actuacions ha de permetre una certa coherència entre els regadius tradicionals 
+modernitzats, i els nous regadius, de manera que l’estratègia del Pla, de millora de l’eficiència de 
+reg i l’elasticitat, compensi els increments de demanda.
+La proposta del present Pla no suposa un increment significatiu de la superfície de reg, i per tant de 
+noves demandes. És la consolidació dels regadius actuals els qui incrementaran la demanda d’aigua 
+a curt termini.
+Contràriament, l’aplicació del Pla de Regadius, amb l’aposta per la modernització, genera de fet un 
+alliberament de la pressió sobre el recurs, permetent millorar les inèrcies del model actual.
+8 
+PLA DE FASES
+PAG. 38 DE 38
+Mentre la consolidació dels regadius fan augmentar de fet la superfície de reg (145 % de la 
+consolidada a l’any 2008), les modernitzacions rebaixen la demanda d’aigua (76 % de la demanda al 
+2008).
+Sembla coherent seguir un ritme parell de les modernitzacions amb la consolidació dels regadius 
+actuals, plantejant una única fase , que ha de convergir en una reducció efectiva de la demanda a 
+la finalització del Pla.

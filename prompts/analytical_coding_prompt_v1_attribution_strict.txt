@@ -1,0 +1,281 @@
+================================================================================
+ANALYTICAL CODING PROMPT  (v1, for reproducible API use)
+Classifies each irrigator assumption along the analytical / epistemic fields
+that support the irreducibility argument (distinct from, and complementary to,
+C. Aguiló-Rivera's thematic subcategory scheme). Same corpus and keys (id_cite +
+site); different classification. Ships verbatim as Supplementary Material of the
+irreducibility paper. Field definitions follow coding_codebook.md.
+================================================================================
+
+RUN CONFIGURATION (record verbatim in the Supplementary Materials)
+- Models: two, from different families, for inter-model agreement — Claude
+  claude-opus-4-8 (Anthropic Batch API, json_schema structured outputs, extended
+  thinking DISABLED) and DeepSeek deepseek-chat (Chat Completions, json_object mode).
+  Pin the exact model version strings returned by each API.
+- Sampling: do NOT set temperature / top_p / top_k on Claude (Opus 4.8 rejects them,
+  HTTP 400); DeepSeek uses temperature 0.7 so its repeated draws vary. Reproducibility
+  comes from the pinned model versions + this prompt (SHA-256 below) + saved raw outputs.
+- Max output tokens: 800.
+- One assumption per request (do not put several assumptions in one prompt); on Claude
+  submit the set through the Batch API (POST /v1/messages/batches — 50% cost, async).
+- Structured outputs: on Claude enforce the OUTPUT SCHEMA below via output_config.format
+  (json_schema) so every response is schema-valid; DeepSeek carries the schema in this
+  prompt (json_object mode) and its labels are validated against the vocabulary post-hoc.
+- Self-consistency: run each assumption N=5 times; take the majority value of each field;
+  report the inter-sample agreement as empirical confidence.
+- Prompt version: v1    Date: <run date>    Prompt SHA-256: <hash of this file>
+- Input per call: id_cite, traditional_knowledge, underlying_assumption,
+  main_category (context only; the coding does not depend on it).
+
+--------------------------------------------------------------------------------
+SYSTEM ROLE
+--------------------------------------------------------------------------------
+You are an expert in the ethnography and agronomy of traditional Mediterranean
+irrigation and in the epistemology of traditional ecological knowledge. You code
+underlying assumptions inferred from interviews with traditional Spanish and
+Catalan irrigators, along a fixed set of analytical fields. The purpose is to
+test whether this knowledge can be reduced to a water-in / yield-out efficiency
+logic; code what the assumption actually is, not what it should be.
+
+--------------------------------------------------------------------------------
+TASK
+--------------------------------------------------------------------------------
+You are given one assumption at a time, with these fields:
+- traditional_knowledge : the verbatim Spanish or Catalan cite plus its English
+  translation.
+- underlying_assumption : the English assumption inferred from that cite.
+- main_category         : one of four thematic categories (context only).
+
+Assign every field in the OUTPUT SCHEMA below, using ONLY the allowed values, and
+add a confidence in [0,1] for the overall coding plus a one-sentence rationale.
+
+--------------------------------------------------------------------------------
+RULES (strict)
+--------------------------------------------------------------------------------
+- Use the allowed values EXACTLY as written (lowercase snake_case). Do not
+  invent, translate, or rephrase them, except where a field is explicitly marked
+  "extensible".
+- Single-value fields take one value; multi-value fields take a JSON array of one
+  or more values.
+- Cross-field rules:
+  * corroboration applies ONLY when epistemic_type is "indicator" or
+    "mechanistic_belief"; otherwise null.
+  * n_env_variables is 0 unless epistemic_type is "indicator".
+  * cue, inference and action are filled ONLY when epistemic_type is "indicator";
+    otherwise null. They must not contain commas.
+- efficiency_legible decision rule: true ONLY if the assumption reduces fully to
+  a water-in / yield-out efficiency metric with nothing lost once every
+  non-production function is stripped away; otherwise false.
+- Output ONLY a single valid JSON object, no surrounding prose, no code fences,
+  no trailing commas.
+
+--------------------------------------------------------------------------------
+OUTPUT SCHEMA (return exactly this object)
+--------------------------------------------------------------------------------
+{
+  "id_cite": "<echo input>",
+  "epistemic_type": "<one allowed value>",
+  "functions": ["<one or more allowed values>"],
+  "efficiency_legible": <true|false>,
+  "sensory_channels": ["<one or more allowed values>"],
+  "n_env_variables": <integer>,
+  "eroded_by": ["<one or more allowed values>"],
+  "corroboration": "<allowed value or null>",
+  "measured_variable": ["<one or more allowed values>"],
+  "time_horizon": "<one allowed value>",
+  "inferential_form": "<one allowed value>",
+  "temporal_framing": "<one allowed value>",
+  "knowledge_mode": "<one allowed value>",
+  "is_saying": <true|false>,
+  "is_value_statement": <true|false>,
+  "cue": "<short phrase or null>",
+  "inference": "<short phrase or null>",
+  "action": "<short phrase or null>",
+  "practice": "<one token>",
+  "confidence": <number 0-1>,
+  "rationale": "<one sentence>"
+}
+
+--------------------------------------------------------------------------------
+FIELD DEFINITIONS AND ALLOWED VALUES
+--------------------------------------------------------------------------------
+epistemic_type (single) — the form of knowing; assign the dominant one:
+  indicator          = reads an observable sign to infer a hidden state / event.
+  heuristic_rule     = an operational rule of thumb for action.
+  mechanistic_belief = a causal claim about how the system works.
+  calendrical        = fixed-date or saint's-day timing.
+  astronomical       = lunar or celestial timing / omen.
+  normative_social   = rule of cooperation, governance, reciprocity.
+  valuation          = explicit value, identity, or preference.
+
+functions (multi) — only the purposes the ASSUMPTION ITSELF serves. Code a
+  function only if the content of the assumption, read on its own, is what
+  serves it. Do not code a function that is served by the wider practice the
+  assumption belongs to, or by the setting in which it is used, unless the
+  assumption states or entails it. When in doubt, omit the function.
+  Allowed values:
+  crop_production, water_conservation, risk_management, biodiversity,
+  soil_health, microclimate_regulation, pest_control, social_cohesion,
+  medicinal_food, recreation_wellbeing, livestock, groundwater_recharge.
+
+efficiency_legible (boolean) — see decision rule above.
+
+sensory_channels (multi) — embodied observation channels used:
+  visual, tactile, acoustic, olfactory, gustatory, none.
+
+n_env_variables (integer) — for indicators, the number of distinct environmental
+  variables the inference integrates simultaneously; 0 otherwise.
+
+eroded_by (multi) — modernization technology that would render the knowledge or
+  function obsolete, impossible, or unobservable:
+  drip, soil_sensor, remote_sensing, on_demand, app_scheduling, none.
+
+corroboration (single; indicator & mechanistic_belief only, else null):
+  mechanistic  = a known physical/biological mechanism supports it.
+  plausible    = consistent with science but not individually verified.
+  coordinative = works as a social/temporal coordination device regardless of
+                 physical causation (e.g. saint's-day, lunar timing).
+  dubious      = no known supporting mechanism.
+
+measured_variable (multi; extensible) — the physical variable(s) concerned,
+  chosen so they can be matched against what modern instruments measure:
+  soil_moisture, soil_texture, soil_temperature, air_temperature, humidity,
+  rainfall, wind, frost, evaporation, crop_water_status, crop_phenology,
+  pest_presence, biodiversity_state, water_flow, water_quality,
+  water_availability, groundwater, soil_quality, none.
+  If none fits, add a new lowercase snake_case token.
+
+time_horizon (single) — the scale it operates on:
+  immediate (same hour/day), days, seasonal, annual, generational.
+
+inferential_form (single) — logical structure:
+  deterministic (stated as fact/rule), conditional (explicit if-then),
+  hedged (probabilistic — "can", "may", "some").
+
+temporal_framing (single) — how it is narrated:
+  present (current practice/knowledge), past_elder (past tense / attributed to
+  forebears — "antes", "mi padre", "los viejos"), saying (proverb / refrán form).
+
+knowledge_mode (single):
+  know_how (requires a practice/intervention), know_that (observation/inference
+  only).
+
+is_saying (boolean) — proverb / refrán / saint- or lunar-calendar formula.
+
+is_value_statement (boolean) — explicit value, identity, or preference statement.
+
+cue / inference / action (short English noun phrases; indicator rows only, else
+  null; no commas) — the observed sign, what is inferred, and the decision taken.
+
+practice (single token; extensible) — the keystone practice/object the assumption
+  hangs on; prefer this reusable set:
+  flood_irrigation, open_channel, weed_tolerance, ridge_furrow, plot_leveling,
+  channel_cleaning, crop_rotation, mulching, turn_exchange, sky_reading,
+  tillage, drip_irrigation, cover_crop, none.
+
+--------------------------------------------------------------------------------
+WORKED EXAMPLES
+--------------------------------------------------------------------------------
+1) Heron flight (Murcia, Irrigation) — "By looking at where the herons fly, we
+   know which ditch the water flows through."
+{
+  "id_cite": "IPCWM_XX",
+  "epistemic_type": "indicator",
+  "functions": ["crop_production", "water_conservation"],
+  "efficiency_legible": false,
+  "sensory_channels": ["visual"],
+  "n_env_variables": 3,
+  "eroded_by": ["remote_sensing", "app_scheduling"],
+  "corroboration": "mechanistic",
+  "measured_variable": ["water_flow"],
+  "time_horizon": "immediate",
+  "inferential_form": "deterministic",
+  "temporal_framing": "present",
+  "knowledge_mode": "know_that",
+  "is_saying": false,
+  "is_value_statement": false,
+  "cue": "heron flight path",
+  "inference": "where water is moving in the channel network",
+  "action": "locate the active ditch and time irrigation",
+  "practice": "sky_reading",
+  "confidence": 0.9,
+  "rationale": "A visual bird cue is read to infer water movement, a decision signal that no single instrument reproduces."
+}
+
+2) Flood to half the ridge for vegetables (Murcia, Crop) — "With vegetables we
+   flood up to half the ridge."
+{
+  "id_cite": "CKM_XX",
+  "epistemic_type": "heuristic_rule",
+  "functions": ["crop_production", "water_conservation"],
+  "efficiency_legible": true,
+  "sensory_channels": ["visual"],
+  "n_env_variables": 0,
+  "eroded_by": ["drip"],
+  "corroboration": null,
+  "measured_variable": ["crop_water_status"],
+  "time_horizon": "immediate",
+  "inferential_form": "deterministic",
+  "temporal_framing": "present",
+  "knowledge_mode": "know_how",
+  "is_saying": false,
+  "is_value_statement": false,
+  "cue": null,
+  "inference": null,
+  "action": null,
+  "practice": "ridge_furrow",
+  "confidence": 0.85,
+  "rationale": "A fixed application-depth rule that reduces cleanly to a water-application efficiency metric."
+}
+
+3) "Si quieres tener un buen habar, siembra por la Virgen del Pilar" (Murcia,
+   Crop) — sow beans by the Virgen del Pilar.
+{
+  "id_cite": "CKM_XX",
+  "epistemic_type": "calendrical",
+  "functions": ["crop_production"],
+  "efficiency_legible": false,
+  "sensory_channels": ["none"],
+  "n_env_variables": 0,
+  "eroded_by": ["none"],
+  "corroboration": null,
+  "measured_variable": ["crop_phenology"],
+  "time_horizon": "generational",
+  "inferential_form": "deterministic",
+  "temporal_framing": "saying",
+  "knowledge_mode": "know_how",
+  "is_saying": true,
+  "is_value_statement": false,
+  "cue": null,
+  "inference": null,
+  "action": null,
+  "practice": "none",
+  "confidence": 0.9,
+  "rationale": "A saint's-day sowing rule that encodes seasonal timing outside any efficiency metric."
+}
+
+4) "Cambiar el riego tradicional es un suicidio" (Murcia, Irrigation) — changing
+   traditional irrigation is suicide.
+{
+  "id_cite": "IPCWM_XX",
+  "epistemic_type": "valuation",
+  "functions": ["social_cohesion"],
+  "efficiency_legible": false,
+  "sensory_channels": ["none"],
+  "n_env_variables": 0,
+  "eroded_by": ["none"],
+  "corroboration": null,
+  "measured_variable": ["none"],
+  "time_horizon": "generational",
+  "inferential_form": "deterministic",
+  "temporal_framing": "present",
+  "knowledge_mode": "know_that",
+  "is_saying": false,
+  "is_value_statement": true,
+  "cue": null,
+  "inference": null,
+  "action": null,
+  "practice": "none",
+  "confidence": 0.9,
+  "rationale": "An explicit identity/value claim about tradition, with no efficiency content."
+}

@@ -1,0 +1,1081 @@
+provider,vote,id_cite,original,rewritten,flip
+anthropic,any draw,CKM_03,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_05,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_10,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_101,FALSE,FALSE,FALSE
+anthropic,any draw,CKM_105,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_110,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_111,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_114,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_25,FALSE,FALSE,FALSE
+anthropic,any draw,CKM_27,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_32,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_34,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_35,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_39,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_41,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_43,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_52,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_54,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_56,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_58,FALSE,FALSE,FALSE
+anthropic,any draw,CKM_59,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_60,FALSE,FALSE,FALSE
+anthropic,any draw,CKM_64,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_66,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_77,FALSE,TRUE,TRUE
+anthropic,any draw,CKM_78,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_81,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_87,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_92,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_97,TRUE,TRUE,FALSE
+anthropic,any draw,CKM_98,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_01,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_03,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_06,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_07,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_101,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_103,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_105,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_107,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_120,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_121,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_124,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_131,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_132,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_134,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_136,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_144,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_147,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_149,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_150,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_151,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_153,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_163,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_167,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_169,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_170,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_171,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_172,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_19,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_21,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_24,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_30,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_32,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_39,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_45,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_46,FALSE,TRUE,TRUE
+anthropic,any draw,IPCWM_50,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_51,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_53,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_54,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_56,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_62,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_64,FALSE,TRUE,TRUE
+anthropic,any draw,IPCWM_66,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_69,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_75,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_76,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_78,FALSE,TRUE,TRUE
+anthropic,any draw,IPCWM_80,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_82,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_84,TRUE,FALSE,TRUE
+anthropic,any draw,IPCWM_85,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_86,FALSE,FALSE,FALSE
+anthropic,any draw,IPCWM_90,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_94,TRUE,TRUE,FALSE
+anthropic,any draw,IPCWM_95,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_04,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_09,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_17,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_20,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_23,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_31,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_37,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_40,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_42,FALSE,TRUE,TRUE
+anthropic,any draw,SMM_47,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_50,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_61,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_67,FALSE,TRUE,TRUE
+anthropic,any draw,SMM_72,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_74,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_77,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_82,TRUE,FALSE,TRUE
+anthropic,any draw,SMM_87,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_88,TRUE,TRUE,FALSE
+anthropic,any draw,SMM_96,FALSE,TRUE,TRUE
+anthropic,any draw,SMM_97,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_09,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_11,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_18,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_24,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_26,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_31,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_41,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_46,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_48,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_54,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_66,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_68,TRUE,TRUE,FALSE
+anthropic,any draw,WCC_75,TRUE,TRUE,FALSE
+anthropic,majority,CKM_03,TRUE,TRUE,FALSE
+anthropic,majority,CKM_05,TRUE,TRUE,FALSE
+anthropic,majority,CKM_10,TRUE,TRUE,FALSE
+anthropic,majority,CKM_101,FALSE,FALSE,FALSE
+anthropic,majority,CKM_105,TRUE,TRUE,FALSE
+anthropic,majority,CKM_110,TRUE,TRUE,FALSE
+anthropic,majority,CKM_111,TRUE,TRUE,FALSE
+anthropic,majority,CKM_114,TRUE,TRUE,FALSE
+anthropic,majority,CKM_25,FALSE,FALSE,FALSE
+anthropic,majority,CKM_27,TRUE,TRUE,FALSE
+anthropic,majority,CKM_32,TRUE,TRUE,FALSE
+anthropic,majority,CKM_34,TRUE,FALSE,TRUE
+anthropic,majority,CKM_35,TRUE,TRUE,FALSE
+anthropic,majority,CKM_39,TRUE,TRUE,FALSE
+anthropic,majority,CKM_41,TRUE,TRUE,FALSE
+anthropic,majority,CKM_43,TRUE,TRUE,FALSE
+anthropic,majority,CKM_52,TRUE,TRUE,FALSE
+anthropic,majority,CKM_54,TRUE,FALSE,TRUE
+anthropic,majority,CKM_56,TRUE,TRUE,FALSE
+anthropic,majority,CKM_58,FALSE,FALSE,FALSE
+anthropic,majority,CKM_59,TRUE,TRUE,FALSE
+anthropic,majority,CKM_60,FALSE,FALSE,FALSE
+anthropic,majority,CKM_64,TRUE,TRUE,FALSE
+anthropic,majority,CKM_66,TRUE,TRUE,FALSE
+anthropic,majority,CKM_77,FALSE,FALSE,FALSE
+anthropic,majority,CKM_78,TRUE,TRUE,FALSE
+anthropic,majority,CKM_81,TRUE,TRUE,FALSE
+anthropic,majority,CKM_87,TRUE,TRUE,FALSE
+anthropic,majority,CKM_92,TRUE,TRUE,FALSE
+anthropic,majority,CKM_97,TRUE,TRUE,FALSE
+anthropic,majority,CKM_98,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_01,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_03,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_06,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_07,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_101,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_103,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_105,FALSE,TRUE,TRUE
+anthropic,majority,IPCWM_107,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_120,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_121,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_124,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_131,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_132,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_134,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_136,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_144,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_147,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_149,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_150,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_151,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_153,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_163,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_167,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_169,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_170,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_171,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_172,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_19,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_21,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_24,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_30,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_32,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_39,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_45,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_46,FALSE,TRUE,TRUE
+anthropic,majority,IPCWM_50,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_51,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_53,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_54,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_56,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_62,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_64,FALSE,TRUE,TRUE
+anthropic,majority,IPCWM_66,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_69,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_75,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_76,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_78,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_80,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_82,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_84,TRUE,FALSE,TRUE
+anthropic,majority,IPCWM_85,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_86,FALSE,FALSE,FALSE
+anthropic,majority,IPCWM_90,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_94,TRUE,TRUE,FALSE
+anthropic,majority,IPCWM_95,TRUE,TRUE,FALSE
+anthropic,majority,SMM_04,TRUE,TRUE,FALSE
+anthropic,majority,SMM_09,TRUE,TRUE,FALSE
+anthropic,majority,SMM_17,TRUE,TRUE,FALSE
+anthropic,majority,SMM_20,TRUE,TRUE,FALSE
+anthropic,majority,SMM_23,TRUE,TRUE,FALSE
+anthropic,majority,SMM_31,TRUE,TRUE,FALSE
+anthropic,majority,SMM_37,TRUE,TRUE,FALSE
+anthropic,majority,SMM_40,TRUE,TRUE,FALSE
+anthropic,majority,SMM_42,FALSE,FALSE,FALSE
+anthropic,majority,SMM_47,TRUE,TRUE,FALSE
+anthropic,majority,SMM_50,TRUE,TRUE,FALSE
+anthropic,majority,SMM_61,TRUE,TRUE,FALSE
+anthropic,majority,SMM_67,FALSE,TRUE,TRUE
+anthropic,majority,SMM_72,TRUE,TRUE,FALSE
+anthropic,majority,SMM_74,TRUE,TRUE,FALSE
+anthropic,majority,SMM_77,TRUE,TRUE,FALSE
+anthropic,majority,SMM_82,TRUE,FALSE,TRUE
+anthropic,majority,SMM_87,TRUE,TRUE,FALSE
+anthropic,majority,SMM_88,TRUE,TRUE,FALSE
+anthropic,majority,SMM_96,FALSE,TRUE,TRUE
+anthropic,majority,SMM_97,TRUE,TRUE,FALSE
+anthropic,majority,WCC_09,TRUE,TRUE,FALSE
+anthropic,majority,WCC_11,TRUE,TRUE,FALSE
+anthropic,majority,WCC_18,TRUE,TRUE,FALSE
+anthropic,majority,WCC_24,TRUE,TRUE,FALSE
+anthropic,majority,WCC_26,TRUE,TRUE,FALSE
+anthropic,majority,WCC_31,TRUE,TRUE,FALSE
+anthropic,majority,WCC_41,TRUE,TRUE,FALSE
+anthropic,majority,WCC_46,TRUE,TRUE,FALSE
+anthropic,majority,WCC_48,TRUE,TRUE,FALSE
+anthropic,majority,WCC_54,TRUE,TRUE,FALSE
+anthropic,majority,WCC_66,TRUE,TRUE,FALSE
+anthropic,majority,WCC_68,TRUE,TRUE,FALSE
+anthropic,majority,WCC_75,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_03,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_05,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_10,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_101,FALSE,FALSE,FALSE
+anthropic,unanimous,CKM_105,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_110,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_111,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_114,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_25,FALSE,FALSE,FALSE
+anthropic,unanimous,CKM_27,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_32,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_34,TRUE,FALSE,TRUE
+anthropic,unanimous,CKM_35,TRUE,FALSE,TRUE
+anthropic,unanimous,CKM_39,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_41,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_43,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_52,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_54,FALSE,FALSE,FALSE
+anthropic,unanimous,CKM_56,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_58,FALSE,FALSE,FALSE
+anthropic,unanimous,CKM_59,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_60,FALSE,FALSE,FALSE
+anthropic,unanimous,CKM_64,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_66,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_77,FALSE,FALSE,FALSE
+anthropic,unanimous,CKM_78,FALSE,TRUE,TRUE
+anthropic,unanimous,CKM_81,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_87,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_92,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_97,TRUE,TRUE,FALSE
+anthropic,unanimous,CKM_98,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_01,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_03,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_06,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_07,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_101,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_103,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_105,FALSE,TRUE,TRUE
+anthropic,unanimous,IPCWM_107,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_120,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_121,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_124,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_131,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_132,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_134,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_136,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_144,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_147,FALSE,TRUE,TRUE
+anthropic,unanimous,IPCWM_149,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_150,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_151,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_153,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_163,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_167,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_169,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_170,TRUE,FALSE,TRUE
+anthropic,unanimous,IPCWM_171,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_172,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_19,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_21,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_24,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_30,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_32,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_39,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_45,FALSE,TRUE,TRUE
+anthropic,unanimous,IPCWM_46,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_50,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_51,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_53,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_54,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_56,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_62,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_64,FALSE,TRUE,TRUE
+anthropic,unanimous,IPCWM_66,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_69,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_75,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_76,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_78,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_80,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_82,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_84,TRUE,FALSE,TRUE
+anthropic,unanimous,IPCWM_85,TRUE,FALSE,TRUE
+anthropic,unanimous,IPCWM_86,FALSE,FALSE,FALSE
+anthropic,unanimous,IPCWM_90,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_94,TRUE,TRUE,FALSE
+anthropic,unanimous,IPCWM_95,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_04,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_09,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_17,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_20,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_23,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_31,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_37,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_40,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_42,FALSE,FALSE,FALSE
+anthropic,unanimous,SMM_47,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_50,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_61,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_67,FALSE,TRUE,TRUE
+anthropic,unanimous,SMM_72,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_74,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_77,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_82,TRUE,FALSE,TRUE
+anthropic,unanimous,SMM_87,FALSE,TRUE,TRUE
+anthropic,unanimous,SMM_88,TRUE,TRUE,FALSE
+anthropic,unanimous,SMM_96,FALSE,FALSE,FALSE
+anthropic,unanimous,SMM_97,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_09,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_11,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_18,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_24,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_26,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_31,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_41,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_46,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_48,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_54,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_66,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_68,TRUE,TRUE,FALSE
+anthropic,unanimous,WCC_75,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_03,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_05,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_10,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_101,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_105,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_110,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_111,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_114,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_25,FALSE,FALSE,FALSE
+deepseek,any draw,CKM_27,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_32,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_34,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_35,FALSE,FALSE,FALSE
+deepseek,any draw,CKM_39,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_41,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_43,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_52,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_54,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_56,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_58,FALSE,FALSE,FALSE
+deepseek,any draw,CKM_59,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_60,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_64,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_66,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_77,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_78,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_81,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_87,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_92,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_97,TRUE,TRUE,FALSE
+deepseek,any draw,CKM_98,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_01,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_03,FALSE,TRUE,TRUE
+deepseek,any draw,IPCWM_06,TRUE,FALSE,TRUE
+deepseek,any draw,IPCWM_07,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_101,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_103,FALSE,TRUE,TRUE
+deepseek,any draw,IPCWM_105,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_107,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_120,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_121,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_124,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_131,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_132,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_134,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_136,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_144,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_147,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_149,TRUE,FALSE,TRUE
+deepseek,any draw,IPCWM_150,FALSE,TRUE,TRUE
+deepseek,any draw,IPCWM_151,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_153,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_163,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_167,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_169,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_170,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_171,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_172,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_19,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_21,TRUE,FALSE,TRUE
+deepseek,any draw,IPCWM_24,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_30,FALSE,TRUE,TRUE
+deepseek,any draw,IPCWM_32,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_39,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_45,FALSE,TRUE,TRUE
+deepseek,any draw,IPCWM_46,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_50,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_51,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_53,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_54,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_56,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_62,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_64,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_66,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_69,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_75,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_76,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_78,FALSE,TRUE,TRUE
+deepseek,any draw,IPCWM_80,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_82,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_84,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_85,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_86,FALSE,FALSE,FALSE
+deepseek,any draw,IPCWM_90,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_94,TRUE,TRUE,FALSE
+deepseek,any draw,IPCWM_95,FALSE,TRUE,TRUE
+deepseek,any draw,SMM_04,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_09,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_17,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_20,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_23,FALSE,FALSE,FALSE
+deepseek,any draw,SMM_31,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_37,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_40,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_42,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_47,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_50,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_61,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_67,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_72,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_74,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_77,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_82,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_87,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_88,TRUE,TRUE,FALSE
+deepseek,any draw,SMM_96,FALSE,TRUE,TRUE
+deepseek,any draw,SMM_97,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_09,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_11,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_18,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_24,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_26,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_31,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_41,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_46,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_48,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_54,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_66,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_68,TRUE,TRUE,FALSE
+deepseek,any draw,WCC_75,TRUE,TRUE,FALSE
+deepseek,majority,CKM_03,TRUE,TRUE,FALSE
+deepseek,majority,CKM_05,TRUE,TRUE,FALSE
+deepseek,majority,CKM_10,TRUE,TRUE,FALSE
+deepseek,majority,CKM_101,FALSE,TRUE,TRUE
+deepseek,majority,CKM_105,TRUE,TRUE,FALSE
+deepseek,majority,CKM_110,TRUE,TRUE,FALSE
+deepseek,majority,CKM_111,TRUE,TRUE,FALSE
+deepseek,majority,CKM_114,TRUE,TRUE,FALSE
+deepseek,majority,CKM_25,FALSE,FALSE,FALSE
+deepseek,majority,CKM_27,TRUE,TRUE,FALSE
+deepseek,majority,CKM_32,TRUE,TRUE,FALSE
+deepseek,majority,CKM_34,TRUE,TRUE,FALSE
+deepseek,majority,CKM_35,FALSE,FALSE,FALSE
+deepseek,majority,CKM_39,TRUE,TRUE,FALSE
+deepseek,majority,CKM_41,TRUE,TRUE,FALSE
+deepseek,majority,CKM_43,TRUE,TRUE,FALSE
+deepseek,majority,CKM_52,TRUE,TRUE,FALSE
+deepseek,majority,CKM_54,TRUE,TRUE,FALSE
+deepseek,majority,CKM_56,TRUE,TRUE,FALSE
+deepseek,majority,CKM_58,FALSE,FALSE,FALSE
+deepseek,majority,CKM_59,TRUE,FALSE,TRUE
+deepseek,majority,CKM_60,FALSE,FALSE,FALSE
+deepseek,majority,CKM_64,TRUE,TRUE,FALSE
+deepseek,majority,CKM_66,TRUE,TRUE,FALSE
+deepseek,majority,CKM_77,FALSE,FALSE,FALSE
+deepseek,majority,CKM_78,TRUE,TRUE,FALSE
+deepseek,majority,CKM_81,TRUE,TRUE,FALSE
+deepseek,majority,CKM_87,TRUE,TRUE,FALSE
+deepseek,majority,CKM_92,TRUE,TRUE,FALSE
+deepseek,majority,CKM_97,TRUE,TRUE,FALSE
+deepseek,majority,CKM_98,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_01,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_03,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_06,TRUE,FALSE,TRUE
+deepseek,majority,IPCWM_07,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_101,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_103,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_105,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_107,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_120,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_121,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_124,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_131,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_132,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_134,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_136,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_144,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_147,FALSE,TRUE,TRUE
+deepseek,majority,IPCWM_149,TRUE,FALSE,TRUE
+deepseek,majority,IPCWM_150,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_151,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_153,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_163,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_167,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_169,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_170,FALSE,TRUE,TRUE
+deepseek,majority,IPCWM_171,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_172,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_19,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_21,TRUE,FALSE,TRUE
+deepseek,majority,IPCWM_24,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_30,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_32,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_39,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_45,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_46,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_50,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_51,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_53,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_54,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_56,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_62,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_64,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_66,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_69,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_75,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_76,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_78,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_80,TRUE,FALSE,TRUE
+deepseek,majority,IPCWM_82,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_84,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_85,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_86,FALSE,FALSE,FALSE
+deepseek,majority,IPCWM_90,TRUE,TRUE,FALSE
+deepseek,majority,IPCWM_94,TRUE,FALSE,TRUE
+deepseek,majority,IPCWM_95,FALSE,FALSE,FALSE
+deepseek,majority,SMM_04,TRUE,TRUE,FALSE
+deepseek,majority,SMM_09,FALSE,TRUE,TRUE
+deepseek,majority,SMM_17,TRUE,TRUE,FALSE
+deepseek,majority,SMM_20,TRUE,TRUE,FALSE
+deepseek,majority,SMM_23,FALSE,FALSE,FALSE
+deepseek,majority,SMM_31,TRUE,FALSE,TRUE
+deepseek,majority,SMM_37,TRUE,TRUE,FALSE
+deepseek,majority,SMM_40,TRUE,TRUE,FALSE
+deepseek,majority,SMM_42,TRUE,TRUE,FALSE
+deepseek,majority,SMM_47,TRUE,TRUE,FALSE
+deepseek,majority,SMM_50,TRUE,TRUE,FALSE
+deepseek,majority,SMM_61,TRUE,FALSE,TRUE
+deepseek,majority,SMM_67,TRUE,TRUE,FALSE
+deepseek,majority,SMM_72,TRUE,TRUE,FALSE
+deepseek,majority,SMM_74,TRUE,TRUE,FALSE
+deepseek,majority,SMM_77,TRUE,TRUE,FALSE
+deepseek,majority,SMM_82,TRUE,TRUE,FALSE
+deepseek,majority,SMM_87,TRUE,TRUE,FALSE
+deepseek,majority,SMM_88,TRUE,TRUE,FALSE
+deepseek,majority,SMM_96,FALSE,FALSE,FALSE
+deepseek,majority,SMM_97,TRUE,TRUE,FALSE
+deepseek,majority,WCC_09,TRUE,TRUE,FALSE
+deepseek,majority,WCC_11,TRUE,TRUE,FALSE
+deepseek,majority,WCC_18,TRUE,TRUE,FALSE
+deepseek,majority,WCC_24,TRUE,TRUE,FALSE
+deepseek,majority,WCC_26,TRUE,TRUE,FALSE
+deepseek,majority,WCC_31,TRUE,TRUE,FALSE
+deepseek,majority,WCC_41,TRUE,TRUE,FALSE
+deepseek,majority,WCC_46,TRUE,TRUE,FALSE
+deepseek,majority,WCC_48,TRUE,TRUE,FALSE
+deepseek,majority,WCC_54,TRUE,TRUE,FALSE
+deepseek,majority,WCC_66,TRUE,TRUE,FALSE
+deepseek,majority,WCC_68,TRUE,TRUE,FALSE
+deepseek,majority,WCC_75,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_03,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_05,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_10,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_101,FALSE,TRUE,TRUE
+deepseek,unanimous,CKM_105,FALSE,TRUE,TRUE
+deepseek,unanimous,CKM_110,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_111,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_114,FALSE,TRUE,TRUE
+deepseek,unanimous,CKM_25,FALSE,FALSE,FALSE
+deepseek,unanimous,CKM_27,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_32,FALSE,TRUE,TRUE
+deepseek,unanimous,CKM_34,FALSE,TRUE,TRUE
+deepseek,unanimous,CKM_35,FALSE,FALSE,FALSE
+deepseek,unanimous,CKM_39,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_41,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_43,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_52,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_54,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_56,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_58,FALSE,FALSE,FALSE
+deepseek,unanimous,CKM_59,FALSE,FALSE,FALSE
+deepseek,unanimous,CKM_60,FALSE,FALSE,FALSE
+deepseek,unanimous,CKM_64,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_66,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_77,FALSE,FALSE,FALSE
+deepseek,unanimous,CKM_78,TRUE,FALSE,TRUE
+deepseek,unanimous,CKM_81,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_87,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_92,TRUE,TRUE,FALSE
+deepseek,unanimous,CKM_97,FALSE,TRUE,TRUE
+deepseek,unanimous,CKM_98,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_01,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_03,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_06,TRUE,FALSE,TRUE
+deepseek,unanimous,IPCWM_07,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_101,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_103,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_105,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_107,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_120,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_121,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_124,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_131,FALSE,TRUE,TRUE
+deepseek,unanimous,IPCWM_132,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_134,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_136,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_144,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_147,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_149,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_150,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_151,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_153,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_163,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_167,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_169,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_170,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_171,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_172,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_19,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_21,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_24,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_30,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_32,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_39,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_45,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_46,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_50,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_51,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_53,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_54,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_56,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_62,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_64,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_66,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_69,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_75,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_76,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_78,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_80,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_82,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_84,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_85,FALSE,TRUE,TRUE
+deepseek,unanimous,IPCWM_86,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_90,TRUE,TRUE,FALSE
+deepseek,unanimous,IPCWM_94,FALSE,FALSE,FALSE
+deepseek,unanimous,IPCWM_95,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_04,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_09,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_17,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_20,FALSE,TRUE,TRUE
+deepseek,unanimous,SMM_23,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_31,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_37,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_40,TRUE,FALSE,TRUE
+deepseek,unanimous,SMM_42,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_47,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_50,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_61,TRUE,FALSE,TRUE
+deepseek,unanimous,SMM_67,FALSE,TRUE,TRUE
+deepseek,unanimous,SMM_72,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_74,TRUE,FALSE,TRUE
+deepseek,unanimous,SMM_77,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_82,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_87,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_88,TRUE,TRUE,FALSE
+deepseek,unanimous,SMM_96,FALSE,FALSE,FALSE
+deepseek,unanimous,SMM_97,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_09,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_11,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_18,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_24,FALSE,TRUE,TRUE
+deepseek,unanimous,WCC_26,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_31,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_41,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_46,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_48,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_54,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_66,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_68,TRUE,TRUE,FALSE
+deepseek,unanimous,WCC_75,TRUE,TRUE,FALSE
+openai,any draw,CKM_03,TRUE,TRUE,FALSE
+openai,any draw,CKM_05,TRUE,TRUE,FALSE
+openai,any draw,CKM_10,TRUE,TRUE,FALSE
+openai,any draw,CKM_101,FALSE,FALSE,FALSE
+openai,any draw,CKM_105,TRUE,FALSE,TRUE
+openai,any draw,CKM_110,TRUE,TRUE,FALSE
+openai,any draw,CKM_111,TRUE,TRUE,FALSE
+openai,any draw,CKM_114,TRUE,TRUE,FALSE
+openai,any draw,CKM_25,FALSE,FALSE,FALSE
+openai,any draw,CKM_27,TRUE,TRUE,FALSE
+openai,any draw,CKM_32,TRUE,TRUE,FALSE
+openai,any draw,CKM_34,FALSE,FALSE,FALSE
+openai,any draw,CKM_35,FALSE,FALSE,FALSE
+openai,any draw,CKM_39,TRUE,TRUE,FALSE
+openai,any draw,CKM_41,TRUE,TRUE,FALSE
+openai,any draw,CKM_43,TRUE,TRUE,FALSE
+openai,any draw,CKM_52,TRUE,TRUE,FALSE
+openai,any draw,CKM_54,TRUE,FALSE,TRUE
+openai,any draw,CKM_56,TRUE,TRUE,FALSE
+openai,any draw,CKM_58,FALSE,FALSE,FALSE
+openai,any draw,CKM_59,FALSE,FALSE,FALSE
+openai,any draw,CKM_60,TRUE,TRUE,FALSE
+openai,any draw,CKM_64,TRUE,TRUE,FALSE
+openai,any draw,CKM_66,TRUE,TRUE,FALSE
+openai,any draw,CKM_77,TRUE,TRUE,FALSE
+openai,any draw,CKM_78,TRUE,TRUE,FALSE
+openai,any draw,CKM_81,TRUE,TRUE,FALSE
+openai,any draw,CKM_87,TRUE,TRUE,FALSE
+openai,any draw,CKM_92,TRUE,TRUE,FALSE
+openai,any draw,CKM_97,TRUE,TRUE,FALSE
+openai,any draw,CKM_98,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_01,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_03,TRUE,FALSE,TRUE
+openai,any draw,IPCWM_06,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_07,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_101,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_103,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_105,FALSE,TRUE,TRUE
+openai,any draw,IPCWM_107,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_120,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_121,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_124,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_131,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_132,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_134,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_136,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_144,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_147,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_149,FALSE,TRUE,TRUE
+openai,any draw,IPCWM_150,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_151,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_153,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_163,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_167,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_169,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_170,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_171,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_172,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_19,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_21,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_24,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_30,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_32,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_39,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_45,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_46,TRUE,FALSE,TRUE
+openai,any draw,IPCWM_50,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_51,FALSE,TRUE,TRUE
+openai,any draw,IPCWM_53,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_54,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_56,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_62,TRUE,FALSE,TRUE
+openai,any draw,IPCWM_64,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_66,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_69,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_75,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_76,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_78,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_80,FALSE,TRUE,TRUE
+openai,any draw,IPCWM_82,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_84,FALSE,FALSE,FALSE
+openai,any draw,IPCWM_85,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_86,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_90,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_94,TRUE,TRUE,FALSE
+openai,any draw,IPCWM_95,TRUE,FALSE,TRUE
+openai,any draw,SMM_04,TRUE,TRUE,FALSE
+openai,any draw,SMM_09,TRUE,TRUE,FALSE
+openai,any draw,SMM_17,TRUE,TRUE,FALSE
+openai,any draw,SMM_20,TRUE,TRUE,FALSE
+openai,any draw,SMM_23,FALSE,FALSE,FALSE
+openai,any draw,SMM_31,TRUE,TRUE,FALSE
+openai,any draw,SMM_37,TRUE,TRUE,FALSE
+openai,any draw,SMM_40,TRUE,TRUE,FALSE
+openai,any draw,SMM_42,TRUE,TRUE,FALSE
+openai,any draw,SMM_47,TRUE,TRUE,FALSE
+openai,any draw,SMM_50,TRUE,TRUE,FALSE
+openai,any draw,SMM_61,TRUE,TRUE,FALSE
+openai,any draw,SMM_67,TRUE,TRUE,FALSE
+openai,any draw,SMM_72,TRUE,TRUE,FALSE
+openai,any draw,SMM_74,TRUE,TRUE,FALSE
+openai,any draw,SMM_77,TRUE,TRUE,FALSE
+openai,any draw,SMM_82,TRUE,TRUE,FALSE
+openai,any draw,SMM_87,TRUE,FALSE,TRUE
+openai,any draw,SMM_88,TRUE,TRUE,FALSE
+openai,any draw,SMM_96,FALSE,FALSE,FALSE
+openai,any draw,SMM_97,TRUE,TRUE,FALSE
+openai,any draw,WCC_09,TRUE,TRUE,FALSE
+openai,any draw,WCC_11,TRUE,TRUE,FALSE
+openai,any draw,WCC_18,TRUE,TRUE,FALSE
+openai,any draw,WCC_24,TRUE,TRUE,FALSE
+openai,any draw,WCC_26,TRUE,TRUE,FALSE
+openai,any draw,WCC_31,TRUE,TRUE,FALSE
+openai,any draw,WCC_41,TRUE,TRUE,FALSE
+openai,any draw,WCC_46,TRUE,TRUE,FALSE
+openai,any draw,WCC_48,TRUE,TRUE,FALSE
+openai,any draw,WCC_54,TRUE,TRUE,FALSE
+openai,any draw,WCC_66,TRUE,TRUE,FALSE
+openai,any draw,WCC_68,TRUE,TRUE,FALSE
+openai,any draw,WCC_75,TRUE,TRUE,FALSE
+openai,majority,CKM_03,TRUE,TRUE,FALSE
+openai,majority,CKM_05,TRUE,TRUE,FALSE
+openai,majority,CKM_10,TRUE,TRUE,FALSE
+openai,majority,CKM_101,FALSE,FALSE,FALSE
+openai,majority,CKM_105,FALSE,FALSE,FALSE
+openai,majority,CKM_110,TRUE,TRUE,FALSE
+openai,majority,CKM_111,FALSE,FALSE,FALSE
+openai,majority,CKM_114,TRUE,TRUE,FALSE
+openai,majority,CKM_25,FALSE,FALSE,FALSE
+openai,majority,CKM_27,TRUE,TRUE,FALSE
+openai,majority,CKM_32,TRUE,TRUE,FALSE
+openai,majority,CKM_34,FALSE,FALSE,FALSE
+openai,majority,CKM_35,FALSE,FALSE,FALSE
+openai,majority,CKM_39,TRUE,TRUE,FALSE
+openai,majority,CKM_41,TRUE,TRUE,FALSE
+openai,majority,CKM_43,TRUE,TRUE,FALSE
+openai,majority,CKM_52,TRUE,TRUE,FALSE
+openai,majority,CKM_54,FALSE,FALSE,FALSE
+openai,majority,CKM_56,TRUE,TRUE,FALSE
+openai,majority,CKM_58,FALSE,FALSE,FALSE
+openai,majority,CKM_59,FALSE,FALSE,FALSE
+openai,majority,CKM_60,TRUE,FALSE,TRUE
+openai,majority,CKM_64,TRUE,TRUE,FALSE
+openai,majority,CKM_66,TRUE,TRUE,FALSE
+openai,majority,CKM_77,TRUE,FALSE,TRUE
+openai,majority,CKM_78,TRUE,TRUE,FALSE
+openai,majority,CKM_81,TRUE,TRUE,FALSE
+openai,majority,CKM_87,TRUE,TRUE,FALSE
+openai,majority,CKM_92,TRUE,TRUE,FALSE
+openai,majority,CKM_97,TRUE,TRUE,FALSE
+openai,majority,CKM_98,TRUE,TRUE,FALSE
+openai,majority,IPCWM_01,TRUE,TRUE,FALSE
+openai,majority,IPCWM_03,TRUE,FALSE,TRUE
+openai,majority,IPCWM_06,TRUE,TRUE,FALSE
+openai,majority,IPCWM_07,TRUE,TRUE,FALSE
+openai,majority,IPCWM_101,TRUE,TRUE,FALSE
+openai,majority,IPCWM_103,FALSE,TRUE,TRUE
+openai,majority,IPCWM_105,FALSE,FALSE,FALSE
+openai,majority,IPCWM_107,TRUE,TRUE,FALSE
+openai,majority,IPCWM_120,FALSE,FALSE,FALSE
+openai,majority,IPCWM_121,FALSE,FALSE,FALSE
+openai,majority,IPCWM_124,TRUE,TRUE,FALSE
+openai,majority,IPCWM_131,TRUE,TRUE,FALSE
+openai,majority,IPCWM_132,TRUE,TRUE,FALSE
+openai,majority,IPCWM_134,TRUE,TRUE,FALSE
+openai,majority,IPCWM_136,TRUE,TRUE,FALSE
+openai,majority,IPCWM_144,TRUE,TRUE,FALSE
+openai,majority,IPCWM_147,FALSE,FALSE,FALSE
+openai,majority,IPCWM_149,FALSE,FALSE,FALSE
+openai,majority,IPCWM_150,FALSE,FALSE,FALSE
+openai,majority,IPCWM_151,FALSE,FALSE,FALSE
+openai,majority,IPCWM_153,TRUE,TRUE,FALSE
+openai,majority,IPCWM_163,TRUE,TRUE,FALSE
+openai,majority,IPCWM_167,FALSE,FALSE,FALSE
+openai,majority,IPCWM_169,TRUE,TRUE,FALSE
+openai,majority,IPCWM_170,TRUE,TRUE,FALSE
+openai,majority,IPCWM_171,FALSE,FALSE,FALSE
+openai,majority,IPCWM_172,TRUE,TRUE,FALSE
+openai,majority,IPCWM_19,TRUE,TRUE,FALSE
+openai,majority,IPCWM_21,TRUE,FALSE,TRUE
+openai,majority,IPCWM_24,TRUE,TRUE,FALSE
+openai,majority,IPCWM_30,FALSE,FALSE,FALSE
+openai,majority,IPCWM_32,TRUE,TRUE,FALSE
+openai,majority,IPCWM_39,TRUE,TRUE,FALSE
+openai,majority,IPCWM_45,FALSE,FALSE,FALSE
+openai,majority,IPCWM_46,FALSE,FALSE,FALSE
+openai,majority,IPCWM_50,TRUE,TRUE,FALSE
+openai,majority,IPCWM_51,FALSE,FALSE,FALSE
+openai,majority,IPCWM_53,FALSE,FALSE,FALSE
+openai,majority,IPCWM_54,TRUE,TRUE,FALSE
+openai,majority,IPCWM_56,TRUE,TRUE,FALSE
+openai,majority,IPCWM_62,FALSE,FALSE,FALSE
+openai,majority,IPCWM_64,FALSE,FALSE,FALSE
+openai,majority,IPCWM_66,FALSE,FALSE,FALSE
+openai,majority,IPCWM_69,FALSE,FALSE,FALSE
+openai,majority,IPCWM_75,TRUE,TRUE,FALSE
+openai,majority,IPCWM_76,TRUE,TRUE,FALSE
+openai,majority,IPCWM_78,FALSE,TRUE,TRUE
+openai,majority,IPCWM_80,FALSE,FALSE,FALSE
+openai,majority,IPCWM_82,FALSE,FALSE,FALSE
+openai,majority,IPCWM_84,FALSE,FALSE,FALSE
+openai,majority,IPCWM_85,TRUE,TRUE,FALSE
+openai,majority,IPCWM_86,TRUE,TRUE,FALSE
+openai,majority,IPCWM_90,TRUE,TRUE,FALSE
+openai,majority,IPCWM_94,TRUE,TRUE,FALSE
+openai,majority,IPCWM_95,FALSE,FALSE,FALSE
+openai,majority,SMM_04,TRUE,TRUE,FALSE
+openai,majority,SMM_09,TRUE,FALSE,TRUE
+openai,majority,SMM_17,TRUE,TRUE,FALSE
+openai,majority,SMM_20,TRUE,TRUE,FALSE
+openai,majority,SMM_23,FALSE,FALSE,FALSE
+openai,majority,SMM_31,TRUE,TRUE,FALSE
+openai,majority,SMM_37,TRUE,TRUE,FALSE
+openai,majority,SMM_40,TRUE,TRUE,FALSE
+openai,majority,SMM_42,TRUE,TRUE,FALSE
+openai,majority,SMM_47,TRUE,TRUE,FALSE
+openai,majority,SMM_50,TRUE,TRUE,FALSE
+openai,majority,SMM_61,TRUE,TRUE,FALSE
+openai,majority,SMM_67,TRUE,TRUE,FALSE
+openai,majority,SMM_72,TRUE,TRUE,FALSE
+openai,majority,SMM_74,FALSE,FALSE,FALSE
+openai,majority,SMM_77,FALSE,TRUE,TRUE
+openai,majority,SMM_82,TRUE,TRUE,FALSE
+openai,majority,SMM_87,TRUE,FALSE,TRUE
+openai,majority,SMM_88,TRUE,TRUE,FALSE
+openai,majority,SMM_96,FALSE,FALSE,FALSE
+openai,majority,SMM_97,TRUE,TRUE,FALSE
+openai,majority,WCC_09,TRUE,TRUE,FALSE
+openai,majority,WCC_11,TRUE,TRUE,FALSE
+openai,majority,WCC_18,TRUE,TRUE,FALSE
+openai,majority,WCC_24,TRUE,TRUE,FALSE
+openai,majority,WCC_26,TRUE,TRUE,FALSE
+openai,majority,WCC_31,TRUE,TRUE,FALSE
+openai,majority,WCC_41,TRUE,TRUE,FALSE
+openai,majority,WCC_46,TRUE,TRUE,FALSE
+openai,majority,WCC_48,TRUE,TRUE,FALSE
+openai,majority,WCC_54,TRUE,TRUE,FALSE
+openai,majority,WCC_66,TRUE,TRUE,FALSE
+openai,majority,WCC_68,TRUE,TRUE,FALSE
+openai,majority,WCC_75,TRUE,TRUE,FALSE
+openai,unanimous,CKM_03,TRUE,TRUE,FALSE
+openai,unanimous,CKM_05,TRUE,TRUE,FALSE
+openai,unanimous,CKM_10,TRUE,TRUE,FALSE
+openai,unanimous,CKM_101,FALSE,FALSE,FALSE
+openai,unanimous,CKM_105,FALSE,FALSE,FALSE
+openai,unanimous,CKM_110,TRUE,TRUE,FALSE
+openai,unanimous,CKM_111,FALSE,FALSE,FALSE
+openai,unanimous,CKM_114,FALSE,TRUE,TRUE
+openai,unanimous,CKM_25,FALSE,FALSE,FALSE
+openai,unanimous,CKM_27,TRUE,TRUE,FALSE
+openai,unanimous,CKM_32,TRUE,TRUE,FALSE
+openai,unanimous,CKM_34,FALSE,FALSE,FALSE
+openai,unanimous,CKM_35,FALSE,FALSE,FALSE
+openai,unanimous,CKM_39,TRUE,TRUE,FALSE
+openai,unanimous,CKM_41,TRUE,TRUE,FALSE
+openai,unanimous,CKM_43,TRUE,TRUE,FALSE
+openai,unanimous,CKM_52,TRUE,TRUE,FALSE
+openai,unanimous,CKM_54,FALSE,FALSE,FALSE
+openai,unanimous,CKM_56,TRUE,TRUE,FALSE
+openai,unanimous,CKM_58,FALSE,FALSE,FALSE
+openai,unanimous,CKM_59,FALSE,FALSE,FALSE
+openai,unanimous,CKM_60,FALSE,FALSE,FALSE
+openai,unanimous,CKM_64,TRUE,TRUE,FALSE
+openai,unanimous,CKM_66,TRUE,TRUE,FALSE
+openai,unanimous,CKM_77,FALSE,FALSE,FALSE
+openai,unanimous,CKM_78,FALSE,TRUE,TRUE
+openai,unanimous,CKM_81,TRUE,TRUE,FALSE
+openai,unanimous,CKM_87,TRUE,TRUE,FALSE
+openai,unanimous,CKM_92,TRUE,TRUE,FALSE
+openai,unanimous,CKM_97,TRUE,TRUE,FALSE
+openai,unanimous,CKM_98,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_01,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_03,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_06,TRUE,FALSE,TRUE
+openai,unanimous,IPCWM_07,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_101,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_103,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_105,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_107,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_120,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_121,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_124,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_131,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_132,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_134,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_136,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_144,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_147,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_149,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_150,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_151,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_153,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_163,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_167,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_169,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_170,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_171,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_172,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_19,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_21,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_24,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_30,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_32,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_39,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_45,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_46,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_50,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_51,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_53,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_54,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_56,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_62,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_64,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_66,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_69,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_75,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_76,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_78,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_80,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_82,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_84,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_85,TRUE,FALSE,TRUE
+openai,unanimous,IPCWM_86,FALSE,FALSE,FALSE
+openai,unanimous,IPCWM_90,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_94,TRUE,TRUE,FALSE
+openai,unanimous,IPCWM_95,FALSE,FALSE,FALSE
+openai,unanimous,SMM_04,TRUE,TRUE,FALSE
+openai,unanimous,SMM_09,TRUE,FALSE,TRUE
+openai,unanimous,SMM_17,TRUE,TRUE,FALSE
+openai,unanimous,SMM_20,TRUE,TRUE,FALSE
+openai,unanimous,SMM_23,FALSE,FALSE,FALSE
+openai,unanimous,SMM_31,FALSE,FALSE,FALSE
+openai,unanimous,SMM_37,TRUE,TRUE,FALSE
+openai,unanimous,SMM_40,FALSE,FALSE,FALSE
+openai,unanimous,SMM_42,TRUE,TRUE,FALSE
+openai,unanimous,SMM_47,TRUE,TRUE,FALSE
+openai,unanimous,SMM_50,TRUE,TRUE,FALSE
+openai,unanimous,SMM_61,TRUE,TRUE,FALSE
+openai,unanimous,SMM_67,FALSE,FALSE,FALSE
+openai,unanimous,SMM_72,TRUE,TRUE,FALSE
+openai,unanimous,SMM_74,FALSE,FALSE,FALSE
+openai,unanimous,SMM_77,FALSE,FALSE,FALSE
+openai,unanimous,SMM_82,TRUE,TRUE,FALSE
+openai,unanimous,SMM_87,FALSE,FALSE,FALSE
+openai,unanimous,SMM_88,TRUE,TRUE,FALSE
+openai,unanimous,SMM_96,FALSE,FALSE,FALSE
+openai,unanimous,SMM_97,TRUE,TRUE,FALSE
+openai,unanimous,WCC_09,TRUE,TRUE,FALSE
+openai,unanimous,WCC_11,TRUE,TRUE,FALSE
+openai,unanimous,WCC_18,TRUE,TRUE,FALSE
+openai,unanimous,WCC_24,TRUE,TRUE,FALSE
+openai,unanimous,WCC_26,TRUE,TRUE,FALSE
+openai,unanimous,WCC_31,TRUE,TRUE,FALSE
+openai,unanimous,WCC_41,TRUE,TRUE,FALSE
+openai,unanimous,WCC_46,TRUE,TRUE,FALSE
+openai,unanimous,WCC_48,TRUE,TRUE,FALSE
+openai,unanimous,WCC_54,TRUE,TRUE,FALSE
+openai,unanimous,WCC_66,TRUE,TRUE,FALSE
+openai,unanimous,WCC_68,TRUE,TRUE,FALSE
+openai,unanimous,WCC_75,TRUE,TRUE,FALSE

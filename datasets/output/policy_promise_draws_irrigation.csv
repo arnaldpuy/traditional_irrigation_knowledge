@@ -1,0 +1,676 @@
+rec_id,model,draw,function,direction,scale,consistency,evidence_strength,justification
+A1_rd329-2002_plan_nacional_regadios,claude,1,crop_production,delivered,regional,consistent,strong,Aims to consolidate diversified competitive agrifood system and increase productivity and farm income through modernisation.
+A1_rd329-2002_plan_nacional_regadios,claude,1,water_conservation,delivered,regional,consistent,strong,Modernise distribution/application infrastructure to rationalise water use and promote innovations reducing water consumption.
+A1_rd329-2002_plan_nacional_regadios,claude,1,social_cohesion,delivered,regional,consistent,strong,"Vertebrate territory, fix population, sustain rural employment; reinforce co-responsibility and cooperation among administrations and irrigators."
+A1_rd329-2002_plan_nacional_regadios,claude,1,risk_management,delivered,regional,consistent,moderate,Irrigation counters rainfall scarcity/irregularity to secure economic and reliable harvests.
+A1_rd329-2002_plan_nacional_regadios,claude,1,biodiversity,delivered,regional,consistent,moderate,"Environmental criteria to protect biodiversity, valuable natural spaces and rural landscapes, avoid land degradation."
+A1_rd329-2002_plan_nacional_regadios,claude,1,groundwater_recharge,delivered,basin,consistent,moderate,Favour aquifer recovery and reduce agrarian contamination of surface and groundwater; combat desertification.
+A1_rd329-2002_plan_nacional_regadios,claude,1,soil_health,delivered,regional,consistent,moderate,Avoid land degradation and reduce desertification processes through environmental management of irrigated zones.
+A2_rd287-2006_plan_choque_regadios,claude,1,water_conservation,delivered,basin,consistent,strong,"Central objective: modernise 866,898 ha to obtain estimated annual water saving of 1,162 Hm3 to mitigate drought."
+A2_rd287-2006_plan_choque_regadios,claude,1,risk_management,delivered,basin,consistent,strong,"Aims to palliate drought damage, guarantee irrigation supply, and improve reliability of urban/agricultural supply during severe scarcity."
+A2_rd287-2006_plan_choque_regadios,claude,1,crop_production,delivered,farm,consistent,moderate,Promotes irrigation techniques that optimise production and enable competitiveness of irrigated holdings in globalised market.
+A2_rd287-2006_plan_choque_regadios,claude,1,social_cohesion,delivered,regional,consistent,moderate,"Modernisation consolidates agroindustrial system, fixes rural population and improves quality of life in influenced zones."
+A2_rd287-2006_plan_choque_regadios,claude,1,biodiversity,mixed,basin,mixed,moderate,"Environmental vigilance, water-saving reallocated to environmental needs, but expedited/halved EIA timelines raise trade-off concerns."
+A3_prtr_componente3,claude,1,water_conservation,delivered,regional,consistent,strong,"Headline objective: modernisation for water saving, efficiency, reduced abstraction pressure; drip and non-conventional water use cited repeatedly."
+A3_prtr_componente3,claude,1,risk_management,delivered,regional,consistent,strong,Adapting irrigation to shrinking resources under climate change; improving sector resilience and supply guarantee.
+A3_prtr_componente3,claude,1,crop_production,delivered,farm,consistent,moderate,"Modernisation enables profitable farming, precise fertigation at doses crops need, sustaining agricultural production."
+A3_prtr_componente3,claude,1,soil_health,delivered,field,consistent,moderate,"Drip/sprinkler reduce leaching, contamination; erosion and desertification avoided; reduced fertiliser use protects soil."
+A3_prtr_componente3,claude,1,groundwater_recharge,delivered,basin,consistent,moderate,Substituting groundwater with regenerated/desalinated water and reducing abstraction protects aquifers and water tables.
+A3_prtr_componente3,claude,1,social_cohesion,delivered,regional,consistent,moderate,"Modernisation fixes rural population, prevents land abandonment; governance Mesa del Regadío enables cooperation among stakeholders."
+A3_prtr_componente3,claude,1,biodiversity,delivered,regional,mixed,moderate,"Claimed to preserve ecosystems, subject to environmental impact assessment; but linked mainly to marine sector conservation claims."
+A3_prtr_componente3,claude,1,pest_control,delivered,field,mixed,weak,Precision application of phytosanitary products at exact doses reduces contamination; passing mention alongside fertigation.
+B1_plan_regadia_andalucia,claude,1,water_conservation,delivered,regional,consistent,strong,"Focus area 5A 'uso más eficiente del agua', eligibility requires demonstrated water-saving potential and effective consumption reduction."
+B1_plan_regadia_andalucia,claude,1,groundwater_recharge,delivered,basin,mixed,moderate,Requires 50% effective consumption reduction where water bodies below good status for quantity; prioritizes substituting groundwater with regenerated water.
+B1_plan_regadia_andalucia,claude,1,social_cohesion,delivered,regional,mixed,weak,Works through Comunidades de Regantes collective governance; prioritization favours remote works establishing 'condiciones de ruralidad'.
+B2_pla_regadius_catalunya,claude,1,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, situating water demand significantly below concessions across all climate scenarios."
+B2_pla_regadius_catalunya,claude,1,risk_management,delivered,regional,consistent,strong,"Modernised systems are elastic, enabling uniform reductions up to 25% during drought, unlike rigid traditional flood irrigation; guarantees supply reliability."
+B2_pla_regadius_catalunya,claude,1,crop_production,delivered,regional,consistent,strong,"Plan projects agricultural output increase of ~91% in scope area, doubling production, with yield improvements from modernisation and new irrigation."
+B2_pla_regadius_catalunya,claude,1,social_cohesion,delivered,regional,consistent,moderate,"Supports Comunitats de Regants governance capacity and rural viability, recovering lost irrigation and consolidating agriculture in rural zones."
+B2_pla_regadius_catalunya,claude,1,biodiversity,mixed,regional,mixed,moderate,Environmental assessment positive overall; negative tendencies flagged with corrective measures; excludes protected spaces incompatible with irrigation.
+B2_pla_regadius_catalunya,claude,1,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from ~50% to 80%, saving water and reducing abstraction pressure; central objective A.1."
+B2_pla_regadius_catalunya,claude,1,crop_production,delivered,regional,consistent,moderate,Objective to increase yield efficiency for agricultural production and improve the sector's incomes and stability.
+B2_pla_regadius_catalunya,claude,1,risk_management,delivered,basin,mixed,moderate,Increased efficiency and elasticity allow adjusting dotations in deficit periods; but variability cannot guarantee competing uses.
+B2_pla_regadius_catalunya,claude,1,groundwater_recharge,delivered,basin,mixed,moderate,"Plan aims to avoid overexploitation of groundwater bodies and balance abstraction with recharge, though variability limits guarantees."
+B2_pla_regadius_catalunya,claude,1,biodiversity,mixed,regional,mixed,strong,"Modernisation intensifies pressure on habitats/riparian zones, but plan proposes buffers, forest consolidation and steppe-species measures to compensate."
+B2_pla_regadius_catalunya,claude,1,social_cohesion,delivered,regional,consistent,moderate,"Socioeconomic objective: stable incomes, jobs, local economy, collective irrigation-community governance central to management."
+B2_pla_regadius_catalunya,claude,1,soil_health,mixed,regional,mixed,weak,"Loss of high-value agronomic soils noted, partly compensated by plan dimensioning; water-quality/filtration buffer measures included."
+B2_pla_regadius_catalunya,claude,1,recreation_wellbeing,delivered,regional,consistent,weak,"Landscape vector: minimise impact, generate quality landscapes referred to Landscape Catalogues; no significant effects."
+D1_fao_id63_masscote,claude,1,crop_production,delivered,farm,consistent,moderate,Better water delivery service and timing improves crop yields; modernization aims at more productive agriculture and improved delivery to farms.
+D1_fao_id63_masscote,claude,1,water_conservation,mixed,basin,contested,strong,Manual stresses field efficiency gains may not conserve basin water where losses recirculate; true conservation only via reduced ET or salt-sink flows.
+D1_fao_id63_masscote,claude,1,risk_management,delivered,regional,consistent,strong,"Improving reliability, equity and security of entitlement supply amid growing scarcity is a core modernization goal for service to users."
+D1_fao_id63_masscote,claude,1,social_cohesion,mixed,regional,mixed,moderate,"Management transfer to WUAs promoted for cost-effective governance, but results 'usually disappointing'; new bodies ill-prepared and under-resourced."
+D1_fao_id63_masscote,claude,1,soil_health,degraded,basin,consistent,weak,"Salinity, waterlogging and drainage water management noted as issues to control; environmental indicators track salinity and water table."
+D1_fao_id63_masscote,claude,1,groundwater_recharge,mixed,basin,mixed,moderate,Seepage accommodation/groundwater recharge and return flows discussed; conjunctive use and recirculation valued but recharge trade-offs acknowledged.
+D1_fao_id63_masscote,claude,1,biodiversity,delivered,basin,mixed,weak,Environmental conservation and downstream water quality cited as benefits; eliminating first-time losses reduces fertilizer/pesticide contamination.
+D2_burt_styles_1999_wr19_modern_water_control,claude,1,crop_production,delivered,farm,consistent,strong,Report cites potential for higher crop yields and improved water management as key modernization outcomes for food supply.
+D2_burt_styles_1999_wr19_modern_water_control,claude,1,water_conservation,delivered,basin,consistent,strong,"Central theme: improve water use efficiency, project irrigation efficiency, growing more food with same or less water consumption."
+D2_burt_styles_1999_wr19_modern_water_control,claude,1,risk_management,delivered,basin,consistent,strong,"Modernization improves reliability, timeliness, flexibility of water delivery service; dependable supply enables demand management."
+D2_burt_styles_1999_wr19_modern_water_control,claude,1,social_cohesion,mixed,regional,mixed,strong,"Strong WUAs depend on good delivery service; without infrastructure WUAs ineffective, treated as symptom not cause."
+D2_burt_styles_1999_wr19_modern_water_control,claude,1,biodiversity,mixed,basin,mixed,weak,"Notes environmental degradation, return flows into saline sinks, downstream environmental impacts as concerns modernization addresses."
+D2_burt_styles_1999_wr19_modern_water_control,claude,1,groundwater_recharge,mixed,basin,mixed,weak,"Mentions reducing return flows into saline sinks and preventing degradation of return flows, environmental specialist concern."
+A1_rd329-2002_plan_nacional_regadios,claude,2,water_conservation,delivered,regional,consistent,strong,Objective d: modernise distribution/application to rationalise water use and promote innovations reducing water consumption.
+A1_rd329-2002_plan_nacional_regadios,claude,2,crop_production,delivered,regional,consistent,strong,Aims to consolidate diversified competitive agrifood system and secure economic harvests amid climatic irregularity.
+A1_rd329-2002_plan_nacional_regadios,claude,2,risk_management,delivered,regional,consistent,moderate,Irrigation addresses precipitation scarcity/variability to obtain secure harvests and stabilise production.
+A1_rd329-2002_plan_nacional_regadios,claude,2,soil_health,delivered,regional,consistent,moderate,Objective e: environmental criteria to avoid land degradation and reduce desertification processes.
+A1_rd329-2002_plan_nacional_regadios,claude,2,groundwater_recharge,delivered,basin,consistent,moderate,Objective e favours aquifer recovery; objective d reduces contamination of surface and groundwater.
+A1_rd329-2002_plan_nacional_regadios,claude,2,biodiversity,delivered,regional,consistent,moderate,"Objective e: protect biodiversity, valuable natural spaces and rural landscapes."
+A1_rd329-2002_plan_nacional_regadios,claude,2,social_cohesion,delivered,regional,consistent,strong,"Objective c: territorial cohesion, fixing population, reducing rural abandonment; reinforced co-responsibility of irrigators."
+A1_rd329-2002_plan_nacional_regadios,claude,2,recreation_wellbeing,delivered,regional,consistent,weak,Mentions protecting rural landscapes among environmental criteria for irrigation zones.
+A2_rd287-2006_plan_choque_regadios,claude,2,water_conservation,delivered,basin,consistent,strong,"Central objective: maximize water saving, estimated 1,162 Hm3 annual savings across 866,898 hectares by modernizing transport, distribution and field application."
+A2_rd287-2006_plan_choque_regadios,claude,2,risk_management,delivered,regional,consistent,strong,"Urgent plan to mitigate drought effects, consolidate irrigable area, improve supply guarantee for irrigation and urban populations."
+A2_rd287-2006_plan_choque_regadios,claude,2,crop_production,delivered,farm,consistent,moderate,"Techniques promoted to optimize production and competitiveness of irrigated farms, supplying only net crop water needs."
+A2_rd287-2006_plan_choque_regadios,claude,2,social_cohesion,delivered,regional,consistent,moderate,"Consolidating agroindustrial system, fixing population and improving quality of life in irrigation-influenced zones; farmer cooperation."
+A2_rd287-2006_plan_choque_regadios,claude,2,biodiversity,mixed,basin,mixed,moderate,"Environmental protection via saved water for environmental needs and vigilance over diffuse pollution, but expedited EIA reduces safeguards."
+A3_prtr_componente3,claude,2,water_conservation,delivered,regional,consistent,strong,"Headline objective: ahorro de agua, efficient drip systems, reduced abstraction pressure; cites 16% reduction over 18 years attributed to modernisation."
+A3_prtr_componente3,claude,2,risk_management,delivered,regional,consistent,strong,Adapting regadíos to declining water resources under climate change; improves sector resilience and guarantees supply and food security.
+A3_prtr_componente3,claude,2,crop_production,delivered,farm,consistent,moderate,"Modernisation enables profitable agriculture, precision fertigation applying inputs when crop needs; sustains viable agrarian activity."
+A3_prtr_componente3,claude,2,soil_health,delivered,field,consistent,moderate,"Reduced lixiviation, less fertiliser/pesticide contamination, erosion and desertification avoidance, improved soil organic matter via fertigation."
+A3_prtr_componente3,claude,2,social_cohesion,delivered,regional,consistent,moderate,"Modernisation fixes rural population, avoids land abandonment; governance Mesa del Regadío coordinates stakeholders and communities of irrigators."
+A3_prtr_componente3,claude,2,biodiversity,delivered,basin,consistent,moderate,"Modernisation preserves ecosystems, reduces extraction pressure protecting water bodies; subject to environmental impact assessment ensuring no harm."
+A3_prtr_componente3,claude,2,groundwater_recharge,delivered,basin,consistent,moderate,"Substituting groundwater/surface with non-conventional water reduces abstraction, protecting subterranean water bodies and reaching good ecological status."
+B1_plan_regadia_andalucia,claude,2,water_conservation,delivered,regional,consistent,strong,Core objective: eficiente uso del agua; eligibility requires potential water savings and effective consumption reduction of at least 50%.
+B1_plan_regadia_andalucia,claude,2,groundwater_recharge,delivered,basin,mixed,moderate,Projects affecting sub-good groundwater bodies must guarantee effective consumption reduction; prioritizes substituting surface/groundwater with regenerated water.
+B1_plan_regadia_andalucia,claude,2,risk_management,delivered,regional,mixed,weak,"Consolidation of regadíos and reuse of regenerated water imply supply reliability, though not explicitly framed as resilience."
+B1_plan_regadia_andalucia,claude,2,social_cohesion,delivered,regional,mixed,weak,Priority to actions establishing conditions of rurality; Comunidades de Regantes collective governance central to plan execution.
+B2_pla_regadius_catalunya,claude,2,water_conservation,delivered,regional,consistent,strong,"Modernization raises efficiency from 41.77% to 72.56%, situating water demand significantly below concessions across all climate scenarios."
+B2_pla_regadius_catalunya,claude,2,risk_management,delivered,regional,consistent,strong,"Modernized systems provide elasticity, enabling uniform reductions up to 25% during drought, adapting to deficit unlike current model."
+B2_pla_regadius_catalunya,claude,2,crop_production,delivered,regional,consistent,strong,Plan projects 91.55% increase in agricultural production in area; modern irrigation enables higher-value intensive crops and better yields.
+B2_pla_regadius_catalunya,claude,2,social_cohesion,delivered,regional,consistent,moderate,"Supports Comunitats de Regants governance capacity, rural development viability, and integrates whole irrigation districts including non-irrigated zones."
+B2_pla_regadius_catalunya,claude,2,biodiversity,mixed,regional,mixed,moderate,Environmental assessment generally positive with corrective measures for negative trends; excludes protected spaces incompatible with irrigation.
+B2_pla_regadius_catalunya,claude,2,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from ~50% to 80%, saving water and reducing pressure on abstraction points."
+B2_pla_regadius_catalunya,claude,2,crop_production,delivered,regional,consistent,moderate,Objective to limit water consumption while increasing irrigation yield for agricultural production.
+B2_pla_regadius_catalunya,claude,2,risk_management,delivered,basin,mixed,moderate,"Increased efficiency provides elasticity, enabling deficit management and dotation reductions in drought periods, though resource variability limits guarantees."
+B2_pla_regadius_catalunya,claude,2,groundwater_recharge,delivered,basin,mixed,moderate,"Plan aims to avoid aquifer overexploitation and balance abstraction/recharge, though variability cannot fully assure it."
+B2_pla_regadius_catalunya,claude,2,biodiversity,mixed,regional,mixed,strong,"Plan includes measures for riparian forests, wetlands, steppe species and buffers, but admits strong pressure and soil loss from irrigation."
+B2_pla_regadius_catalunya,claude,2,social_cohesion,delivered,regional,consistent,moderate,"Aims to stabilise incomes, increase jobs, dynamise local economy; irrigator communities central to governance."
+B2_pla_regadius_catalunya,claude,2,recreation_wellbeing,delivered,regional,consistent,weak,Landscape objective seeks quality landscapes; assessment found no significant landscape effects.
+D1_fao_id63_masscote,claude,2,crop_production,delivered,field,consistent,moderate,Better water delivery service and timing improve crop yields; land grading and reduced fertilizer leaching cited as yield benefits.
+D1_fao_id63_masscote,claude,2,water_conservation,mixed,basin,contested,strong,"Doing 'more with less' is central, but manual warns eliminating recirculated first-time losses yields no true basin conservation."
+D1_fao_id63_masscote,claude,2,risk_management,delivered,regional,consistent,strong,"Reliable, equitable water delivery service and supply guarantee under increasing scarcity are core modernization objectives."
+D1_fao_id63_masscote,claude,2,social_cohesion,mixed,regional,mixed,strong,"WUA transfer and participatory governance promoted, but results 'usually disappointing' as bodies inherited dilapidated systems, financial constraints."
+D1_fao_id63_masscote,claude,2,soil_health,mixed,field,mixed,weak,"Salinity, waterlogging and drainage management discussed as issues to control within command area water management."
+D1_fao_id63_masscote,claude,2,groundwater_recharge,mixed,basin,mixed,weak,Seepage accommodation/groundwater recharge and conjunctive use noted; return flows and recirculation relevant to aquifer accounting.
+D1_fao_id63_masscote,claude,2,biodiversity,delivered,basin,mixed,weak,Environmental conservation and improved downstream water quality cited among benefits of better water management.
+D2_burt_styles_1999_wr19_modern_water_control,claude,2,crop_production,delivered,mixed,consistent,strong,Report repeatedly links modernization and improved water delivery service to potential for higher crop yields and cropping intensity.
+D2_burt_styles_1999_wr19_modern_water_control,claude,2,water_conservation,delivered,basin,consistent,strong,Improving water use efficiency (yield/water consumed) central; low 20-35% efficiencies could rise with modernized operation and design.
+D2_burt_styles_1999_wr19_modern_water_control,claude,2,risk_management,delivered,basin,consistent,strong,"Modernization improves reliability, flexibility, and dependable water delivery service, enabling demand management and supply guarantee."
+D2_burt_styles_1999_wr19_modern_water_control,claude,2,social_cohesion,delivered,basin,mixed,strong,"Good water delivery service enables sustainable water user associations, reduced anarchy, and fee collection; weak service undermines WUAs."
+D2_burt_styles_1999_wr19_modern_water_control,claude,2,biodiversity,mixed,basin,mixed,weak,"Notes environmental degradation, return flows into saline sinks, and river flow protection as concerns modernization could address."
+D2_burt_styles_1999_wr19_modern_water_control,claude,2,soil_health,delivered,basin,mixed,weak,Reducing return flows into saline sinks and water quality degradation implies salinity control benefits from better management.
+A1_rd329-2002_plan_nacional_regadios,claude,3,water_conservation,delivered,regional,consistent,strong,"Objetivo modernizar infraestructuras para racionalizar uso del agua, promover innovaciones y reducir consumos de agua de riego."
+A1_rd329-2002_plan_nacional_regadios,claude,3,crop_production,delivered,regional,consistent,strong,"Regadíos contribuyen al valor de producción final agraria, productividad y cosechas económicas y seguras."
+A1_rd329-2002_plan_nacional_regadios,claude,3,risk_management,delivered,regional,consistent,moderate,Riego afronta escasez y variabilidad de precipitaciones para obtener cosechas económicas y seguras.
+A1_rd329-2002_plan_nacional_regadios,claude,3,social_cohesion,delivered,regional,consistent,strong,"Vertebrar territorio, fijar población, crear empleo, evitar despoblamiento; corresponsabilidad de regantes en modernización."
+A1_rd329-2002_plan_nacional_regadios,claude,3,biodiversity,delivered,regional,consistent,moderate,"Incorporar criterios ambientales para proteger biodiversidad, espacios naturales valiosos y paisajes rurales."
+A1_rd329-2002_plan_nacional_regadios,claude,3,soil_health,delivered,regional,consistent,moderate,Evitar degradación de tierras y reducir procesos de desertización mediante criterios ambientales.
+A1_rd329-2002_plan_nacional_regadios,claude,3,groundwater_recharge,delivered,regional,consistent,moderate,Favorecer recuperación de acuíferos y reducir contaminación de aguas subterráneas.
+A2_rd287-2006_plan_choque_regadios,claude,3,water_conservation,delivered,basin,consistent,strong,"Central objective: obtain water saving (1,162 Hm3/year over 866,898 ha) to mitigate drought effects through irrigation modernisation."
+A2_rd287-2006_plan_choque_regadios,claude,3,risk_management,delivered,regional,consistent,strong,"Modernisation aims to guarantee irrigation supply, consolidate existing area, and improve reliability of urban supply amid severe drought."
+A2_rd287-2006_plan_choque_regadios,claude,3,crop_production,delivered,farm,consistent,moderate,Promotes irrigation techniques optimizing production and enabling competitiveness of irrigated farms in a globalized market.
+A2_rd287-2006_plan_choque_regadios,claude,3,social_cohesion,delivered,regional,consistent,moderate,"Consolidates agroindustrial system, fixes population and improves quality of life in irrigation-influenced zones."
+A2_rd287-2006_plan_choque_regadios,claude,3,biodiversity,mixed,basin,mixed,moderate,Water saving applied to environmental needs; but urgent EIA and vigilance of diffuse pollution suggest environmental trade-offs monitored.
+A3_prtr_componente3,claude,3,water_conservation,delivered,regional,consistent,strong,"Headline objective: modernisation to promote water saving, efficiency, reduce extraction pressure; cites 16% reduction over 18 years attributed to modernisation."
+A3_prtr_componente3,claude,3,crop_production,delivered,farm,consistent,moderate,"Modernisation enables profitable agricultural activity, keeping land productive and avoiding abandonment."
+A3_prtr_componente3,claude,3,soil_health,delivered,field,consistent,moderate,"Drip/sprinkler enable precise fertiliser dosing, reduce leaching; prevents erosion and desertification; supports soil organic matter."
+A3_prtr_componente3,claude,3,risk_management,delivered,regional,consistent,strong,Adapting irrigation to declining water resources under climate change; improving sector resilience and supply guarantee.
+A3_prtr_componente3,claude,3,social_cohesion,delivered,regional,consistent,moderate,"Modernisation fixes rural population, prevents land abandonment; governance reform (Mesa del Regadío) promotes cooperation among stakeholders."
+A3_prtr_componente3,claude,3,biodiversity,delivered,basin,consistent,moderate,Reduced abstraction protects water bodies; preserves ecosystems; subject to environmental impact assessment; aligns with Biodiversity Strategy 2030.
+A3_prtr_componente3,claude,3,groundwater_recharge,delivered,basin,consistent,moderate,Substituting groundwater/surface water with regenerated/desalinated water reduces pressure on aquifers and protects subterranean water bodies.
+A3_prtr_componente3,claude,3,pest_control,delivered,field,mixed,weak,"Precise application of phytosanitary products in required doses via drip/sprinkler; reduced contamination, tangential mention."
+B1_plan_regadia_andalucia,claude,3,water_conservation,delivered,regional,consistent,strong,Headline focus area 5A 'uso más eficiente del agua'; eligibility requires potential water saving and effective consumption reduction of 50%.
+B1_plan_regadia_andalucia,claude,3,groundwater_recharge,delivered,basin,mixed,moderate,Projects affecting groundwater below good status must guarantee effective 50% consumption reduction; substituting surface/ground water with reclaimed water prioritized.
+B1_plan_regadia_andalucia,claude,3,risk_management,delivered,regional,mixed,weak,"Reliability implied via consolidation, storage/embalse actuations and reclaimed water substitution to secure supply for regable zones."
+B1_plan_regadia_andalucia,claude,3,social_cohesion,delivered,regional,mixed,weak,Prioritizes actions maintaining 'condiciones de ruralidad'; works channelled through collective Comunidades de Regantes governance and assemblies.
+B2_pla_regadius_catalunya,claude,3,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, placing demand below concessions across all climate scenarios; headline objective of plan."
+B2_pla_regadius_catalunya,claude,3,risk_management,delivered,regional,consistent,strong,"Modernised systems are elastic, enabling proportional water reductions up to 25% during drought/deficit; guarantees supply stability against climate change."
+B2_pla_regadius_catalunya,claude,3,crop_production,delivered,regional,consistent,strong,"Plan projects 91.55% increase in agricultural production, higher yields, crop diversification, and adaptability of cropping alternatives via modern irrigation."
+B2_pla_regadius_catalunya,claude,3,social_cohesion,delivered,regional,consistent,moderate,"Supports irrigation communities' governance and rural development, recovering lost irrigated areas and maintaining rural viability."
+B2_pla_regadius_catalunya,claude,3,biodiversity,mixed,regional,mixed,moderate,Environmental assessment positive overall with corrective measures for negative trends; ecological flows incorporated into planning.
+B2_pla_regadius_catalunya,claude,3,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from ~50% to 80%, saving water and reducing pressure on abstraction points; headline objective A.1."
+B2_pla_regadius_catalunya,claude,3,crop_production,delivered,regional,consistent,moderate,Objective to limit water use while increasing irrigation yield for agricultural production; supports active agricultural areas.
+B2_pla_regadius_catalunya,claude,3,risk_management,delivered,basin,mixed,moderate,Efficiency and elasticity enable deficit management and dotation reductions during shortage; though variability cannot fully assure competing uses.
+B2_pla_regadius_catalunya,claude,3,groundwater_recharge,delivered,basin,mixed,moderate,Objective A.1.3 avoid overexploitation of groundwater and balance abstraction-recharge; caveats that variability limits assurance.
+B2_pla_regadius_catalunya,claude,3,biodiversity,mixed,regional,mixed,strong,"Plan admits pressure on riparian forests, wetlands, steppe species; proposes buffers, forest consolidation, ecoconcentration to compensate soil loss."
+B2_pla_regadius_catalunya,claude,3,social_cohesion,delivered,regional,consistent,moderate,"Socioeconomic objective: stable incomes, jobs, local economy dynamisation; irrigation communities central to integrated management."
+B2_pla_regadius_catalunya,claude,3,soil_health,mixed,regional,mixed,weak,"Water quality protection, buffers and filtering measures; territorial planning causes loss of high-value agronomic soils partly compensated."
+B2_pla_regadius_catalunya,claude,3,recreation_wellbeing,delivered,regional,consistent,weak,"Landscape vector: minimise landscape affectation, generate quality landscapes in new irrigation, referred to Catàlegs de Paisatge."
+D1_fao_id63_masscote,claude,3,crop_production,delivered,field,consistent,moderate,Better first-time water management and timing of applications improve crop yields; improving productivity of irrigated agriculture a stated goal.
+D1_fao_id63_masscote,claude,3,water_conservation,mixed,basin,contested,strong,Manual stresses eliminating first-time losses often yields no true basin water conservation where losses are recirculated; conservation only via reduced ET or salt-sink flows.
+D1_fao_id63_masscote,claude,3,risk_management,delivered,regional,consistent,moderate,"Service reliability, supply guarantee and improved timing central to service-oriented management goals."
+D1_fao_id63_masscote,claude,3,social_cohesion,mixed,regional,mixed,moderate,"WUAs and management transfer promoted for cost-effective service but results often disappointing; bodies ill-prepared, inheriting dilapidated systems."
+D1_fao_id63_masscote,claude,3,groundwater_recharge,mixed,basin,mixed,weak,"Seepage accommodation and recharge discussed; recirculation of return flows noted, but recharge treated as accounting term not clear benefit."
+D1_fao_id63_masscote,claude,3,soil_health,mixed,field,mixed,weak,"Salinity, waterlogging and drainage management mentioned as concerns; reducing local waterlogging and fertilizer leaching a passing benefit."
+D1_fao_id63_masscote,claude,3,biodiversity,delivered,basin,consistent,weak,Environmental conservation and reducing pesticide/fertilizer contamination of downstream water mentioned as benefits of better management.
+D2_burt_styles_1999_wr19_modern_water_control,claude,3,crop_production,delivered,regional,consistent,strong,Report links improved water delivery service to higher crop yields and cropping intensity as key project outputs.
+D2_burt_styles_1999_wr19_modern_water_control,claude,3,water_conservation,delivered,regional,consistent,strong,"Central concern: raising irrigation efficiency (from 20-35%), improving water use efficiency, reducing spills through modernization."
+D2_burt_styles_1999_wr19_modern_water_control,claude,3,risk_management,delivered,regional,consistent,strong,"Modernization improves reliability, flexibility, dependability of water delivery service to fields, enabling demand-based supply."
+D2_burt_styles_1999_wr19_modern_water_control,claude,3,social_cohesion,delivered,regional,consistent,strong,"Good water delivery service enables sustainable water user associations, fee collection, near-elimination of anarchy and conflict."
+D2_burt_styles_1999_wr19_modern_water_control,claude,3,biodiversity,mixed,basin,mixed,weak,"Notes environmental degradation, return flows into saline sinks, and reducing water quality degradation as concerns of modernization."
+A1_rd329-2002_plan_nacional_regadios,claude,4,water_conservation,delivered,regional,consistent,strong,Objective d) modernise distribution/application infrastructure to rationalise water use and reduce consumption; headline aim to optimise available water.
+A1_rd329-2002_plan_nacional_regadios,claude,4,crop_production,delivered,regional,consistent,strong,"Irrigation ensures secure economic harvests and boosts final agricultural production value, productivity and competitiveness of farms."
+A1_rd329-2002_plan_nacional_regadios,claude,4,risk_management,delivered,regional,consistent,moderate,"Irrigation counters scarcity, variability and irregular rainfall that condition yields, securing stable economic harvests."
+A1_rd329-2002_plan_nacional_regadios,claude,4,social_cohesion,delivered,regional,consistent,strong,"Objective c) vertebrate territory, avoid depopulation/ageing; social irrigation to fix population, create employment; reinforce irrigators' co-responsibility."
+A1_rd329-2002_plan_nacional_regadios,claude,4,groundwater_recharge,delivered,basin,consistent,moderate,Objective e) favour aquifer recovery and reduce contamination of surface and groundwaters.
+A1_rd329-2002_plan_nacional_regadios,claude,4,biodiversity,delivered,regional,consistent,moderate,"Objective e) protect biodiversity, valuable natural spaces and rural landscapes, avoiding land degradation and desertification."
+A1_rd329-2002_plan_nacional_regadios,claude,4,soil_health,delivered,regional,consistent,moderate,Objective e) avoid land degradation and reduce desertification processes through environmental criteria in irrigation management.
+A1_rd329-2002_plan_nacional_regadios,claude,4,recreation_wellbeing,delivered,regional,consistent,weak,Protection of rural landscapes mentioned among environmental objectives alongside biodiversity.
+A2_rd287-2006_plan_choque_regadios,claude,4,water_conservation,delivered,basin,consistent,strong,"Central objective: modernisation to obtain water saving (1,162 Hm3/year) mitigating drought effects across 866,898 hectares."
+A2_rd287-2006_plan_choque_regadios,claude,4,risk_management,delivered,basin,consistent,strong,"Saved water used to consolidate irrigable area, improve irrigation guarantee and urban supply reliability during drought."
+A2_rd287-2006_plan_choque_regadios,claude,4,crop_production,delivered,farm,consistent,moderate,Promotes irrigation techniques optimising production and competitiveness of irrigated farms in globalised market.
+A2_rd287-2006_plan_choque_regadios,claude,4,social_cohesion,delivered,regional,consistent,moderate,"Modernisation fixes population, improves quality of life, consolidates agroindustrial system in influence zones."
+A2_rd287-2006_plan_choque_regadios,claude,4,biodiversity,mixed,basin,mixed,moderate,"Environmental surveillance, controlling discharges and diffuse pollution from pesticides; saved water for environmental needs, but urgent EIA shortened."
+A2_rd287-2006_plan_choque_regadios,claude,4,groundwater_recharge,mixed,basin,mixed,weak,"Saved water partly allocated to environmental needs; no explicit aquifer recharge, prohibition on expanding irrigated area."
+A3_prtr_componente3,claude,4,water_conservation,delivered,basin,consistent,strong,"Headline objective: reduce water consumption, promote water saving and efficiency via drip irrigation and non-conventional water use to meet abstraction reduction requirements."
+A3_prtr_componente3,claude,4,risk_management,delivered,regional,consistent,strong,Modernisation framed as improving sector resilience to climate change and adapting irrigation gradually to declining water resources; supply guarantee emphasised.
+A3_prtr_componente3,claude,4,soil_health,delivered,field,consistent,moderate,Drip/sprinkler enable targeted fertigation reducing leaching of contaminants; prevents erosion and desertification by avoiding land abandonment.
+A3_prtr_componente3,claude,4,crop_production,delivered,farm,consistent,moderate,"Modernisation enables profitable agricultural activity for farmers, precision agriculture inputs applied at needed dose and moment."
+A3_prtr_componente3,claude,4,social_cohesion,delivered,regional,consistent,moderate,"Modernisation ensures rural settlement, fixes population, combats depopulation; governance reform creates Mesa del Regadío for cooperation among stakeholders."
+A3_prtr_componente3,claude,4,biodiversity,delivered,basin,consistent,moderate,"Sustainable irrigation avoids abandonment, erosion, desertification, preserves ecosystems; subject to environmental impact assessment ensuring no ecosystem harm."
+A3_prtr_componente3,claude,4,groundwater_recharge,delivered,basin,consistent,moderate,"Reducing extraction pressure protects surface, coastal and groundwater bodies; substituting groundwater with regenerated/desalinated water per Water Framework Directive."
+A3_prtr_componente3,claude,4,pest_control,delivered,field,consistent,weak,"Sprinkler and drip allow phytosanitary application at strictly necessary dose, reducing contamination; bioseguridad reduces pesticide use."
+B1_plan_regadia_andalucia,claude,4,water_conservation,delivered,regional,consistent,strong,Focus area 5A 'uso más eficiente del agua'; eligibility requires demonstrated water savings and reduced abstraction/demand.
+B1_plan_regadia_andalucia,claude,4,groundwater_recharge,delivered,basin,mixed,moderate,Projects affecting groundwater bodies below good status must ensure effective 50% consumption reduction; substituting surface/groundwater with regenerated water prioritized.
+B1_plan_regadia_andalucia,claude,4,risk_management,delivered,regional,mixed,weak,"Water reuse and infrastructure consolidation imply supply reliability, but not framed prominently as resilience objective."
+B1_plan_regadia_andalucia,claude,4,social_cohesion,delivered,regional,mixed,weak,Criterion favoring rural conditions ('condiciones de ruralidad') and collective irrigation communities (Comunidades de Regantes) governance framework.
+B2_pla_regadius_catalunya,claude,4,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, situating demand below concessions across all climate scenarios; headline plan objective."
+B2_pla_regadius_catalunya,claude,4,risk_management,delivered,regional,consistent,strong,"Modernised systems are elastic, adapting to deficit, allowing uniform reductions up to 25% during droughts; guarantees supply stability."
+B2_pla_regadius_catalunya,claude,4,crop_production,delivered,regional,consistent,strong,"Plan projects 91.55% production increase in area, doubling output; higher yields and broader crop range from modernisation and new irrigation."
+B2_pla_regadius_catalunya,claude,4,social_cohesion,delivered,regional,consistent,moderate,"Supports irrigation communities' governance capacity, rural development, recovering lost irrigated land; contributes to rural viability."
+B2_pla_regadius_catalunya,claude,4,biodiversity,mixed,regional,mixed,moderate,"Environmental integration and mitigation measures deemed positive, but energy/emissions increase; environmental assessment overall positive with corrective measures for negatives."
+B2_pla_regadius_catalunya,claude,4,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from ~50% to 80%, saving water and reducing pressure on abstraction points; central plan objective."
+B2_pla_regadius_catalunya,claude,4,crop_production,delivered,regional,consistent,moderate,Objective A.1 to limit water use while increasing irrigation yield for agricultural production; new irrigation in active agricultural areas.
+B2_pla_regadius_catalunya,claude,4,risk_management,delivered,basin,mixed,moderate,Efficiency and elasticity allow adjusting demand and deficit reductions in shortage periods; but variability cannot guarantee competition with other uses.
+B2_pla_regadius_catalunya,claude,4,groundwater_recharge,delivered,basin,mixed,moderate,"Aims to avoid overexploitation of groundwater and balance abstraction/recharge; reuse of regenerated water in pressured basins, though variability limits guarantees."
+B2_pla_regadius_catalunya,claude,4,biodiversity,mixed,regional,mixed,strong,"Environmental measures protect riparian forests, wetlands, steppe species; but irrigation exerts strong pressure and loss of dry-land habitats acknowledged."
+B2_pla_regadius_catalunya,claude,4,soil_health,mixed,regional,mixed,weak,Water quality protection and buffer strips against contamination; loss of high-value agronomic soils to urban development acknowledged.
+B2_pla_regadius_catalunya,claude,4,social_cohesion,delivered,regional,consistent,moderate,"Socioeconomic objective: stable incomes, jobs, local economy dynamisation; irrigation communities given central management role."
+B2_pla_regadius_catalunya,claude,4,recreation_wellbeing,delivered,regional,consistent,weak,"Landscape vector: ensure quality landscapes, minimal visual impact, integration referred to Landscape Catalogues."
+D1_fao_id63_masscote,claude,4,water_conservation,mixed,basin,mixed,strong,Explicitly warns eliminating first-time losses may not conserve water where recirculated; true basin conservation only via reduced ET or salt-sink flows.
+D1_fao_id63_masscote,claude,4,crop_production,delivered,field,consistent,moderate,Better first-time water management and timing improve crop yields; improving irrigated agriculture performance is a stated goal.
+D1_fao_id63_masscote,claude,4,risk_management,delivered,basin,consistent,strong,"Central aim is reliable, adequate water delivery service, supply guarantee and security of entitlement to users under scarcity."
+D1_fao_id63_masscote,claude,4,social_cohesion,mixed,regional,mixed,strong,"WUA management transfer and equity promoted, but results 'disappointing'; bodies ill-prepared, inheriting dilapidated systems."
+D1_fao_id63_masscote,claude,4,groundwater_recharge,mixed,basin,mixed,weak,Seepage accommodation/groundwater recharge and conjunctive use discussed; recirculation and return flows noted as ambiguous efficiency factors.
+D1_fao_id63_masscote,claude,4,soil_health,mixed,field,mixed,weak,"Salinity, waterlogging and drainage management addressed; reducing losses cuts local waterlogging but salinity remains a concern."
+D1_fao_id63_masscote,claude,4,biodiversity,delivered,basin,consistent,weak,Conserving environment and improving downstream water quality/flows in rivers and streams cited as modernization benefits.
+D2_burt_styles_1999_wr19_modern_water_control,claude,4,crop_production,delivered,basin,consistent,strong,Report repeatedly ties modernization and improved water delivery service to higher crop yields and cropping intensity.
+D2_burt_styles_1999_wr19_modern_water_control,claude,4,water_conservation,mixed,basin,mixed,strong,"Improved efficiency promised, but efficiencies remain low (20-35%); good field service and high project efficiency require full modernization."
+D2_burt_styles_1999_wr19_modern_water_control,claude,4,risk_management,delivered,basin,consistent,strong,"Reliable, flexible water delivery service ('on demand') and supply guarantee central goal of modernization."
+D2_burt_styles_1999_wr19_modern_water_control,claude,4,social_cohesion,delivered,basin,mixed,strong,"Modern hardware enables sustainable water user associations, equity, reduced anarchy, and O&M fee collection."
+D2_burt_styles_1999_wr19_modern_water_control,claude,4,biodiversity,delivered,basin,mixed,weak,Environmental degradation and return-flow quality mentioned as concern modernization could address; peripheral.
+A1_rd329-2002_plan_nacional_regadios,claude,5,water_conservation,delivered,regional,consistent,strong,Objetivo modernizar infraestructuras para racionalizar uso del agua y promover innovaciones que reduzcan consumos de agua de riego.
+A1_rd329-2002_plan_nacional_regadios,claude,5,crop_production,delivered,regional,consistent,strong,"Regadíos decisivos para valor de producción final agraria, productividad y competitividad de explotaciones; cosechas seguras y económicas."
+A1_rd329-2002_plan_nacional_regadios,claude,5,social_cohesion,delivered,regional,consistent,strong,"Vertebrar territorio, fijar población, crear empleo, mejorar renta; corresponsabilidad de regantes; equilibrio funciones sociales y territoriales."
+A1_rd329-2002_plan_nacional_regadios,claude,5,risk_management,delivered,regional,consistent,moderate,Riego frente a escasez y variabilidad de precipitaciones para obtener cosechas seguras; gestión racional recursos hídricos.
+A1_rd329-2002_plan_nacional_regadios,claude,5,soil_health,delivered,regional,consistent,moderate,Criterios ambientales para evitar degradación de tierras y reducir procesos de desertización.
+A1_rd329-2002_plan_nacional_regadios,claude,5,biodiversity,delivered,regional,consistent,moderate,"Recuperación de espacios naturales valiosos, protección de biodiversidad y paisajes rurales."
+A1_rd329-2002_plan_nacional_regadios,claude,5,groundwater_recharge,delivered,basin,consistent,moderate,Favorecer recuperación de acuíferos y reducir contaminación de aguas superficiales y subterráneas de origen agrario.
+A1_rd329-2002_plan_nacional_regadios,claude,5,recreation_wellbeing,delivered,regional,consistent,weak,Protección de paisajes rurales mencionada entre criterios ambientales.
+A2_rd287-2006_plan_choque_regadios,claude,5,water_conservation,delivered,basin,consistent,strong,"Central objective: modernise irrigation to obtain water savings (1,162 Hm3/year across 866,898 ha) to mitigate drought."
+A2_rd287-2006_plan_choque_regadios,claude,5,risk_management,delivered,regional,consistent,strong,"Aims to palliate drought damage, guarantee irrigation and improve reliability of urban supply amid severe shortage."
+A2_rd287-2006_plan_choque_regadios,claude,5,crop_production,delivered,farm,consistent,moderate,Promotes irrigation techniques that optimise production and competitiveness of irrigated farms in a globalised market.
+A2_rd287-2006_plan_choque_regadios,claude,5,biodiversity,mixed,basin,mixed,moderate,Water savings allocated to environmental needs; but requires vigilance over diffuse pollution and phytosanitary contamination from irrigation.
+A2_rd287-2006_plan_choque_regadios,claude,5,social_cohesion,delivered,regional,consistent,moderate,"Fixes population, creates quality jobs, improves quality of life in influence zones; involves water-user communities."
+A3_prtr_componente3,claude,5,water_conservation,delivered,basin,consistent,strong,"Headline objective: reduce water consumption via modernisation, efficient systems (drip), meeting abstraction-pressure reduction requirements from hydrological authorities."
+A3_prtr_componente3,claude,5,risk_management,delivered,regional,consistent,strong,"Modernisation to adapt irrigation to declining water resources under climate change, improve resilience and supply guarantee of the sector."
+A3_prtr_componente3,claude,5,soil_health,delivered,field,consistent,moderate,"Drip/sprinkler enable precise fertigation, reduce leaching to soil and water; regenerated water and reduced fertiliser cited; erosion/desertification avoided."
+A3_prtr_componente3,claude,5,crop_production,delivered,farm,consistent,moderate,"Modernisation enables profitable farming for the irrigator, food-production role of irrigation emphasised in observatory rationale."
+A3_prtr_componente3,claude,5,social_cohesion,delivered,regional,consistent,moderate,"Modernisation fixes rural population, avoids land abandonment; new national governance Mesa del Regadío coordinates stakeholders and irrigator communities."
+A3_prtr_componente3,claude,5,biodiversity,delivered,basin,mixed,moderate,Reduced abstraction protects water bodies/ecosystems; all actions subject to environmental impact assessment to avoid harm; framed as ecosystem preservation.
+A3_prtr_componente3,claude,5,groundwater_recharge,delivered,basin,consistent,moderate,Substitution of surface/groundwater by non-conventional water reduces pressure on aquifers; protection of subterranean water bodies stated.
+B1_plan_regadia_andalucia,claude,5,water_conservation,delivered,basin,consistent,strong,Core objective: ahorro y uso eficiente del agua; eligibility requires demonstrable water savings and 50% effective reduction in poor-status water bodies.
+B1_plan_regadia_andalucia,claude,5,risk_management,delivered,regional,consistent,moderate,Prioritizes substituting surface/groundwater with regenerated water and improving supply infrastructure reliability to regable zones.
+B1_plan_regadia_andalucia,claude,5,groundwater_recharge,delivered,basin,mixed,weak,"Reducing abstraction and substituting groundwater with regenerated water in poor-status aquifers implies water-table protection, though framed as consumption reduction."
+B1_plan_regadia_andalucia,claude,5,social_cohesion,delivered,regional,mixed,weak,Community-based irrigators governance; prioritizes rural conditions ('condiciones de ruralidad') and collective assembly decision-making for participation.
+B2_pla_regadius_catalunya,claude,5,water_conservation,delivered,regional,consistent,strong,"Modernisation raises irrigation efficiency from 41.77% to 72.56%, placing water demand well below concessions; headline objective of plan."
+B2_pla_regadius_catalunya,claude,5,risk_management,delivered,regional,consistent,strong,"Modernised systems are elastic, adapting to drought, allowing uniform reductions up to 25% and guaranteeing supply reliability against climate change scenarios."
+B2_pla_regadius_catalunya,claude,5,crop_production,delivered,regional,consistent,strong,"Plan projects 91.55% increase in agricultural production and yield rises, enabling higher-value intensive crops (fruit, horticulture)."
+B2_pla_regadius_catalunya,claude,5,social_cohesion,delivered,regional,consistent,moderate,"Plan supports irrigation communities' governance capacity and rural development, recovering lost irrigated land, improving farm viability."
+B2_pla_regadius_catalunya,claude,5,water_conservation,delivered,regional,consistent,strong,"Modernisation objective: raise efficiency from ~50% to 80%, reduce effective consumption and abstraction pressure on intakes."
+B2_pla_regadius_catalunya,claude,5,crop_production,delivered,regional,consistent,moderate,Objective to limit water use while increasing irrigation yield for agricultural production; supports active agricultural sector.
+B2_pla_regadius_catalunya,claude,5,risk_management,mixed,basin,mixed,moderate,Efficiency and elasticity allow better deficit management; but text admits resource variability cannot guarantee maintenance flows.
+B2_pla_regadius_catalunya,claude,5,groundwater_recharge,delivered,basin,mixed,moderate,"Aims to avoid overexploitation of groundwater and balance abstraction with recharge, though variability limits guarantees."
+B2_pla_regadius_catalunya,claude,5,biodiversity,mixed,regional,mixed,strong,"Environmental measures protect riparian forests, wetlands, steppe species; but plan admits loss of agricultural soil and pressure on natural systems."
+B2_pla_regadius_catalunya,claude,5,social_cohesion,delivered,regional,consistent,moderate,"Socioeconomic objective: stable incomes, jobs, local economic dynamism, and collective governance by irrigator communities."
+B2_pla_regadius_catalunya,claude,5,recreation_wellbeing,delivered,regional,consistent,weak,"Landscape vector: minimise visual impact, generate quality landscapes referring to landscape catalogues."
+B2_pla_regadius_catalunya,claude,5,soil_health,mixed,regional,mixed,weak,Water quality measures address contamination and buffers; loss of high-value agronomic soil admitted due to territorial planning.
+D1_fao_id63_masscote,claude,5,water_conservation,mixed,basin,contested,strong,Manual stresses efficiency but warns eliminating first-time losses may yield no true basin water conservation where flows are recirculated.
+D1_fao_id63_masscote,claude,5,crop_production,delivered,field,consistent,moderate,Better first-time water management and timing of applications cited as improving crop yields and reducing fertilizer leaching.
+D1_fao_id63_masscote,claude,5,risk_management,delivered,basin,consistent,strong,"Improved service reliability, supply guarantee and coping with water scarcity, competition and 'more with less' central to modernization aims."
+D1_fao_id63_masscote,claude,5,social_cohesion,mixed,regional,contested,moderate,"WUAs and management transfer promoted for cost-effective sustainable service, but results disappointing; equity/governance goals partly unmet."
+D1_fao_id63_masscote,claude,5,groundwater_recharge,delivered,basin,mixed,weak,"Seepage accommodation, conjunctive use and recirculation from high water tables/aquifers discussed within water accounting."
+D1_fao_id63_masscote,claude,5,soil_health,mixed,field,mixed,weak,"Salinity, waterlogging and drainage water management addressed as concerns; better water control can reduce local waterlogging."
+D1_fao_id63_masscote,claude,5,biodiversity,delivered,basin,mixed,weak,Environmental conservation and reduced contamination/downstream water quality cited as benefits of improved management.
+D2_burt_styles_1999_wr19_modern_water_control,claude,5,crop_production,delivered,basin,consistent,strong,Report stresses potential for higher crop yields and improved output as goal of better water delivery service and modernization.
+D2_burt_styles_1999_wr19_modern_water_control,claude,5,water_conservation,delivered,basin,mixed,strong,Improving water use efficiency central aim; but notes typical efficiencies 20-35% and partial projects don't achieve high project-level efficiency.
+D2_burt_styles_1999_wr19_modern_water_control,claude,5,risk_management,delivered,basin,consistent,strong,"Reliability, flexibility, dependable water delivery service repeatedly emphasized as core benefit of modernization."
+D2_burt_styles_1999_wr19_modern_water_control,claude,5,social_cohesion,delivered,basin,mixed,strong,"Modernization enables strong water user associations, reduces anarchy, improves fee collection and equity; but WUAs fail without good service."
+D2_burt_styles_1999_wr19_modern_water_control,claude,5,biodiversity,delivered,basin,mixed,weak,"Mentions reducing water quality degradation and return flows into saline sinks, environmental concerns tied to internal processes."
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,crop_production,delivered,regional,consistent,strong,"Modernisation aims to consolidate competitive, diversified agri-food system and increase productivity."
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,water_conservation,delivered,regional,consistent,strong,"Objective to rationalise water use, reduce consumption, and improve irrigation efficiency."
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,soil_health,delivered,regional,consistent,moderate,Environmental criteria to avoid land degradation and reduce desertification.
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,risk_management,delivered,regional,consistent,moderate,Modernisation ensures secure yields under scarce and variable rainfall.
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,social_cohesion,delivered,regional,consistent,strong,"Improve rural socio-economic level, fix population, and balance territory."
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,biodiversity,delivered,regional,consistent,moderate,Environmental criteria to protect biodiversity and valuable natural spaces.
+A1_rd329-2002_plan_nacional_regadios,deepseek,1,groundwater_recharge,delivered,regional,consistent,moderate,Environmental criteria to favour aquifer recovery.
+A2_rd287-2006_plan_choque_regadios,deepseek,1,water_conservation,delivered,basin,consistent,strong,Main objective: obtain water savings to mitigate drought effects.
+A2_rd287-2006_plan_choque_regadios,deepseek,1,crop_production,delivered,farm,consistent,moderate,Optimize productions and competitiveness of irrigated farms.
+A2_rd287-2006_plan_choque_regadios,deepseek,1,risk_management,delivered,basin,consistent,strong,Mitigate drought impacts and improve supply guarantee.
+A2_rd287-2006_plan_choque_regadios,deepseek,1,social_cohesion,delivered,regional,mixed,moderate,"Fixes population, improves quality of life, creates quality employment."
+A2_rd287-2006_plan_choque_regadios,deepseek,1,biodiversity,mixed,basin,mixed,moderate,Environmental monitoring and compensation measures; water savings for environmental needs.
+A3_prtr_componente3,deepseek,1,crop_production,delivered,farm,consistent,moderate,"Modernisation ensures sustainable food production and supply, improving competitiveness."
+A3_prtr_componente3,deepseek,1,water_conservation,delivered,basin,consistent,strong,"Main objective: reduce water consumption, improve efficiency, use non-conventional sources."
+A3_prtr_componente3,deepseek,1,soil_health,delivered,field,consistent,moderate,"Reduces fertiliser leaching, improves soil fertility and prevents erosion."
+A3_prtr_componente3,deepseek,1,risk_management,delivered,basin,consistent,moderate,Increases resilience to climate change and water scarcity.
+A3_prtr_componente3,deepseek,1,social_cohesion,delivered,regional,consistent,moderate,"Fixes population in rural areas, supports rural development and territorial balance."
+A3_prtr_componente3,deepseek,1,biodiversity,delivered,basin,consistent,moderate,"Preserves ecosystems, avoids land abandonment, and reduces pollution."
+A3_prtr_componente3,deepseek,1,microclimate_regulation,delivered,field,mixed,weak,Mentioned as a co-benefit of reduced land abandonment and CO2 sinks.
+A3_prtr_componente3,deepseek,1,pest_control,delivered,field,consistent,moderate,Precision irrigation reduces pesticide use and leaching.
+A3_prtr_componente3,deepseek,1,groundwater_recharge,delivered,basin,mixed,weak,Reduced abstraction helps protect groundwater bodies.
+A3_prtr_componente3,deepseek,1,livestock,delivered,farm,consistent,moderate,Investments in livestock biosecurity and manure management improve sustainability.
+A3_prtr_componente3,deepseek,1,medicinal_food,delivered,unclear,mixed,weak,Not explicitly mentioned; indirect via biodiversity conservation.
+A3_prtr_componente3,deepseek,1,recreation_wellbeing,delivered,regional,mixed,weak,Landscape preservation and rural vitality are mentioned.
+B1_plan_regadia_andalucia,deepseek,1,water_conservation,delivered,basin,consistent,strong,Plan aims for efficient water use and requires water savings in infrastructure.
+B1_plan_regadia_andalucia,deepseek,1,crop_production,delivered,farm,consistent,moderate,Modernisation consolidates irrigation to support agricultural production.
+B1_plan_regadia_andalucia,deepseek,1,risk_management,delivered,basin,consistent,moderate,Prioritises water savings and supply reliability through modernisation.
+B2_pla_regadius_catalunya,deepseek,1,crop_production,delivered,regional,consistent,strong,"Modernisation increases yields, stabilises supply, and expands crop range."
+B2_pla_regadius_catalunya,deepseek,1,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, reducing demand below concessions."
+B2_pla_regadius_catalunya,deepseek,1,risk_management,delivered,regional,consistent,strong,Modernised systems provide elasticity to reduce demand proportionally during drought.
+B2_pla_regadius_catalunya,deepseek,1,social_cohesion,delivered,regional,mixed,moderate,"Plan supports irrigation communities and rural development, but may require reorientation."
+B2_pla_regadius_catalunya,deepseek,1,soil_health,mixed,regional,mixed,weak,No explicit mention; modernisation may reduce salinity but energy use increases emissions.
+B2_pla_regadius_catalunya,deepseek,1,biodiversity,mixed,regional,mixed,moderate,Environmental integration measures included; some natural spaces may be affected.
+B2_pla_regadius_catalunya,deepseek,1,groundwater_recharge,delivered,regional,mixed,weak,Reduced abstraction and improved efficiency may benefit aquifer recovery indirectly.
+B2_pla_regadius_catalunya,deepseek,1,crop_production,delivered,basin,consistent,strong,"Modernisation aims to improve water use and increase yields, with efficiency rising from 41.77% to 72.56%."
+B2_pla_regadius_catalunya,deepseek,1,water_conservation,delivered,basin,consistent,strong,"Modernisation saves water, raising efficiency from ~50% to 80%, reducing consumption and pressure on sources."
+B2_pla_regadius_catalunya,deepseek,1,risk_management,delivered,basin,consistent,moderate,"Modernisation allows demand management and deficit irrigation, improving drought resilience and supply stability."
+B2_pla_regadius_catalunya,deepseek,1,social_cohesion,delivered,basin,consistent,moderate,"Plan aims to increase and stabilise farm incomes, create jobs, and revitalise local economy."
+B2_pla_regadius_catalunya,deepseek,1,biodiversity,mixed,basin,mixed,moderate,"Measures to protect habitats and species, but acknowledges pressure on riparian forests and wetlands."
+B2_pla_regadius_catalunya,deepseek,1,groundwater_recharge,delivered,basin,consistent,weak,Limiting consumption and promoting reuse helps avoid overexploitation and supports aquifer balance.
+B2_pla_regadius_catalunya,deepseek,1,soil_health,delivered,field,consistent,weak,Modernisation includes better irrigation practices that can reduce salinity and erosion.
+D1_fao_id63_masscote,deepseek,1,crop_production,delivered,field,consistent,strong,Improving water delivery service to farms enhances crop yields and agricultural productivity.
+D1_fao_id63_masscote,deepseek,1,water_conservation,delivered,basin,mixed,moderate,Modernization can reduce losses but recirculation may offset true water conservation.
+D1_fao_id63_masscote,deepseek,1,soil_health,delivered,field,consistent,weak,Better water management reduces waterlogging and salinity risks.
+D1_fao_id63_masscote,deepseek,1,risk_management,delivered,basin,consistent,strong,Service-oriented management improves reliability and supply guarantee.
+D1_fao_id63_masscote,deepseek,1,social_cohesion,delivered,basin,mixed,moderate,Participatory approaches and WUAs enhance cooperation but require capacity building.
+D1_fao_id63_masscote,deepseek,1,biodiversity,degraded,basin,mixed,weak,Reducing first-time losses may harm habitats that depend on return flows.
+D1_fao_id63_masscote,deepseek,1,groundwater_recharge,degraded,basin,mixed,weak,"Lining canals reduces seepage, potentially decreasing aquifer recharge."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,1,crop_production,delivered,basin,consistent,strong,"Modernization improves water delivery service, enabling higher yields and cropping intensity."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,1,water_conservation,delivered,basin,mixed,moderate,"Modernization can improve efficiency, but many projects still have low efficiency (20-30%)."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,1,social_cohesion,delivered,basin,consistent,moderate,Good water delivery service supports strong WUAs; anarchy reduced in modernized projects.
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,1,risk_management,delivered,basin,consistent,moderate,Modernization improves reliability and flexibility of water supply to farmers.
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,crop_production,delivered,regional,consistent,strong,Modernisation aims to consolidate competitive agro-food system and improve productivity.
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,water_conservation,delivered,basin,consistent,strong,"Objective to rationalise water use, reduce consumption, and improve efficiency."
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,soil_health,delivered,regional,consistent,moderate,Aims to avoid land degradation and reduce desertification processes.
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,risk_management,delivered,regional,consistent,moderate,Modernisation seeks to secure yields under variable precipitation.
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,social_cohesion,delivered,regional,consistent,strong,Objective to improve rural socio-economic level and fix population.
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,biodiversity,delivered,regional,consistent,moderate,Includes environmental criteria to protect biodiversity and natural spaces.
+A1_rd329-2002_plan_nacional_regadios,deepseek,2,groundwater_recharge,delivered,basin,consistent,moderate,Aims to favour recovery of aquifers.
+A2_rd287-2006_plan_choque_regadios,deepseek,2,water_conservation,delivered,basin,consistent,strong,Main objective: achieve water savings to mitigate drought effects.
+A2_rd287-2006_plan_choque_regadios,deepseek,2,crop_production,delivered,farm,consistent,moderate,Optimize productions and competitiveness of irrigated farms.
+A2_rd287-2006_plan_choque_regadios,deepseek,2,risk_management,delivered,basin,consistent,strong,Mitigate drought damages and improve supply guarantee.
+A2_rd287-2006_plan_choque_regadios,deepseek,2,social_cohesion,delivered,regional,consistent,moderate,"Fix population, improve quality of life, create quality employment."
+A2_rd287-2006_plan_choque_regadios,deepseek,2,biodiversity,mixed,basin,mixed,moderate,Environmental monitoring and recovery actions; water savings for environmental needs.
+A2_rd287-2006_plan_choque_regadios,deepseek,2,groundwater_recharge,delivered,basin,consistent,weak,Water savings used to satisfy environmental needs and improve supply guarantee.
+A3_prtr_componente3,deepseek,2,crop_production,delivered,basin,consistent,strong,Modernisation aims to improve competitiveness and ensure food supply at reasonable prices.
+A3_prtr_componente3,deepseek,2,water_conservation,delivered,basin,consistent,strong,Plan promotes water saving through efficient irrigation systems and use of non-conventional water.
+A3_prtr_componente3,deepseek,2,soil_health,delivered,field,consistent,moderate,Fertigation and precision agriculture reduce nutrient excess and soil contamination.
+A3_prtr_componente3,deepseek,2,risk_management,delivered,basin,consistent,strong,Modernisation increases resilience to climate change and ensures supply guarantee.
+A3_prtr_componente3,deepseek,2,social_cohesion,delivered,regional,consistent,moderate,Investments fix population in rural areas and support territorial balance.
+A3_prtr_componente3,deepseek,2,biodiversity,delivered,basin,consistent,moderate,"Modernisation avoids land abandonment and preserves ecosystems, subject to environmental assessment."
+A3_prtr_componente3,deepseek,2,groundwater_recharge,delivered,basin,mixed,weak,Reduced abstraction and use of reclaimed water may relieve pressure on aquifers.
+A3_prtr_componente3,deepseek,2,pest_control,delivered,field,consistent,moderate,"Precision irrigation allows precise application of phytosanitary products, reducing pollution."
+B1_plan_regadia_andalucia,deepseek,2,water_conservation,delivered,basin,consistent,strong,"Plan aims for efficient water use, ahorro potencial de agua, and reduction in consumption."
+B1_plan_regadia_andalucia,deepseek,2,crop_production,delivered,farm,consistent,moderate,Modernization improves irrigation infrastructure to support agricultural production.
+B1_plan_regadia_andalucia,deepseek,2,risk_management,delivered,basin,consistent,moderate,Plan prioritizes water savings and supply guarantee through modernization.
+B2_pla_regadius_catalunya,deepseek,2,crop_production,delivered,regional,consistent,strong,"Modernisation increases yields, crop quality, and production; new irrigation boosts output by 91.55%."
+B2_pla_regadius_catalunya,deepseek,2,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, reducing demand below concessions."
+B2_pla_regadius_catalunya,deepseek,2,risk_management,delivered,regional,consistent,moderate,"Modernised systems provide elasticity, allowing proportional cuts up to 25% during drought."
+B2_pla_regadius_catalunya,deepseek,2,social_cohesion,delivered,regional,mixed,weak,"Plan supports irrigation communities and rural development, but may require reorientation of farms."
+B2_pla_regadius_catalunya,deepseek,2,biodiversity,mixed,regional,mixed,weak,Environmental assessment positive but some natural areas affected; compensatory measures planned.
+B2_pla_regadius_catalunya,deepseek,2,groundwater_recharge,delivered,basin,consistent,weak,Reduced abstraction from modernisation may ease pressure on aquifers.
+B2_pla_regadius_catalunya,deepseek,2,livestock,delivered,regional,mixed,weak,"Forage crops increase, supporting livestock integration."
+B2_pla_regadius_catalunya,deepseek,2,water_conservation,delivered,basin,consistent,strong,"Modernization improves irrigation efficiency from 50% to 80%, saving water."
+B2_pla_regadius_catalunya,deepseek,2,crop_production,delivered,farm,consistent,moderate,Modernization enables better water use and yield stability.
+B2_pla_regadius_catalunya,deepseek,2,risk_management,delivered,basin,mixed,moderate,Elasticity from modernization allows adjustment during drought periods.
+B2_pla_regadius_catalunya,deepseek,2,biodiversity,mixed,basin,mixed,moderate,Plan includes buffer zones and habitat protection but acknowledges pressure.
+B2_pla_regadius_catalunya,deepseek,2,groundwater_recharge,delivered,basin,mixed,weak,"Limits consumption to avoid overexploitation, but variability remains."
+B2_pla_regadius_catalunya,deepseek,2,social_cohesion,delivered,farm,consistent,moderate,Plan aims for stable incomes and local economic dynamization.
+D1_fao_id63_masscote,deepseek,2,crop_production,delivered,field,consistent,strong,Improving service to users aims to enhance agricultural productivity and yields.
+D1_fao_id63_masscote,deepseek,2,water_conservation,delivered,basin,mixed,moderate,Modernization can reduce losses but recirculation may limit net water savings.
+D1_fao_id63_masscote,deepseek,2,risk_management,delivered,farm,consistent,moderate,Better operation improves reliability and supply stability for users.
+D1_fao_id63_masscote,deepseek,2,social_cohesion,delivered,basin,mixed,weak,Service-oriented management implies user participation but not detailed.
+D1_fao_id63_masscote,deepseek,2,soil_health,delivered,field,consistent,weak,Reducing waterlogging and salinity through improved water management.
+D1_fao_id63_masscote,deepseek,2,biodiversity,mixed,basin,mixed,weak,Environmental needs mentioned but modernization may reduce habitat.
+D1_fao_id63_masscote,deepseek,2,groundwater_recharge,degraded,basin,mixed,weak,"Lining reduces seepage, potentially decreasing aquifer recharge."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,2,crop_production,delivered,basin,consistent,strong,"Modernization improves water delivery service, enabling higher yields and cropping intensity."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,2,water_conservation,delivered,basin,mixed,moderate,"Modernization can improve efficiency, but many projects still have low efficiencies (20-30%)."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,2,risk_management,delivered,basin,consistent,moderate,"Modernization provides more reliable and flexible water delivery, reducing drought risk."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,2,social_cohesion,delivered,basin,consistent,strong,"Modernization supports strong WUAs, which improve fee collection and reduce anarchy."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,2,soil_health,mixed,field,mixed,weak,"Improved water management can reduce salinity, but not directly addressed."
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,crop_production,delivered,regional,consistent,strong,Modernisation aims to consolidate competitive agro-food system and improve yields.
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Objective to rationalise water use, reduce consumption, and improve efficiency."
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,soil_health,delivered,basin,consistent,moderate,Aims to avoid land degradation and reduce desertification.
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,risk_management,delivered,regional,consistent,moderate,Seeks to secure harvests and reduce vulnerability to climatic variability.
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,social_cohesion,delivered,regional,consistent,strong,"Aims to improve rural livelihoods, fix population, and reduce depopulation."
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,biodiversity,delivered,basin,consistent,moderate,Objective to protect biodiversity and valuable natural spaces.
+A1_rd329-2002_plan_nacional_regadios,deepseek,3,groundwater_recharge,delivered,basin,consistent,moderate,Aims to favour aquifer recovery and reduce contamination.
+A2_rd287-2006_plan_choque_regadios,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Main objective: obtain water savings to mitigate drought effects; estimated 1,162 Hm3 saved."
+A2_rd287-2006_plan_choque_regadios,deepseek,3,crop_production,delivered,farm,consistent,moderate,Optimize productions and competitiveness of irrigated farms.
+A2_rd287-2006_plan_choque_regadios,deepseek,3,risk_management,delivered,basin,consistent,strong,Urgent plan to mitigate drought impacts and improve supply guarantee.
+A2_rd287-2006_plan_choque_regadios,deepseek,3,social_cohesion,delivered,regional,mixed,weak,Fixing population and improving quality of life in influence zones.
+A2_rd287-2006_plan_choque_regadios,deepseek,3,biodiversity,degraded,regional,mixed,weak,Environmental impact assessment required; compensation measures for protection.
+A3_prtr_componente3,deepseek,3,crop_production,delivered,basin,consistent,strong,Modernisation aims to improve competitiveness and ensure food supply at reasonable prices.
+A3_prtr_componente3,deepseek,3,water_conservation,delivered,basin,consistent,strong,Plan promotes water saving through efficient irrigation systems (drip) and use of reclaimed water.
+A3_prtr_componente3,deepseek,3,soil_health,delivered,field,consistent,moderate,Reduction of fertiliser and phytosanitary leaching through precision fertigation and monitoring.
+A3_prtr_componente3,deepseek,3,risk_management,delivered,basin,consistent,strong,"Improves resilience to climate change and drought, ensuring supply guarantee."
+A3_prtr_componente3,deepseek,3,social_cohesion,delivered,regional,consistent,moderate,Modernisation helps fix population in rural areas and supports territorial balance.
+A3_prtr_componente3,deepseek,3,biodiversity,delivered,regional,consistent,moderate,Investments subject to environmental impact assessment; preserve ecosystems and biodiversity.
+A3_prtr_componente3,deepseek,3,groundwater_recharge,delivered,basin,consistent,weak,Reduction of extraction pressure helps protect groundwater bodies.
+B1_plan_regadia_andalucia,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Plan aims for efficient water use, ahorro potencial de agua, and reduction in demand."
+B1_plan_regadia_andalucia,deepseek,3,crop_production,delivered,farm,consistent,weak,Modernization improves irrigation infrastructure supporting agricultural production.
+B1_plan_regadia_andalucia,deepseek,3,risk_management,delivered,basin,consistent,moderate,Prioritizes water savings and supply reliability through modernization.
+B1_plan_regadia_andalucia,deepseek,3,social_cohesion,delivered,basin,consistent,weak,Involves comunidades de regantes and collective governance structures.
+B2_pla_regadius_catalunya,deepseek,3,crop_production,delivered,regional,consistent,strong,"Modernisation increases yields, competitiveness, and crop diversity."
+B2_pla_regadius_catalunya,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, reducing demand."
+B2_pla_regadius_catalunya,deepseek,3,risk_management,delivered,basin,consistent,moderate,Modernised systems provide elasticity to adapt to drought deficits.
+B2_pla_regadius_catalunya,deepseek,3,social_cohesion,delivered,regional,consistent,moderate,Supports rural development and strengthens irrigation communities.
+B2_pla_regadius_catalunya,deepseek,3,biodiversity,mixed,regional,mixed,weak,Environmental integration measures included; some natural areas excluded.
+B2_pla_regadius_catalunya,deepseek,3,groundwater_recharge,delivered,basin,consistent,weak,Reduced abstraction and improved efficiency may benefit aquifers.
+B2_pla_regadius_catalunya,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Modernization increases efficiency from 50% to 80%, saving water and reducing pressure on sources."
+B2_pla_regadius_catalunya,deepseek,3,crop_production,delivered,farm,consistent,moderate,"Modernization improves irrigation management, enabling better crop yields and quality."
+B2_pla_regadius_catalunya,deepseek,3,risk_management,delivered,basin,consistent,moderate,"Modernization allows demand adjustment and deficit management, improving drought resilience."
+B2_pla_regadius_catalunya,deepseek,3,biodiversity,mixed,basin,mixed,moderate,"Plan includes buffer zones and habitat protection, but acknowledges pressure on riparian areas."
+B2_pla_regadius_catalunya,deepseek,3,soil_health,delivered,field,consistent,weak,Modernization reduces soil erosion and salinization through efficient irrigation.
+B2_pla_regadius_catalunya,deepseek,3,social_cohesion,delivered,farm,consistent,moderate,Plan supports collective governance and rural viability through community-based management.
+B2_pla_regadius_catalunya,deepseek,3,groundwater_recharge,mixed,basin,mixed,weak,Plan aims to limit overexploitation but does not guarantee recharge; relies on demand management.
+B2_pla_regadius_catalunya,deepseek,3,microclimate_regulation,delivered,field,consistent,weak,Irrigation modernization can help regulate local temperature and humidity.
+D1_fao_id63_masscote,deepseek,3,crop_production,delivered,farm,consistent,strong,Improving water delivery service to farms enhances crop yields and agricultural productivity.
+D1_fao_id63_masscote,deepseek,3,water_conservation,delivered,basin,mixed,moderate,"Modernization reduces losses and improves efficiency, but basin-wide conservation requires eliminating flows to salt sinks."
+D1_fao_id63_masscote,deepseek,3,soil_health,delivered,field,consistent,weak,"Reducing first-time losses minimizes waterlogging and salinity, improving soil conditions."
+D1_fao_id63_masscote,deepseek,3,risk_management,delivered,basin,consistent,moderate,"Service-oriented management improves reliability and stability of water supply, enhancing drought resilience."
+D1_fao_id63_masscote,deepseek,3,social_cohesion,delivered,basin,mixed,weak,Participatory approaches and management transfer aim to improve cooperation and equity among users.
+D1_fao_id63_masscote,deepseek,3,biodiversity,degraded,basin,mixed,weak,Eliminating first-time losses may reduce habitat and environmental flows if not managed.
+D1_fao_id63_masscote,deepseek,3,groundwater_recharge,degraded,basin,mixed,weak,"Reducing seepage and deep percolation may decrease aquifer recharge, affecting groundwater availability."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,3,crop_production,delivered,basin,consistent,strong,"Modernization improves water delivery service, enabling higher yields and cropping intensity."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,3,water_conservation,delivered,basin,mixed,moderate,"Modernization can improve efficiency, but many projects still have low efficiency (20-30%)."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,3,social_cohesion,delivered,basin,consistent,strong,Modernization reduces anarchy and supports strong WUAs when combined with good service.
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,3,risk_management,delivered,basin,consistent,moderate,"Modernization improves reliability and flexibility of water delivery, reducing farmer risk."
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,crop_production,delivered,basin,consistent,strong,Modernisation aims to consolidate competitive agro-food system and improve productivity.
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,water_conservation,delivered,basin,consistent,strong,"Objective to rationalise water use, reduce consumption, and improve efficiency."
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,soil_health,delivered,basin,consistent,moderate,Incorporates environmental criteria to avoid land degradation and reduce desertification.
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,risk_management,delivered,basin,consistent,moderate,Modernisation aims to secure yields despite scarce and irregular rainfall.
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,social_cohesion,delivered,regional,consistent,strong,"Seeks to improve rural employment, fix population, and balance territory."
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,biodiversity,delivered,basin,consistent,moderate,Objective to protect biodiversity and valuable natural spaces.
+A1_rd329-2002_plan_nacional_regadios,deepseek,4,groundwater_recharge,delivered,basin,consistent,moderate,Aims to favour aquifer recovery and reduce contamination.
+A2_rd287-2006_plan_choque_regadios,deepseek,4,water_conservation,delivered,basin,consistent,strong,Main objective: achieve water savings to mitigate drought effects.
+A2_rd287-2006_plan_choque_regadios,deepseek,4,crop_production,delivered,farm,consistent,moderate,Optimize productions and competitiveness of irrigated farms.
+A2_rd287-2006_plan_choque_regadios,deepseek,4,risk_management,delivered,basin,consistent,strong,Mitigate drought damages and improve supply guarantee.
+A2_rd287-2006_plan_choque_regadios,deepseek,4,social_cohesion,delivered,regional,consistent,moderate,Fix population and improve quality of life in rural areas.
+A2_rd287-2006_plan_choque_regadios,deepseek,4,biodiversity,mixed,basin,mixed,weak,Environmental monitoring required; water savings for environmental needs.
+A3_prtr_componente3,deepseek,4,crop_production,delivered,basin,consistent,moderate,"Modernisation aims to improve competitiveness and sustainability of agriculture, ensuring food supply."
+A3_prtr_componente3,deepseek,4,water_conservation,delivered,basin,consistent,strong,"Core objective: reduce water consumption through efficient irrigation (drip, telemetry) and non-conventional water use."
+A3_prtr_componente3,deepseek,4,soil_health,delivered,field,consistent,moderate,Precision irrigation reduces fertiliser leaching; organic fertilisation promoted to improve soil organic matter.
+A3_prtr_componente3,deepseek,4,risk_management,delivered,basin,consistent,strong,"Modernisation increases resilience to climate change and water scarcity, ensuring supply guarantee."
+A3_prtr_componente3,deepseek,4,social_cohesion,delivered,regional,consistent,moderate,"Investment fixes population in rural areas, fights depopulation, and maintains territorial balance."
+A3_prtr_componente3,deepseek,4,biodiversity,delivered,basin,consistent,moderate,"Modernisation prevents land abandonment, erosion, and desertification, preserving ecosystems."
+A3_prtr_componente3,deepseek,4,microclimate_regulation,delivered,field,mixed,weak,"Mentioned that plants act as CO2 sinks, but not a primary objective."
+A3_prtr_componente3,deepseek,4,pest_control,delivered,field,consistent,moderate,"Fertigation allows precise application of phytosanitaries, reducing pollution and pest pressure."
+A3_prtr_componente3,deepseek,4,groundwater_recharge,delivered,basin,consistent,moderate,Reducing abstraction and using reclaimed water relieves pressure on aquifers.
+A3_prtr_componente3,deepseek,4,livestock,delivered,farm,consistent,weak,Investments in livestock biosecurity and manure management are included.
+A3_prtr_componente3,deepseek,4,medicinal_food,delivered,unclear,mixed,weak,Not explicitly mentioned; only general food production.
+A3_prtr_componente3,deepseek,4,recreation_wellbeing,delivered,regional,mixed,weak,Landscape preservation and rural development are indirectly referenced.
+B1_plan_regadia_andalucia,deepseek,4,water_conservation,delivered,basin,consistent,strong,"Plan aims for efficient water use, ahorro de agua, and reduction in demand."
+B1_plan_regadia_andalucia,deepseek,4,crop_production,delivered,farm,consistent,weak,Modernization supports agricultural production indirectly through improved irrigation.
+B1_plan_regadia_andalucia,deepseek,4,risk_management,delivered,basin,consistent,moderate,Prioritizes water savings and use of reclaimed water to enhance supply reliability.
+B2_pla_regadius_catalunya,deepseek,4,crop_production,delivered,farm,consistent,strong,"Modernisation increases yields, stabilises supply, and diversifies crops, boosting competitiveness."
+B2_pla_regadius_catalunya,deepseek,4,water_conservation,delivered,basin,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, reducing demand below concessions."
+B2_pla_regadius_catalunya,deepseek,4,risk_management,delivered,basin,consistent,moderate,Modernised systems provide elasticity to reduce demand proportionally during drought.
+B2_pla_regadius_catalunya,deepseek,4,social_cohesion,delivered,regional,mixed,weak,"Plan supports irrigation communities and rural development, but no explicit equity guarantee."
+B2_pla_regadius_catalunya,deepseek,4,biodiversity,mixed,basin,mixed,moderate,Environmental assessment positive; measures to mitigate negative impacts on natural areas.
+B2_pla_regadius_catalunya,deepseek,4,groundwater_recharge,degraded,basin,mixed,weak,"Increased efficiency reduces return flows, potentially affecting aquifer recharge."
+B2_pla_regadius_catalunya,deepseek,4,water_conservation,delivered,basin,consistent,strong,"Modernization increases efficiency from 50% to 80%, saving water."
+B2_pla_regadius_catalunya,deepseek,4,crop_production,delivered,basin,consistent,moderate,"Modernization improves irrigation, supporting agricultural output and stability."
+B2_pla_regadius_catalunya,deepseek,4,risk_management,delivered,basin,consistent,moderate,Elasticity from modernization allows adjustment during drought periods.
+B2_pla_regadius_catalunya,deepseek,4,biodiversity,mixed,basin,mixed,moderate,"Measures to protect habitats and species, but acknowledges pressure on ecosystems."
+B2_pla_regadius_catalunya,deepseek,4,groundwater_recharge,delivered,basin,consistent,weak,Limits consumption to avoid overexploitation of aquifers.
+B2_pla_regadius_catalunya,deepseek,4,social_cohesion,delivered,basin,consistent,moderate,"Aims to increase and stabilize farm incomes, jobs, and local economy."
+D1_fao_id63_masscote,deepseek,4,crop_production,delivered,basin,consistent,strong,Improving performance and service to irrigated agriculture to increase crop yields.
+D1_fao_id63_masscote,deepseek,4,water_conservation,delivered,basin,consistent,strong,Aims to improve water resources management and do 'more with less' water.
+D1_fao_id63_masscote,deepseek,4,risk_management,delivered,basin,consistent,moderate,Service-oriented management improves reliability and stability of water delivery.
+D1_fao_id63_masscote,deepseek,4,social_cohesion,delivered,basin,mixed,moderate,Promotes participatory approaches and management transfer to user associations.
+D1_fao_id63_masscote,deepseek,4,groundwater_recharge,mixed,basin,mixed,weak,Discusses seepage and groundwater recharge but notes trade-offs in water conservation.
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,4,crop_production,delivered,basin,consistent,strong,"Modernization improves water delivery service, enabling higher yields and cropping intensity."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,4,water_conservation,delivered,basin,mixed,moderate,"Modernization can improve efficiency, but many projects still have low efficiencies (20-30%)."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,4,social_cohesion,delivered,basin,consistent,strong,Modernization reduces anarchy and supports strong water user associations.
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,4,risk_management,delivered,basin,consistent,moderate,Modernization improves reliability and flexibility of water delivery service.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,crop_production,delivered,basin,consistent,strong,Modernisation aims to consolidate a competitive agri-food system and increase productivity.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,water_conservation,delivered,basin,consistent,strong,"Objective to rationalise water use, reduce consumption, and improve efficiency."
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,soil_health,delivered,basin,consistent,moderate,Aims to avoid land degradation and reduce desertification processes.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,risk_management,delivered,basin,consistent,moderate,Seeks to ensure secure and stable yields despite climatic variability.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,social_cohesion,delivered,regional,consistent,strong,Aims to improve rural socio-economic level and fix population in declining areas.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,biodiversity,delivered,basin,consistent,moderate,Incorporates environmental criteria to protect biodiversity and natural spaces.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,groundwater_recharge,delivered,basin,consistent,moderate,Favours recovery of aquifers as part of environmental criteria.
+A1_rd329-2002_plan_nacional_regadios,deepseek,5,recreation_wellbeing,delivered,regional,consistent,weak,Mentions protecting rural landscapes and avoiding depopulation.
+A2_rd287-2006_plan_choque_regadios,deepseek,5,water_conservation,delivered,basin,consistent,strong,"Main objective: obtain water savings to mitigate drought effects, estimated 1,162 Hm3/year."
+A2_rd287-2006_plan_choque_regadios,deepseek,5,crop_production,delivered,farm,consistent,moderate,Optimize productions and competitiveness of irrigated farms.
+A2_rd287-2006_plan_choque_regadios,deepseek,5,risk_management,delivered,basin,consistent,strong,"Mitigate drought effects, improve supply guarantee for populations and irrigation."
+A2_rd287-2006_plan_choque_regadios,deepseek,5,social_cohesion,delivered,regional,mixed,moderate,"Fixes population, improves quality of life, creates quality employment."
+A2_rd287-2006_plan_choque_regadios,deepseek,5,biodiversity,mixed,basin,mixed,moderate,"Environmental monitoring required; savings used for environmental needs, but impacts assessed."
+A2_rd287-2006_plan_choque_regadios,deepseek,5,groundwater_recharge,delivered,basin,consistent,weak,"Water savings can be used to satisfy environmental needs, implying aquifer benefits."
+A3_prtr_componente3,deepseek,5,crop_production,delivered,field,consistent,moderate,"Modernization enables fertigation and precise irrigation, improving crop yield and quality."
+A3_prtr_componente3,deepseek,5,water_conservation,delivered,basin,consistent,strong,"Main objective: reduce water consumption via efficient systems (drip, sprinkler) and non-conventional sources."
+A3_prtr_componente3,deepseek,5,soil_health,delivered,field,consistent,moderate,Precision irrigation reduces leaching of nitrates and improves soil fertility.
+A3_prtr_componente3,deepseek,5,risk_management,delivered,basin,consistent,moderate,Modernization enhances resilience to climate change and water scarcity.
+A3_prtr_componente3,deepseek,5,social_cohesion,delivered,regional,consistent,moderate,"Fixes population in rural areas, supports rural development and territorial balance."
+A3_prtr_componente3,deepseek,5,biodiversity,delivered,basin,consistent,moderate,"Reduces pressure on water bodies, preserves ecosystems, and avoids land abandonment."
+A3_prtr_componente3,deepseek,5,microclimate_regulation,delivered,field,mixed,weak,Mentioned that modernized irrigation can act as CO2 sink via photosynthesis.
+A3_prtr_componente3,deepseek,5,pest_control,delivered,field,consistent,moderate,Precision application of phytosanitary products reduces use and environmental impact.
+A3_prtr_componente3,deepseek,5,groundwater_recharge,mixed,basin,mixed,weak,"Reduced abstraction helps aquifers, but no explicit recharge benefit is claimed."
+A3_prtr_componente3,deepseek,5,livestock,delivered,farm,consistent,moderate,Investments in livestock biosecurity and manure management improve sustainability.
+A3_prtr_componente3,deepseek,5,medicinal_food,none,unclear,consistent,weak,Not mentioned in connection with modernisation.
+A3_prtr_componente3,deepseek,5,recreation_wellbeing,delivered,regional,consistent,weak,"Modernisation preserves landscape and cultural heritage, supports rural amenity."
+B1_plan_regadia_andalucia,deepseek,5,water_conservation,delivered,basin,consistent,strong,Plan aims for efficient water use and ahorro potencial de agua.
+B1_plan_regadia_andalucia,deepseek,5,crop_production,delivered,farm,consistent,moderate,Modernization improves irrigation infrastructure for agricultural production.
+B1_plan_regadia_andalucia,deepseek,5,risk_management,delivered,basin,consistent,moderate,Prioritizes zones replacing surface/groundwater with reclaimed water for supply reliability.
+B2_pla_regadius_catalunya,deepseek,5,crop_production,delivered,regional,consistent,strong,"Modernisation increases yields, stabilises supply, and diversifies crops, boosting competitiveness."
+B2_pla_regadius_catalunya,deepseek,5,water_conservation,delivered,regional,consistent,strong,"Modernisation raises efficiency from 41.77% to 72.56%, reducing demand below concessions."
+B2_pla_regadius_catalunya,deepseek,5,risk_management,delivered,regional,consistent,moderate,"Modernised systems provide elasticity, allowing proportional reductions during drought."
+B2_pla_regadius_catalunya,deepseek,5,soil_health,delivered,field,mixed,weak,Improved irrigation efficiency may reduce erosion and salinisation risks.
+B2_pla_regadius_catalunya,deepseek,5,social_cohesion,delivered,regional,consistent,moderate,"Plan supports irrigation communities and rural development, reversing land loss."
+B2_pla_regadius_catalunya,deepseek,5,biodiversity,mixed,regional,mixed,weak,"Environmental integration measures are included, but new irrigation may affect habitats."
+B2_pla_regadius_catalunya,deepseek,5,crop_production,delivered,basin,consistent,strong,"Modernisation aims to improve water use and increase irrigation efficiency from 50% to 80%, boosting production."
+B2_pla_regadius_catalunya,deepseek,5,water_conservation,delivered,basin,consistent,strong,"Modernisation saves water by increasing efficiency and reducing demand, with potential savings of 100 hm3 from reuse."
+B2_pla_regadius_catalunya,deepseek,5,risk_management,delivered,basin,consistent,moderate,"Modernisation allows elasticity and deficit management, reducing competition for water and ensuring supply stability."
+B2_pla_regadius_catalunya,deepseek,5,biodiversity,mixed,basin,mixed,moderate,"Plan includes buffer zones and ecological measures to protect habitats, but acknowledges pressure on riparian areas."
+B2_pla_regadius_catalunya,deepseek,5,groundwater_recharge,delivered,basin,consistent,weak,Limiting consumption and promoting reuse helps avoid overexploitation of aquifers.
+B2_pla_regadius_catalunya,deepseek,5,social_cohesion,delivered,basin,consistent,moderate,"Plan aims to increase and stabilise farm incomes, create jobs, and dynamise local economy."
+D1_fao_id63_masscote,deepseek,5,crop_production,delivered,basin,consistent,strong,Improving performance of irrigated agriculture and water delivery service to farms.
+D1_fao_id63_masscote,deepseek,5,water_conservation,delivered,basin,consistent,strong,Water resources management and efficiency improvements to do more with less.
+D1_fao_id63_masscote,deepseek,5,risk_management,delivered,basin,consistent,moderate,Service-oriented management aims to improve reliability and supply guarantee.
+D1_fao_id63_masscote,deepseek,5,social_cohesion,delivered,basin,mixed,moderate,Participatory approaches and management transfer to water users associations.
+D1_fao_id63_masscote,deepseek,5,groundwater_recharge,mixed,basin,mixed,weak,Seepage accommodation and groundwater recharge mentioned as part of water balance.
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,5,crop_production,delivered,basin,consistent,strong,"Modernization improves water delivery service, enabling higher yields and cropping intensity."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,5,water_conservation,delivered,basin,mixed,moderate,"Modernization can improve efficiency, but many projects still have low efficiencies (20-30%)."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,5,risk_management,delivered,basin,consistent,moderate,"Modernization provides more reliable and flexible water delivery, reducing supply uncertainty."
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,5,social_cohesion,delivered,basin,mixed,moderate,Strong WUAs enabled by good infrastructure improve cooperation and fee collection.
+D2_burt_styles_1999_wr19_modern_water_control,deepseek,5,soil_health,degraded,basin,mixed,weak,Low efficiencies and poor management can lead to salinity and degradation.
+C1_pepac_espana_v5-1,claude,1,water_conservation,delivered,basin,consistent,strong,"Modernisation (C3.I1) justified by water saving, efficiency gains, reduced abstraction; mandatory potential/effective savings tied to river-basin plans."
+C1_pepac_espana_v5-1,claude,1,risk_management,delivered,regional,mixed,moderate,Modernised irrigation maintains farm viability under water stress and adapts to climate change; irrigation gives crop flexibility and supply reliability.
+C1_pepac_espana_v5-1,claude,1,crop_production,delivered,farm,consistent,moderate,"Irrigation gives far higher productivity (6x secano), flexible high-value crops; modernisation boosts economic sustainability and market orientation."
+C1_pepac_espana_v5-1,claude,1,soil_health,mixed,field,mixed,moderate,"Drip/sprinkler reduce leaching and contamination to soil, but salinization and fertile-soil loss risk flagged in irrigated zones."
+C1_pepac_espana_v5-1,claude,1,groundwater_recharge,delivered,basin,consistent,moderate,Reduced extraction protects groundwater and coastal waters; subterranean recharge infrastructure cited; aquifer/water-table protection under WFD objectives.
+C1_pepac_espana_v5-1,claude,1,biodiversity,delivered,basin,mixed,weak,Investments in irrigation infrastructure with environmental objectives linked to Natura2000/WFD water-body protection and reduced pollution.
+C1_pepac_espana_v5-1,claude,1,social_cohesion,delivered,regional,mixed,moderate,"Irrigation corrects regional imbalances, fixes rural population, dynamises rural economy; comunidades de regantes governance, gender equity incentives."
+C2_reg_eu_2021-2115,claude,1,water_conservation,delivered,basin,consistent,strong,Investments improving existing irrigation funded only if assessed potential water saving per technical parameters; water meters required.
+C2_reg_eu_2021-2115,claude,1,biodiversity,mixed,basin,mixed,strong,"Irrigation infrastructure must contribute to good water status; harmful investments excluded, new irrigated area needs no negative environmental impact."
+C2_reg_eu_2021-2115,claude,1,groundwater_recharge,delivered,basin,consistent,moderate,Investments conditioned on water-body status; restrictions where groundwater/surface status below good protect water quantity.
+A4_perte_digitalizacion_agua_memoria,claude,1,water_conservation,delivered,regional,consistent,strong,"Digitalisation of irrigation promoted to optimise water use, improve efficiency and reduce losses in regadío systems."
+A4_perte_digitalizacion_agua_memoria,claude,1,crop_production,delivered,farm,consistent,moderate,"Digital tools to improve productivity and aprovechamiento del agua, calculating irrigation needs per parcel."
+A4_perte_digitalizacion_agua_memoria,claude,1,soil_health,delivered,field,mixed,weak,"Sensing of soil humidity and conductivity mentioned as scheme component, not framed explicitly as soil health benefit."
+A4_perte_digitalizacion_agua_memoria,claude,1,groundwater_recharge,delivered,basin,mixed,weak,Management of irrigation return flows (retornos de regadío) flagged with higher cofinancing due to cost-recovery difficulty.
+A4_perte_digitalizacion_agua_memoria,claude,1,social_cohesion,delivered,regional,mixed,weak,Digital verification jobs help fix rural population; Communities of Irrigators as collective governance actors.
+C1_pepac_espana_v5-1,claude,2,water_conservation,delivered,basin,consistent,strong,"Modernization (C3.I1) promises water saving, efficiency, reduced abstraction; minimum 5-10% potential saving required; drip/aspersion cut consumption."
+C1_pepac_espana_v5-1,claude,2,crop_production,delivered,farm,consistent,moderate,"Regadío six times more productive than secano; modernization maintains viability; irrigation enables wider, market-oriented crop range."
+C1_pepac_espana_v5-1,claude,2,soil_health,mixed,field,mixed,moderate,"Drip/sprinkler cut leaching and salinity risk via precise fertigation, yet DAFO warns salinization and soil loss in irrigated zones."
+C1_pepac_espana_v5-1,claude,2,risk_management,delivered,regional,consistent,moderate,"Modernized irrigation and adaptation plans improve climate-change resilience, supply reliability, long-term farm viability."
+C1_pepac_espana_v5-1,claude,2,groundwater_recharge,delivered,basin,mixed,moderate,Reduced abstraction protects aquifers/water tables; some operations include recharge infrastructure; aligns with WFD quantitative-status goals.
+C1_pepac_espana_v5-1,claude,2,social_cohesion,delivered,regional,consistent,moderate,"Irrigation corrects regional imbalances, fixes population, dynamizes rural economy; comunidades de regantes governance and women's participation incentivized."
+C1_pepac_espana_v5-1,claude,2,biodiversity,delivered,field,mixed,weak,Environmental-objective irrigation investments and reduced pollution support water-body ecosystems; biodiversity spaces required within irrigated cropland ecoschemes.
+C2_reg_eu_2021-2115,claude,2,water_conservation,delivered,basin,consistent,strong,Support for modernising existing irrigation only if prior assessment shows potential water saving; water meters required.
+C2_reg_eu_2021-2115,claude,2,biodiversity,mixed,basin,consistent,strong,Investments excluded if harmful to good water-body status or environment; new irrigation requires environmental impact analysis showing no negative effect.
+C2_reg_eu_2021-2115,claude,2,groundwater_recharge,mixed,basin,consistent,moderate,"Conditions tie investments to status of ground/surface water bodies, limiting modernisation where water quantity status is below good."
+A4_perte_digitalizacion_agua_memoria,claude,2,water_conservation,delivered,mixed,consistent,strong,"Digitalization of irrigation promises more efficient water use, reduced losses, and improved water productivity.generación.the headline goal."
+A4_perte_digitalizacion_agua_memoria,claude,2,crop_production,delivered,farm,consistent,moderate,Digital tools and sensorization expected to improve productivity and aprovechamiento del agua in crops.
+A4_perte_digitalizacion_agua_memoria,claude,2,soil_health,delivered,field,consistent,weak,Sensing soil humidity and conductivity and reduced fertilizer inputs mentioned as part of digitalized irrigation scheme.
+A4_perte_digitalizacion_agua_memoria,claude,2,social_cohesion,delivered,regional,consistent,moderate,"Digitalization supports rural population fixation, employment, and collective governance via Comunidades de Regantes."
+A4_perte_digitalizacion_agua_memoria,claude,2,groundwater_recharge,delivered,basin,mixed,weak,Management of irrigation return flows mentioned; higher cofinancing for difficult cost-recovery actions like retornos de regadío.
+C1_pepac_espana_v5-1,claude,3,water_conservation,delivered,basin,consistent,strong,"Modernización de regadíos (C3.I1) promueve ahorro de agua, mayor eficiencia de riego y reducción de extracciones, con porcentajes obligatorios de ahorro potencial/efectivo (5-15%)."
+C1_pepac_espana_v5-1,claude,3,crop_production,delivered,farm,consistent,moderate,"El regadío aporta >65% del valor de producción, cultivos más productivos; riego permite mayor rentabilidad y flexibilidad productiva frente al secano."
+C1_pepac_espana_v5-1,claude,3,soil_health,delivered,field,mixed,moderate,"Goteo/aspersión permite fertirrigación ajustada, reduce lixiviación y salinización; pero DAFO admite riesgo de salinización y pérdida de suelo fértil en zonas regadas."
+C1_pepac_espana_v5-1,claude,3,soil_health,degraded,field,mixed,weak,DAFO reconoce riesgo de salinización y pérdida de suelo fértil en zonas de regadío por malas prácticas.
+C1_pepac_espana_v5-1,claude,3,groundwater_recharge,delivered,basin,consistent,moderate,Reducción de extracciones protege aguas subterráneas; se contemplan infraestructuras de recarga y redotación de zonas de regadío subterráneo (Castilla y León).
+C1_pepac_espana_v5-1,claude,3,risk_management,delivered,farm,consistent,moderate,"Regadío modernizado mantiene viabilidad económica, planes de mejora para adaptación al cambio climático y uso de aguas no convencionales (regeneradas, desaladas)."
+C1_pepac_espana_v5-1,claude,3,biodiversity,delivered,basin,mixed,weak,Reducción de lixiviación de fitosanitarios y mejor estado de masas de agua beneficia ecosistemas acuáticos; vinculado a objetivos DMA.
+C1_pepac_espana_v5-1,claude,3,social_cohesion,delivered,regional,consistent,moderate,"Comunidades de regantes como beneficiarios clave; regadío corrige desequilibrios regionales, fija población y dinamiza economía rural; incentivo a mujeres en órganos rectores."
+C2_reg_eu_2021-2115,claude,3,water_conservation,delivered,basin,consistent,strong,Modernisation of existing irrigation only funded if it offers potential water saving; water meters required to measure use.
+C2_reg_eu_2021-2115,claude,3,biodiversity,mixed,basin,consistent,strong,Investments conditioned on good water status; excluded where environmentally harmful; net irrigation expansion requires environmental impact analysis.
+C2_reg_eu_2021-2115,claude,3,groundwater_recharge,delivered,basin,consistent,moderate,"Investments restricted where water bodies are below good status, protecting ground/surface water quantity."
+A4_perte_digitalizacion_agua_memoria,claude,3,water_conservation,delivered,mixed,consistent,strong,"Digitalisation of irrigation promoted to achieve more efficient water use, reduce losses, and improve water efficiency metrics in financed programmes."
+A4_perte_digitalizacion_agua_memoria,claude,3,crop_production,delivered,farm,consistent,moderate,Digital tools give farmers information to improve irrigation and productivity; regadío contributes 65% of production.
+A4_perte_digitalizacion_agua_memoria,claude,3,risk_management,delivered,mixed,mixed,weak,"Irrigation framed as pillar of food security and sustainable management, implying reliability through better data-driven water management."
+A4_perte_digitalizacion_agua_memoria,claude,3,soil_health,delivered,field,consistent,moderate,"System includes sensing of soil moisture and conductivity and reduced fertiliser inputs, implying soil management benefits."
+A4_perte_digitalizacion_agua_memoria,claude,3,groundwater_recharge,delivered,basin,mixed,weak,"Mentions management of irrigation return flows, with higher cofinancing for difficult cost-recovery actions like return-flow management."
+C1_pepac_espana_v5-1,claude,4,water_conservation,delivered,basin,consistent,strong,"Modernización (C3.I1) para ahorro de agua, mejora eficiencia de riego, reducción de extracciones; ahorro potencial 5-10% exigido en inversiones."
+C1_pepac_espana_v5-1,claude,4,crop_production,delivered,farm,consistent,strong,"Regadío aporta >65% del valor de producción, 6 veces más productivo que secano; mayor flexibilidad de cultivos."
+C1_pepac_espana_v5-1,claude,4,risk_management,delivered,farm,consistent,moderate,"Regadío mantiene viabilidad económica, adaptación al cambio climático y seguridad alimentaria frente a estrés hídrico."
+C1_pepac_espana_v5-1,claude,4,groundwater_recharge,delivered,basin,mixed,moderate,Reducción de extracciones protege aguas subterráneas y costeras; infraestructuras de recarga de regadío subterráneo mencionadas.
+C1_pepac_espana_v5-1,claude,4,soil_health,mixed,field,mixed,moderate,Fertirrigación reduce lixiviación y mejora gestión; pero riesgo de salinización y pérdida de suelo fértil en zonas de regadío.
+C1_pepac_espana_v5-1,claude,4,social_cohesion,delivered,regional,consistent,moderate,"Regadío corrige desequilibrios regionales, fija población, dinamiza economía rural; comunidades de regantes y equidad de género."
+C1_pepac_espana_v5-1,claude,4,biodiversity,delivered,field,mixed,weak,Gestión fitosanitaria mejorada beneficia biodiversidad; espacios de biodiversidad exigidos menores en regadío por menor rentabilidad.
+C2_reg_eu_2021-2115,claude,4,water_conservation,delivered,basin,consistent,strong,Improvements to existing irrigation funded only if ex-ante assessment shows potential water saving; water meters required.
+C2_reg_eu_2021-2115,claude,4,biodiversity,mixed,basin,consistent,strong,Investments excluded if they endanger good water status; net irrigation expansion requires environmental impact analysis showing no negative effect.
+C2_reg_eu_2021-2115,claude,4,groundwater_recharge,mixed,basin,consistent,moderate,Investments conditioned on groundwater/surface body status; expansion barred where quantity reasons make status below good.
+A4_perte_digitalizacion_agua_memoria,claude,4,water_conservation,delivered,mixed,consistent,strong,"Digitalization/sensorization promises more efficient water use, reduced losses; headline objective and tracked KPI ('eficiencia del regadío y pérdidas de agua')."
+A4_perte_digitalizacion_agua_memoria,claude,4,crop_production,delivered,field,consistent,moderate,Digital tools improve productivity ('mejore la productividad') and enable precise crop irrigation calculations per parcel.
+A4_perte_digitalizacion_agua_memoria,claude,4,risk_management,delivered,basin,mixed,weak,"Connecting meters with basin information systems supports water management in scarce territories, though framed generally."
+A4_perte_digitalizacion_agua_memoria,claude,4,groundwater_recharge,delivered,basin,mixed,weak,"Co-financing higher for return-flow management ('gestión de los retornos de regadío'), implying attention to water-table/return flows."
+A4_perte_digitalizacion_agua_memoria,claude,4,social_cohesion,delivered,regional,consistent,moderate,"Digitalization of irrigation communities consolidates rural population, fixes population in rural areas, supports collective governance of regantes."
+C1_pepac_espana_v5-1,claude,5,water_conservation,delivered,basin,consistent,strong,"Modernización de regadíos (C3.I1) persigue ahorro de agua, mayor eficiencia de riego y reducción de extracciones; ahorro potencial 5-10% exigido."
+C1_pepac_espana_v5-1,claude,5,risk_management,delivered,farm,consistent,moderate,Regadío modernizado mantiene viabilidad económica y resiliencia; planes de mejora de regadíos para adaptación al cambio climático.
+C1_pepac_espana_v5-1,claude,5,crop_production,delivered,farm,consistent,moderate,Regadío aporta más del 65% del valor de producción final agrícola; cultivos más productivos; permite orientar producción al mercado.
+C1_pepac_espana_v5-1,claude,5,soil_health,mixed,field,mixed,moderate,Fertirrigación reduce lixiviación y contaminación del suelo; pero se admite riesgo de salinización y pérdida de suelo fértil en zonas de regadío.
+C1_pepac_espana_v5-1,claude,5,biodiversity,delivered,basin,mixed,weak,Reducción de extracciones protege aguas y ecosistemas acuáticos; objetivos ambientales de infraestructuras de regadío (DMA).
+C1_pepac_espana_v5-1,claude,5,groundwater_recharge,mixed,basin,mixed,moderate,Reducción de presión de extracciones protege aguas subterráneas; infraestructuras de recarga mencionadas; pero ahorro no se destina a ampliar superficie.
+C1_pepac_espana_v5-1,claude,5,social_cohesion,delivered,regional,consistent,weak,"Regadío corrige desequilibrios regionales, fija población, dinamiza economía rural; incentivos a mujeres en comunidades de regantes."
+C2_reg_eu_2021-2115,claude,5,water_conservation,delivered,basin,consistent,strong,Modernisation of existing installations funded only if prior assessment shows potential water saving; water meters required.
+C2_reg_eu_2021-2115,claude,5,biodiversity,mixed,basin,consistent,strong,Investments conditioned on good water-body status; excluded if harmful; net irrigation expansion requires no significant adverse environmental impact.
+A4_perte_digitalizacion_agua_memoria,claude,5,water_conservation,delivered,mixed,consistent,strong,"Digitalization aims for more efficient water use, reducing losses and improving water efficiency in regadío programs; headline objective."
+A4_perte_digitalizacion_agua_memoria,claude,5,crop_production,delivered,farm,consistent,moderate,Efficient water use will improve productivity ('mejore la productividad') through digital irrigation tools and irrigation need calculations.
+A4_perte_digitalizacion_agua_memoria,claude,5,groundwater_recharge,delivered,basin,mixed,weak,Mentions higher cofinancing for difficult cases such as management of irrigation return flows ('retornos de regadío').
+A4_perte_digitalizacion_agua_memoria,claude,5,social_cohesion,delivered,regional,mixed,moderate,"Digitalization supports community irrigation management, rural population fixation, and verification jobs, minimizing demographic challenge impact."
+A4_perte_digitalizacion_agua_memoria,claude,5,soil_health,delivered,field,mixed,weak,"Sensing soil humidity and conductivity, reducing fertilizer inputs; supports better parcel-level management, passing technical mention."
+C1_pepac_espana_v5-1,deepseek,1,crop_production,delivered,regional,consistent,strong,Regadío es 6 veces más productivo que secano; modernización mantiene viabilidad económica.
+C1_pepac_espana_v5-1,deepseek,1,water_conservation,delivered,basin,consistent,strong,"Modernización reduce extracción, ahorra agua (5-15%) y mejora eficiencia de riego."
+C1_pepac_espana_v5-1,deepseek,1,soil_health,mixed,field,mixed,moderate,"Modernización reduce lixiviación, pero riesgo de salinización en zonas de regadío."
+C1_pepac_espana_v5-1,deepseek,1,risk_management,delivered,farm,consistent,moderate,Regadío permite mayor flexibilidad de cultivos y sostenibilidad económica de explotaciones.
+C1_pepac_espana_v5-1,deepseek,1,social_cohesion,delivered,regional,consistent,moderate,"Regadío dinamiza economía rural, fija población y corrige desequilibrios regionales."
+C1_pepac_espana_v5-1,deepseek,1,biodiversity,degraded,regional,mixed,weak,Olivar de secano alberga más biodiversidad; regadío intensivo puede reducirla.
+C1_pepac_espana_v5-1,deepseek,1,groundwater_recharge,delivered,basin,consistent,moderate,"Modernización reduce lixiviación y presión sobre aguas subterráneas, mejorando su estado."
+C1_pepac_espana_v5-1,deepseek,1,pest_control,delivered,field,consistent,weak,Riego por goteo/aspersión permite aplicar fitosanitarios en dosis necesarias.
+C2_reg_eu_2021-2115,deepseek,1,water_conservation,delivered,basin,consistent,strong,Aid only if prior assessment shows potential water saving per technical parameters of existing installation.
+C2_reg_eu_2021-2115,deepseek,1,groundwater_recharge,delivered,basin,consistent,strong,Investments must not endanger good status of water bodies; net irrigation increase only if no quantity-related deterioration.
+C2_reg_eu_2021-2115,deepseek,1,crop_production,mixed,basin,mixed,moderate,Irrigation infrastructure supported but net irrigated area increase only under strict water-body conditions.
+C2_reg_eu_2021-2115,deepseek,1,risk_management,delivered,farm,consistent,weak,Risk management instruments listed alongside irrigation investments as eligible support.
+C2_reg_eu_2021-2115,deepseek,1,soil_health,delivered,field,consistent,weak,Buffer strips along water courses and irrigation channels restrict pesticides and fertilisers.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,crop_production,delivered,regional,consistent,moderate,"Digitalisation improves water use efficiency and productivity, supporting agricultural output."
+A4_perte_digitalizacion_agua_memoria,deepseek,1,water_conservation,delivered,basin,consistent,strong,"Digital solutions optimise water use in irrigation, reducing losses and improving efficiency."
+A4_perte_digitalizacion_agua_memoria,deepseek,1,soil_health,delivered,field,consistent,moderate,Soil moisture and conductivity sensors enable better soil management and reduced inputs.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,risk_management,delivered,basin,consistent,moderate,Digitalisation improves water management and resilience to scarcity.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,social_cohesion,delivered,regional,consistent,moderate,Digitalisation strengthens irrigation communities and rural population retention.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,biodiversity,delivered,regional,consistent,weak,"Digitalisation supports sustainable and intelligent agriculture, indirectly benefiting environment."
+A4_perte_digitalizacion_agua_memoria,deepseek,1,microclimate_regulation,delivered,field,consistent,weak,"Automation and sensorisation can optimise irrigation timing, potentially affecting local humidity."
+A4_perte_digitalizacion_agua_memoria,deepseek,1,pest_control,delivered,field,consistent,weak,Precision irrigation reduces inputs and may indirectly suppress pests.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,groundwater_recharge,delivered,basin,consistent,weak,Digitalisation of irrigation returns could improve groundwater management.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,livestock,delivered,regional,consistent,weak,Modern irrigation supports rural development and agricultural systems including livestock.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,medicinal_food,delivered,regional,consistent,weak,Sustainable irrigation contributes to food security and diverse production.
+A4_perte_digitalizacion_agua_memoria,deepseek,1,recreation_wellbeing,delivered,regional,consistent,weak,Digitalisation improves transparency and public information on water management.
+C1_pepac_espana_v5-1,deepseek,2,crop_production,delivered,farm,consistent,strong,Irrigated land is ~6x more productive than rainfed; modernisation maintains viability and increases efficiency.
+C1_pepac_espana_v5-1,deepseek,2,water_conservation,delivered,basin,consistent,strong,"Modernised irrigation reduces water needs; plan promotes water saving, efficiency and reduced abstraction."
+C1_pepac_espana_v5-1,deepseek,2,soil_health,mixed,field,mixed,moderate,"Fertigation reduces leaching, but salinity and fertile soil loss risk in irrigated zones are admitted."
+C1_pepac_espana_v5-1,deepseek,2,risk_management,delivered,farm,consistent,moderate,"Irrigation allows more flexible, diversified production, improving long-term farm sustainability and economic resilience."
+C1_pepac_espana_v5-1,deepseek,2,social_cohesion,delivered,regional,consistent,moderate,"Irrigation dynamises rural economies, corrects regional imbalances and helps fix population."
+C1_pepac_espana_v5-1,deepseek,2,biodiversity,mixed,field,mixed,weak,"Irrigated eco-schemes require biodiversity spaces, but irrigation is linked to landscape element loss."
+C1_pepac_espana_v5-1,deepseek,2,groundwater_recharge,delivered,basin,consistent,moderate,Modernisation reduces leaching to groundwater and protects water bodies; recharge infrastructure for aquifers mentioned.
+C1_pepac_espana_v5-1,deepseek,2,pest_control,delivered,field,consistent,weak,"Drip/aspersion allows applying phytosanitary products in exact doses and timing, reducing contamination."
+C1_pepac_espana_v5-1,deepseek,2,livestock,delivered,farm,consistent,weak,"Irrigated alfalfa requires supply contracts with livestock farms, integrating forage production."
+C2_reg_eu_2021-2115,deepseek,2,water_conservation,delivered,basin,consistent,strong,Aid only if investment offers potential water saving per technical parameters.
+C2_reg_eu_2021-2115,deepseek,2,groundwater_recharge,delivered,basin,consistent,strong,Aid conditional on good water body status and no deterioration of groundwater.
+C2_reg_eu_2021-2115,deepseek,2,risk_management,delivered,basin,mixed,moderate,Risk management instruments listed; reservoirs allowed only without significant environmental impact.
+C2_reg_eu_2021-2115,deepseek,2,crop_production,mixed,basin,mixed,moderate,Irrigation area expansion allowed only if no environmental impact and water status good.
+C2_reg_eu_2021-2115,deepseek,2,soil_health,degraded,field,consistent,weak,"Buffer strips along water courses prohibit pesticides and fertilizers, limiting soil inputs."
+C2_reg_eu_2021-2115,deepseek,2,biodiversity,degraded,basin,consistent,moderate,Irrigation investments must not harm water bodies or cause significant environmental effects.
+A4_perte_digitalizacion_agua_memoria,deepseek,2,water_conservation,delivered,basin,consistent,strong,"Digital tools optimise water use, reduce losses, and improve efficiency in irrigation."
+A4_perte_digitalizacion_agua_memoria,deepseek,2,crop_production,delivered,field,consistent,moderate,Digitalisation improves productivity and enables precise irrigation for crops.
+A4_perte_digitalizacion_agua_memoria,deepseek,2,risk_management,delivered,basin,consistent,moderate,Digitalisation enhances water management and resilience to scarcity.
+A4_perte_digitalizacion_agua_memoria,deepseek,2,social_cohesion,delivered,regional,consistent,moderate,Digitalisation strengthens communities of irrigators and rural population retention.
+A4_perte_digitalizacion_agua_memoria,deepseek,2,soil_health,delivered,field,consistent,weak,Soil moisture and conductivity sensors support soil management.
+A4_perte_digitalizacion_agua_memoria,deepseek,2,groundwater_recharge,delivered,basin,consistent,weak,Digitalisation aids management of irrigation return flows and groundwater.
+C1_pepac_espana_v5-1,deepseek,3,crop_production,delivered,farm,consistent,strong,"Regadío tiene productividad muy superior al secano (6 veces más productiva), permitiendo mayor producción y flexibilidad."
+C1_pepac_espana_v5-1,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Modernización de regadíos promueve ahorro de agua y eficiencia, con reducciones efectivas del 5-15%."
+C1_pepac_espana_v5-1,deepseek,3,soil_health,mixed,field,mixed,moderate,"Modernización reduce lixiviación y mejora fertilidad, pero se reconoce riesgo de salinización en zonas de regadío."
+C1_pepac_espana_v5-1,deepseek,3,risk_management,delivered,farm,consistent,moderate,"Regadío modernizado permite mantener viabilidad económica y adaptación al cambio climático, reduciendo vulnerabilidad."
+C1_pepac_espana_v5-1,deepseek,3,social_cohesion,delivered,regional,consistent,moderate,"Regadío contribuye a corregir desequilibrios regionales, dinamiza economía rural y fija población."
+C1_pepac_espana_v5-1,deepseek,3,biodiversity,mixed,field,mixed,moderate,"Modernización con objetivos ambientales protege biodiversidad, pero se reconoce pérdida por intensificación y abandono de prácticas tradicionales."
+C1_pepac_espana_v5-1,deepseek,3,pest_control,delivered,field,consistent,moderate,"Sistemas de riego por aspersión y goteo permiten aplicar fitosanitarios en dosis necesaria, reduciendo lixiviación."
+C1_pepac_espana_v5-1,deepseek,3,groundwater_recharge,delivered,basin,consistent,moderate,"Modernización reduce extracción de aguas subterráneas y lixiviación, contribuyendo a protección de masas de agua."
+C1_pepac_espana_v5-1,deepseek,3,livestock,delivered,farm,consistent,weak,Regadío permite cultivos forrajeros y contratos con explotaciones ganaderas para suministro de alfalfa.
+C1_pepac_espana_v5-1,deepseek,3,recreation_wellbeing,delivered,regional,consistent,weak,"Regadío modernizado contribuye a mantener paisaje y cultura agraria, aunque no es objetivo principal."
+C2_reg_eu_2021-2115,deepseek,3,water_conservation,delivered,field,consistent,strong,Aid only if investment offers potential water saving per technical parameters; metering required.
+C2_reg_eu_2021-2115,deepseek,3,groundwater_recharge,mixed,basin,mixed,strong,Aid barred if water bodies below good status; net irrigation increase only if no quantity impact.
+C2_reg_eu_2021-2115,deepseek,3,biodiversity,degraded,basin,consistent,moderate,No EAFRD aid for irrigation harming environment; reservoirs banned if significant negative environmental effect.
+C2_reg_eu_2021-2115,deepseek,3,crop_production,delivered,farm,mixed,weak,"Irrigation infrastructure investments supported, but no explicit yield promise."
+C2_reg_eu_2021-2115,deepseek,3,risk_management,delivered,farm,mixed,weak,Risk management instruments listed alongside irrigation investments; no direct link.
+A4_perte_digitalizacion_agua_memoria,deepseek,3,water_conservation,delivered,basin,consistent,strong,"Digital tools optimise water use, reduce losses, and improve efficiency in irrigation."
+A4_perte_digitalizacion_agua_memoria,deepseek,3,crop_production,delivered,field,consistent,moderate,Digitalisation improves productivity and enables precision agriculture.
+A4_perte_digitalizacion_agua_memoria,deepseek,3,social_cohesion,delivered,regional,consistent,moderate,Digitalisation supports rural population retention and modernisation of irrigation communities.
+A4_perte_digitalizacion_agua_memoria,deepseek,3,groundwater_recharge,delivered,basin,consistent,weak,Management of irrigation return flows is mentioned as a co-financing criterion.
+A4_perte_digitalizacion_agua_memoria,deepseek,3,soil_health,delivered,field,consistent,moderate,Soil moisture and conductivity sensors are part of digitalised irrigation systems.
+A4_perte_digitalizacion_agua_memoria,deepseek,3,risk_management,delivered,basin,consistent,moderate,Digitalisation improves water management and reliability of supply.
+C1_pepac_espana_v5-1,deepseek,4,crop_production,delivered,farm,consistent,strong,Regadío six times more productive than secano; modernisation raises productivity and competitiveness.
+C1_pepac_espana_v5-1,deepseek,4,water_conservation,delivered,basin,consistent,strong,Modernisation reduces water abstraction; minimum 5-10% potential savings required for funded irrigation investments.
+C1_pepac_espana_v5-1,deepseek,4,soil_health,mixed,field,mixed,moderate,"Eco-schemes improve soil fertility, but salinisation and fertile soil loss risk in irrigated zones."
+C1_pepac_espana_v5-1,deepseek,4,risk_management,delivered,farm,consistent,moderate,Irrigation modernisation improves long-term sustainability and adaptability of holdings to climate change.
+C1_pepac_espana_v5-1,deepseek,4,social_cohesion,delivered,regional,consistent,moderate,"Irrigation dynamises rural economies, fixes population and corrects regional imbalances."
+C1_pepac_espana_v5-1,deepseek,4,biodiversity,mixed,field,mixed,weak,"Eco-scheme biodiversity spaces in irrigated land, but irrigated olive groves less biodiverse than dryland."
+C1_pepac_espana_v5-1,deepseek,4,groundwater_recharge,delivered,basin,mixed,moderate,"Reduced leaching and abstraction protect groundwater, though irrigation pressure on aquifers acknowledged."
+C1_pepac_espana_v5-1,deepseek,4,pest_control,delivered,field,consistent,weak,"Drip and sprinkler allow precise fertigation and phytosanitary dosing, reducing contamination."
+C1_pepac_espana_v5-1,deepseek,4,livestock,delivered,farm,consistent,weak,"Irrigated alfalfa requires supply contracts with livestock holdings, integrating forage production."
+C2_reg_eu_2021-2115,deepseek,4,water_conservation,delivered,basin,consistent,strong,Aid only if investment offers potential water saving per technical parameters of existing installation.
+C2_reg_eu_2021-2115,deepseek,4,groundwater_recharge,delivered,basin,consistent,strong,No funding unless it contributes to good status of water bodies; groundwater status protected.
+C2_reg_eu_2021-2115,deepseek,4,risk_management,delivered,basin,mixed,moderate,Reservoirs for irrigation allowed only if no significant negative environmental effect.
+C2_reg_eu_2021-2115,deepseek,4,crop_production,mixed,basin,mixed,moderate,Net irrigation area increase allowed only if no environmental impact and water status good.
+C2_reg_eu_2021-2115,deepseek,4,soil_health,degraded,field,consistent,weak,"Buffer strips along watercourses, no pesticides or fertilizers, minimum three metres."
+C2_reg_eu_2021-2115,deepseek,4,biodiversity,degraded,basin,consistent,moderate,No support for irrigation investments harmful to environment; must not endanger water bodies.
+A4_perte_digitalizacion_agua_memoria,deepseek,4,water_conservation,delivered,basin,consistent,strong,"Digitalisation optimises water use, reduces losses, improves efficiency and productivity."
+A4_perte_digitalizacion_agua_memoria,deepseek,4,crop_production,delivered,field,consistent,moderate,Digital tools improve irrigation management and crop productivity.
+A4_perte_digitalizacion_agua_memoria,deepseek,4,risk_management,delivered,basin,consistent,moderate,Digitalisation enhances water management reliability and reduces supply uncertainty.
+A4_perte_digitalizacion_agua_memoria,deepseek,4,social_cohesion,delivered,regional,consistent,moderate,Digitalisation supports rural population retention and community water governance.
+A4_perte_digitalizacion_agua_memoria,deepseek,4,soil_health,delivered,field,consistent,moderate,Soil moisture and conductivity sensors improve soil management.
+A4_perte_digitalizacion_agua_memoria,deepseek,4,groundwater_recharge,delivered,basin,consistent,weak,Digitalisation aids management of irrigation return flows and aquifer protection.
+C1_pepac_espana_v5-1,deepseek,5,crop_production,delivered,field,consistent,strong,Irrigated land is 6x more productive than rainfed; modernisation maintains viability and output.
+C1_pepac_espana_v5-1,deepseek,5,water_conservation,delivered,basin,consistent,strong,"Modernisation of irrigation is promoted for water saving, efficiency and reduced abstraction."
+C1_pepac_espana_v5-1,deepseek,5,soil_health,mixed,field,mixed,moderate,"Regadío risks salinisation and fertile soil loss, but modernised systems reduce leaching and erosion."
+C1_pepac_espana_v5-1,deepseek,5,risk_management,delivered,farm,consistent,moderate,Irrigation modernisation improves supply reliability and adaptation to climate change and drought.
+C1_pepac_espana_v5-1,deepseek,5,social_cohesion,delivered,regional,consistent,moderate,"Irrigation dynamises rural economies, corrects regional imbalances and helps fix population."
+C1_pepac_espana_v5-1,deepseek,5,biodiversity,mixed,field,mixed,weak,"Modernised irrigation reduces pollution benefiting ecosystems, but rainfed olive groves host richer biodiversity."
+C1_pepac_espana_v5-1,deepseek,5,groundwater_recharge,delivered,basin,consistent,moderate,Modernisation reduces leaching and protects groundwater and surface water bodies from contamination.
+C1_pepac_espana_v5-1,deepseek,5,pest_control,delivered,field,consistent,weak,"Drip and sprinkler irrigation allow precise dosing of phytosanitary products, reducing contamination."
+C1_pepac_espana_v5-1,deepseek,5,livestock,delivered,farm,consistent,weak,"Irrigated alfalfa requires supply contracts with livestock farms, integrating forage production."
+C2_reg_eu_2021-2115,deepseek,5,water_conservation,delivered,basin,consistent,strong,Aid only if investment offers potential water saving per technical parameters of existing installation.
+C2_reg_eu_2021-2115,deepseek,5,groundwater_recharge,mixed,basin,mixed,strong,Aid restricted where water bodies below good status; net irrigation increase allowed only if no quantity-related deterioration.
+C2_reg_eu_2021-2115,deepseek,5,biodiversity,mixed,basin,mixed,moderate,No aid for irrigation harming water body status; reservoirs allowed only without significant negative environmental effect.
+C2_reg_eu_2021-2115,deepseek,5,crop_production,mixed,farm,mixed,weak,Irrigation investment supported but net irrigated area increase conditional on no environmental impact.
+A4_perte_digitalizacion_agua_memoria,deepseek,5,crop_production,delivered,regional,consistent,moderate,Digital tools improve water use efficiency and productivity in irrigated agriculture.
+A4_perte_digitalizacion_agua_memoria,deepseek,5,water_conservation,delivered,basin,consistent,strong,"Digitalisation optimises water use, reduces losses, and improves efficiency in irrigation."
+A4_perte_digitalizacion_agua_memoria,deepseek,5,risk_management,delivered,basin,consistent,moderate,Digitalisation enhances drought resilience and reliability of water supply for irrigation.
+A4_perte_digitalizacion_agua_memoria,deepseek,5,social_cohesion,delivered,regional,consistent,moderate,Digitalisation supports rural population retention and community water management.
+A4_perte_digitalizacion_agua_memoria,deepseek,5,groundwater_recharge,delivered,basin,consistent,weak,Digitalisation aids management of irrigation return flows and aquifer protection.

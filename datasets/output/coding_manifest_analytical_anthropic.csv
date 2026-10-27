@@ -1,0 +1,2 @@
+prompt_choice,provider,model,prompt_file,prompt_sha256,n_assumptions,n_samples,thinking,temperature,effort,max_tokens,n_requests
+analytical,anthropic,claude-opus-4-8,analytical_coding_prompt_v1.txt,f3a3abce99c993ef599f62d2875e833cc2caf13949fc0849690444efc564995f,475,5,disabled,,high,800,2375

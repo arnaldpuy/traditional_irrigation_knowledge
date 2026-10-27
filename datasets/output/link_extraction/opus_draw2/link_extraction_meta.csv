@@ -1,0 +1,6 @@
+rec_id,status,model,effort,date,prompt_sha256
+LIT_0213,succeeded,claude-opus-5-5,high,2026-10-27,3d527eab4aa11f8dfff5817770b614fde97a92c9594c53cae69f78fe16d66ce6
+LIT_0338,succeeded,claude-opus-5-5,high,2026-10-27,3d527eab4aa11f8dfff5817770b614fde97a92c9594c53cae69f78fe16d66ce6
+LIT_0339,succeeded,claude-opus-5-5,high,2026-10-27,3d527eab4aa11f8dfff5817770b614fde97a92c9594c53cae69f78fe16d66ce6
+LIT_0348,succeeded,claude-opus-5-5,high,2026-10-27,3d527eab4aa11f8dfff5817770b614fde97a92c9594c53cae69f78fe16d66ce6
+LIT_0423,succeeded,claude-opus-5-5,high,2026-10-27,3d527eab4aa11f8dfff5817770b614fde97a92c9594c53cae69f78fe16d66ce6

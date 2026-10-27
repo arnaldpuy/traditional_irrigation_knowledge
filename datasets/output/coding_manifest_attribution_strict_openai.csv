@@ -1,0 +1,2 @@
+arm,phrasing,provider,model,prompt_file,prompt_sha256,base_prompt_file,n_assumptions,n_samples,thinking,temperature,effort,max_tokens,n_requests
+attribution_strict_openai,strict,openai,gpt-5.4,analytical_coding_prompt_v1_attribution_strict.txt,9dc2047dbd2a37c49b4724e45775cb1c1b558b0d034ca18b8f8f5ff3888c27b6,analytical_coding_prompt_v1.txt,475,5,,,high,800,2375

@@ -1,0 +1,856 @@
+id_cite,provider,share_irr,n_draws,vote,irreducible,planted_key,main_category,set
+CKM_05,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_05,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_05,openai,1,5,any draw,TRUE,,,camouflage
+CKM_05,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_05,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_05,openai,1,5,majority,TRUE,,,camouflage
+CKM_05,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_05,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_05,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_08,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_08,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_08,openai,1,5,any draw,TRUE,,,camouflage
+CKM_08,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_08,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_08,openai,1,5,majority,TRUE,,,camouflage
+CKM_08,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_08,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_08,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_102,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_102,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_102,openai,1,5,any draw,TRUE,,,camouflage
+CKM_102,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_102,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_102,openai,1,5,majority,TRUE,,,camouflage
+CKM_102,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_102,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_102,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_109,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_109,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_109,openai,1,5,any draw,TRUE,,,camouflage
+CKM_109,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_109,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_109,openai,1,5,majority,TRUE,,,camouflage
+CKM_109,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_109,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_109,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_113,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_113,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_113,openai,1,5,any draw,TRUE,,,camouflage
+CKM_113,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_113,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_113,openai,1,5,majority,TRUE,,,camouflage
+CKM_113,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_113,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_113,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_26,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_26,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_26,openai,1,5,any draw,TRUE,,,camouflage
+CKM_26,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_26,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_26,openai,1,5,majority,TRUE,,,camouflage
+CKM_26,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_26,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_26,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_62,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_62,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_62,openai,1,5,any draw,TRUE,,,camouflage
+CKM_62,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_62,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_62,openai,1,5,majority,TRUE,,,camouflage
+CKM_62,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_62,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_62,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_66,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_66,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_66,openai,1,5,any draw,TRUE,,,camouflage
+CKM_66,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_66,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_66,openai,1,5,majority,TRUE,,,camouflage
+CKM_66,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_66,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_66,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_79,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_79,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_79,openai,1,5,any draw,TRUE,,,camouflage
+CKM_79,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_79,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_79,openai,1,5,majority,TRUE,,,camouflage
+CKM_79,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_79,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_79,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_81,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_81,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_81,openai,1,5,any draw,TRUE,,,camouflage
+CKM_81,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_81,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_81,openai,1,5,majority,TRUE,,,camouflage
+CKM_81,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_81,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_81,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_84,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_84,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_84,openai,0.8,5,any draw,TRUE,,,camouflage
+CKM_84,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_84,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_84,openai,0.8,5,majority,TRUE,,,camouflage
+CKM_84,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_84,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_84,openai,0.8,5,unanimous,FALSE,,,camouflage
+CKM_85,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_85,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_85,openai,1,5,any draw,TRUE,,,camouflage
+CKM_85,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_85,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_85,openai,1,5,majority,TRUE,,,camouflage
+CKM_85,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_85,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_85,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_86,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_86,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_86,openai,1,5,any draw,TRUE,,,camouflage
+CKM_86,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_86,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_86,openai,1,5,majority,TRUE,,,camouflage
+CKM_86,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_86,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_86,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_87,anthropic,1,5,any draw,TRUE,,,camouflage
+CKM_87,deepseek,1,5,any draw,TRUE,,,camouflage
+CKM_87,openai,1,5,any draw,TRUE,,,camouflage
+CKM_87,anthropic,1,5,majority,TRUE,,,camouflage
+CKM_87,deepseek,1,5,majority,TRUE,,,camouflage
+CKM_87,openai,1,5,majority,TRUE,,,camouflage
+CKM_87,anthropic,1,5,unanimous,TRUE,,,camouflage
+CKM_87,deepseek,1,5,unanimous,TRUE,,,camouflage
+CKM_87,openai,1,5,unanimous,TRUE,,,camouflage
+CKM_901,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,deepseek,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,openai,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,deepseek,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,openai,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,deepseek,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_901,openai,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,deepseek,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,openai,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,deepseek,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,openai,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,deepseek,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_902,openai,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,deepseek,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,openai,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,deepseek,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,openai,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,deepseek,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_903,openai,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,deepseek,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,openai,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,deepseek,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,openai,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,deepseek,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_904,openai,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_905,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_905,deepseek,1,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_905,openai,0.6,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_905,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_905,deepseek,1,5,majority,TRUE,TRUE,Crop knowledge and management,planted
+CKM_905,openai,0.6,5,majority,TRUE,TRUE,Crop knowledge and management,planted
+CKM_905,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_905,deepseek,1,5,unanimous,TRUE,TRUE,Crop knowledge and management,planted
+CKM_905,openai,0.6,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_906,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_906,deepseek,1,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_906,openai,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_906,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_906,deepseek,1,5,majority,TRUE,TRUE,Crop knowledge and management,planted
+CKM_906,openai,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_906,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_906,deepseek,1,5,unanimous,TRUE,TRUE,Crop knowledge and management,planted
+CKM_906,openai,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_907,anthropic,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_907,deepseek,0.6,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_907,openai,0.2,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_907,anthropic,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_907,deepseek,0.6,5,majority,TRUE,TRUE,Crop knowledge and management,planted
+CKM_907,openai,0.2,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_907,anthropic,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_907,deepseek,0.6,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_907,openai,0.2,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,anthropic,0.2,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_908,deepseek,0.4,5,any draw,TRUE,TRUE,Crop knowledge and management,planted
+CKM_908,openai,0,5,any draw,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,anthropic,0.2,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,deepseek,0.4,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,openai,0,5,majority,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,anthropic,0.2,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,deepseek,0.4,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_908,openai,0,5,unanimous,FALSE,TRUE,Crop knowledge and management,planted
+CKM_951,anthropic,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,deepseek,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,openai,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,anthropic,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,deepseek,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,openai,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,anthropic,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,deepseek,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_951,openai,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,anthropic,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,deepseek,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,openai,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,anthropic,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,deepseek,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,openai,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,anthropic,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,deepseek,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_952,openai,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,anthropic,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,deepseek,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,openai,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,anthropic,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,deepseek,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,openai,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,anthropic,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,deepseek,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_953,openai,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,anthropic,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,deepseek,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,openai,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,anthropic,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,deepseek,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,openai,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,anthropic,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,deepseek,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_954,openai,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,anthropic,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,deepseek,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,openai,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,anthropic,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,deepseek,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,openai,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,anthropic,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,deepseek,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_955,openai,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,anthropic,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,deepseek,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,openai,1,5,any draw,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,anthropic,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,deepseek,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,openai,1,5,majority,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,anthropic,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,deepseek,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+CKM_956,openai,1,5,unanimous,TRUE,FALSE,Crop knowledge and management,planted
+IPCWM_08,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_08,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_08,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_08,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_08,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_08,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_08,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_08,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_08,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_106,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_106,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_106,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_106,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_106,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_106,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_106,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_106,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_106,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_108,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_108,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_108,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_108,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_108,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_108,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_108,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_108,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_108,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_111,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_111,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_111,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_111,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_111,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_111,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_111,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_111,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_111,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_114,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_114,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_114,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_114,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_114,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_114,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_114,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_114,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_114,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_115,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_115,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_115,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_115,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_115,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_115,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_115,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_115,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_115,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_130,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_130,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_130,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_130,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_130,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_130,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_130,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_130,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_130,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_136,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_136,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_136,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_136,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_136,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_136,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_136,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_136,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_136,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_139,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_139,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_139,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_139,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_139,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_139,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_139,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_139,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_139,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_141,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_141,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_141,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_141,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_141,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_141,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_141,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_141,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_141,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_149,anthropic,0.2,5,any draw,TRUE,,,camouflage
+IPCWM_149,deepseek,0,5,any draw,FALSE,,,camouflage
+IPCWM_149,openai,0,5,any draw,FALSE,,,camouflage
+IPCWM_149,anthropic,0.2,5,majority,FALSE,,,camouflage
+IPCWM_149,deepseek,0,5,majority,FALSE,,,camouflage
+IPCWM_149,openai,0,5,majority,FALSE,,,camouflage
+IPCWM_149,anthropic,0.2,5,unanimous,FALSE,,,camouflage
+IPCWM_149,deepseek,0,5,unanimous,FALSE,,,camouflage
+IPCWM_149,openai,0,5,unanimous,FALSE,,,camouflage
+IPCWM_158,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_158,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_158,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_158,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_158,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_158,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_158,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_158,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_158,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_164,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_164,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_164,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_164,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_164,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_164,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_164,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_164,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_164,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_171,anthropic,0,5,any draw,FALSE,,,camouflage
+IPCWM_171,deepseek,0,5,any draw,FALSE,,,camouflage
+IPCWM_171,openai,0,5,any draw,FALSE,,,camouflage
+IPCWM_171,anthropic,0,5,majority,FALSE,,,camouflage
+IPCWM_171,deepseek,0,5,majority,FALSE,,,camouflage
+IPCWM_171,openai,0,5,majority,FALSE,,,camouflage
+IPCWM_171,anthropic,0,5,unanimous,FALSE,,,camouflage
+IPCWM_171,deepseek,0,5,unanimous,FALSE,,,camouflage
+IPCWM_171,openai,0,5,unanimous,FALSE,,,camouflage
+IPCWM_33,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_33,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_33,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_33,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_33,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_33,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_33,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_33,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_33,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_53,anthropic,0,5,any draw,FALSE,,,camouflage
+IPCWM_53,deepseek,0,5,any draw,FALSE,,,camouflage
+IPCWM_53,openai,0,5,any draw,FALSE,,,camouflage
+IPCWM_53,anthropic,0,5,majority,FALSE,,,camouflage
+IPCWM_53,deepseek,0,5,majority,FALSE,,,camouflage
+IPCWM_53,openai,0,5,majority,FALSE,,,camouflage
+IPCWM_53,anthropic,0,5,unanimous,FALSE,,,camouflage
+IPCWM_53,deepseek,0,5,unanimous,FALSE,,,camouflage
+IPCWM_53,openai,0,5,unanimous,FALSE,,,camouflage
+IPCWM_67,anthropic,1,5,any draw,TRUE,,,camouflage
+IPCWM_67,deepseek,1,5,any draw,TRUE,,,camouflage
+IPCWM_67,openai,1,5,any draw,TRUE,,,camouflage
+IPCWM_67,anthropic,1,5,majority,TRUE,,,camouflage
+IPCWM_67,deepseek,1,5,majority,TRUE,,,camouflage
+IPCWM_67,openai,1,5,majority,TRUE,,,camouflage
+IPCWM_67,anthropic,1,5,unanimous,TRUE,,,camouflage
+IPCWM_67,deepseek,1,5,unanimous,TRUE,,,camouflage
+IPCWM_67,openai,1,5,unanimous,TRUE,,,camouflage
+IPCWM_901,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,deepseek,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,openai,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,deepseek,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,openai,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,deepseek,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_901,openai,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,deepseek,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,openai,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,deepseek,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,openai,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,deepseek,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_902,openai,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,deepseek,0.8,5,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,openai,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,deepseek,0.8,5,majority,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,openai,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,deepseek,0.8,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_903,openai,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,deepseek,0.25,4,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,openai,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,deepseek,0.25,4,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,openai,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,deepseek,0.25,4,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_904,openai,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,anthropic,1,5,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,deepseek,1,5,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,openai,1,5,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,anthropic,1,5,majority,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,deepseek,1,5,majority,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,openai,1,5,majority,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,anthropic,1,5,unanimous,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,deepseek,1,5,unanimous,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_905,openai,1,5,unanimous,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,deepseek,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,openai,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,deepseek,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,openai,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,deepseek,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_906,openai,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,deepseek,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,openai,0.4,5,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,deepseek,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,openai,0.4,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,deepseek,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_907,openai,0.4,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,anthropic,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,deepseek,0.6,5,any draw,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,openai,0,5,any draw,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,anthropic,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,deepseek,0.6,5,majority,TRUE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,openai,0,5,majority,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,anthropic,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,deepseek,0.6,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_908,openai,0,5,unanimous,FALSE,TRUE,Irrigation practices and communal water management,planted
+IPCWM_951,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_951,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_952,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_953,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_954,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_955,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_956,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_957,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,anthropic,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,deepseek,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,openai,1,5,any draw,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,anthropic,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,deepseek,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,openai,1,5,majority,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,anthropic,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,deepseek,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+IPCWM_958,openai,1,5,unanimous,TRUE,FALSE,Irrigation practices and communal water management,planted
+SMM_06,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_06,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_06,openai,1,5,any draw,TRUE,,,camouflage
+SMM_06,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_06,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_06,openai,1,5,majority,TRUE,,,camouflage
+SMM_06,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_06,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_06,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_34,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_34,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_34,openai,1,5,any draw,TRUE,,,camouflage
+SMM_34,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_34,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_34,openai,1,5,majority,TRUE,,,camouflage
+SMM_34,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_34,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_34,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_35,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_35,deepseek,0.6,5,any draw,TRUE,,,camouflage
+SMM_35,openai,1,5,any draw,TRUE,,,camouflage
+SMM_35,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_35,deepseek,0.6,5,majority,TRUE,,,camouflage
+SMM_35,openai,1,5,majority,TRUE,,,camouflage
+SMM_35,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_35,deepseek,0.6,5,unanimous,FALSE,,,camouflage
+SMM_35,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_50,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_50,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_50,openai,1,5,any draw,TRUE,,,camouflage
+SMM_50,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_50,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_50,openai,1,5,majority,TRUE,,,camouflage
+SMM_50,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_50,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_50,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_56,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_56,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_56,openai,1,5,any draw,TRUE,,,camouflage
+SMM_56,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_56,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_56,openai,1,5,majority,TRUE,,,camouflage
+SMM_56,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_56,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_56,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_73,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_73,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_73,openai,1,5,any draw,TRUE,,,camouflage
+SMM_73,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_73,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_73,openai,1,5,majority,TRUE,,,camouflage
+SMM_73,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_73,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_73,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_80,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_80,deepseek,0.8,5,any draw,TRUE,,,camouflage
+SMM_80,openai,0.4,5,any draw,TRUE,,,camouflage
+SMM_80,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_80,deepseek,0.8,5,majority,TRUE,,,camouflage
+SMM_80,openai,0.4,5,majority,FALSE,,,camouflage
+SMM_80,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_80,deepseek,0.8,5,unanimous,FALSE,,,camouflage
+SMM_80,openai,0.4,5,unanimous,FALSE,,,camouflage
+SMM_81,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_81,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_81,openai,1,5,any draw,TRUE,,,camouflage
+SMM_81,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_81,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_81,openai,1,5,majority,TRUE,,,camouflage
+SMM_81,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_81,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_81,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_89,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_89,deepseek,0.8,5,any draw,TRUE,,,camouflage
+SMM_89,openai,0.2,5,any draw,TRUE,,,camouflage
+SMM_89,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_89,deepseek,0.8,5,majority,TRUE,,,camouflage
+SMM_89,openai,0.2,5,majority,FALSE,,,camouflage
+SMM_89,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_89,deepseek,0.8,5,unanimous,FALSE,,,camouflage
+SMM_89,openai,0.2,5,unanimous,FALSE,,,camouflage
+SMM_902,anthropic,1,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,deepseek,0.6,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,openai,1,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,anthropic,1,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,deepseek,0.6,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,openai,1,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,anthropic,1,5,unanimous,TRUE,TRUE,Soil and moisture management,planted
+SMM_902,deepseek,0.6,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_902,openai,1,5,unanimous,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,anthropic,1,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,deepseek,1,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,openai,1,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,anthropic,1,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,deepseek,1,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,openai,1,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,anthropic,1,5,unanimous,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,deepseek,1,5,unanimous,TRUE,TRUE,Soil and moisture management,planted
+SMM_903,openai,1,5,unanimous,TRUE,TRUE,Soil and moisture management,planted
+SMM_904,anthropic,1,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_904,deepseek,0.2,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_904,openai,0,5,any draw,FALSE,TRUE,Soil and moisture management,planted
+SMM_904,anthropic,1,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_904,deepseek,0.2,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_904,openai,0,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_904,anthropic,1,5,unanimous,TRUE,TRUE,Soil and moisture management,planted
+SMM_904,deepseek,0.2,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_904,openai,0,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,anthropic,0,5,any draw,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,deepseek,0,5,any draw,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,openai,0,5,any draw,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,anthropic,0,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,deepseek,0,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,openai,0,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,anthropic,0,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,deepseek,0,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_905,openai,0,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_906,anthropic,0.8,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_906,deepseek,0.2,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_906,openai,0.2,5,any draw,TRUE,TRUE,Soil and moisture management,planted
+SMM_906,anthropic,0.8,5,majority,TRUE,TRUE,Soil and moisture management,planted
+SMM_906,deepseek,0.2,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_906,openai,0.2,5,majority,FALSE,TRUE,Soil and moisture management,planted
+SMM_906,anthropic,0.8,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_906,deepseek,0.2,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_906,openai,0.2,5,unanimous,FALSE,TRUE,Soil and moisture management,planted
+SMM_95,anthropic,1,5,any draw,TRUE,,,camouflage
+SMM_95,deepseek,1,5,any draw,TRUE,,,camouflage
+SMM_95,openai,1,5,any draw,TRUE,,,camouflage
+SMM_95,anthropic,1,5,majority,TRUE,,,camouflage
+SMM_95,deepseek,1,5,majority,TRUE,,,camouflage
+SMM_95,openai,1,5,majority,TRUE,,,camouflage
+SMM_95,anthropic,1,5,unanimous,TRUE,,,camouflage
+SMM_95,deepseek,1,5,unanimous,TRUE,,,camouflage
+SMM_95,openai,1,5,unanimous,TRUE,,,camouflage
+SMM_951,anthropic,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,deepseek,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,openai,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,anthropic,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,deepseek,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,openai,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,anthropic,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,deepseek,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_951,openai,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,anthropic,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,deepseek,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,openai,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,anthropic,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,deepseek,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,openai,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,anthropic,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,deepseek,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_952,openai,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,anthropic,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,deepseek,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,openai,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,anthropic,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,deepseek,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,openai,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,anthropic,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,deepseek,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_953,openai,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,anthropic,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,deepseek,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,openai,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,anthropic,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,deepseek,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,openai,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,anthropic,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,deepseek,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_954,openai,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,anthropic,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,deepseek,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,openai,1,5,any draw,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,anthropic,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,deepseek,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,openai,1,5,majority,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,anthropic,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,deepseek,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+SMM_955,openai,1,5,unanimous,TRUE,FALSE,Soil and moisture management,planted
+WCC_06,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_06,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_06,openai,1,5,any draw,TRUE,,,camouflage
+WCC_06,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_06,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_06,openai,1,5,majority,TRUE,,,camouflage
+WCC_06,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_06,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_06,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_07,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_07,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_07,openai,1,5,any draw,TRUE,,,camouflage
+WCC_07,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_07,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_07,openai,1,5,majority,TRUE,,,camouflage
+WCC_07,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_07,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_07,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_09,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_09,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_09,openai,1,5,any draw,TRUE,,,camouflage
+WCC_09,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_09,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_09,openai,1,5,majority,TRUE,,,camouflage
+WCC_09,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_09,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_09,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_25,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_25,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_25,openai,1,5,any draw,TRUE,,,camouflage
+WCC_25,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_25,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_25,openai,1,5,majority,TRUE,,,camouflage
+WCC_25,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_25,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_25,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_46,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_46,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_46,openai,1,5,any draw,TRUE,,,camouflage
+WCC_46,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_46,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_46,openai,1,5,majority,TRUE,,,camouflage
+WCC_46,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_46,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_46,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_53,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_53,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_53,openai,1,5,any draw,TRUE,,,camouflage
+WCC_53,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_53,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_53,openai,1,5,majority,TRUE,,,camouflage
+WCC_53,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_53,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_53,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_66,anthropic,1,5,any draw,TRUE,,,camouflage
+WCC_66,deepseek,1,5,any draw,TRUE,,,camouflage
+WCC_66,openai,1,5,any draw,TRUE,,,camouflage
+WCC_66,anthropic,1,5,majority,TRUE,,,camouflage
+WCC_66,deepseek,1,5,majority,TRUE,,,camouflage
+WCC_66,openai,1,5,majority,TRUE,,,camouflage
+WCC_66,anthropic,1,5,unanimous,TRUE,,,camouflage
+WCC_66,deepseek,1,5,unanimous,TRUE,,,camouflage
+WCC_66,openai,1,5,unanimous,TRUE,,,camouflage
+WCC_901,anthropic,0,5,any draw,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,deepseek,0,5,any draw,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,openai,0,5,any draw,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,anthropic,0,5,majority,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,deepseek,0,5,majority,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,openai,0,5,majority,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,anthropic,0,5,unanimous,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,deepseek,0,5,unanimous,FALSE,TRUE,Weather and climate conditions,planted
+WCC_901,openai,0,5,unanimous,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,anthropic,0.4,5,any draw,TRUE,TRUE,Weather and climate conditions,planted
+WCC_902,deepseek,0,5,any draw,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,openai,0,5,any draw,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,anthropic,0.4,5,majority,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,deepseek,0,5,majority,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,openai,0,5,majority,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,anthropic,0.4,5,unanimous,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,deepseek,0,5,unanimous,FALSE,TRUE,Weather and climate conditions,planted
+WCC_902,openai,0,5,unanimous,FALSE,TRUE,Weather and climate conditions,planted
+WCC_951,anthropic,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,deepseek,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,openai,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,anthropic,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,deepseek,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,openai,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,anthropic,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,deepseek,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_951,openai,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,anthropic,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,deepseek,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,openai,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,anthropic,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,deepseek,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,openai,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,anthropic,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,deepseek,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_952,openai,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,anthropic,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,deepseek,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,openai,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,anthropic,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,deepseek,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,openai,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,anthropic,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,deepseek,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_953,openai,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,anthropic,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,deepseek,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,openai,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,anthropic,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,deepseek,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,openai,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,anthropic,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,deepseek,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_954,openai,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,anthropic,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,deepseek,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,openai,1,5,any draw,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,anthropic,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,deepseek,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,openai,1,5,majority,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,anthropic,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,deepseek,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted
+WCC_955,openai,1,5,unanimous,TRUE,FALSE,Weather and climate conditions,planted

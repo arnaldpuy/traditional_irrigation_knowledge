@@ -1,0 +1,2 @@
+arm,phrasing,provider,base_mean_functions,arm_mean_functions,shift,base_omitted_core2,arm_omitted_core2,criterion_min_shift,criterion_direction,passed
+attribution_standard_openai,standard,openai,2.37894736842105,2.37894736842105,0,0.688421052631579,0.688421052631579,0.3,increase,FALSE

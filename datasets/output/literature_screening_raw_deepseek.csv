@@ -1,0 +1,893 @@
+custom_id,status,text
+LIT_0001,succeeded,"{
+  ""include"": false,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.7,
+  ""reason"": ""Likely primary study, not a review.""
+}"
+LIT_0002,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No irrigation modernization technology mentioned.""}"
+LIT_0003,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Title unclear; no abstract; likely not a review of specific technologies.""}"
+LIT_0004,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Focuses on fertigation, not irrigation modernization technologies.""}"
+LIT_0005,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Bt cotton not an irrigation technology.""}"
+LIT_0006,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Hydroponics not an irrigation modernization technology.""}"
+LIT_0007,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.1, ""reason"": ""Title suggests general water issue, not irrigation tech.""}"
+LIT_0008,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0009,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation technologies.""}"
+LIT_0010,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Primary study on deficit irrigation, not a review.""}"
+LIT_0011,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Primary study on irrigation regimes, not a review.""}"
+LIT_0012,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0013,succeeded,"{""include"": true, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review of soil moisture sensor controllers in irrigation.""}"
+LIT_0014,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Likely primary study, not review; no abstract.""}"
+LIT_0015,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.3,
+  ""reason"": ""No abstract; title too broad, not specific to listed technologies.""
+}"
+LIT_0016,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology mentioned; topic is desertification.""}"
+LIT_0017,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title too generic, likely not tech-focused.""}"
+LIT_0018,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technology mentioned.""}"
+LIT_0019,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title suggests general ET, not specific irrigation tech.""}"
+LIT_0020,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Primary study, not a review.""}"
+LIT_0021,succeeded,"{""include"": true, ""technologies"": [""drip"", ""app_scheduling""], ""confidence"": 0.8, ""reason"": ""Review discusses drip irrigation and scheduling as coping mechanisms for salinity.""}"
+LIT_0022,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of drip fertigation in saline-sodic soils, field effects.""}"
+LIT_0023,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Review covers remote sensing for irrigation optimization.""}"
+LIT_0024,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing"", ""soil_sensor""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers AI-driven salinity monitoring including remote sensing and sensors.""
+}"
+LIT_0025,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not a review of irrigation technology impacts; focuses on stress detection.""}"
+LIT_0026,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of irrigation-poverty links, not specific modernization technologies.""}"
+LIT_0027,succeeded,"{""include"": false, ""technologies"": [""flow_metering""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0028,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of trickle irrigation trends, not field performance or impacts.""}"
+LIT_0029,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study on particle movement, not a review.""}"
+LIT_0030,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study on emitter design, not a review.""}"
+LIT_0031,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on reclaimed water, not irrigation modernization technologies.""}"
+LIT_0032,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of micro-irrigation and sprinkler design and management impacts.""}"
+LIT_0033,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review on remote sensing for irrigation management.""}"
+LIT_0034,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of smart irrigation technologies with water savings and yield outcomes.""
+}"
+LIT_0035,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling"", ""flow_metering""], ""confidence"": 0.8, ""reason"": ""Review covers on-farm techniques including drip, sensors, SCADA, and scheduling.""}"
+LIT_0036,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""General research agenda, not a review of specific technology impacts.""}"
+LIT_0037,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Focuses on phenotyping for water stress, not irrigation technology impacts.""}"
+LIT_0038,succeeded,"{""include"": true, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review of soil moisture sensors for tomato irrigation scheduling.""}"
+LIT_0039,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0040,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Primary study on emitter discharge, not a review.""}"
+LIT_0041,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Primary study, not a review.""}"
+LIT_0042,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Review of models for trickle irrigation, likely field performance.""}"
+LIT_0043,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Title suggests general process control, not specific technology.""}"
+LIT_0044,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0045,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on clogging mechanisms, not field performance or impacts.""}"
+LIT_0046,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No irrigation technology mentioned; focuses on evapotranspiration trends.""}"
+LIT_0047,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology mentioned; focuses on rootstock breeding.""}"
+LIT_0048,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0049,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.6, ""reason"": ""Focuses on arsenic contamination, not irrigation technology effects.""}"
+LIT_0050,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Title too generic; no specific technology or review type confirmed.""}"
+LIT_0051,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title too broad, not specific to irrigation technologies.""}"
+LIT_0052,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review covers micro-irrigation among other interventions.""}"
+LIT_0053,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology; sediment management focus.""}"
+LIT_0054,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.8,
+  ""reason"": ""Review on remote sensing for crop water stress.""
+}"
+LIT_0055,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on pasture yield prediction, not irrigation technology effects.""}"
+LIT_0056,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Title too broad; no specific irrigation tech mentioned.""}"
+LIT_0057,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on climate change impacts, not technology performance.""}"
+LIT_0058,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technology; focuses on wastewater treatment and reuse.""}"
+LIT_0059,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technology mentioned.""}"
+LIT_0060,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on water scarcity footprint methodology, not irrigation technologies.""}"
+LIT_0061,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No mention of irrigation technologies; focuses on evapotranspiration estimation.""}"
+LIT_0062,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0063,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review on remote sensing in sugarcane, likely field effects.""}"
+LIT_0064,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No specific irrigation technology mentioned.""}"
+LIT_0065,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No mention of irrigation technologies.""}"
+LIT_0066,succeeded,"{
+""include"": false,
+""technologies"": [""remote_sensing""],
+""confidence"": 0.6,
+""reason"": ""No abstract; likely primary study or overview.""
+}"
+LIT_0067,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology; focuses on land-use impacts.""}"
+LIT_0068,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0069,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of drip fertigation in cotton, reports water and fertilizer savings.""}"
+LIT_0070,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology; focuses on climate change and pathogens.""}"
+LIT_0071,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Scoping review on satellite data for adoption/impact, not specifically on irrigation modernization technologies.""}"
+LIT_0072,succeeded,"{
+""include"": true,
+""technologies"": [""remote_sensing""],
+""confidence"": 0.8,
+""reason"": ""Meta-review on UAV remote sensing for agriculture.""
+}"
+LIT_0073,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No irrigation modernization technology mentioned.""}"
+LIT_0074,succeeded,"{
+  ""include"": false,
+  ""technologies"": [""soil_sensor""],
+  ""confidence"": 0.6,
+  ""reason"": ""Title suggests review but no abstract; unclear if field performance reported.""
+}"
+LIT_0075,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on agroecology, not specific irrigation technologies.""}"
+LIT_0076,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.7,
+  ""reason"": ""Focuses on saline deficit irrigation, not listed technologies.""
+}"
+LIT_0077,succeeded,"{
+""include"": false,
+""technologies"": [],
+""confidence"": 0.6,
+""reason"": ""No abstract; title suggests general review, not technology-specific.""
+}"
+LIT_0078,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technology mentioned.""}"
+LIT_0079,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on dryland systems, not irrigation modernization.""}"
+LIT_0080,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.8,
+  ""reason"": ""Meta-analysis on drip irrigation effects on crop yields.""
+}"
+LIT_0081,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Meta-analysis on drip irrigation effects on yield.""
+}"
+LIT_0082,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on nitrogen use efficiency, not irrigation technologies.""}"
+LIT_0083,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on biochar for chromium remediation, not irrigation technologies.""}"
+LIT_0084,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on crop modelling, not irrigation technologies.""}"
+LIT_0085,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Title too vague; no abstract to confirm relevance.""}"
+LIT_0086,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of water quality assessment, not technology performance.""
+}"
+LIT_0087,succeeded,"{""include"": true, ""technologies"": [""drip"", ""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Systematic review on irrigation resilience including precision irrigation and remote sensing.""}"
+LIT_0088,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of IoT-enabled drip irrigation with field outcomes.""}"
+LIT_0089,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of remote sensing for irrigation management in lettuce.""
+}"
+LIT_0090,succeeded,"{""include"": false, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review covers soil sensors broadly, not specifically irrigation modernization technologies.""}"
+LIT_0091,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.7,
+  ""reason"": ""Focus on organic fertilizers and water management, not irrigation technologies.""
+}"
+LIT_0092,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Meta-analysis on drip irrigation effects on GHG emissions and yields.""}"
+LIT_0093,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.6,
+  ""reason"": ""No specific irrigation technology mentioned.""
+}"
+LIT_0094,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No mention of irrigation modernization technologies.""}"
+LIT_0095,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technologies mentioned.""}"
+LIT_0096,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No mention of irrigation modernization technologies.""}"
+LIT_0097,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.6,
+  ""reason"": ""Likely primary study, not a review.""
+}"
+LIT_0098,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title suggests management evaluation, not technology impacts.""}"
+LIT_0099,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0100,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; title suggests monitoring, not irrigation technology.""}"
+LIT_0101,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology; focuses on evapotranspiration estimation method.""}"
+LIT_0102,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; title suggests nitrogen cycle focus, not technology impacts.""}"
+LIT_0103,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on models, not field performance of technologies.""}"
+LIT_0104,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; unclear if irrigation technology focus.""}"
+LIT_0105,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title suggests general evaluation methods, not specific technologies.""}"
+LIT_0106,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of drip irrigation effects on water productivity in Uzbekistan.""
+}"
+LIT_0107,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.6, ""reason"": ""Title suggests capabilities review but abstract missing; unclear if field outcomes reported.""}"
+LIT_0108,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.8,
+  ""reason"": ""Review on remote sensing for crop coefficients in irrigation.""
+}"
+LIT_0109,succeeded,"{""include"": true, ""technologies"": [""app_scheduling""], ""confidence"": 0.7, ""reason"": ""Review on DSS for irrigation management in vegetables.""}"
+LIT_0110,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Focuses on FAO56 methods, not specific irrigation modernization technologies.""}"
+LIT_0111,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title suggests nitrogen management, not irrigation tech.""}"
+LIT_0112,succeeded,"{""include"": true, ""technologies"": [""app_scheduling""], ""confidence"": 0.7, ""reason"": ""Review of irrigation scheduling models, likely field-based.""}"
+LIT_0113,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Review on irrigation management of pomegranate, likely includes drip.""}"
+LIT_0114,succeeded,"{""include"": false, ""technologies"": [""remote_sensing"", ""drip""], ""confidence"": 0.9, ""reason"": ""Primary study evaluating remote sensing ETc, not a review.""}"
+LIT_0115,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on avocado trees, not irrigation modernization technologies.""}"
+LIT_0116,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Review of deficit irrigation in vineyards, likely drip.""}"
+LIT_0117,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Meta-analysis on subsurface drip irrigation effects.""}"
+LIT_0118,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on saline water irrigation, not modernization technologies.""}"
+LIT_0119,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers general irrigation strategies, not specific modernization technologies.""
+}"
+LIT_0120,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of ML for irrigation scheduling, field outcomes reported.""
+}"
+LIT_0121,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of N losses under drip irrigation, includes field evidence.""
+}"
+LIT_0122,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.95,
+  ""reason"": ""Systematic review and meta-analysis on remote sensing for orchard water status monitoring.""
+}"
+LIT_0123,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of drip, soil sensors, IoT, and scheduling for jujube irrigation.""
+}"
+LIT_0124,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review of digital irrigation technologies including remote sensing and sensors.""}"
+LIT_0125,succeeded,"{""include"": false, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0126,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.8,
+  ""reason"": ""Review includes drip irrigation with mulching for saline-alkali soils.""
+}"
+LIT_0127,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Meta-analysis on drip irrigation effects on sugar beet yield.""}"
+LIT_0128,succeeded,"{
+  ""include"": false,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of micro-nanobubble technology, not irrigation modernization technology.""
+}"
+LIT_0129,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of aerated drip irrigation effects on crops and soil.""
+}"
+LIT_0130,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on AI models for drought prediction, not specific irrigation technologies.""}"
+LIT_0131,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Focuses on water detection methods, not irrigation technology impacts.""}"
+LIT_0132,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Focuses on nanobubble technology, not irrigation modernization per se.""}"
+LIT_0133,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.7,
+  ""reason"": ""Focuses on water distribution inequities, not modernization technologies.""
+}"
+LIT_0134,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on micro/nanobubbles, not listed irrigation modernization technologies.""}"
+LIT_0135,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Meta-analysis on deficit irrigation, includes drip irrigation effects.""
+}"
+LIT_0136,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Review of PATs including remote sensing for potato irrigation.""}"
+LIT_0137,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0138,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on UAV remote sensing for precision agriculture including irrigation management.""
+}"
+LIT_0139,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies; focuses on water footprint.""}"
+LIT_0140,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; title suggests broad nexus perspective, not specific technology review.""}"
+LIT_0141,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on CubeSat remote sensing for precision agriculture including irrigation.""
+}"
+LIT_0142,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on sugarcane breeding, not irrigation technologies.""}"
+LIT_0143,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Systematic review on remote sensing for soil moisture, relevant to irrigation management.""}"
+LIT_0144,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of CSAPs broadly, not focused on specified irrigation technologies.""}"
+LIT_0145,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.7,
+  ""reason"": ""Not a review of technology effects; broad agronomic focus.""
+}"
+LIT_0146,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""app_scheduling"", ""soil_sensor"", ""remote_sensing""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of DSS for irrigation, includes sensors and remote sensing.""
+}"
+LIT_0147,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on water quality for micro-irrigation, relevant to drip technology.""}"
+LIT_0148,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technologies mentioned.""}"
+LIT_0149,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology; focuses on drought assessment.""}"
+LIT_0150,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on salt lakes, not irrigation technologies.""}"
+LIT_0151,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Review on irrigation and ET, includes remote sensing technology.""}"
+LIT_0152,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on slope stability, not irrigation modernization technologies.""}"
+LIT_0153,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Review not focused on specific irrigation modernization technologies.""}"
+LIT_0154,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title too broad, not specific to irrigation technologies.""}"
+LIT_0155,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; title suggests general cotton cultivation, not specific irrigation tech.""}"
+LIT_0156,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on drip fertigation effects in Mediterranean region.""}"
+LIT_0157,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Meta-analysis evaluating drip irrigation effects on productivity and water use.""
+}"
+LIT_0158,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0159,succeeded,"{""include"": true, ""technologies"": [""soil_sensor"", ""remote_sensing""], ""confidence"": 0.95, ""reason"": ""Review of soil moisture monitoring technologies for precision irrigation.""}"
+LIT_0160,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary field study, not a review or meta-analysis.""}"
+LIT_0161,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology mentioned; focuses on toxic metals.""}"
+LIT_0162,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.8, ""reason"": ""Review of drip irrigation with reclaimed water, field performance relevant.""}"
+LIT_0163,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study comparing irrigation methods, not a review.""}"
+LIT_0164,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers AI for irrigation scheduling and soil moisture sensing.""
+}"
+LIT_0165,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review; focuses on reservoir monitoring, not irrigation technology impacts.""}"
+LIT_0166,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title suggests general salinization, not specific irrigation tech.""}"
+LIT_0167,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No irrigation technology focus; urban metabolism perspective.""}"
+LIT_0168,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on remote sensing for irrigation monitoring in Cerrado.""
+}"
+LIT_0169,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review on climate change impact, not on irrigation modernization technologies.""}"
+LIT_0170,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Review covers precision irrigation and remote sensing as adaptation strategies.""}"
+LIT_0171,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Primary study, not a review.""}"
+LIT_0172,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on nutrient runoff mitigation, not irrigation modernization technologies.""}"
+LIT_0173,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0174,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on sand mining, not irrigation modernization technologies.""}"
+LIT_0175,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0176,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Focuses on N2O emissions, not field performance of irrigation tech.""}"
+LIT_0177,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Title too broad; no irrigation technology specified.""}"
+LIT_0178,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Broad review of AI/IoT in precision ag, not focused on irrigation modernization technologies.""
+}"
+LIT_0179,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on AI-driven stress detection, not specific irrigation technologies.""}"
+LIT_0180,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on drip irrigation effects on arsenic in rice.""
+}"
+LIT_0181,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No irrigation technology mentioned; likely plant biology.""}"
+LIT_0182,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor""],
+  ""confidence"": 0.8,
+  ""reason"": ""Systematic review mentions drip irrigation and soil moisture sensors as conservation measures.""
+}"
+LIT_0183,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.8, ""reason"": ""Review discusses drip irrigation as climate-smart technology for agriculture.""}"
+LIT_0184,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology mentioned.""}"
+LIT_0185,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No abstract; title suggests oxygenation, not irrigation modernization.""}"
+LIT_0186,succeeded,"{
+""include"": true,
+""technologies"": [""soil_sensor""],
+""confidence"": 0.7,
+""reason"": ""Review of capacitive water sensors for crop water management.""
+}"
+LIT_0187,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of drip and scheduling impacts on water quality and productivity.""
+}"
+LIT_0188,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Narrative review, not focused on specific modernization technologies.""}"
+LIT_0189,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of oil palm water relations, not irrigation modernization technologies.""}"
+LIT_0190,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of pineapple water relations, not irrigation technology effects.""}"
+LIT_0191,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of mango water relations, not technology effects.""}"
+LIT_0192,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad review of water scarcity, not focused on specific technology impacts.""}"
+LIT_0193,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on carbon credits, not field performance of irrigation technologies.""}"
+LIT_0194,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Flood damage assessment, not irrigation technology.""}"
+LIT_0195,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""on_demand"", ""app_scheduling"", ""flow_metering""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers multiple irrigation technologies and their impacts.""
+}"
+LIT_0196,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0197,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0198,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers many factors, not focused on irrigation technologies.""
+}"
+LIT_0199,succeeded,"{""include"": true, ""technologies"": [""app_scheduling"", ""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review of irrigation scheduling methods including soil moisture sensors and apps.""}"
+LIT_0200,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad review of weather informatics, not focused on specific irrigation technologies.""}"
+LIT_0201,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review covers drip irrigation and soil moisture sensors, with field outcomes.""}"
+LIT_0202,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on humic acid, not irrigation modernization technologies.""}"
+LIT_0203,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Primary study, not a review; uses remote sensing but not a review of technology effects.""}"
+LIT_0204,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of drip fertigation and mulching effects on vegetables.""}"
+LIT_0205,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0206,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No specific irrigation modernization technology mentioned.""}"
+LIT_0207,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Review mentions drip irrigation but focuses on LCA, not technology effects.""}"
+LIT_0208,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on nutrient management, not technology effects.""}"
+LIT_0209,succeeded,"{""include"": true, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review on dielectric soil sensors for irrigation automation.""}"
+LIT_0210,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on conservation agriculture, not irrigation modernization technologies.""}"
+LIT_0211,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of GIS and remote sensing for irrigation management.""}"
+LIT_0212,succeeded,"{""include"": true, ""technologies"": [""drip"", ""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Review covers drip irrigation and remote sensing for climate resilience.""}"
+LIT_0213,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review of ML and digital twins for smart irrigation, includes remote sensing and scheduling.""}"
+LIT_0214,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of drip irrigation performance from WEF nexus perspective.""
+}"
+LIT_0215,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review includes drip irrigation as N2O mitigation practice.""}"
+LIT_0216,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on pest management drones, not irrigation technologies.""}"
+LIT_0217,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of ground-based thermal remote sensing for irrigation management.""
+}"
+LIT_0218,succeeded,"{""include"": false, ""technologies"": [""app_scheduling""], ""confidence"": 0.7, ""reason"": ""Review of metrics and methods, not field performance outcomes.""}"
+LIT_0219,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Focuses on salinity assessment, not irrigation modernization effects.""}"
+LIT_0220,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.95, ""reason"": ""Focuses on rainfed systems, not irrigation technologies.""}"
+LIT_0221,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0222,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review covers remote sensing but not specifically irrigation modernization technologies.""}"
+LIT_0223,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0224,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No specific irrigation modernization technology mentioned.""}"
+LIT_0225,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not a review of specific modernization technologies.""}"
+LIT_0226,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of IoT and remote sensing for irrigation scheduling.""
+}"
+LIT_0227,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Scientometric review, not field performance outcomes.""}"
+LIT_0228,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of drip irrigation effects on coffee yield and water productivity.""}"
+LIT_0229,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on drought monitoring, not irrigation management.""}"
+LIT_0230,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation technology; focuses on climate disaster.""}"
+LIT_0231,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Unclear if review; technology not in list.""}"
+LIT_0232,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; likely broad PA review, not specific to irrigation techs.""}"
+LIT_0233,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Focuses on saline-alkali land improvement, not specific irrigation modernization technologies.""}"
+LIT_0234,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of subsurface drip irrigation design, management, and impacts.""
+}"
+LIT_0235,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on mulching, not irrigation modernization technologies.""}"
+LIT_0236,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Year-in-review of ASABE journals, not a review of technology effects.""}"
+LIT_0237,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of LEPA irrigation, a low-pressure drip-like method.""
+}"
+LIT_0238,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Narrative review but not focused on specific modernization technologies.""}"
+LIT_0239,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on landscape water requirements, not irrigation modernization technologies.""}"
+LIT_0240,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of SDI field performance and adoption.""
+}"
+LIT_0241,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of a model, not technology field performance.""}"
+LIT_0242,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Focuses on clogging mechanisms, not field performance or impacts.""}"
+LIT_0243,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review on remote sensing for irrigation management.""}"
+LIT_0244,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Likely primary study, not a review.""}"
+LIT_0245,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Title suggests evaluation system, not a review of technology effects.""}"
+LIT_0246,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; title suggests a probe, not listed technologies.""}"
+LIT_0247,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not a review of irrigation technology effects; water footprint analysis.""}"
+LIT_0248,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""Focuses on fertilization, not irrigation technologies.""}"
+LIT_0249,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation technologies.""}"
+LIT_0250,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""No abstract; title suggests broad orchard tech, not specific irrigation.""}"
+LIT_0251,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.8,
+  ""reason"": ""Review of subsurface drip irrigation water saving.""
+}"
+LIT_0252,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.8, ""reason"": ""Review covers smart water management technologies including sensors, remote sensing, and scheduling.""}"
+LIT_0253,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on DSSAT crop model, not irrigation modernization technologies.""}"
+LIT_0254,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review covers drip irrigation with soil moisture sensors and drones for irrigation management.""}"
+LIT_0255,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review on remote sensing for precision irrigation and soil moisture.""}"
+LIT_0256,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on microfinance, not irrigation technology performance.""}"
+LIT_0257,succeeded,"{
+  ""include"": false,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.7,
+  ""reason"": ""Not a review; discusses SDI but is a primary study.""
+}"
+LIT_0258,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of hydrological modeling, not irrigation technology impacts.""}"
+LIT_0259,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of IoT and ML for smart irrigation with field evidence.""
+}"
+LIT_0260,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0261,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0262,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on phenotyping for breeding, not irrigation technology impacts.""}"
+LIT_0263,succeeded,"{""include"": true, ""technologies"": [""soil_sensor"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Reviews soil sensors, IoT, and scheduling; reports water savings.""}"
+LIT_0264,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No mention of irrigation technologies.""}"
+LIT_0265,succeeded,"{""include"": true, ""technologies"": [""soil_sensor"", ""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Review on irrigation scheduling using canopy temp and soil moisture.""}"
+LIT_0266,succeeded,"{""include"": true, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review of soil moisture sensors for precision irrigation.""}"
+LIT_0267,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of micro-irrigation impacts in Maharashtra, includes field outcomes.""}"
+LIT_0268,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of micro-irrigation impacts in Assam.""
+}"
+LIT_0269,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on soil water tension for irrigation scheduling.""
+}"
+LIT_0270,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not a review; focuses on plasticulture, not irrigation tech impacts.""}"
+LIT_0271,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""app_scheduling""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review covers microirrigation, soil sensors, and scheduling tools for vegetables.""
+}"
+LIT_0272,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""app_scheduling""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of irrigation technologies for citrus, including drip, sensors, and scheduling.""
+}"
+LIT_0273,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Review focuses on drainage reuse, not technology impacts.""}"
+LIT_0274,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of drip irrigation fertilization strategies for potato productivity.""}"
+LIT_0275,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""app_scheduling""], ""confidence"": 0.8, ""reason"": ""Review of AI and simulation models for irrigation management in Egypt.""}"
+LIT_0276,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0277,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on drip irrigation with mulching, reporting water conservation outcomes.""}"
+LIT_0278,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad drought resilience review, not focused on specific irrigation technologies.""}"
+LIT_0279,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review on micro-irrigation adoption and impact.""}"
+LIT_0280,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""app_scheduling""], ""confidence"": 0.8, ""reason"": ""Review of smart irrigation including micro-irrigation and scheduling, with field outcomes.""}"
+LIT_0281,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study with experimental and farm data, not a review.""}"
+LIT_0282,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0283,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study on design optimization, not a review.""}"
+LIT_0284,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on drip irrigation with treated sewage effluent, field impacts.""}"
+LIT_0285,succeeded,"{""include"": true, ""technologies"": [""app_scheduling"", ""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of crop models and smart irrigation planning with remote sensing.""}"
+LIT_0286,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.8, ""reason"": ""Focuses on transboundary water management, not specific irrigation technologies.""}"
+LIT_0287,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Focuses on fulvic acid, not irrigation technology.""
+}"
+LIT_0288,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Scientometric review not about field performance of specific irrigation technologies.""}"
+LIT_0289,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0290,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.3, ""reason"": ""Not a review of irrigation technology effects; focuses on nematode management.""}"
+LIT_0291,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""No irrigation modernization technology mentioned.""}"
+LIT_0292,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.3, ""reason"": ""No abstract; title suggests broad tech, not specific irrigation modernization.""}"
+LIT_0293,succeeded,"{
+""include"": false,
+""technologies"": [""remote_sensing""],
+""confidence"": 0.6,
+""reason"": ""Focus on canal irrigation, not listed technologies.""
+}"
+LIT_0294,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Broad review of climate change impacts, not focused on irrigation technologies.""}"
+LIT_0295,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary field study, not a review or meta-analysis.""}"
+LIT_0296,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Not a review; focuses on cabbage production, not technology impacts.""}"
+LIT_0297,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of drip irrigation effects on saline water use in vegetables.""}"
+LIT_0298,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on micro-irrigation impacts on groundwater sustainability.""}"
+LIT_0299,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of drip irrigation performance and impacts on water management.""}"
+LIT_0300,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on wastewater reuse, not irrigation modernization technologies.""}"
+LIT_0301,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Review covers multiple practices, not focused on irrigation technology impacts.""}"
+LIT_0302,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 1, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0303,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on micro-irrigation impacts on water use, yield, and costs.""}"
+LIT_0304,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Focuses on UAV swarms for disease detection, not irrigation modernization.""}"
+LIT_0305,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not a review of irrigation technology effects; broad agronomic review.""}"
+LIT_0306,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Systematic review on drip irrigation effects on sugarcane productivity.""}"
+LIT_0307,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of remote sensing for irrigation optimization with field evidence.""}"
+LIT_0308,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review on remote sensing for irrigation management in sugarcane.""}"
+LIT_0309,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies; focuses on landscape restoration.""}"
+LIT_0310,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on pest control, not irrigation technology effects.""}"
+LIT_0311,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review on climate adaptation, not focused on irrigation technology effects.""}"
+LIT_0312,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of soil salinity, not technology performance.""}"
+LIT_0313,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on waterlogging and disease, not irrigation technology effects.""}"
+LIT_0314,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not a review of irrigation technology effects; focuses on postharvest quality.""}"
+LIT_0315,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Review covers many strategies, not focused on irrigation technologies.""}"
+LIT_0316,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Focuses on tobacco, not irrigated agriculture.""}"
+LIT_0317,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of precision irrigation technologies including drip and remote sensing.""
+}"
+LIT_0318,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Meta-analysis on drip irrigation effects on kiwifruit yield and WUE.""
+}"
+LIT_0319,succeeded,"{""include"": true, ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review discusses smart irrigation with sensors, remote sensing, and scheduling.""}"
+LIT_0320,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad AI review, not focused on specific irrigation technologies.""}"
+LIT_0321,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 1, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0322,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0323,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on heavy metal contamination, not irrigation technology effects.""}"
+LIT_0324,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on plastic sustainability, not irrigation modernization technologies.""}"
+LIT_0325,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Primary study, not a review; focuses on organic potato yield.""}"
+LIT_0326,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on pressure regulation, not listed irrigation modernization technologies.""}"
+LIT_0327,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.95, ""reason"": ""Review of smart irrigation technologies including drip, sensors, remote sensing, and scheduling.""}"
+LIT_0328,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of AI drones for precision irrigation and crop monitoring.""}"
+LIT_0329,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Editorial introduction to a collection, not a review.""}"
+LIT_0330,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.7,
+  ""reason"": ""Focuses on water accounting methodologies, not technology impacts.""
+}"
+LIT_0331,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review covers drip irrigation, soil moisture sensors, and scheduling.""}"
+LIT_0332,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.7, ""reason"": ""Focuses on design optimization, not field performance or impacts.""}"
+LIT_0333,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on AWD for paddy rice, not listed irrigation modernization technologies.""}"
+LIT_0334,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of drip irrigation under plastic mulch impacts on agriculture.""}"
+LIT_0335,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""soil_sensor""], ""confidence"": 0.95, ""reason"": ""Review integrates remote sensing and soil sensors for irrigation, reports water savings.""}"
+LIT_0336,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on micro-nano bubbles, not listed irrigation technologies.""}"
+LIT_0337,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on agroforestry, not irrigation modernization technologies.""}"
+LIT_0338,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of soil moisture sensors for irrigation management.""
+}"
+LIT_0339,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review covers PA broadly, not specifically irrigation modernization technologies.""}"
+LIT_0340,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad resilience framework, not focused on specific irrigation modernization technologies.""}"
+LIT_0341,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review of VRI, remote sensing, and decision support for precision irrigation.""}"
+LIT_0342,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of remote sensing for sustainable agriculture.""
+}"
+LIT_0343,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad ML survey, not focused on specific irrigation technologies.""}"
+LIT_0344,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on climate change impacts on groundwater, not irrigation modernization technologies.""}"
+LIT_0345,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Focuses on GHG emissions broadly, not specific irrigation technologies.""}"
+LIT_0346,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review covers remote sensing but not focused on irrigation modernization outcomes.""}"
+LIT_0347,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.95, ""reason"": ""Review on remote sensing for irrigation management under climate change.""}"
+LIT_0348,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of precision irrigation technologies including sensors, remote sensing, and scheduling.""
+}"
+LIT_0349,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on stress detection, not irrigation technology impacts.""}"
+LIT_0350,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on drones for irrigation management via remote sensing.""
+}"
+LIT_0351,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Focuses on water quality monitoring, not irrigation management.""}"
+LIT_0352,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review covers digital ag technologies including smart irrigation and remote sensing.""}"
+LIT_0353,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0354,succeeded,"{""include"": true, ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review covers sensor-based systems, remote sensing, and decision-support for irrigation.""}"
+LIT_0355,succeeded,"{""include"": true, ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review of smart irrigation technologies in viticulture under climate change.""}"
+LIT_0356,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""soil_sensor"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review of smart tech in viticulture including sensors, remote sensing, and DSS for irrigation.""}"
+LIT_0357,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of scheduling technologies including sensors, remote sensing, and apps.""
+}"
+LIT_0358,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0359,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on ET estimation methods, not specific irrigation technologies.""}"
+LIT_0360,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Focuses on salt stress in watermelon, not on irrigation technology effects.""}"
+LIT_0361,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""soil_sensor"", ""drip""], ""confidence"": 0.9, ""reason"": ""Review of PATs including remote sensing, soil sensors, and precision irrigation for climate adaptation.""}"
+LIT_0362,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Review covers DL in cotton broadly, not focused on irrigation technologies.""}"
+LIT_0363,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of remote sensing for PA including irrigation management.""
+}"
+LIT_0364,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review of remote sensing and DSS for irrigation scheduling.""}"
+LIT_0365,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Focuses on yield gap analysis, not irrigation modernization technologies.""}"
+LIT_0366,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0367,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of remote sensing for irrigation water management in olive growing.""}"
+LIT_0368,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review of remote sensing technologies, not specifically on irrigation management.""}"
+LIT_0369,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review of irrigation challenges, not technology field performance.""}"
+LIT_0370,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.95,
+  ""reason"": ""Systematic review on remote sensing for olive irrigation management.""
+}"
+LIT_0371,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on forage/grassland monitoring, not irrigation modernization.""}"
+LIT_0372,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.95, ""reason"": ""Review on remote sensing for irrigation monitoring, includes field performance.""}"
+LIT_0373,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Review covers remote sensing in agriculture but not specifically irrigation management.""}"
+LIT_0374,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of IoT and ML for smart irrigation management.""
+}"
+LIT_0375,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Focuses on MZ delineation methods, not specific irrigation technology outcomes.""}"
+LIT_0376,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on water pretreatment, not field performance of irrigation technologies.""}"
+LIT_0377,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review focuses on system dynamics modeling, not field performance of irrigation technologies.""}"
+LIT_0378,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Clay-based irrigation not in specified technologies list.""
+}"
+LIT_0379,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of root research under drip irrigation, includes field outcomes.""}"
+LIT_0380,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on vertical farming energy, not irrigation modernization technologies.""}"
+LIT_0381,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""soil_sensor""], ""confidence"": 0.8, ""reason"": ""Review of precision ag including sensors and remote sensing for irrigation.""}"
+LIT_0382,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of drip irrigation effects on root-zone salt dynamics in shelterbelts.""
+}"
+LIT_0383,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""remote_sensing"", ""soil_sensor""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers irrigation modernization technologies and their impacts.""
+}"
+LIT_0384,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Primary study comparing two farms, not a review.""}"
+LIT_0385,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on vineyard water management including remote sensing.""
+}"
+LIT_0386,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review on dam siting, not irrigation modernization technologies.""}"
+LIT_0387,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of evapotranspiration models, not specific irrigation technologies.""}"
+LIT_0388,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""app_scheduling""],
+  ""confidence"": 0.8,
+  ""reason"": ""Review of IoT-enabled technologies for irrigation management.""
+}"
+LIT_0389,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review on remote sensing for irrigation management in precision agriculture.""
+}"
+LIT_0390,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of modelling simulations, not field performance or impacts.""}"
+LIT_0391,succeeded,"{
+  ""include"": false,
+  ""technologies"": [],
+  ""confidence"": 0.9,
+  ""reason"": ""Focuses on solar energy, not irrigation modernization technologies.""
+}"
+LIT_0392,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of drip irrigation impacts on crop yield and water productivity.""
+}"
+LIT_0393,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of wireless sensors and remote sensing for irrigation performance.""
+}"
+LIT_0394,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of drip irrigation effects on water, carbon, and crop growth.""}"
+LIT_0395,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of micro-irrigation (drip) adoption and impacts in smallholder farming.""}"
+LIT_0396,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of drip irrigation trade-offs, field and basin impacts.""
+}"
+LIT_0397,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of remote sensing for irrigation management in arid agriculture.""}"
+LIT_0398,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.95, ""reason"": ""Review of remote sensing for irrigation water accounting, meets criteria.""}"
+LIT_0399,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of subsurface drip irrigation effects on wheat in arid region.""
+}"
+LIT_0400,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review on evapotranspiration, not on specific irrigation modernization technologies.""}"
+LIT_0401,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Bibliometric analysis, not a review of technology effects.""}"
+LIT_0402,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0403,succeeded,"{
+""include"": false,
+""technologies"": [""drip""],
+""confidence"": 0.6,
+""reason"": ""Title suggests review but no abstract; likely primary or non-field focus.""
+}"
+LIT_0404,succeeded,"{""include"": false, ""technologies"": [""remote_sensing""], ""confidence"": 0.7, ""reason"": ""Not a review; primary study on vulnerability assessment.""}"
+LIT_0405,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Not focused on irrigation modernization technologies.""}"
+LIT_0406,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Narrative review but not focused on specific modernization technologies.""}"
+LIT_0407,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study, not a review or meta-analysis.""}"
+LIT_0408,succeeded,"{""include"": true, ""technologies"": [""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review of DSS for irrigation scheduling in rice, relevant technology.""}"
+LIT_0409,succeeded,"{""include"": true, ""technologies"": [""drip"", ""remote_sensing""], ""confidence"": 0.8, ""reason"": ""Reviews irrigation techs for water efficiency and remote sensing.""}"
+LIT_0410,succeeded,"{""include"": true, ""technologies"": [""drip"", ""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review covers drip and remote sensing in irrigated agriculture.""}"
+LIT_0411,succeeded,"{""include"": true, ""technologies"": [""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review on smart irrigation using soil moisture sensors, reporting outcomes.""}"
+LIT_0412,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.95, ""reason"": ""Review of smart irrigation technologies including sensors, remote sensing, and scheduling.""}"
+LIT_0413,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review covers precision irrigation, sensors, remote sensing, and DSS in horticulture.""}"
+LIT_0414,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Systematic review on thermal remote sensing for irrigation management in urban agriculture.""
+}"
+LIT_0415,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of solar-powered drip irrigation systems, includes field performance.""}"
+LIT_0416,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not about irrigation modernization technologies.""}"
+LIT_0417,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of micro-irrigation automation with field benefits.""
+}"
+LIT_0418,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad review of smart farming, not focused on specific irrigation technologies.""}"
+LIT_0419,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review on micro-irrigation and fertigation in fruit crops, includes sensors and scheduling.""}"
+LIT_0420,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review on heat/drought stress, not irrigation technologies.""}"
+LIT_0421,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of humic acid, not irrigation technology.""}"
+LIT_0422,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Focuses on humic acid, not irrigation modernization technologies.""}"
+LIT_0423,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.6, ""reason"": ""Narrative review but lacks specific technology outcomes.""}"
+LIT_0424,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Review mentions drip irrigation but not focused on technology impacts.""}"
+LIT_0425,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.6, ""reason"": ""Mentions drip irrigation but is not a review of its effects.""}"
+LIT_0426,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review of drip irrigation with saline water, field performance.""}"
+LIT_0427,succeeded,"{""include"": false, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Primary study on specific method, not a review of technology effects.""}"
+LIT_0428,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Not focused on irrigation modernization technologies.""}"
+LIT_0429,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad CSA review, not focused on irrigation technology effects.""}"
+LIT_0430,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review on remote sensing in agriculture, including irrigation management.""}"
+LIT_0431,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review on remote sensing in agriculture, including irrigation management.""}"
+LIT_0432,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review comparing drip irrigation performance under water scarcity.""
+}"
+LIT_0433,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""remote_sensing""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review of RS/GIS for irrigation performance and water conservation.""
+}"
+LIT_0434,succeeded,"{""include"": true, ""technologies"": [""remote_sensing""], ""confidence"": 0.9, ""reason"": ""Review of UAVs for irrigation scheduling, includes field evidence.""}"
+LIT_0435,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""No irrigation technology mentioned; focus on pitahaya adaptation.""}"
+LIT_0436,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review covers drip irrigation and other techniques for water productivity.""}"
+LIT_0437,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad precision agriculture review, not focused on irrigation modernization technologies.""}"
+LIT_0438,succeeded,"{""include"": true, ""technologies"": [""remote_sensing"", ""soil_sensor""], ""confidence"": 0.9, ""reason"": ""Review covers remote sensing and soil sensors for irrigation management.""}"
+LIT_0439,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.9, ""reason"": ""Review of protected cultivation, not specifically irrigation modernization technologies.""}"
+LIT_0440,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers drip irrigation and sensor automation for water productivity.""
+}"
+LIT_0441,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.9, ""reason"": ""Review on drip irrigation with mulching, field outcomes.""}"
+LIT_0442,succeeded,"{""include"": false, ""technologies"": [], ""confidence"": 0.7, ""reason"": ""Broad precision agriculture review, not specific to irrigation technologies.""}"
+LIT_0443,succeeded,"{""include"": true, ""technologies"": [""drip""], ""confidence"": 0.95, ""reason"": ""Review of solar drip irrigation with field outcomes.""}"
+LIT_0444,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers drip, sensors, remote sensing, and DSS for irrigation.""
+}"
+LIT_0445,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.95,
+  ""reason"": ""Review of IoT and remote sensing for precision irrigation in arid fruit production.""
+}"
+LIT_0446,succeeded,"{""include"": true, ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""], ""confidence"": 0.9, ""reason"": ""Review covers precision irrigation technologies including sensors, remote sensing, and scheduling.""}"
+LIT_0447,succeeded,"{
+  ""include"": true,
+  ""technologies"": [""drip"", ""soil_sensor"", ""remote_sensing"", ""app_scheduling""],
+  ""confidence"": 0.9,
+  ""reason"": ""Review covers irrigation technologies including drip, sensors, remote sensing, and scheduling.""
+}"

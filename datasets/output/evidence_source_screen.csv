@@ -1,0 +1,237 @@
+rec_id,fn,file,doi,title,year,technology,words,hits
+LIT_0022,pest_control,10_1002_agj2_20957.pdf,10.1002/agj2.20957,Organic fertigation system in saline-sodic soils: A new paradigm for the restoration of soil health,2022,drip,10516,4
+LIT_0022,biodiversity,10_1002_agj2_20957.pdf,10.1002/agj2.20957,Organic fertigation system in saline-sodic soils: A new paradigm for the restoration of soil health,2022,drip,10516,15
+LIT_0022,social_cohesion,10_1002_agj2_20957.pdf,10.1002/agj2.20957,Organic fertigation system in saline-sodic soils: A new paradigm for the restoration of soil health,2022,drip,10516,10
+LIT_0022,groundwater_recharge,10_1002_agj2_20957.pdf,10.1002/agj2.20957,Organic fertigation system in saline-sodic soils: A new paradigm for the restoration of soil health,2022,drip,10516,4
+LIT_0022,livestock,10_1002_agj2_20957.pdf,10.1002/agj2.20957,Organic fertigation system in saline-sodic soils: A new paradigm for the restoration of soil health,2022,drip,10516,16
+LIT_0022,medicinal_food,10_1002_agj2_20957.pdf,10.1002/agj2.20957,Organic fertigation system in saline-sodic soils: A new paradigm for the restoration of soil health,2022,drip,10516,12
+LIT_0023,pest_control,10_1002_agj2_70310.pdf,10.1002/agj2.70310,Digital convergence in Agri-Tech: Reviewing the role of advanced technologies in enabling precision and sustainability,2026,remote_sensing,15339,30
+LIT_0023,biodiversity,10_1002_agj2_70310.pdf,10.1002/agj2.70310,Digital convergence in Agri-Tech: Reviewing the role of advanced technologies in enabling precision and sustainability,2026,remote_sensing,15339,5
+LIT_0032,microclimate_regulation,10_1002_ird_2139.pdf,10.1002/ird.2139,"Increasing Crop Productivity in an Eco‐Friendly Manner by Improving Sprinkler and Micro‐Irrigation Design and Management: A Review of 20 Years' Research at the IWHR, China",2017,drip,12757,5
+LIT_0032,groundwater_recharge,10_1002_ird_2139.pdf,10.1002/ird.2139,"Increasing Crop Productivity in an Eco‐Friendly Manner by Improving Sprinkler and Micro‐Irrigation Design and Management: A Review of 20 Years' Research at the IWHR, China",2017,drip,12757,5
+LIT_0032,pest_control,10_1002_ird_2139.pdf,10.1002/ird.2139,"Increasing Crop Productivity in an Eco‐Friendly Manner by Improving Sprinkler and Micro‐Irrigation Design and Management: A Review of 20 Years' Research at the IWHR, China",2017,drip,12757,2
+LIT_0033,social_cohesion,10_1002_ird_26.pdf,10.1002/ird.26,Satellite remote sensing to support management of irrigation systems: Concepts and approaches,2002,remote_sensing,9551,11
+LIT_0033,groundwater_recharge,10_1002_ird_26.pdf,10.1002/ird.26,Satellite remote sensing to support management of irrigation systems: Concepts and approaches,2002,remote_sensing,9551,1
+LIT_0035,groundwater_recharge,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,5
+LIT_0035,social_cohesion,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,12
+LIT_0035,biodiversity,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,4
+LIT_0035,microclimate_regulation,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,0
+LIT_0035,pest_control,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,0
+LIT_0035,livestock,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,0
+LIT_0035,medicinal_food,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,0
+LIT_0035,recreation_wellbeing,10_1002_ird_2951.pdf,10.1002/ird.2951,Question 65 What on-farm techniques can increase water productivity? General report,2024,drip,7510,0
+LIT_0050,groundwater_recharge,10_1007_s10661_024_13145_5.pdf,10.1007/s10661-024-13145-5,Advancing irrigation management: integrating technology and sustainability to address global food security,2024,drip,10477,13
+LIT_0052,groundwater_recharge,10_1007_s10668_026_07392_4.pdf,10.1007/s10668-026-07392-4,"Combatting groundwater depletion in North-Western India: Obstacles, consequences, and water-saving agronomic approaches",2026,drip,13232,241
+LIT_0052,pest_control,10_1007_s10668_026_07392_4.pdf,10.1007/s10668-026-07392-4,"Combatting groundwater depletion in North-Western India: Obstacles, consequences, and water-saving agronomic approaches",2026,drip,13232,5
+LIT_0072,pest_control,10_1007_s13762_021_03801_5.pdf,10.1007/s13762-021-03801-5,UAV-based remote sensing in plant stress imagine using high-resolution thermal sensor for digital agriculture practices: a meta-review,2023,remote_sensing,10571,10
+LIT_0087,pest_control,10_1007_s44274_026_00713_4.pdf,10.1007/s44274-026-00713-4,Integrated technological governance and ecosystem based strategies for irrigation system resilience under climate change a systematic review,2026,remote_sensing,10606,3
+LIT_0087,groundwater_recharge,10_1007_s44274_026_00713_4.pdf,10.1007/s44274-026-00713-4,Integrated technological governance and ecosystem based strategies for irrigation system resilience under climate change a systematic review,2026,remote_sensing,10606,13
+LIT_0087,microclimate_regulation,10_1007_s44274_026_00713_4.pdf,10.1007/s44274-026-00713-4,Integrated technological governance and ecosystem based strategies for irrigation system resilience under climate change a systematic review,2026,remote_sensing,10606,1
+LIT_0087,social_cohesion,10_1007_s44274_026_00713_4.pdf,10.1007/s44274-026-00713-4,Integrated technological governance and ecosystem based strategies for irrigation system resilience under climate change a systematic review,2026,remote_sensing,10606,32
+LIT_0087,biodiversity,10_1007_s44274_026_00713_4.pdf,10.1007/s44274-026-00713-4,Integrated technological governance and ecosystem based strategies for irrigation system resilience under climate change a systematic review,2026,remote_sensing,10606,30
+LIT_0088,microclimate_regulation,10_1007_s44279_025_00430_1.pdf,10.1007/s44279-025-00430-1,"Smart drip irrigation systems using IoT: a review of architectures, machine learning models, and emerging trends",2025,drip,10796,23
+LIT_0088,pest_control,10_1007_s44279_025_00430_1.pdf,10.1007/s44279-025-00430-1,"Smart drip irrigation systems using IoT: a review of architectures, machine learning models, and emerging trends",2025,drip,10796,4
+LIT_0092,microclimate_regulation,10_1016_j_agee_2026_110242.xml,10.1016/j.agee.2026.110242,"Effects of no-tillage, mulching, drip irrigation, and nitrogen fertilization on greenhouse gas emissions, soil carbon sequestration, and crop yields in dryland agroecosystems: A meta-analysis",2026,drip,31555,0
+LIT_0102,groundwater_recharge,10_1016_j_agwat_2016_09_027.xml,10.1016/j.agwat.2016.09.027,Influence of the irrigation technique and strategies on the nitrogen cycle and budget: A review,2016,drip,35080,3
+LIT_0106,groundwater_recharge,10_1016_j_agwat_2018_05_015.xml,10.1016/j.agwat.2018.05.015,Scoping of promising land management and water use practices in the dry areas of Uzbekistan,2018,drip,23037,11
+LIT_0109,social_cohesion,10_1016_j_agwat_2020_106209.xml,10.1016/j.agwat.2020.106209,Decision support systems and models for aiding irrigation and nutrient management of vegetable crops,2020,drip,30926,6
+LIT_0109,biodiversity,10_1016_j_agwat_2020_106209.xml,10.1016/j.agwat.2020.106209,Decision support systems and models for aiding irrigation and nutrient management of vegetable crops,2020,drip,30926,19
+LIT_0109,groundwater_recharge,10_1016_j_agwat_2020_106209.xml,10.1016/j.agwat.2020.106209,Decision support systems and models for aiding irrigation and nutrient management of vegetable crops,2020,drip,30926,4
+LIT_0110,groundwater_recharge,10_1016_j_agwat_2020_106267.xml,10.1016/j.agwat.2020.106267,"A review of strategies, methods and technologies to reduce non-beneficial consumptive water use on farms considering the FAO56 methods",2020,drip,57857,2
+LIT_0110,microclimate_regulation,10_1016_j_agwat_2020_106267.xml,10.1016/j.agwat.2020.106267,"A review of strategies, methods and technologies to reduce non-beneficial consumptive water use on farms considering the FAO56 methods",2020,drip,57857,21
+LIT_0110,pest_control,10_1016_j_agwat_2020_106267.xml,10.1016/j.agwat.2020.106267,"A review of strategies, methods and technologies to reduce non-beneficial consumptive water use on farms considering the FAO56 methods",2020,drip,57857,6
+LIT_0112,groundwater_recharge,10_1016_j_agwat_2020_106357.xml,10.1016/j.agwat.2020.106357,Soil water balance models for determining crop water and irrigation requirements and irrigation scheduling focusing on the FAO56 method and the dual Kc approach,2020,remote_sensing,66754,25
+LIT_0113,pest_control,10_1016_j_agwat_2020_106375.xml,10.1016/j.agwat.2020.106375,Water use and irrigation management of pomegranate trees - A review,2020,drip,25725,5
+LIT_0113,microclimate_regulation,10_1016_j_agwat_2020_106375.xml,10.1016/j.agwat.2020.106375,Water use and irrigation management of pomegranate trees - A review,2020,drip,25725,1
+LIT_0117,pest_control,10_1016_j_agwat_2022_107645.xml,10.1016/j.agwat.2022.107645,"Yield and water productivity of crops, vegetables and fruits under subsurface drip irrigation: A global meta-analysis",2022,drip,22766,1
+LIT_0121,groundwater_recharge,10_1016_j_agwat_2024_108791.xml,10.1016/j.agwat.2024.108791,"Nitrogen losses from soil as affected by water and fertilizer management under drip irrigation: Development, hotspots and future perspectives",2024,drip,42615,8
+LIT_0123,microclimate_regulation,10_1016_j_agwat_2024_109243.xml,10.1016/j.agwat.2024.109243,Enhancing water use efficiency and fruit quality in jujube cultivation: A review of advanced irrigation techniques and precision management strategies,2025,drip,29889,2
+LIT_0123,biodiversity,10_1016_j_agwat_2024_109243.xml,10.1016/j.agwat.2024.109243,Enhancing water use efficiency and fruit quality in jujube cultivation: A review of advanced irrigation techniques and precision management strategies,2025,drip,29889,15
+LIT_0123,medicinal_food,10_1016_j_agwat_2024_109243.xml,10.1016/j.agwat.2024.109243,Enhancing water use efficiency and fruit quality in jujube cultivation: A review of advanced irrigation techniques and precision management strategies,2025,drip,29889,13
+LIT_0123,groundwater_recharge,10_1016_j_agwat_2024_109243.xml,10.1016/j.agwat.2024.109243,Enhancing water use efficiency and fruit quality in jujube cultivation: A review of advanced irrigation techniques and precision management strategies,2025,drip,29889,3
+LIT_0124,groundwater_recharge,10_1016_j_agwat_2025_109347.xml,10.1016/j.agwat.2025.109347,Digital technologies for water use and management in agriculture: Recent applications and future outlook,2025,remote_sensing,62830,42
+LIT_0124,social_cohesion,10_1016_j_agwat_2025_109347.xml,10.1016/j.agwat.2025.109347,Digital technologies for water use and management in agriculture: Recent applications and future outlook,2025,remote_sensing,62830,17
+LIT_0124,pest_control,10_1016_j_agwat_2025_109347.xml,10.1016/j.agwat.2025.109347,Digital technologies for water use and management in agriculture: Recent applications and future outlook,2025,remote_sensing,62830,6
+LIT_0124,livestock,10_1016_j_agwat_2025_109347.xml,10.1016/j.agwat.2025.109347,Digital technologies for water use and management in agriculture: Recent applications and future outlook,2025,remote_sensing,62830,32
+LIT_0124,biodiversity,10_1016_j_agwat_2025_109347.xml,10.1016/j.agwat.2025.109347,Digital technologies for water use and management in agriculture: Recent applications and future outlook,2025,remote_sensing,62830,8
+LIT_0128,pest_control,10_1016_j_agwat_2025_109820.xml,10.1016/j.agwat.2025.109820,Role of micro-nanobubble water aeration on emitter clogging and uniformity of drip irrigation system,2025,drip,40272,1
+LIT_0128,biodiversity,10_1016_j_agwat_2025_109820.xml,10.1016/j.agwat.2025.109820,Role of micro-nanobubble water aeration on emitter clogging and uniformity of drip irrigation system,2025,drip,40272,4
+LIT_0129,microclimate_regulation,10_1016_j_agwat_2025_109886.xml,10.1016/j.agwat.2025.109886,Significance of aerated drip irrigation: A comprehensive review,2025,drip,52995,0
+LIT_0129,pest_control,10_1016_j_agwat_2025_109886.xml,10.1016/j.agwat.2025.109886,Significance of aerated drip irrigation: A comprehensive review,2025,drip,52995,2
+LIT_0136,pest_control,10_1016_j_atech_2023_100220.xml,10.1016/j.atech.2023.100220,A review of Best Management Practices for potato crop using Precision Agricultural Technologies,2023,remote_sensing,52076,56
+LIT_0138,pest_control,10_1016_j_atech_2026_102074.xml,10.1016/j.atech.2026.102074,"Remote Sensing through UAVs for precision agriculture: Applications, technical foundations, current barriers, and future opportunities",2026,remote_sensing,36171,50
+LIT_0138,livestock,10_1016_j_atech_2026_102074.xml,10.1016/j.atech.2026.102074,"Remote Sensing through UAVs for precision agriculture: Applications, technical foundations, current barriers, and future opportunities",2026,remote_sensing,36171,9
+LIT_0138,biodiversity,10_1016_j_atech_2026_102074.xml,10.1016/j.atech.2026.102074,"Remote Sensing through UAVs for precision agriculture: Applications, technical foundations, current barriers, and future opportunities",2026,remote_sensing,36171,3
+LIT_0138,microclimate_regulation,10_1016_j_atech_2026_102074.xml,10.1016/j.atech.2026.102074,"Remote Sensing through UAVs for precision agriculture: Applications, technical foundations, current barriers, and future opportunities",2026,remote_sensing,36171,10
+LIT_0141,pest_control,10_1016_j_compag_2024_109764.xml,10.1016/j.compag.2024.109764,CubeSat constellations: New era for precision agriculture?,2025,remote_sensing,28970,8
+LIT_0146,groundwater_recharge,10_1016_j_dte_2025_100038.xml,10.1016/j.dte.2025.100038,Evaluating decision support systems for precision irrigation and water use efficiency,2025,remote_sensing,53765,18
+LIT_0147,pest_control,10_1016_j_dwt_2024_100304.xml,10.1016/j.dwt.2024.100304,A critical review of irrigation water quality index and water quality management practices in micro-irrigation for efficient policy making,2024,drip,54177,24
+LIT_0170,microclimate_regulation,10_1016_j_scienta_2025_114462.xml,10.1016/j.scienta.2025.114462,"Combined abiotic stresses in mediterranean citrus orchards: Impacts, adaptation strategies, and climate-resilient solutions",2025,remote_sensing,30978,7
+LIT_0170,pest_control,10_1016_j_scienta_2025_114462.xml,10.1016/j.scienta.2025.114462,"Combined abiotic stresses in mediterranean citrus orchards: Impacts, adaptation strategies, and climate-resilient solutions",2025,remote_sensing,30978,13
+LIT_0182,groundwater_recharge,10_1016_j_wasec_2025_100191.xml,10.1016/j.wasec.2025.100191,Water security in the agriculture and cattle grazing activities: A systematic review,2025,drip,42649,86
+LIT_0182,social_cohesion,10_1016_j_wasec_2025_100191.xml,10.1016/j.wasec.2025.100191,Water security in the agriculture and cattle grazing activities: A systematic review,2025,drip,42649,25
+LIT_0182,recreation_wellbeing,10_1016_j_wasec_2025_100191.xml,10.1016/j.wasec.2025.100191,Water security in the agriculture and cattle grazing activities: A systematic review,2025,drip,42649,5
+LIT_0182,biodiversity,10_1016_j_wasec_2025_100191.xml,10.1016/j.wasec.2025.100191,Water security in the agriculture and cattle grazing activities: A systematic review,2025,drip,42649,3
+LIT_0182,livestock,10_1016_j_wasec_2025_100191.xml,10.1016/j.wasec.2025.100191,Water security in the agriculture and cattle grazing activities: A systematic review,2025,drip,42649,28
+LIT_0195,groundwater_recharge,10_1029_2007wr006200.pdf,10.1029/2007wr006200,Methods and technologies to improve efficiency of water use,2008,drip,15974,2
+LIT_0195,biodiversity,10_1029_2007wr006200.pdf,10.1029/2007wr006200,Methods and technologies to improve efficiency of water use,2008,drip,15974,4
+LIT_0195,microclimate_regulation,10_1029_2007wr006200.pdf,10.1029/2007wr006200,Methods and technologies to improve efficiency of water use,2008,drip,15974,1
+LIT_0201,pest_control,10_1080_00103624_2025_2489107.pdf,10.1080/00103624.2025.2489107,Resource Conservation Technologies for Mitigating Climate Change Impacts in Agriculture: A Review,2025,drip,10364,16
+LIT_0201,biodiversity,10_1080_00103624_2025_2489107.pdf,10.1080/00103624.2025.2489107,Resource Conservation Technologies for Mitigating Climate Change Impacts in Agriculture: A Review,2025,drip,10364,5
+LIT_0201,microclimate_regulation,10_1080_00103624_2025_2489107.pdf,10.1080/00103624.2025.2489107,Resource Conservation Technologies for Mitigating Climate Change Impacts in Agriculture: A Review,2025,drip,10364,0
+LIT_0204,pest_control,10_1080_01904167_2022_2063742.pdf,10.1080/01904167.2022.2063742,Water and nutrient economy in vegetable crops through drip fertigation and mulching techniques: a review,2022,drip,9401,7
+LIT_0204,microclimate_regulation,10_1080_01904167_2022_2063742.pdf,10.1080/01904167.2022.2063742,Water and nutrient economy in vegetable crops through drip fertigation and mulching techniques: a review,2022,drip,9401,0
+LIT_0204,groundwater_recharge,10_1080_01904167_2022_2063742.pdf,10.1080/01904167.2022.2063742,Water and nutrient economy in vegetable crops through drip fertigation and mulching techniques: a review,2022,drip,9401,1
+LIT_0204,biodiversity,10_1080_01904167_2022_2063742.pdf,10.1080/01904167.2022.2063742,Water and nutrient economy in vegetable crops through drip fertigation and mulching techniques: a review,2022,drip,9401,1
+LIT_0211,groundwater_recharge,10_1080_23311916_2022_2100573.pdf,10.1080/23311916.2022.2100573,"Towards precision irrigation management: A review of GIS, remote sensing and emerging technologies",2022,remote_sensing,12494,17
+LIT_0211,social_cohesion,10_1080_23311916_2022_2100573.pdf,10.1080/23311916.2022.2100573,"Towards precision irrigation management: A review of GIS, remote sensing and emerging technologies",2022,remote_sensing,12494,3
+LIT_0211,biodiversity,10_1080_23311916_2022_2100573.pdf,10.1080/23311916.2022.2100573,"Towards precision irrigation management: A review of GIS, remote sensing and emerging technologies",2022,remote_sensing,12494,1
+LIT_0212,microclimate_regulation,10_1080_23311932_2025_2557341.pdf,10.1080/23311932.2025.2557341,Recent possible agriculture techniques for supporting climate resilient crops in Africa,2025,drip,16455,7
+LIT_0213,pest_control,10_1080_27525783_2025_2562418.pdf,10.1080/27525783.2025.2562418,Machine learning and digital twins in smart irrigation: optimising water use through agricultural data analytics,2025,remote_sensing,9980,3
+LIT_0217,pest_control,10_1093_jxb_ers165.pdf,10.1093/jxb/ers165,Estimating evapotranspiration and drought stress with ground-based thermal remote sensing in agriculture: A review,2012,remote_sensing,28404,3
+LIT_0228,pest_control,10_11648_j_advances_20240504_13.pdf,10.11648/j.advances.20240504.13,Boosting Coffee Yields and Water Productivity: A Review of Drip Irrigation in Ethiopia,2024,drip,4131,0
+LIT_0232,biodiversity,10_11975_j_issn_1002_6819_2021_11_036.pdf,10.11975/j.issn.1002-6819.2021.11.036,Review of precision agriculture development situations in the main countries in the world and suggestions for China,2021,drip,3734,0
+LIT_0234,pest_control,10_12706_itea_2013_023.pdf,10.12706/itea.2013.023,"State of the art of subsurface drip irrigation: Design, management, maintenance and soil salinity control",2013,drip,6896,0
+LIT_0234,groundwater_recharge,10_12706_itea_2013_023.pdf,10.12706/itea.2013.023,"State of the art of subsurface drip irrigation: Design, management, maintenance and soil salinity control",2013,drip,6896,1
+LIT_0234,biodiversity,10_12706_itea_2013_023.pdf,10.12706/itea.2013.023,"State of the art of subsurface drip irrigation: Design, management, maintenance and soil salinity control",2013,drip,6896,0
+LIT_0237,pest_control,10_13031_trans_13117.pdf,10.13031/trans.13117,Low-Energy Precision Application (LEPA) Irrigation: A Forty-Year Review,2019,drip,8239,1
+LIT_0238,groundwater_recharge,10_13031_trans_13620.pdf,10.13031/trans.13620,"Past, present, and future of irrigation on the U.S. great plains",2020,drip,22965,119
+LIT_0240,pest_control,10_13031_trans_14555.pdf,10.13031/trans.14555,A 2020 Vision of Subsurface Drip Irrigation in the U.S.,2021,drip,22559,15
+LIT_0240,groundwater_recharge,10_13031_trans_14555.pdf,10.13031/trans.14555,A 2020 Vision of Subsurface Drip Irrigation in the U.S.,2021,drip,22559,4
+LIT_0252,groundwater_recharge,10_14719_pst_6601.pdf,10.14719/pst.6601,Smart water management in agroecosystems: innovations and challenges in a changing climate- A review,2025,remote_sensing,9739,6
+LIT_0252,biodiversity,10_14719_pst_6601.pdf,10.14719/pst.6601,Smart water management in agroecosystems: innovations and challenges in a changing climate- A review,2025,remote_sensing,9739,1
+LIT_0252,pest_control,10_14719_pst_6601.pdf,10.14719/pst.6601,Smart water management in agroecosystems: innovations and challenges in a changing climate- A review,2025,remote_sensing,9739,2
+LIT_0254,pest_control,10_14719_pst_9063.pdf,10.14719/pst.9063,Agri-robotics in smallholder agriculture: A comprehensive review of recent efficient and affordable technologies,2026,drip,6409,32
+LIT_0255,pest_control,10_14719_pst_9174.pdf,10.14719/pst.9174,Harnessing remote sensing for smart agriculture,2025,remote_sensing,8882,63
+LIT_0255,biodiversity,10_14719_pst_9174.pdf,10.14719/pst.9174,Harnessing remote sensing for smart agriculture,2025,remote_sensing,8882,6
+LIT_0259,groundwater_recharge,10_15302_j_fase_2026693.pdf,10.15302/j-fase-2026693,Advancing smart irrigation systems with the Internet of Things and machine learning: a review for water-secure agricultural practices in water-scarce regions,2026,soil_sensor,13856,6
+LIT_0259,pest_control,10_15302_j_fase_2026693.pdf,10.15302/j-fase-2026693,Advancing smart irrigation systems with the Internet of Things and machine learning: a review for water-secure agricultural practices in water-scarce regions,2026,soil_sensor,13856,4
+LIT_0263,pest_control,10_17762_ijritcc_v11i6_9684.pdf,10.17762/ijritcc.v11i6.9684,Review of Sustainable Irrigation Technological Practices in Agriculture,2023,soil_sensor,5800,9
+LIT_0263,microclimate_regulation,10_17762_ijritcc_v11i6_9684.pdf,10.17762/ijritcc.v11i6.9684,Review of Sustainable Irrigation Technological Practices in Agriculture,2023,soil_sensor,5800,2
+LIT_0266,pest_control,10_18805_ag_r_2823.pdf,10.18805/ag.r-2823,The Biophysics of Precision Agriculture: Smart Sensors and Materials for Sustainable Farming: A Review,2026,soil_sensor,7444,16
+LIT_0266,microclimate_regulation,10_18805_ag_r_2823.pdf,10.18805/ag.r-2823,The Biophysics of Precision Agriculture: Smart Sensors and Materials for Sustainable Farming: A Review,2026,soil_sensor,7444,29
+LIT_0267,pest_control,10_18805_ijare_a_6269.pdf,10.18805/ijare.a-6269,Impacts of Micro-irrigation Technologies in Maharashtra: A Review,2025,drip,5151,0
+LIT_0267,microclimate_regulation,10_18805_ijare_a_6269.pdf,10.18805/ijare.a-6269,Impacts of Micro-irrigation Technologies in Maharashtra: A Review,2025,drip,5151,1
+LIT_0267,groundwater_recharge,10_18805_ijare_a_6269.pdf,10.18805/ijare.a-6269,Impacts of Micro-irrigation Technologies in Maharashtra: A Review,2025,drip,5151,11
+LIT_0267,social_cohesion,10_18805_ijare_a_6269.pdf,10.18805/ijare.a-6269,Impacts of Micro-irrigation Technologies in Maharashtra: A Review,2025,drip,5151,7
+LIT_0268,pest_control,10_18805_ijare_a_6484.pdf,10.18805/ijare.a-6484,The Impacts of Micro-irrigation Technologies in Assam: A Review,2026,drip,5398,3
+LIT_0268,groundwater_recharge,10_18805_ijare_a_6484.pdf,10.18805/ijare.a-6484,The Impacts of Micro-irrigation Technologies in Assam: A Review,2026,drip,5398,7
+LIT_0268,social_cohesion,10_18805_ijare_a_6484.pdf,10.18805/ijare.a-6484,The Impacts of Micro-irrigation Technologies in Assam: A Review,2026,drip,5398,7
+LIT_0268,microclimate_regulation,10_18805_ijare_a_6484.pdf,10.18805/ijare.a-6484,The Impacts of Micro-irrigation Technologies in Assam: A Review,2026,drip,5398,2
+LIT_0269,groundwater_recharge,10_21273_hortsci_46_2_178.pdf,10.21273/hortsci.46.2.178,"Soil water tension, a powerful measurement for productivity and stewardship",2011,soil_sensor,9218,1
+LIT_0269,medicinal_food,10_21273_hortsci_46_2_178.pdf,10.21273/hortsci.46.2.178,"Soil water tension, a powerful measurement for productivity and stewardship",2011,soil_sensor,9218,1
+LIT_0271,pest_control,10_21273_horttech_20_1_133.pdf,10.21273/horttech.20.1.133,Use of irrigation technologies for vegetable crops in Florida,2010,drip,7620,1
+LIT_0271,biodiversity,10_21273_horttech_20_1_133.pdf,10.21273/horttech.20.1.133,Use of irrigation technologies for vegetable crops in Florida,2010,drip,7620,0
+LIT_0272,pest_control,10_21273_horttech_20_1_74.pdf,10.21273/horttech.20.1.74,Use of irrigation technologies for citrus trees in Florida,2010,soil_sensor,7313,5
+LIT_0272,groundwater_recharge,10_21273_horttech_20_1_74.pdf,10.21273/horttech.20.1.74,Use of irrigation technologies for citrus trees in Florida,2010,soil_sensor,7313,5
+LIT_0274,pest_control,10_21608_djas_2024_406058.pdf,10.21608/djas.2024.406058,Improving Potato Productivity through Innovative Fertilization Strategies under Drip Irrigation Conditions: A critical review,2024,drip,8492,6
+LIT_0274,groundwater_recharge,10_21608_djas_2024_406058.pdf,10.21608/djas.2024.406058,Improving Potato Productivity through Innovative Fertilization Strategies under Drip Irrigation Conditions: A critical review,2024,drip,8492,2
+LIT_0275,pest_control,10_21608_ejchem_2023_151289_6552.pdf,10.21608/ejchem.2023.151289.6552,Improvement of Irrigation Water Management Using Simulation Models And Artificial Intelligence Under Dry Environment Conditions In Egypt: A Review,2023,remote_sensing,7131,3
+LIT_0279,pest_control,10_2166_wcc_2024_256.pdf,10.2166/wcc.2024.256,A systematic literature review on adoption and impact of micro-irrigation,2024,drip,10045,27
+LIT_0279,groundwater_recharge,10_2166_wcc_2024_256.pdf,10.2166/wcc.2024.256,A systematic literature review on adoption and impact of micro-irrigation,2024,drip,10045,3
+LIT_0279,microclimate_regulation,10_2166_wcc_2024_256.pdf,10.2166/wcc.2024.256,A systematic literature review on adoption and impact of micro-irrigation,2024,drip,10045,0
+LIT_0279,social_cohesion,10_2166_wcc_2024_256.pdf,10.2166/wcc.2024.256,A systematic literature review on adoption and impact of micro-irrigation,2024,drip,10045,12
+LIT_0280,groundwater_recharge,10_2166_wcc_2025_240.pdf,10.2166/wcc.2025.240,A review on enhancing water productivities adaptive to the climate change,2025,drip,21458,2
+LIT_0284,pest_control,10_2166_ws_2022_201.pdf,10.2166/ws.2022.201,Mechanisms of impact on the soil environment of drip irrigation applying treated sewage effluent: a review in China,2022,drip,10176,14
+LIT_0284,groundwater_recharge,10_2166_ws_2022_201.pdf,10.2166/ws.2022.201,Mechanisms of impact on the soil environment of drip irrigation applying treated sewage effluent: a review in China,2022,drip,10176,10
+LIT_0284,biodiversity,10_2166_ws_2022_201.pdf,10.2166/ws.2022.201,Mechanisms of impact on the soil environment of drip irrigation applying treated sewage effluent: a review in China,2022,drip,10176,4
+LIT_0293,social_cohesion,10_22098_mmws_2025_18343_1683.pdf,10.22098/mmws.2025.18343.1683,"A systematic review of performance assessment in canal irrigation systems: Integrating socio-technical, remote sensing, and AI-driven approaches for a climate-resilient future",2025,remote_sensing,11720,35
+LIT_0298,groundwater_recharge,10_2478_jlecol_2024_0002.pdf,10.2478/jlecol-2024-0002,Sustainable Groundwater Management Through Micro Irrigation: A Critical Review on Challenges and Solutions,2024,drip,8970,96
+LIT_0298,pest_control,10_2478_jlecol_2024_0002.pdf,10.2478/jlecol-2024-0002,Sustainable Groundwater Management Through Micro Irrigation: A Critical Review on Challenges and Solutions,2024,drip,8970,9
+LIT_0299,groundwater_recharge,10_25130_tjes_30_3_7.pdf,10.25130/tjes.30.3.7,A Review of Fluid Flow Applications and Hydraulic Performance of Sustainable Drip Irrigation to Improve Water Resource Management,2023,drip,8702,6
+LIT_0303,groundwater_recharge,10_31893_multirev_2025094.pdf,10.31893/multirev.2025094,Significance of micro-irrigation for feasible and sustainable agriculture: A review,2025,drip,4366,4
+LIT_0303,pest_control,10_31893_multirev_2025094.pdf,10.31893/multirev.2025094,Significance of micro-irrigation for feasible and sustainable agriculture: A review,2025,drip,4366,1
+LIT_0307,pest_control,10_3389_fagro_2025_1670380.pdf,10.3389/fagro.2025.1670380,"Integrating UAVs, satellite remote sensing, and machine learning in precision agriculture: pathways to sustainable food production, resource efficiency, and scalable innovation",2026,remote_sensing,13391,48
+LIT_0317,pest_control,10_3389_fpls_2024_1444560.pdf,10.3389/fpls.2024.1444560,Precise application of water and fertilizer to crops: challenges and opportunities,2024,drip,14764,8
+LIT_0317,biodiversity,10_3389_fpls_2024_1444560.pdf,10.3389/fpls.2024.1444560,Precise application of water and fertilizer to crops: challenges and opportunities,2024,drip,14764,13
+LIT_0330,groundwater_recharge,10_3390_agronomy13071938.pdf,10.3390/agronomy13071938,Methodologies for Water Accounting at the Collective Irrigation System Scale Aiming at Optimizing Water Productivity,2023,remote_sensing,23150,40
+LIT_0331,groundwater_recharge,10_3390_agronomy13102566.pdf,10.3390/agronomy13102566,Irrigation Water and Nitrogen Fertilizer Management in Potato (Solanum tuberosum L.): A Review,2023,drip,16003,19
+LIT_0334,pest_control,10_3390_agronomy14081752.pdf,10.3390/agronomy14081752,A Review of the Application and Impact of Drip Irrigation under Plastic Mulch in Agricultural Ecosystems,2024,drip,6934,5
+LIT_0334,groundwater_recharge,10_3390_agronomy14081752.pdf,10.3390/agronomy14081752,A Review of the Application and Impact of Drip Irrigation under Plastic Mulch in Agricultural Ecosystems,2024,drip,6934,7
+LIT_0334,biodiversity,10_3390_agronomy14081752.pdf,10.3390/agronomy14081752,A Review of the Application and Impact of Drip Irrigation under Plastic Mulch in Agricultural Ecosystems,2024,drip,6934,1
+LIT_0334,microclimate_regulation,10_3390_agronomy14081752.pdf,10.3390/agronomy14081752,A Review of the Application and Impact of Drip Irrigation under Plastic Mulch in Agricultural Ecosystems,2024,drip,6934,2
+LIT_0339,pest_control,10_3390_agronomy16060615.pdf,10.3390/agronomy16060615,Precision Agriculture for Nutraceutical Crops: A Comprehensive Scientific Review,2026,remote_sensing,16932,8
+LIT_0339,microclimate_regulation,10_3390_agronomy16060615.pdf,10.3390/agronomy16060615,Precision Agriculture for Nutraceutical Crops: A Comprehensive Scientific Review,2026,remote_sensing,16932,19
+LIT_0339,biodiversity,10_3390_agronomy16060615.pdf,10.3390/agronomy16060615,Precision Agriculture for Nutraceutical Crops: A Comprehensive Scientific Review,2026,remote_sensing,16932,31
+LIT_0341,groundwater_recharge,10_3390_agronomy9020087.pdf,10.3390/agronomy9020087,Agronomic basis and strategies for precision water management: A review,2019,app_scheduling,14037,8
+LIT_0347,biodiversity,10_3390_cli14060124.pdf,10.3390/cli14060124,"Remote Sensing for Irrigation Water Management Under Climate Change: Advances, Challenges, and Future Directions",2026,remote_sensing,8897,0
+LIT_0350,pest_control,10_3390_drones8110686.pdf,10.3390/drones8110686,"Drones in Precision Agriculture: A Comprehensive Review of Applications, Technologies, and Challenges",2024,remote_sensing,16153,73
+LIT_0350,microclimate_regulation,10_3390_drones8110686.pdf,10.3390/drones8110686,"Drones in Precision Agriculture: A Comprehensive Review of Applications, Technologies, and Challenges",2024,remote_sensing,16153,7
+LIT_0350,biodiversity,10_3390_drones8110686.pdf,10.3390/drones8110686,"Drones in Precision Agriculture: A Comprehensive Review of Applications, Technologies, and Challenges",2024,remote_sensing,16153,10
+LIT_0352,pest_control,10_3390_earth7020063.pdf,10.3390/earth7020063,Advances in Emerging Digital Technologies for Sustainable Agriculture: Applications and Future Perspectives,2026,remote_sensing,21331,66
+LIT_0354,pest_control,10_3390_encyclopedia5020067.pdf,10.3390/encyclopedia5020067,Innovations in Sensor-Based Systems and Sustainable Energy Solutions for Smart Agriculture: A Review,2025,remote_sensing,13501,96
+LIT_0354,livestock,10_3390_encyclopedia5020067.pdf,10.3390/encyclopedia5020067,Innovations in Sensor-Based Systems and Sustainable Energy Solutions for Smart Agriculture: A Review,2025,remote_sensing,13501,11
+LIT_0356,pest_control,10_3390_horticulturae12060719.pdf,10.3390/horticulturae12060719,"Smart Technologies and Artificial Intelligence in Sustainable Viticulture: Applications, Benefits, Barriers and Governance for High-Quality Grape Production",2026,remote_sensing,10267,28
+LIT_0361,pest_control,10_3390_land14020399.pdf,10.3390/land14020399,Enhancing Precision Agriculture for Climate Change Mitigation in Visegrad Countries: Factors Shaping Adaptation,2025,soil_sensor,12110,17
+LIT_0361,biodiversity,10_3390_land14020399.pdf,10.3390/land14020399,Enhancing Precision Agriculture for Climate Change Mitigation in Visegrad Countries: Factors Shaping Adaptation,2025,soil_sensor,12110,5
+LIT_0363,pest_control,10_3390_rs12193136.pdf,10.3390/rs12193136,Applications of Remote Sensing in Precision Agriculture: A Review,2020,remote_sensing,20138,100
+LIT_0367,pest_control,10_3390_rs14215430.pdf,10.3390/rs14215430,Twenty Years of Remote Sensing Applications Targeting Landscape Analysis and Environmental Issues in Olive Growing: A Review,2022,remote_sensing,22914,3
+LIT_0367,biodiversity,10_3390_rs14215430.pdf,10.3390/rs14215430,Twenty Years of Remote Sensing Applications Targeting Landscape Analysis and Environmental Issues in Olive Growing: A Review,2022,remote_sensing,22914,29
+LIT_0369,groundwater_recharge,10_3390_rs15153856.pdf,10.3390/rs15153856,Review Analysis of Irrigation and Application of Remote Sensing in the Lower Mekong River Basin,2023,remote_sensing,11685,10
+LIT_0369,biodiversity,10_3390_rs15153856.pdf,10.3390/rs15153856,Review Analysis of Irrigation and Application of Remote Sensing in the Lower Mekong River Basin,2023,remote_sensing,11685,15
+LIT_0369,social_cohesion,10_3390_rs15153856.pdf,10.3390/rs15153856,Review Analysis of Irrigation and Application of Remote Sensing in the Lower Mekong River Basin,2023,remote_sensing,11685,8
+LIT_0370,pest_control,10_3390_rs16081324.pdf,10.3390/rs16081324,Advancements in Remote Sensing Imagery Applications for Precision Management in Olive Growing: A Systematic Review,2024,remote_sensing,28420,46
+LIT_0372,microclimate_regulation,10_3390_rs2092274.pdf,10.3390/rs2092274,Remote sensing of irrigated agriculture: Opportunities and challenges,2010,remote_sensing,14109,4
+LIT_0381,pest_control,10_3390_su172310550.pdf,10.3390/su172310550,The Role of Precision Coffee Farming in Mitigating the Biotic and Abiotic Stresses Related to Climate Change in Saudi Arabia: A Review,2025,remote_sensing,13428,74
+LIT_0382,microclimate_regulation,10_3390_su18115606.pdf,10.3390/su18115606,Water–Salt–Root Interactions in Drip-Irrigated Arid Shelterbelts: Toward Predictive Root-Zone Regulation,2026,drip,15722,3
+LIT_0382,biodiversity,10_3390_su18115606.pdf,10.3390/su18115606,Water–Salt–Root Interactions in Drip-Irrigated Arid Shelterbelts: Toward Predictive Root-Zone Regulation,2026,drip,15722,63
+LIT_0382,groundwater_recharge,10_3390_su18115606.pdf,10.3390/su18115606,Water–Salt–Root Interactions in Drip-Irrigated Arid Shelterbelts: Toward Predictive Root-Zone Regulation,2026,drip,15722,63
+LIT_0383,groundwater_recharge,10_3390_w10121771.pdf,10.3390/w10121771,"Improving irrigation water use efficiency: A review of advances, challenges and opportunities in the Australian context",2018,remote_sensing,11430,8
+LIT_0389,pest_control,10_3390_w14071157.pdf,10.3390/w14071157,"Remote Sensing, Geophysics, and Modeling to Support Precision Agriculture—Part 2: Irrigation Management",2022,remote_sensing,17575,2
+LIT_0393,social_cohesion,10_3390_w16131762.pdf,10.3390/w16131762,"Irrigation Performance Assessment, Opportunities with Wireless Sensors and Satellites",2024,remote_sensing,15599,6
+LIT_0394,pest_control,10_3390_w16152206.pdf,10.3390/w16152206,"A Review of Drip Irrigation’s Effect on Water, Carbon Fluxes, and Crop Growth in Farmland",2024,drip,13002,1
+LIT_0394,groundwater_recharge,10_3390_w16152206.pdf,10.3390/w16152206,"A Review of Drip Irrigation’s Effect on Water, Carbon Fluxes, and Crop Growth in Farmland",2024,drip,13002,9
+LIT_0394,biodiversity,10_3390_w16152206.pdf,10.3390/w16152206,"A Review of Drip Irrigation’s Effect on Water, Carbon Fluxes, and Crop Growth in Farmland",2024,drip,13002,2
+LIT_0394,microclimate_regulation,10_3390_w16152206.pdf,10.3390/w16152206,"A Review of Drip Irrigation’s Effect on Water, Carbon Fluxes, and Crop Growth in Farmland",2024,drip,13002,1
+LIT_0396,groundwater_recharge,10_3390_w17203018.pdf,10.3390/w17203018,From Flood to Drip Irrigation: A Review of Irrigation Modernization Trade-Offs,2025,drip,9279,34
+LIT_0396,social_cohesion,10_3390_w17203018.pdf,10.3390/w17203018,From Flood to Drip Irrigation: A Review of Irrigation Modernization Trade-Offs,2025,drip,9279,16
+LIT_0396,biodiversity,10_3390_w17203018.pdf,10.3390/w17203018,From Flood to Drip Irrigation: A Review of Irrigation Modernization Trade-Offs,2025,drip,9279,1
+LIT_0396,microclimate_regulation,10_3390_w17203018.pdf,10.3390/w17203018,From Flood to Drip Irrigation: A Review of Irrigation Modernization Trade-Offs,2025,drip,9279,0
+LIT_0396,pest_control,10_3390_w17203018.pdf,10.3390/w17203018,From Flood to Drip Irrigation: A Review of Irrigation Modernization Trade-Offs,2025,drip,9279,1
+LIT_0396,recreation_wellbeing,10_3390_w17203018.pdf,10.3390/w17203018,From Flood to Drip Irrigation: A Review of Irrigation Modernization Trade-Offs,2025,drip,9279,4
+LIT_0397,groundwater_recharge,10_3390_w17213125.pdf,10.3390/w17213125,"Remote Sensing, GIS, and Machine Learning in Water Resources Management for Arid Agricultural Regions: A Review",2025,remote_sensing,11806,58
+LIT_0397,social_cohesion,10_3390_w17213125.pdf,10.3390/w17213125,"Remote Sensing, GIS, and Machine Learning in Water Resources Management for Arid Agricultural Regions: A Review",2025,remote_sensing,11806,11
+LIT_0397,biodiversity,10_3390_w17213125.pdf,10.3390/w17213125,"Remote Sensing, GIS, and Machine Learning in Water Resources Management for Arid Agricultural Regions: A Review",2025,remote_sensing,11806,5
+LIT_0398,groundwater_recharge,10_3390_w17233430.pdf,10.3390/w17233430,The Application of Remote Sensing to Improve Irrigation Accounting Systems: A Review,2025,remote_sensing,13201,59
+LIT_0398,social_cohesion,10_3390_w17233430.pdf,10.3390/w17233430,The Application of Remote Sensing to Improve Irrigation Accounting Systems: A Review,2025,remote_sensing,13201,20
+LIT_0406,social_cohesion,10_4067_s0718_58392009000500002.pdf,10.4067/s0718-58392009000500002,Irrigation water management in Latin America,2009,remote_sensing,7428,6
+LIT_0412,groundwater_recharge,10_51470_ar_2024_3_1_01.pdf,10.51470/ar.2024.3.1.01,Advances in Smart Irrigation Technologies for Enhancing Water Use Efficiency and Crop Productivity under Changing Climate Conditions,2024,remote_sensing,3579,5
+LIT_0412,social_cohesion,10_51470_ar_2024_3_1_01.pdf,10.51470/ar.2024.3.1.01,Advances in Smart Irrigation Technologies for Enhancing Water Use Efficiency and Crop Productivity under Changing Climate Conditions,2024,remote_sensing,3579,7
+LIT_0413,pest_control,10_51470_ar_2024_3_2_07.pdf,10.51470/ar.2024.3.2.07,Advances in Precision Horticulture for Enhanced Crop Productivity and Resource-Use Efficiency,2024,remote_sensing,1599,9
+LIT_0413,microclimate_regulation,10_51470_ar_2024_3_2_07.pdf,10.51470/ar.2024.3.2.07,Advances in Precision Horticulture for Enhanced Crop Productivity and Resource-Use Efficiency,2024,remote_sensing,1599,3
+LIT_0417,pest_control,10_53550_eec_2024_v30i02_065.pdf,10.53550/eec.2024.v30i02.065,Automation in micro irrigation – A Review,2024,drip,4897,3
+LIT_0423,social_cohesion,10_5897_ijwree2025_1101.pdf,10.5897/ijwree2025.1101,A review of trends in water management to optimize crop production,2025,drip,11874,19
+LIT_0423,groundwater_recharge,10_5897_ijwree2025_1101.pdf,10.5897/ijwree2025.1101,A review of trends in water management to optimize crop production,2025,drip,11874,7
+LIT_0423,livestock,10_5897_ijwree2025_1101.pdf,10.5897/ijwree2025.1101,A review of trends in water management to optimize crop production,2025,drip,11874,5
+LIT_0423,recreation_wellbeing,10_5897_ijwree2025_1101.pdf,10.5897/ijwree2025.1101,A review of trends in water management to optimize crop production,2025,drip,11874,4
+LIT_0427,pest_control,10_6090_jarq_50_301.pdf,10.6090/jarq.50.301,A method for high-quality citrus production using drip fertigation and plastic sheet mulching,2016,drip,3926,1
+LIT_0430,pest_control,10_63143_jabaas_2120233.pdf,10.63143/jabaas.2120233,The Recent Applications of Remote sensing in Agriculture-A Review,2025,remote_sensing,5714,41
+LIT_0430,biodiversity,10_63143_jabaas_2120233.pdf,10.63143/jabaas.2120233,The Recent Applications of Remote sensing in Agriculture-A Review,2025,remote_sensing,5714,1
+LIT_0430,microclimate_regulation,10_63143_jabaas_2120233.pdf,10.63143/jabaas.2120233,The Recent Applications of Remote sensing in Agriculture-A Review,2025,remote_sensing,5714,0
+LIT_0432,groundwater_recharge,10_63163_jpehss_v4i1_1045.pdf,10.63163/jpehss.v4i1.1045,"Comparative Efficiency of Drip, Sprinkler, and Flood Irrigation Systems under Water-Scarce Conditions",2026,drip,4085,15
+LIT_0433,social_cohesion,10_65041_biologicalforum_2025_17_12_8.pdf,10.65041/biologicalforum.2025.17.12.8,The Role of Geoinformatics in Irrigation Performance and Water Conservation: A Review,2025,remote_sensing,3753,4
+LIT_0433,groundwater_recharge,10_65041_biologicalforum_2025_17_12_8.pdf,10.65041/biologicalforum.2025.17.12.8,The Role of Geoinformatics in Irrigation Performance and Water Conservation: A Review,2025,remote_sensing,3753,1
+LIT_0434,pest_control,10_65523_gjst_2025_v1_i2_05.pdf,10.65523/gjst.2025.v1.i2.05,Use of Drones In Crop Health Monitoring: A Comprehensive Review (2014–2025),2025,app_scheduling,2026,19
+LIT_0436,pest_control,10_7831_ras_11_0_36.pdf,10.7831/ras.11.0_36,Alternative Techniques of Irrigation Water Management for Improving Crop Water Productivity,2023,drip,9135,11
+LIT_0438,pest_control,10_9734_ajsspn_2026_v12i1656.pdf,10.9734/ajsspn/2026/v12i1656,Advancing Agriculture through Digital Soil Insight and Smart Farming Technologies,2026,remote_sensing,5723,4
+LIT_0440,pest_control,10_9734_ijecc_2023_v13i123689.pdf,10.9734/ijecc/2023/v13i123689,Climate Smart Irrigation Practices for Improving Water Productivity in India: A Comprehensive Review,2023,drip,7605,6
+LIT_0440,groundwater_recharge,10_9734_ijecc_2023_v13i123689.pdf,10.9734/ijecc/2023/v13i123689,Climate Smart Irrigation Practices for Improving Water Productivity in India: A Comprehensive Review,2023,drip,7605,8
+LIT_0440,biodiversity,10_9734_ijecc_2023_v13i123689.pdf,10.9734/ijecc/2023/v13i123689,Climate Smart Irrigation Practices for Improving Water Productivity in India: A Comprehensive Review,2023,drip,7605,3
+LIT_0441,pest_control,10_9734_ijpss_2023_v35i203913.pdf,10.9734/ijpss/2023/v35i203913,Significance of Mulching on Soil Conservation,2023,drip,5257,31
+LIT_0441,microclimate_regulation,10_9734_ijpss_2023_v35i203913.pdf,10.9734/ijpss/2023/v35i203913,Significance of Mulching on Soil Conservation,2023,drip,5257,5
+LIT_0441,groundwater_recharge,10_9734_ijpss_2023_v35i203913.pdf,10.9734/ijpss/2023/v35i203913,Significance of Mulching on Soil Conservation,2023,drip,5257,0
+LIT_0441,biodiversity,10_9734_ijpss_2023_v35i203913.pdf,10.9734/ijpss/2023/v35i203913,Significance of Mulching on Soil Conservation,2023,drip,5257,5
+LIT_0443,pest_control,10_9734_jeai_2025_v47i63533.pdf,10.9734/jeai/2025/v47i63533,Impact of Water Deficit and Soil Conditioners Under a Solar Operated Automatic Drip Irrigation System: A Comprehensive Review,2025,drip,9259,6
+LIT_0443,groundwater_recharge,10_9734_jeai_2025_v47i63533.pdf,10.9734/jeai/2025/v47i63533,Impact of Water Deficit and Soil Conditioners Under a Solar Operated Automatic Drip Irrigation System: A Comprehensive Review,2025,drip,9259,3
+LIT_0443,livestock,10_9734_jeai_2025_v47i63533.pdf,10.9734/jeai/2025/v47i63533,Impact of Water Deficit and Soil Conditioners Under a Solar Operated Automatic Drip Irrigation System: A Comprehensive Review,2025,drip,9259,5
+LIT_0444,pest_control,10_9734_jgeesi_2024_v28i3755.pdf,10.9734/jgeesi/2024/v28i3755,Advancing Water Conservation Techniques in Agriculture for Sustainable Resource Management: A review,2024,drip,6971,10
+LIT_0444,groundwater_recharge,10_9734_jgeesi_2024_v28i3755.pdf,10.9734/jgeesi/2024/v28i3755,Advancing Water Conservation Techniques in Agriculture for Sustainable Resource Management: A review,2024,drip,6971,21
+LIT_0444,social_cohesion,10_9734_jgeesi_2024_v28i3755.pdf,10.9734/jgeesi/2024/v28i3755,Advancing Water Conservation Techniques in Agriculture for Sustainable Resource Management: A review,2024,drip,6971,29
+LIT_0445,pest_control,10_9734_jgeesi_2026_v30i71076.pdf,10.9734/jgeesi/2026/v30i71076,Advances in Precision Fruit Production under Arid Conditions Using IoT and Remote Sensing Technologies: A Review,2026,soil_sensor,8019,18
+LIT_0445,microclimate_regulation,10_9734_jgeesi_2026_v30i71076.pdf,10.9734/jgeesi/2026/v30i71076,Advances in Precision Fruit Production under Arid Conditions Using IoT and Remote Sensing Technologies: A Review,2026,soil_sensor,8019,20
+LIT_0446,microclimate_regulation,10_9734_jsrr_2026_v32i34068.pdf,10.9734/jsrr/2026/v32i34068,Precision Irrigation and Smart Greenhouse Technologies for Sustainable Agriculture: An Integrated Review,2026,remote_sensing,9874,27
+LIT_0446,pest_control,10_9734_jsrr_2026_v32i34068.pdf,10.9734/jsrr/2026/v32i34068,Precision Irrigation and Smart Greenhouse Technologies for Sustainable Agriculture: An Integrated Review,2026,remote_sensing,9874,3
+LIT_0447,microclimate_regulation,10_9734_jsrr_2026_v32i44087.pdf,10.9734/jsrr/2026/v32i44087,Climate-Smart Agriculture Strategies for Improving Water-use Efficiency under Extreme Weather Conditions,2026,remote_sensing,8493,15
+LIT_0447,groundwater_recharge,10_9734_jsrr_2026_v32i44087.pdf,10.9734/jsrr/2026/v32i44087,Climate-Smart Agriculture Strategies for Improving Water-use Efficiency under Extreme Weather Conditions,2026,remote_sensing,8493,0
+LIT_0447,social_cohesion,10_9734_jsrr_2026_v32i44087.pdf,10.9734/jsrr/2026/v32i44087,Climate-Smart Agriculture Strategies for Improving Water-use Efficiency under Extreme Weather Conditions,2026,remote_sensing,8493,3
+LMK_0019,social_cohesion,10_1016_j_biosystemseng_2010_09_009.pdf,10.1016/j.biosystemseng.2010.09.009,Energy efficiency of pressurised irrigation networks managed on-demand and under a rotation schedule,2010,on_demand,8233,3

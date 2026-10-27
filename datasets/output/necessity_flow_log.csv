@@ -1,0 +1,9 @@
+gate,n
+documents_rostered,65
+documents_quoted,38
+quotes_returned,66
+quotes_verified,47
+quotes_confirmed_both_models,16
+quotes_confirmed_human_adjudication,8
+quotes_headline,24
+documents_headline,18

@@ -1,0 +1,5 @@
+rec_id,technology,year,title,doi,doi_link,save_as,stratum,retrieved,note
+LMK_0003,flow_metering,2007,Linear regressions and neural approaches to water demand forecasting in irrigation districts with telemetry systems,10.1016/j.biosystemseng.2007.03.003,https://doi.org/10.1016/j.biosystemseng.2007.03.003,10_1016_j_biosystemseng_2007_03_003.pdf,landmark_primary,"",""
+LMK_0016,on_demand,2011,Evaluation of Water and Energy Use in Pressurized Irrigation Networks in Southern Spain,10.1061/(asce)ir.1943-4774.0000338,https://doi.org/10.1061/(asce)ir.1943-4774.0000338,10_1061_asce_ir_1943_4774_0000338.pdf,landmark_primary,"",""
+LMK_0019,on_demand,2010,Energy efficiency of pressurised irrigation networks managed on-demand and under a rotation schedule,10.1016/j.biosystemseng.2010.09.009,https://doi.org/10.1016/j.biosystemseng.2010.09.009,10_1016_j_biosystemseng_2010_09_009.pdf,landmark_primary,"",""
+LMK_0025,on_demand,2015,Methodology to improve water and energy use by proper irrigation scheduling in pressurised networks,10.1016/j.agwat.2014.10.026,https://doi.org/10.1016/j.agwat.2014.10.026,10_1016_j_agwat_2014_10_026.pdf,landmark_primary,"",""

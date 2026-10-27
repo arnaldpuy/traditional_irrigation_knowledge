@@ -1,0 +1,31 @@
+rec_id,technology,title,year,doi,cited_by,cl_inc,ds_inc,both_inc
+LMK_0001,flow_metering,"IoT-based smart irrigation management system to enhance agricultural water security using embedded systems, telemetry data, and cloud computing",2024,10.1016/j.rineng.2024.102829,124,FALSE,FALSE,FALSE
+LMK_0002,flow_metering,Assessment of the Energy balance closure under advective conditions and its impact using remote sensing data,2017,10.1175/jamc-d-16-0096.1,96,FALSE,FALSE,FALSE
+LMK_0003,flow_metering,Linear regressions and neural approaches to water demand forecasting in irrigation districts with telemetry systems,2007,10.1016/j.biosystemseng.2007.03.003,79,TRUE,TRUE,TRUE
+LMK_0004,flow_metering,A non-invasive plant-based probe for continuous monitoring of water stress in real time: a new tool for irrigation scheduling and deeper insight into drought and salinity stress physiology,2013,10.1590/s2197-00252013000100002,61,FALSE,FALSE,FALSE
+LMK_0005,flow_metering,A Secure IoT-Based Irrigation System for Precision Agriculture Using the Expeditious Cipher,2023,10.3390/s23042091,58,FALSE,FALSE,FALSE
+LMK_0006,flow_metering,Assessment of results of surgical treatment for persistent atrial fibrillation during coronary artery bypass grafting using implantable loop recorders,2014,10.1093/icvts/ivu016,56,FALSE,FALSE,FALSE
+LMK_0007,flow_metering,A real-time optimisation system for automation of furrow irrigation,2014,10.1007/s00271-014-0432-6,49,FALSE,FALSE,FALSE
+LMK_0008,flow_metering,"Developing an intelligent expert system for streamflow prediction, integrated in a dynamic decision support system for managing multiple reservoirs: A case study",2017,10.1016/j.eswa.2017.04.039,47,FALSE,FALSE,FALSE
+LMK_0009,flow_metering,Development and Application of a Performance and Operational Feasibility Guide to Facilitate Adoption of Soil Moisture Sensors,2019,10.3390/su12010321,45,FALSE,FALSE,FALSE
+LMK_0010,flow_metering,Emerging conservation initiatives for lampreys: Research challenges and opportunities,2021,10.1016/j.jglr.2020.06.004,43,FALSE,FALSE,FALSE
+LMK_0011,flow_metering,Research and Development of an IoT Smart Irrigation System for Farmland Based on LoRa and Edge Computing,2025,10.3390/agronomy15020366,38,FALSE,FALSE,FALSE
+LMK_0012,flow_metering,Effectiveness of Fish Screens to Prevent Entrainment of Westslope Cutthroat Trout into Irrigation Canals,2008,10.1577/m07-096.1,30,FALSE,FALSE,FALSE
+LMK_0013,flow_metering,A Comprehensive IoT edge based smart irrigation system for tomato cultivation,2024,10.1016/j.iot.2024.101356,28,FALSE,FALSE,FALSE
+LMK_0014,flow_metering,Oral Communication,2007,10.1111/j.1540-8167.2007.00933_1.x,27,FALSE,FALSE,FALSE
+LMK_0015,flow_metering,IoT-enabled solar-powered smart irrigation for precision agriculture,2025,10.1016/j.atech.2025.100773,26,FALSE,FALSE,FALSE
+LMK_0016,on_demand,Evaluation of Water and Energy Use in Pressurized Irrigation Networks in Southern Spain,2011,10.1061/(asce)ir.1943-4774.0000338,85,TRUE,TRUE,TRUE
+LMK_0017,on_demand,Continuous monitoring of intrapelvic pressure during flexible ureteroscopy using a sensor wire: a pilot study,2020,10.1007/s00345-020-03216-w,77,FALSE,FALSE,FALSE
+LMK_0018,on_demand,"Modelling crop yield, water consumption, and water use efficiency for sustainable agroecosystem management",2020,10.1016/j.jclepro.2019.119940,75,FALSE,FALSE,FALSE
+LMK_0019,on_demand,Energy efficiency of pressurised irrigation networks managed on-demand and under a rotation schedule,2010,10.1016/j.biosystemseng.2010.09.009,69,TRUE,TRUE,TRUE
+LMK_0020,on_demand,Methodology for grouping intakes of pressurised irrigation networks into sectors to minimise energy consumption,2010,10.1016/j.biosystemseng.2009.12.014,66,FALSE,TRUE,FALSE
+LMK_0021,on_demand,Long-term measurements of agronomic crop irrigation made in the Mississippi delta portion of the lower Mississippi River Valley,2017,10.1007/s00271-017-0543-y,64,TRUE,FALSE,FALSE
+LMK_0022,on_demand,Optimum pumping station management for irrigation networks sectoring: Case of Bembezar MI (Spain),2014,10.1016/j.agwat.2014.06.006,50,TRUE,FALSE,FALSE
+LMK_0023,on_demand,Detecting Critical Points in On-Demand Irrigation Pressurized Networks – A New Methodology,2012,10.1007/s11269-012-9981-8,49,FALSE,TRUE,FALSE
+LMK_0024,on_demand,Intelligent hydrogel on–off controller sensor for irrigation,2023,10.1007/s42114-023-00821-2,49,FALSE,FALSE,FALSE
+LMK_0025,on_demand,Methodology to improve water and energy use by proper irrigation scheduling in pressurised networks,2015,10.1016/j.agwat.2014.10.026,41,TRUE,TRUE,TRUE
+LMK_0026,on_demand,From on-farm solid-set sprinkler irrigation design to collective irrigation network design in windy areas,2007,10.1016/j.agwat.2006.06.018,38,TRUE,FALSE,FALSE
+LMK_0027,on_demand,Improved Pressurized Pipe Network Hydraulic Solver for Applications in Irrigation Systems,2009,10.1061/(asce)ir.1943-4774.0000100,36,FALSE,FALSE,FALSE
+LMK_0028,on_demand,Optimization Strategy for Improving the Energy Efficiency of Irrigation Systems by Micro Hydropower: Practical Application,2017,10.3390/w9100799,35,FALSE,FALSE,FALSE
+LMK_0029,on_demand,Efficiency-driven pumping station regulation in on-demand irrigation systems,2011,10.1007/s00271-011-0314-0,33,TRUE,TRUE,TRUE
+LMK_0030,on_demand,Evaluation of the design and performance of a micro hydropower plant in a pressurised irrigation network: Real world application at farm-level in Southern Spain,2021,10.1016/j.renene.2021.01.084,32,FALSE,TRUE,FALSE

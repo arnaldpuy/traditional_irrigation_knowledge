@@ -1,0 +1,249 @@
+custom_id,status,text
+NQ_0002,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Praises IoT drip irrigation but no dependence link to future viability.""
+}"
+NQ_0003,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Praises benefits but no dependence on tech modernization for viability.""}"
+NQ_0004,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.8,
+  ""reason"": ""Mentions need for modernization but no dependence link to sustainability.""
+}"
+NQ_0005,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Praises efficiency improvements but no dependence link to sustainability.""
+}"
+NQ_0006,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Needs technologies but no dependence link to sustainability.""
+}"
+NQ_0007,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Praises IoT sensors but no dependence link to survival of irrigated agriculture.""}"
+NQ_0008,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No mention of irrigated agriculture or dependence on tech for its survival.""}"
+NQ_0009,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Missing stake and technological means; only general innovation.""
+}"
+NQ_0013,succeeded,"{""asserts_premise"": true, ""link_strength"": ""explicit_necessity"", ""confidence"": 0.9, ""reason"": ""Essential factors must be followed for sustainable development, including providing technology for water efficiency.""}"
+NQ_0016,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.9,
+  ""reason"": ""States need for more efficient irrigation to compensate for increased water requirements.""
+}"
+NQ_0019,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No mention of technological modernization or efficiency.""}"
+NQ_0020,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Discusses fishing/aquaculture, not irrigated agriculture.""}"
+NQ_0021,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Passage discusses fishing, not irrigated agriculture.""}"
+NQ_0022,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No stake or dependence on tech modernization for sustainability.""}"
+NQ_0024,succeeded,"{""asserts_premise"": true, ""link_strength"": ""explicit_necessity"", ""confidence"": 0.95, ""reason"": ""Explicitly states updating traditional irrigation is a requirement for competitiveness.""}"
+NQ_0025,succeeded,"{""asserts_premise"": true, ""link_strength"": ""explicit_necessity"", ""confidence"": 0.9, ""reason"": ""Demands investment in modernization to guarantee competitiveness.""}"
+NQ_0026,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Discusses adaptation strategy but no dependence on technological modernization.""}"
+NQ_0027,succeeded,"{""asserts_premise"": true, ""link_strength"": ""explicit_necessity"", ""confidence"": 0.95, ""reason"": ""Explicit 'must' links traditional irrigation transformation to modern efficient systems.""}"
+NQ_0028,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No dependence link between stake and tech means.""}"
+NQ_0029,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Expands irrigated area, not technological modernization.""
+}"
+NQ_0030,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""Must improve performance through modernization and optimal water use.""
+}"
+NQ_0031,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No dependence on technological modernization; only mentions irrigation need.""}"
+NQ_0032,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Passage discusses sustainable use but not dependence on tech modernization.""
+}"
+NQ_0033,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No mention of technological modernization or efficiency.""}"
+NQ_0034,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States improvements require modernization, linking stake to technological means.""
+}"
+NQ_0035,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""No mention of technological modernization or dependence link.""
+}"
+NQ_0036,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""Improvements in profitability depend on integrated system modernization.""
+}"
+NQ_0010,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States adoption of efficient irrigation is essential due to water scarcity and climate change.""
+}"
+NQ_0011,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""No dependence link between stake and tech means.""
+}"
+NQ_0012,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No mention of irrigated agriculture or sustainability.""}"
+NQ_0014,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Mentions efficiency but no dependence on technological modernization.""
+}"
+NQ_0017,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States adoption is essential for sustainability.""
+}"
+NQ_0018,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.9,
+  ""reason"": ""States must move from traditional to technology-based farming.""
+}"
+NQ_0037,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""No dependence link between stake and technological means.""
+}"
+NQ_0038,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""strong_normative"",
+  ""confidence"": 0.9,
+  ""reason"": ""States 'more efficient irrigation needed' linking viability to efficiency.""
+}"
+NQ_0039,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""Names stake (economic activity, food security), means (PA, renewable energy), uses 'key to'.""
+}"
+NQ_0041,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States investments in modernization are necessary for efficiency, competitiveness, and climate adaptation.""
+}"
+NQ_0042,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 1.0,
+  ""reason"": ""States IoT tech is essential to guarantee future through precision irrigation.""
+}"
+NQ_0044,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 1.0,
+  ""reason"": ""States transition to advanced systems is a fundamental requirement for survival.""
+}"
+NQ_0045,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""No dependence link to sustainability of irrigated agriculture.""
+}"
+NQ_0046,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""strong_normative"",
+  ""confidence"": 0.9,
+  ""reason"": ""Crisis for regions that fail to modernize implies dependence on modernization.""
+}"
+NQ_0049,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No mention of technological modernization or efficiency.""}"
+NQ_0050,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Passage discusses fishing/aquaculture, not irrigated agriculture.""
+}"
+NQ_0051,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Passage discusses fishing, not irrigated agriculture.""}"
+NQ_0052,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Praises digital transformation but no dependence on future sustainability.""
+}"
+NQ_0054,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""Names stake (competitiveness), means (efficiency increase), uses 'exigència' (requirement).""
+}"
+NQ_0055,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""Demands investment in modernization to guarantee competitiveness.""
+}"
+NQ_0056,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""No mention of technological modernization or dependence link.""
+}"
+NQ_0057,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States traditional irrigation must be transformed into modern efficient irrigation.""
+}"
+NQ_0058,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Needed but no dependence link between stake and tech modernization.""
+}"
+NQ_0059,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Expands irrigated area, not technological modernization.""
+}"
+NQ_0060,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States 'greater emphasis must be on improved performance...through modernization' linking necessity to tech means.""
+}"
+NQ_0061,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""Passage discusses supplementary irrigation as a requirement, not technological modernization for efficiency.""
+}"
+NQ_0062,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""Passage discusses prerequisites for expansion, not dependence of sustainability on tech modernization.""}"
+NQ_0063,succeeded,"{""asserts_premise"": false, ""link_strength"": ""promotional_only"", ""confidence"": 0.9, ""reason"": ""No dependence on technological modernization; only mentions goals.""}"
+NQ_0064,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States improvements require modernization, linking stake to technological means.""
+}"
+NQ_0065,succeeded,"{
+  ""asserts_premise"": false,
+  ""link_strength"": ""promotional_only"",
+  ""confidence"": 0.9,
+  ""reason"": ""No mention of technological modernization or dependence link.""
+}"
+NQ_0066,succeeded,"{
+  ""asserts_premise"": true,
+  ""link_strength"": ""explicit_necessity"",
+  ""confidence"": 0.95,
+  ""reason"": ""States improvements must be made through modernization, linking necessity to technology.""
+}"
