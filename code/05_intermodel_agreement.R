@@ -13,7 +13,7 @@ invisible(lapply(r_functions, source))
 
 # Configuration ---------------------------------------------------------------
 
-prompt_choice <- Sys.getenv("CODING_PROMPT", "subcategory")  # subcategory | analytical
+prompt_choice <- Sys.getenv("CODING_PROMPT", "analytical")  # subcategory | analytical
 providers <- c("anthropic", "deepseek")
 out <- here("datasets", "output")
 

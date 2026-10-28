@@ -30,7 +30,7 @@ fontsize: 11pt
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, dev = "pdf", cache = TRUE)
+knitr::opts_chunk$set(echo = TRUE, dev = "pdf", cache = FALSE)
 ```
 
 \newpage
@@ -1040,10 +1040,12 @@ plot_grid(plot_sens_tot, plot_sens_prac, ncol = 2, rel_widths = c(0.38, 0.62),
 
 fig_dir <- here("code", "traditional_irrigation_knowledge_files", "figure-latex")
 out_dir <- here("manuscript", "figures")
-for (f in c("fig1-shares", "fig2-bundles", "figS1-map", "figS2-sobol",
-            "figS3-embedding", "figS4-dimensions", "figS6-frontier", "figS7-sensory"))
-  file.copy(file.path(fig_dir, paste0(f, "-1.pdf")), file.path(out_dir, paste0(f, ".pdf")),
-            overwrite = TRUE)
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+figs <- c("fig1-shares", "fig2-bundles", "figS1-map", "figS2-sobol",
+          "figS3-embedding", "figS4-dimensions", "figS6-frontier", "figS7-sensory")
+ok <- file.copy(file.path(fig_dir, paste0(figs, "-1.pdf")),
+                file.path(out_dir, paste0(figs, ".pdf")), overwrite = TRUE)
+stopifnot(all(ok))
 ```
 
 \newpage

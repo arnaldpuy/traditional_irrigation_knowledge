@@ -217,14 +217,15 @@ cat(sprintf("prompt %s | sha256 %s\n", basename(prompt_path),
 cat(sprintf("items %d x %d draws = %d requests per family, %d in total\n",
             nrow(both), n_samples, nrow(items), 3L * nrow(items)))
 
-if (!run_enabled) {
-  message("\nPARAPHRASE_RUN_ENABLED = FALSE -> items built, classification NOT called.")
+raw_file <- file.path(arm_dir, "arm_paraphrase_raw_all.csv")
+if (!run_enabled && !file.exists(raw_file)) {
+  message("\nPARAPHRASE_RUN_ENABLED = FALSE and no archived replies -> items built, classification NOT called.")
   quit(save = "no")
 }
 
 # RUN #########################################################################
 
-if (tolower(Sys.getenv("PARAPHRASE_CLAUDE_DIRECT", "true")) == "true") {
+if (run_enabled && tolower(Sys.getenv("PARAPHRASE_CLAUDE_DIRECT", "true")) == "true") {
   cache_a <- file.path(arm_dir, "arm_paraphrase_raw_anthropic.csv")
   if (!file.exists(cache_a)) {
     cat("Claude leg: synchronous endpoint\n")
@@ -235,7 +236,7 @@ if (tolower(Sys.getenv("PARAPHRASE_CLAUDE_DIRECT", "true")) == "true") {
   }
 }
 
-if (tolower(Sys.getenv("PARAPHRASE_OPENAI_DIRECT", "true")) == "true") {
+if (run_enabled && tolower(Sys.getenv("PARAPHRASE_OPENAI_DIRECT", "true")) == "true") {
   cache_o <- file.path(arm_dir, "arm_paraphrase_raw_openai.csv")
   if (!file.exists(cache_o)) {
     cat("OpenAI leg: synchronous endpoint\n")

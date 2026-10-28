@@ -1,0 +1,6 @@
+measure,alpha,n_units
+within_claude_ordinal,0.882833598789538,563
+within_deepseek_ordinal,0.767541421221316,519
+between_models_ordinal,0.612575711337175,501
+between_models_nominal,0.498716988163682,501
+between_models_strong_vs_not,0.662148232611175,501

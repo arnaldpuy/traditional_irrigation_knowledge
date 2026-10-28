@@ -28,13 +28,21 @@ docs[, rec_id := as.character(rec_id)]
 
 # TEXT EXTRACTION #############################################################
 
-cat(sprintf("Extracting text from %d retrieved full texts ...\n", nrow(docs)))
-text_dt <- rbindlist(lapply(docs$path, extract_doc_text_fun))
-docs <- cbind(docs[, .(rec_id, technology, title_meta = title, year, doi)],
-              text_dt[, .(file, format, source, title_xml = title, abstract,
-                          body, n_chars, truncated)])
-fwrite(docs[, !c("body", "abstract")],
-       file.path(out_dir, "literature_extraction_text.csv"))
+offline <- !any(file.exists(docs$path))
+if (offline) {
+  cat("Full texts not on disk: reading literature_extraction_text.csv (metadata only)\n")
+  docs <- fread(file.path(out_dir, "literature_extraction_text.csv"), encoding = "UTF-8")
+  docs[, rec_id := as.character(rec_id)]
+  docs[, `:=`(body = NA_character_, abstract = NA_character_)]
+} else {
+  cat(sprintf("Extracting text from %d retrieved full texts ...\n", nrow(docs)))
+  text_dt <- rbindlist(lapply(docs$path, extract_doc_text_fun))
+  docs <- cbind(docs[, .(rec_id, technology, title_meta = title, year, doi)],
+                text_dt[, .(file, format, source, title_xml = title, abstract,
+                            body, n_chars, truncated)])
+  fwrite(docs[, !c("body", "abstract")],
+         file.path(out_dir, "literature_extraction_text.csv"))
+}
 cat("Extraction source breakdown:\n"); print(docs[, .N, by = source])
 cat(sprintf("Bodies < 500 chars (unusable): %d\n",
             docs[n_chars < 500, .N]))
@@ -150,9 +158,8 @@ cat(sprintf("Codeable documents (>=500 chars): %d / %d\n",
 
 n_draws <- as.integer(Sys.getenv("LITEXTRACT_N_DRAWS", "5"))
 
-if (!run_enabled) {
-  cat("\nGATED: LITEXTRACT_RUN_ENABLED != true - no billable API contacted.\n")
-} else {
+if (!run_enabled) cat("\nGATED: LITEXTRACT_RUN_ENABLED != true - no billable API contacted; parsing the archived replies.\n")
+if (run_enabled || file.exists(file.path(out_dir, "literature_extraction_raw_claude.rds"))) {
 
   cl_raw_file <- file.path(out_dir, "literature_extraction_raw_claude.rds")
   ds_raw_file <- file.path(out_dir, "literature_extraction_raw_deepseek.rds")
@@ -165,6 +172,7 @@ if (!run_enabled) {
       data.table(custom_id = character(), draw = integer(),
                  status = character(), text = character())
     if (!"draw" %in% names(cache)) cache[, draw := 1L]   # legacy single-draw cache
+    if (!run_enabled) return(cache)
     for (dr in seq_len(n_draws)) {
       done <- cache[draw == dr & status == "succeeded" & !is.na(text), custom_id]
       todo <- setdiff(items$custom_id, done)

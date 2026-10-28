@@ -20,7 +20,7 @@ invisible(lapply(r_functions, source))
 
 coding_run_enabled  <- as.logical(Sys.getenv("CODING_RUN_ENABLED", "FALSE"))
 provider            <- Sys.getenv("CODING_PROVIDER", "anthropic")  # anthropic | deepseek
-prompt_choice       <- Sys.getenv("CODING_PROMPT", "subcategory")  # subcategory (Carmen) | analytical (PNAS)
+prompt_choice       <- Sys.getenv("CODING_PROMPT", "analytical")  # subcategory (Carmen) | analytical (PNAS)
 n_samples           <- as.integer(Sys.getenv("CODING_N", "5"))
 effort              <- "high"           # anthropic only (ignored when thinking off)
 anthropic_thinking  <- "disabled"       # "disabled" | "adaptive"

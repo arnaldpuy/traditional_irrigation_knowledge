@@ -1,0 +1,19 @@
+stage,n
+raw search records (Scopus + Dimensions exports),11220
+"after de-duplication, screened on title and abstract",447
+included by both models,121
+excluded by both models,254
+"model disagreements, adjudicated by hand",72
+adjudicated include,43
+adjudicated exclude,29
+full-text manifest rows,165
+  retrieved,158
+  manual,7
+  landmark route,4
+extracted texts,158
+  usable body,156
+  abstract only,2
+  truncated at the character cap,75
+papers with a consensus reading,156
+excluded at reading (Chinese body text),1
+papers in the evidence layer,155

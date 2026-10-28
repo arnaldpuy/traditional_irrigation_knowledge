@@ -204,6 +204,11 @@ for (i in seq_len(nrow(replacements))) {
   body <- norm(read_lin(replacements$rec_id[i]))
   stopifnot(grepl(norm(replacements$verbatim_clean[i]), body, fixed = TRUE))
 }
+pdfs_present <- all(file.exists(file.path(pol_dir, paste0(replacements$rec_id, ".pdf"))))
+if (!pdfs_present) {
+  cat("Policy PDFs not on disk: the quote table is not rebuilt (the released quote files stand).\n")
+  quit(save = "no")
+}
 replacements[, page := vapply(seq_len(.N), function(i)
   page_of(rec_id[i], verbatim_clean[i]), integer(1))]
 print(replacements[, .(rec_id, fn, page)])

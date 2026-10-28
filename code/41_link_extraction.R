@@ -33,9 +33,14 @@ stopifnot(nrow(docs) == length(doc_ids))
 
 # INSTRUMENT ##################################################################
 
-prompt_lines <- readLines(here("manuscript", "prompt_draft.txt"), encoding = "UTF-8")
-rules <- grep("^=====", prompt_lines)
-system_prompt <- paste(prompt_lines[(rules[1] + 1):(rules[2] - 1)], collapse = "\n")
+prompt_file <- here("prompts", "link_extraction_prompt.txt")
+if (file.exists(prompt_file)) {
+  system_prompt <- paste(readLines(prompt_file, encoding = "UTF-8"), collapse = "\n")
+} else {
+  prompt_lines <- readLines(here("manuscript", "prompt_draft.txt"), encoding = "UTF-8")
+  rules <- grep("^=====", prompt_lines)
+  system_prompt <- paste(prompt_lines[(rules[1] + 1):(rules[2] - 1)], collapse = "\n")
+}
 prompt_hash <- digest(system_prompt, algo = "sha256")
 
 tech_vocab <- c("drip", "soil_sensor", "remote_sensing", "app_scheduling",
