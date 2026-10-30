@@ -120,7 +120,7 @@ if (!file.exists(para_file)) {
     id_cite, traditional_knowledge, underlying_assumption))]
 
   first_quoted <- function(x) {
-    pos <- gregexpr('[”“"]', x)[[1]]
+    pos <- gregexpr('[\u201d\u201c"]', x, perl = TRUE)[[1]]
     if (length(pos) < 2 || pos[1] == -1) return(NA_character_)
     trimws(substr(x, pos[1] + 1L, pos[2] - 1L))
   }

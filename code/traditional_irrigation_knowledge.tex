@@ -1304,7 +1304,7 @@ the best set of \(k\) functions.}
   \FunctionTok{geom\_text\_repel}\NormalTok{(}\AttributeTok{data =}\NormalTok{ locations, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat, }\AttributeTok{label =}\NormalTok{ place),}
                   \AttributeTok{size =} \FloatTok{2.6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#222222"}\NormalTok{, }\AttributeTok{box.padding =} \FloatTok{0.5}\NormalTok{,}
                   \AttributeTok{point.padding =} \FloatTok{0.3}\NormalTok{, }\AttributeTok{segment.colour =} \StringTok{"\#888888"}\NormalTok{,}
-                  \AttributeTok{segment.linewidth =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{min.segment.length =} \FloatTok{0.2}\NormalTok{,}
+                  \AttributeTok{segment.size =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{min.segment.length =} \FloatTok{0.2}\NormalTok{,}
                   \AttributeTok{max.overlaps =} \ConstantTok{Inf}\NormalTok{, }\AttributeTok{seed =} \DecValTok{42}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{coord\_sf}\NormalTok{(}\AttributeTok{xlim =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{9.5}\NormalTok{, }\FloatTok{4.5}\NormalTok{), }\AttributeTok{ylim =} \FunctionTok{c}\NormalTok{(}\FloatTok{35.5}\NormalTok{, }\FloatTok{44.5}\NormalTok{), }\AttributeTok{expand =} \ConstantTok{FALSE}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \ConstantTok{NULL}\NormalTok{, }\AttributeTok{y =} \ConstantTok{NULL}\NormalTok{) }\SpecialCharTok{+}
@@ -1314,11 +1314,6 @@ the best set of \(k\) functions.}
         \AttributeTok{axis.text =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#555555"}\NormalTok{))}
 \end{Highlighting}
 \end{Shaded}
-
-\begin{verbatim}
-## Warning in geom_text_repel(data = locations, aes(x = lon, y = lat, label =
-## place), : Ignoring unknown parameters: `segment.linewidth`
-\end{verbatim}
 
 \begin{figure}
 \centering
@@ -1361,22 +1356,13 @@ by each pair of factors.}
              \AttributeTok{size =} \FloatTok{2.8}\NormalTok{, }\AttributeTok{stroke =} \DecValTok{1}\NormalTok{, }\AttributeTok{colour =} \StringTok{"black"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{annotate}\NormalTok{(}\StringTok{"label"}\NormalTok{, }\AttributeTok{x =}\NormalTok{ lexm}\SpecialCharTok{$}\NormalTok{pc1 }\SpecialCharTok{{-}} \FloatTok{0.04}\NormalTok{, }\AttributeTok{y =}\NormalTok{ lexm}\SpecialCharTok{$}\NormalTok{pc2 }\SpecialCharTok{{-}} \FloatTok{0.12}\NormalTok{,}
            \AttributeTok{label =} \StringTok{"efficiency}\SpecialCharTok{\textbackslash{}n}\StringTok{lexicon"}\NormalTok{, }\AttributeTok{size =} \DecValTok{2}\NormalTok{, }\AttributeTok{hjust =} \FloatTok{0.5}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{,}
-           \AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{fill =} \StringTok{"white"}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.85}\NormalTok{, }\AttributeTok{label.size =} \DecValTok{0}\NormalTok{) }\SpecialCharTok{+}
+           \AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{fill =} \StringTok{"white"}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.85}\NormalTok{, }\AttributeTok{linewidth =} \DecValTok{0}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{scale\_colour\_manual}\NormalTok{(}\StringTok{""}\NormalTok{, }\AttributeTok{values =}\NormalTok{ col\_code) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Semantic axis 1"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Semantic axis 2"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
   \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.98}\NormalTok{, }\FloatTok{0.98}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{),}
         \AttributeTok{legend.background =} \FunctionTok{element\_rect}\NormalTok{(}\AttributeTok{fill =} \StringTok{"white"}\NormalTok{, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{))}
-\end{Highlighting}
-\end{Shaded}
 
-\begin{verbatim}
-## Warning in annotate("label", x = lexm$pc1 - 0.04, y = lexm$pc2 - 0.12, label =
-## "efficiency\nlexicon", : Ignoring unknown parameters: `label.size`
-\end{verbatim}
-
-\begin{Shaded}
-\begin{Highlighting}[]
 \NormalTok{plot\_emb\_sim }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(demb, }\FunctionTok{aes}\NormalTok{(sim\_centroid, }\AttributeTok{fill =}\NormalTok{ code, }\AttributeTok{colour =}\NormalTok{ code)) }\SpecialCharTok{+}
   \FunctionTok{geom\_density}\NormalTok{(}\AttributeTok{alpha =} \FloatTok{0.35}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{adjust =} \FloatTok{1.1}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{scale\_fill\_manual}\NormalTok{(}\StringTok{""}\NormalTok{, }\AttributeTok{values =}\NormalTok{ col\_code) }\SpecialCharTok{+}
@@ -1703,6 +1689,7 @@ reach 90\% of the variance (dotted line).}
 
 \NormalTok{cod\_curve }\OtherTok{\textless{}{-}}\NormalTok{ spectrum[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(cum\_var), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(cum\_var),}
                           \AttributeTok{hi =} \FunctionTok{max}\NormalTok{(cum\_var)), by }\OtherTok{=}\NormalTok{ pc]}
+\NormalTok{cod\_curve[, }\FunctionTok{c}\NormalTok{(}\StringTok{"lo"}\NormalTok{, }\StringTok{"hi"}\NormalTok{, }\StringTok{"med"}\NormalTok{) }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{lapply}\NormalTok{(.SD, pmin, }\DecValTok{1}\NormalTok{), .SDcols }\OtherTok{=} \FunctionTok{c}\NormalTok{(}\StringTok{"lo"}\NormalTok{, }\StringTok{"hi"}\NormalTok{, }\StringTok{"med"}\NormalTok{)]  }\CommentTok{\# cumsum rounding above 1}
 
 \NormalTok{plot\_spec }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{() }\SpecialCharTok{+}
   \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \FloatTok{0.9}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dotted"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey55"}\NormalTok{,}
@@ -1774,11 +1761,6 @@ reach 90\% of the variance (dotted line).}
 \FunctionTok{plot\_grid}\NormalTok{(plot\_spec, plot\_pr, }\AttributeTok{ncol =} \DecValTok{2}\NormalTok{, }\AttributeTok{rel\_widths =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.5}\NormalTok{, }\FloatTok{0.5}\NormalTok{), }\AttributeTok{labels =} \StringTok{"auto"}\NormalTok{)}
 \end{Highlighting}
 \end{Shaded}
-
-\begin{verbatim}
-## Warning: Removed 3 rows containing missing values or values outside the scale range
-## (`geom_ribbon()`).
-\end{verbatim}
 
 \begin{figure}
 \centering
@@ -1935,7 +1917,7 @@ each practice.}
 ## LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
 ## 
 ## locale:
-## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/C
 ## 
 ## time zone: Europe/London
 ## tzcode source: internal

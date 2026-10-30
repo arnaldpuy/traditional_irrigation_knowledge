@@ -757,7 +757,7 @@ ggplot() +
   geom_text_repel(data = locations, aes(x = lon, y = lat, label = place),
                   size = 2.6, colour = "#222222", box.padding = 0.5,
                   point.padding = 0.3, segment.colour = "#888888",
-                  segment.linewidth = 0.4, min.segment.length = 0.2,
+                  segment.size = 0.4, min.segment.length = 0.2,
                   max.overlaps = Inf, seed = 42) +
   coord_sf(xlim = c(-9.5, 4.5), ylim = c(35.5, 44.5), expand = FALSE) +
   labs(x = NULL, y = NULL) +
@@ -785,7 +785,7 @@ plot_emb_map <- ggplot(demb, aes(pc1, pc2, colour = code)) +
              size = 2.8, stroke = 1, colour = "black") +
   annotate("label", x = lexm$pc1 - 0.04, y = lexm$pc2 - 0.12,
            label = "efficiency\nlexicon", size = 2, hjust = 0.5, vjust = 1,
-           lineheight = 0.9, fill = "white", alpha = 0.85, label.size = 0) +
+           lineheight = 0.9, fill = "white", alpha = 0.85, linewidth = 0) +
   scale_colour_manual("", values = col_code) +
   labs(x = "Semantic axis 1", y = "Semantic axis 2") +
   theme_AP() +
@@ -926,6 +926,7 @@ emb_k90 <- emb_summary$pcs_for_90pct_variance
 
 cod_curve <- spectrum[, .(med = median(cum_var), lo = min(cum_var),
                           hi = max(cum_var)), by = pc]
+cod_curve[, c("lo", "hi", "med") := lapply(.SD, pmin, 1), .SDcols = c("lo", "hi", "med")]  # cumsum rounding above 1
 
 plot_spec <- ggplot() +
   geom_hline(yintercept = 0.9, linetype = "dotted", colour = "grey55",

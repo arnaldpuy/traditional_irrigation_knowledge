@@ -25,10 +25,22 @@ needs_external <- c(
   `41_link_extraction.R` = "the review full texts; archived replies are parsed if present")
 
 stopifnot(all(offline %in% scripts))
+strict <- tolower(Sys.getenv("REPRODUCE_STRICT", "false")) == "true"
 Sys.unsetenv(c("CODING_RUN_ENABLED", "PLANTED_RUN_ENABLED", "PARAPHRASE_RUN_ENABLED",
                "LANGUAGE_RUN_ENABLED", "LITEXTRACT_RUN_ENABLED", "POLICY_RUN_ENABLED",
                "POLICY_RECODE_ENABLED", "LINK_RUN_ENABLED"))
+Sys.setenv(LITEXTRACT_ARCHIVED_INPUT = "true")   # 37 reads the archived text log whatever is on disk
+if (!isTRUE(l10n_info()[["UTF-8"]])) {
+  avail <- tryCatch(system2("locale", "-a", stdout = TRUE, stderr = FALSE), error = function(e) character(0))
+  utf8 <- avail[grepl("utf-?8", avail, ignore.case = TRUE)]
+  pick <- c(intersect(c("en_US.UTF-8", "C.UTF-8", "C.utf8"), utf8), utf8)[1]
+  if (is.na(pick)) stop("no UTF-8 locale available; set LC_ALL to one before running")
+  Sys.setenv(LC_ALL = pick, LANG = pick)
+  invisible(Sys.setlocale("LC_ALL", pick))
+  cat(sprintf("locale was not UTF-8; using %s\n", pick))
+}
 before <- fread(file.path(here("datasets", "output"), "checksums.csv"))
+started <- Sys.time()
 
 for (s in offline) {
   cat(sprintf("\n==== %s ====\n", s))
@@ -45,12 +57,20 @@ files <- files[files != "checksums.csv"]
 after <- data.table(file = files,
                     md5 = vapply(file.path(here("datasets", "output"), files),
                                  digest, character(1), algo = "md5", file = TRUE))
+after[, rewritten := file.mtime(file.path(here("datasets", "output"), file)) >= started]
 cmp <- merge(before, after, by = "file", all = TRUE, suffixes = c("_release", "_now"))
 changed <- cmp[!is.na(md5_release) & !is.na(md5_now) & md5_release != md5_now, file]
+missing <- cmp[is.na(md5_now), file]
 cat(sprintf("\nOutputs compared: %d; identical: %d; changed: %d; new: %d; missing: %d\n",
             nrow(cmp), cmp[md5_release == md5_now, .N], length(changed),
-            cmp[is.na(md5_release), .N], cmp[is.na(md5_now), .N]))
+            cmp[is.na(md5_release), .N], length(missing)))
+cat(sprintf("Of the identical files, %d were rewritten by this run and %d are archived inputs or replies the run does not touch\n",
+            cmp[md5_release == md5_now & rewritten == TRUE, .N],
+            cmp[md5_release == md5_now & rewritten == FALSE, .N]))
 if (length(changed)) { cat("Changed files:\n"); cat(paste(" ", changed), sep = "\n") }
+if (length(missing)) { cat("Missing files:\n"); cat(paste(" ", missing), sep = "\n") }
+if (strict && (length(changed) || length(missing)))
+  stop(sprintf("REPRODUCE_STRICT: %d changed and %d missing output files", length(changed), length(missing)))
 
 cat("\nSkipped (need files not distributed):\n")
 for (nm in names(needs_external)) cat(sprintf("  %s: %s\n", nm, needs_external[[nm]]))

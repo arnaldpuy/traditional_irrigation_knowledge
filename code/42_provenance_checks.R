@@ -30,11 +30,36 @@ audit <- rbindlist(lapply(names(arm_files), function(nm) {
 }))
 audit <- audit[!(grepl("deepseek", arm) & provider != "deepseek")]
 audit <- audit[!(!grepl("deepseek", arm) & provider == "deepseek")]
+audit[, layer := "headline"]
+
+funcs12 <- c("crop_production", "water_conservation", "soil_health", "pest_control",
+             "risk_management", "groundwater_recharge", "social_cohesion", "biodiversity",
+             "microclimate_regulation", "recreation_wellbeing", "livestock", "medicinal_plants")
+attr_file <- function(fam, ph) {
+  if (fam == "anthropic" && ph == "standard") "coding_results_raw_analytical_anthropic.csv"
+  else sprintf("coding_results_raw_attribution_%s_%s.csv", ph, fam)
+}
+names_fun <- function(txt) vapply(txt, function(t) {
+  o <- tryCatch(fromJSON(t), error = function(e) NULL)
+  !is.null(o) && length(intersect(unlist(o$functions), funcs12)) > 0
+}, logical(1), USE.NAMES = FALSE)
+attr_audit <- rbindlist(lapply(c("anthropic", "openai", "deepseek"), function(fam)
+  rbindlist(lapply(c("strict", "standard", "broad"), function(ph) {
+    d <- as.data.table(utils::read.csv(file.path(out, attr_file(fam, ph)),
+                                       stringsAsFactors = FALSE, encoding = "UTF-8"))
+    d <- d[!duplicated(custom_id)]
+    d[, valid := names_fun(text)]
+    d[, id_cite := sub("__s.*$", "", custom_id)]
+    d[, .(provider = fam, arm = paste("attribution", ph, fam, sep = "_"), layer = "attribution",
+          draws = .N, valid_draws = sum(valid)), by = id_cite]
+  }))))
+audit <- rbind(audit[, .(layer, arm, provider, id_cite, draws, valid_draws)],
+               attr_audit[, .(layer, arm, provider, id_cite, draws, valid_draws)])
 fwrite(audit, file.path(out, "valid_draw_audit.csv"))
 short <- audit[valid_draws < draws]
 cat(sprintf("Valid-draw audit: %d item x arm x provider cells, %d with fewer valid draws than fired\n",
             nrow(audit), nrow(short)))
-print(short[, .(items = .N, min_valid = min(valid_draws)), by = .(arm, provider)])
+print(short[, .(items = .N, min_valid = min(valid_draws)), by = .(layer, arm, provider)])
 
 # LITERATURE FLOW ##############################################################
 

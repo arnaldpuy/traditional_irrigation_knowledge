@@ -28,9 +28,10 @@ docs[, rec_id := as.character(rec_id)]
 
 # TEXT EXTRACTION #############################################################
 
-offline <- !any(file.exists(docs$path))
+archived <- tolower(Sys.getenv("LITEXTRACT_ARCHIVED_INPUT", "false")) == "true"
+offline <- archived || !any(file.exists(docs$path))
 if (offline) {
-  cat("Full texts not on disk: reading literature_extraction_text.csv (metadata only)\n")
+  cat("Reading literature_extraction_text.csv (archived text log, metadata only)\n")
   docs <- fread(file.path(out_dir, "literature_extraction_text.csv"), encoding = "UTF-8")
   docs[, rec_id := as.character(rec_id)]
   docs[, `:=`(body = NA_character_, abstract = NA_character_)]

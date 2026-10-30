@@ -21,6 +21,8 @@ The analysis combines 475 assumptions extracted from 110 interviews in seven tra
 - [Dependencies](#dependencies)
 - [How to run](#how-to-run)
 - [What is and is not reproducible offline](#what-is-and-is-not-reproducible-offline)
+- [Where each result comes from](#where-each-result-comes-from)
+- [Provenance of the assumption corpus](#provenance-of-the-assumption-corpus)
 - [Functions](#functions)
 - [Outputs](#outputs)
 - [Citation](#citation)
@@ -93,7 +95,19 @@ R 4.5.2, Python 3.12.4. Versions below are those used for the release.
 | `knitr` 1.51 | rendering the notebook |
 | `benchmarkme` 1.0.8 | session information |
 
-Python: `numpy`, `sentence-transformers` (model `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`), `pdfplumber`. System tools: `pandoc`, a TeX distribution with `pdflatex`, Poppler (`pdftotext`, `pdfinfo`). Set `RETICULATE_PYTHON` to the interpreter that has `numpy`.
+`ggplot2` and `cowplot` are development versions installed from GitHub at `tidyverse/ggplot2@6870419aa6e106c3580c45c81d5b688cb31758bd` and `wilkelab/cowplot@b18d820d3af26b749235c4e4bc18bf416fba88e1`. `install.R` at the repository root installs every R package above at the release version (CRAN archive by version, the two development packages at those commits):
+
+```bash
+Rscript install.R
+```
+
+Python: `numpy`, `sentence-transformers` (model `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`, Hugging Face snapshot `e8f8c211226b894fcb81acc59f3b34ba3efd5f42`; pass that revision to `SentenceTransformer()` to regenerate the embeddings), `pdfplumber` (script 01), PyMuPDF (`fitz`, scripts 26 and 27), `openpyxl`. `requirements.txt` pins their versions:
+
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+System tools: `pandoc`, a TeX distribution with `pdflatex`, Poppler (`pdftotext`, `pdfinfo`). Set `RETICULATE_PYTHON` to the interpreter that has `numpy`.
 
 ---
 
@@ -123,8 +137,49 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 
 - **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37) and the evidence tables (39–40). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
 - **Needs the LLM APIs**: new model calls in 02–04, 17, 19, 20, 24, 28–30, 37 and 41 (set the script's `*_RUN_ENABLED` variable). Fresh calls will not reproduce the archived text; the archived replies reproduce the published numbers.
-- **Needs files not distributed**: 01 (pdfplumber over the included assumption-table PDFs), 12–13 (the sentence-transformer weights, downloaded on first use), 27 and 31 (the policy PDFs), 38 and 41 (the review full texts), 32–36 (search and retrieval against Scopus, Dimensions and publishers).
-- **Known limits recorded in the data**: 75 of the 158 literature texts exceeded the 90,000-character cap of `extract_doc_text_fun` and were coded on their head and tail (`literature_extraction_text.csv`, column `truncated`); two records were coded on their abstract only; in two DeepSeek V4 arms, 3 and 7 of the 475 assumptions have four valid draws instead of five because one reply was not parseable (`valid_draw_audit.csv`); the authoritative literature-screening adjudication is `literature_screening_adjudication.xlsx`. The scripts in `code/historical/` produced the archived headline-arm replies in `datasets/output/arm` and `checkpoint` and depend on prompts and inputs that are not part of the release.
+- **Optional local preparation**: 01 rebuilds `assumptions_corpus.csv` from the included assumption-table PDFs with `pdfplumber` and Poppler; the deposited CSV is byte-identical to its output, so the runner does not call it.
+- **Needs files not distributed**: 12–13 (the sentence-transformer weights, downloaded on first use), 27 and 31 (the policy PDFs), 38 and 41 (the review full texts), 32–36 (search and retrieval against Scopus, Dimensions and publishers).
+- **Starting point of the policy reproduction**: 29 rebuilds the irrigation promise map from the archived recode replies and from the deposited base tables `policy_promise_draws.csv` and `policy_promise_map.csv`. Those base tables were produced by 28 from the raw promise-map replies and the policy PDFs, which are not redistributed; 28 is therefore outside the runner.
+- **Archived-input mode**: the runner sets `LITEXTRACT_ARCHIVED_INPUT=true`, so 37 reads the archived text log whether zero, some or all review full texts are present locally. Unset it to re-extract text from a complete local collection.
+- **Strict mode**: `REPRODUCE_STRICT=true Rscript code/00_reproduce.R` exits with a non-zero status when any output file differs from `checksums.csv` or is missing. The report also separates files the run rewrote from archived inputs and replies it never touches, so an all-identical result is not read as an all-recomputed one.
+- **No analysis API is called, but the run is not network-free**: `sensobol::load_packages()` installs a package missing from the library, and 12–13 download model weights on first use.
+- **Known limits recorded in the data**: 75 of the 158 literature texts exceeded the 90,000-character cap of `extract_doc_text_fun` and were coded on their head and tail (`literature_extraction_text.csv`, column `truncated`); two records were coded on their abstract only; in two DeepSeek V4 headline arms, 3 and 7 of the 475 assumptions have four valid draws instead of five because one reply was not parseable (`valid_draw_audit.csv`, which also covers the nine function-attribution arms: a draw there is valid when it names at least one of the twelve functions, the vote denominator is the number of valid draws, "unanimous" means named in every valid draw, 114 of the 4,275 assumption × arm cells have fewer than five valid draws, 107 of them in the three DeepSeek arms, and 4 cells have none and so drop out of that arm); the authoritative literature-screening adjudication is `literature_screening_adjudication.xlsx`. The scripts in `code/historical/` produced the archived headline-arm replies in `datasets/output/arm` and `checkpoint` and depend on prompts and inputs that are not part of the release.
+
+---
+
+## Where each result comes from
+
+| Item | Produced by | Reads |
+|---|---|---|
+| Fig. 1 | notebook chunks `fig1-shares-build`, `fig1-panels-cd`, `fig1-shares-panels`, `fig1-shares` | `sobol_headline_grid.csv`, `sobol_functions_*.csv`, `function_practice_counts_grid.csv` |
+| Fig. 2 | `fig2-bundles-build`, `fig2-bundles` | `practice_function_*.csv`, `sobol_ladder_bundles_*.csv` |
+| Results 1 numbers | `numbers-results1`; scripts 06, 14 | `sobol_headline_*.csv`, `embedding_auc.csv` |
+| Results 2 numbers | `numbers-results2`; script 10 | `compression_frontier.csv` |
+| Results 3 numbers | `numbers-results3`; scripts 08, 09 | `sobol_ladder_bundles_*.csv`, `practice_function_*.csv` |
+| Results 4, policy promises | script 29 | `policy_promise_map_irrigation.csv` |
+| Results 4, evidence | scripts 37–40, provisional; being redone with human readers | `evidence_strength_matrix.csv` |
+| Severing shares | script 11 | `severing_*.csv` |
+| Inter-model agreement (Methods) | script 05 | the stored coding replies |
+| Fig. S1 | `figS1-map` | site coordinates in the notebook |
+| Fig. S2 | `figS2-sobol-build`, `figS2-sobol` | `sobol_headline_*.csv` |
+| Fig. S3 | `sm-build`, `figS3-embedding` | `emb_*.csv`, `embedding_auc.csv` (scripts 12–14) |
+| Fig. S4 | `dimensionality-build`, `figS4-dimensions` | `emb_witness_summary.csv`, the coding spectrum (script 15) |
+| Fig. S5 | `manuscript/fig-approach-tikz.tex`, compiled with `pdflatex` | `compression_frontier.csv` for its numbers |
+| Fig. S6 | `figS6-frontier-build`, `figS6-frontier` | `compression_frontier.csv` |
+| Fig. S7 | `figS7-sensory-build`, `figS7-sensory` | `sensory_practice_grid.csv` |
+| Text S1.1 instrument tests | scripts 17–20 | `planted_items.xlsx`, the stored replies |
+| Text S1.2, S1.3 label-free checks | scripts 12–16 | `emb_assumption.npy`, `assumptions_corpus.csv` |
+| Text S1.5 policy promises, Table S4 | scripts 27–31 | the policy manifest and linearised text, the stored replies, `policy_quotes_adjudicated.csv` |
+| Text S1.7 literature assembly | scripts 32–38, 42 | `literature_search_raw.csv`, screening votes and adjudication, manifests, `literature_flow.csv` |
+| Table S1 necessity quotes | scripts 21–26 | `necessity_*.csv` |
+
+---
+
+## Provenance of the assumption corpus
+
+The 475 assumptions were not collected for this repository. They are the assumption tables released as the supplementary materials of *Traditional irrigation beyond practice: cultural and cognitive dimensions of Spanish irrigators* (one PDF per community, with the interview template, in `datasets/inputs/assumption_tables/`; TABLES_DOI). Those tables are the earliest form of the material that can be released: the interviews were not recorded, the answers were noted verbatim in Spanish or Catalan in a field notebook, the underlying assumption was extracted from each note and translated into English in post-processing by the interviewer, and the field notebooks, which carry identifying detail, are not part of this release (ethical approval: University of Birmingham STEM Committee, ERN_4315-May2026).
+
+Script 01 parses the seven PDFs into `assumptions_corpus.csv` (one row per assumption: `id`, `site`, `domain`, `traditional_knowledge`, `quote_es`, `quote_en`, `assumption`). `id` numbers the rows 1–475 in the order of the tables (Arriate 1–69, Huétor-Tájar 70–126, Dúrcal 127–200, Oria 201–288, Ricote 289–338, Murcia 339–419, Sudanell 420–475) and equals `our_id` in `assumption_list_updated.xlsx`, the workbook the coding scripts read. `id_cite` in that workbook (for example `CKM_01`) is the key under which every stored model reply and every derived table identifies an assumption; `carmen_crosswalk.csv` maps `id_cite` to `our_id` and to the community. The workbook carries no interviewee identifier. The consolidation of the notes into one assumption each, their de-duplication and the checking of the translations happened before the tables were published and are not documented beyond the published Methods; the repository therefore traces every number back to the tables, not to the interviews.
 
 ---
 
@@ -141,11 +196,13 @@ invisible(lapply(r_functions, source))
 | `aggregate_extraction_fun` | Aggregate the N-draw dual-model literature extraction into a stabilised |
 | `build_coding_request_fun` | build_coding_request_fun <- function(custom_id, system_prompt, user_text, |
 | `coding_schema_fun` | coding_schema_fun <- function(prompt_choice = c("analytical", "subcategory")) { |
+| `crossref_lookup_fun` | Queries the Crossref works API once for a free-text bibliographic string and |
 | `extract_doc_text_fun` | Extract plain text from a retrieved full text for LLM review-coding. Handles |
 | `fetch_batch_results_fun` | fetch_batch_results_fun <- function(batch, |
 | `fetch_fulltext_fun` | Retrieve the full text of one DOI through a waterfall of legal routes: |
 | `fetch_openalex_abstracts_fun` | Fetch abstracts for a vector of DOIs from OpenAlex (keyless; polite pool via |
 | `flatten_coding_record_fun` | flatten_coding_record_fun <- function(txt, choice) { |
+| `fleiss_kappa_fun` | Fleiss' kappa for a papers x raters matrix of categorical answers (NA rows dropped). |
 | `get_legend_fun` |  |
 | `kripp_alpha_fun` | Krippendorff's alpha via the coincidence-matrix method, with a pluggable |
 | `load_coded_corpus_fun` | Load the canonical coded corpus exactly as the analysis notebook does: |
@@ -178,7 +235,7 @@ Written by the notebook to `code/traditional_irrigation_knowledge_files/figure-l
 |---|---|
 | `fig1-shares-1.pdf` | Fig. 1, reducible and irreducible shares |
 | `fig2-bundles-1.pdf` | Fig. 2, practices and functions |
-| `figS1-map-1.pdf` … `figS7-sensory-1.pdf` | Figs. S1–S7 (S5 is built from `fig-approach-tikz.tex` with `pdflatex`) |
+| `figS1-map-1.pdf` … `figS7-sensory-1.pdf` | Figs. S1–S7 (S5 is built from `manuscript/fig-approach-tikz.tex` with `pdflatex`; it is the only file of `manuscript/` in the repository, the manuscripts themselves are not distributed here) |
 
 ### Tables
 

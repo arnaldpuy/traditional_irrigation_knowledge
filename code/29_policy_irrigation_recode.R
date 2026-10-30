@@ -26,7 +26,7 @@ general_docs <- c("C1_pepac_espana_v5-1", "C2_reg_eu_2021-2115",
 catalan_parts <- c("B2_pla_regadius_catalunya_memoria",
                    "B2b_pla_regadius_catalunya_annex2_proposta")
 catalan_id <- "B2_pla_regadius_catalunya"
-irr_pattern <- "\\b(regad[ií]os?|riegos?|regantes?|regadius?|irrigaci[oó]n|irrigation|irrigated|regar|regatge)\\b"
+irr_pattern <- "\\b(regad[i\u00ed]os?|riegos?|regantes?|regadius?|irrigaci[o\u00f3]n|irrigation|irrigated|regar|regatge)\\b"
 
 # IRRIGATION PASSAGES #########################################################
 

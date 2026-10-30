@@ -32,11 +32,11 @@ corpus <- as.data.table(read_xlsx(here("datasets", "inputs",
 setnames(corpus, tolower(names(corpus)))
 
 split_statement <- function(x) {
-  pos <- gregexpr('[”“"]', x)[[1]]
+  pos <- gregexpr('[\u201d\u201c"]', x, perl = TRUE)[[1]]
   if (length(pos) < 2 || pos[1] == -1) return(c(NA_character_, NA_character_))
   original <- substr(x, pos[1] + 1L, pos[2] - 1L)
   english <- substr(x, pos[2] + 1L, nchar(x))
-  english <- sub('^[[:space:][:punct:]]*(Saying\\s*-\\s*)?[”“"]?', "", english)
+  english <- sub('^[[:space:][:punct:]]*(Saying\\s*-\\s*)?[\u201d\u201c"]?', "", english, perl = TRUE)
   c(trimws(original), trimws(english))
 }
 sp <- t(vapply(corpus$traditional_knowledge, split_statement, character(2),
