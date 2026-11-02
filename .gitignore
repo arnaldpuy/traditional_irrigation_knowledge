@@ -1,7 +1,7 @@
 manuscript/*
 !manuscript/fig-approach-tikz.tex
+!manuscript/fig-evidence-workflow-tikz.tex
 docs/
-.gitignore
 .here
 /*.md
 !/README.md
