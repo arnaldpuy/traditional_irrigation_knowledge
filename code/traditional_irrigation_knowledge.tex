@@ -276,7 +276,20 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
   \FunctionTok{scale\_y\_continuous}\NormalTok{(}\AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.04}\NormalTok{))) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Irreducible share"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Specifications"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
-  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.01}\NormalTok{, }\FloatTok{0.98}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{))}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.01}\NormalTok{, }\FloatTok{0.86}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{))}
+
+\NormalTok{hum\_share }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"human\_validation\_shares.csv"}\NormalTok{))}
+\NormalTok{hum\_top }\OtherTok{\textless{}{-}} \FunctionTok{max}\NormalTok{(}\FunctionTok{ggplot\_build}\NormalTok{(plot\_sob\_a)}\SpecialCharTok{$}\NormalTok{data[[}\DecValTok{1}\NormalTok{]]}\SpecialCharTok{$}\NormalTok{count) }\SpecialCharTok{*} \FloatTok{1.08}
+\NormalTok{plot\_sob\_a }\OtherTok{\textless{}{-}}\NormalTok{ plot\_sob\_a }\SpecialCharTok{+}
+  \FunctionTok{annotate}\NormalTok{(}\StringTok{"rect"}\NormalTok{, }\AttributeTok{xmin =} \FunctionTok{min}\NormalTok{(hum\_share}\SpecialCharTok{$}\NormalTok{irreducible\_share),}
+           \AttributeTok{xmax =} \FunctionTok{max}\NormalTok{(hum\_share}\SpecialCharTok{$}\NormalTok{irreducible\_share), }\AttributeTok{ymin =} \SpecialCharTok{{-}}\ConstantTok{Inf}\NormalTok{, }\AttributeTok{ymax =} \ConstantTok{Inf}\NormalTok{,}
+           \AttributeTok{fill =} \StringTok{"grey50"}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.18}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_share, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ irreducible\_share, }\AttributeTok{y =}\NormalTok{ hum\_top, }\AttributeTok{shape =}\NormalTok{ rater),}
+             \AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{, }\AttributeTok{size =} \FloatTok{1.1}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{annotate}\NormalTok{(}\StringTok{"text"}\NormalTok{, }\AttributeTok{x =} \FunctionTok{max}\NormalTok{(hum\_share}\SpecialCharTok{$}\NormalTok{irreducible\_share) }\SpecialCharTok{+} \FloatTok{0.012}\NormalTok{, }\AttributeTok{y =}\NormalTok{ hum\_top,}
+           \AttributeTok{label =} \StringTok{"Human raters"}\NormalTok{, }\AttributeTok{size =} \FloatTok{1.9}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{0}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey25"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_shape\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\AttributeTok{anthropologist =} \DecValTok{16}\NormalTok{, }\AttributeTok{modeller\_1 =} \DecValTok{2}\NormalTok{,}
+                                \AttributeTok{modeller\_2 =} \DecValTok{0}\NormalTok{), }\AttributeTok{guide =} \StringTok{"none"}\NormalTok{)}
 
 \CommentTok{\# Panel b: first{-} and total{-}order indices {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
 
@@ -338,6 +351,17 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
 \CommentTok{\# Panel a: irreducible share by knowledge domain {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
 
 \NormalTok{dom\_full }\OtherTok{\textless{}{-}} \FunctionTok{ensemble\_by}\NormalTok{(}\StringTok{"domain\_short"}\NormalTok{)}
+
+\CommentTok{\# Human raters {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{hum }\OtherTok{\textless{}{-}} \FunctionTok{fread}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(out, }\StringTok{"human\_validation\_ratings.csv"}\NormalTok{))[}\SpecialCharTok{!}\FunctionTok{is.na}\NormalTok{(irreducible)]}
+\NormalTok{hum }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(hum, dt[, .(id\_cite, domain\_short, epistemic\_type)], }\AttributeTok{by =} \StringTok{"id\_cite"}\NormalTok{)}
+\NormalTok{hum\_off }\OtherTok{\textless{}{-}} \DecValTok{0}
+\NormalTok{rater\_shape }\OtherTok{\textless{}{-}} \FunctionTok{scale\_shape\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\AttributeTok{anthropologist =} \DecValTok{16}\NormalTok{, }\AttributeTok{modeller\_1 =} \DecValTok{2}\NormalTok{,}
+                                             \AttributeTok{modeller\_2 =} \DecValTok{0}\NormalTok{),}
+                                  \AttributeTok{labels =} \FunctionTok{c}\NormalTok{(}\StringTok{"Anthropologist"}\NormalTok{, }\StringTok{"Modeller 1"}\NormalTok{,}
+                                             \StringTok{"Modeller 2"}\NormalTok{),}
+                                  \AttributeTok{name =} \StringTok{"Human rater"}\NormalTok{)}
 \NormalTok{dom\_ens }\OtherTok{\textless{}{-}}\NormalTok{ dom\_full[, .(}\AttributeTok{med =} \FunctionTok{median}\NormalTok{(share), }\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(share), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(share)),}
 \NormalTok{                    by }\OtherTok{=}\NormalTok{ domain\_short]}
 \NormalTok{dom\_ord }\OtherTok{\textless{}{-}}\NormalTok{ dom\_ens[}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{med), domain\_short]}
@@ -354,6 +378,24 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
   \FunctionTok{scale\_x\_discrete}\NormalTok{(}\AttributeTok{labels =} \ControlFlowTok{function}\NormalTok{(x) }\FunctionTok{gsub}\NormalTok{(}\StringTok{" \& "}\NormalTok{, }\StringTok{" \&}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{, x)) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{""}\NormalTok{, }\AttributeTok{y =} \StringTok{"Irreducible share"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{theme\_AP}\NormalTok{()}
+
+\NormalTok{hum\_dom }\OtherTok{\textless{}{-}}\NormalTok{ hum[, .(}\AttributeTok{share =} \FunctionTok{mean}\NormalTok{(irreducible)), by }\OtherTok{=}\NormalTok{ .(domain\_short, rater)]}
+\NormalTok{hum\_dom[, x }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{match}\NormalTok{(domain\_short, dom\_ord) }\SpecialCharTok{+}\NormalTok{ hum\_off]}
+\NormalTok{plot\_share\_dom }\OtherTok{\textless{}{-}}\NormalTok{ plot\_share\_dom }\SpecialCharTok{+}
+  \FunctionTok{geom\_linerange}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_dom[, .(}\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(share), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(share)), }\AttributeTok{by =}\NormalTok{ x],}
+                 \FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ x, }\AttributeTok{ymin =}\NormalTok{ lo, }\AttributeTok{ymax =}\NormalTok{ hi), }\AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{,}
+                 \AttributeTok{linewidth =} \FloatTok{0.35}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_dom, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ x, }\AttributeTok{y =}\NormalTok{ share, }\AttributeTok{shape =}\NormalTok{ rater),}
+             \AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{, }\AttributeTok{size =} \FloatTok{1.1}\NormalTok{) }\SpecialCharTok{+}
+\NormalTok{  rater\_shape }\SpecialCharTok{+}
+  \FunctionTok{guides}\NormalTok{(}\AttributeTok{shape =} \FunctionTok{guide\_legend}\NormalTok{(}\AttributeTok{nrow =} \DecValTok{2}\NormalTok{, }\AttributeTok{byrow =} \ConstantTok{TRUE}\NormalTok{)) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{shape =} \StringTok{"Human}\SpecialCharTok{\textbackslash{}n}\StringTok{rater"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.5}\NormalTok{, }\FloatTok{0.02}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.5}\NormalTok{, }\DecValTok{0}\NormalTok{),}
+        \AttributeTok{legend.title.position =} \StringTok{"left"}\NormalTok{,}
+        \AttributeTok{legend.title =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \FloatTok{5.5}\NormalTok{, }\AttributeTok{vjust =} \FloatTok{0.5}\NormalTok{, }\AttributeTok{lineheight =} \FloatTok{0.9}\NormalTok{),}
+        \AttributeTok{legend.text =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \FloatTok{5.2}\NormalTok{),}
+        \AttributeTok{legend.key.width =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.25}\NormalTok{, }\StringTok{"cm"}\NormalTok{),}
+        \AttributeTok{legend.key.spacing.x =} \FunctionTok{unit}\NormalTok{(}\FloatTok{0.1}\NormalTok{, }\StringTok{"cm"}\NormalTok{))}
 
 \CommentTok{\# Panel b: reducible share by form of knowledge {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
 
@@ -381,6 +423,19 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
                      \AttributeTok{expand =} \FunctionTok{expansion}\NormalTok{(}\AttributeTok{mult =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.02}\NormalTok{, }\FloatTok{0.08}\NormalTok{))) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Reducible share"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{theme\_AP}\NormalTok{()}
+
+\NormalTok{hum\_epi }\OtherTok{\textless{}{-}}\NormalTok{ hum[, .(}\AttributeTok{red =} \DecValTok{1} \SpecialCharTok{{-}} \FunctionTok{mean}\NormalTok{(irreducible)), by }\OtherTok{=}\NormalTok{ .(epistemic\_type, rater)]}
+\NormalTok{hum\_epi }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(hum\_epi, }\FunctionTok{unique}\NormalTok{(epi\_full[, .(epistemic\_type, label)]),}
+                 \AttributeTok{by =} \StringTok{"epistemic\_type"}\NormalTok{)}
+\NormalTok{hum\_epi[, y }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{match}\NormalTok{(label, epi\_ord) }\SpecialCharTok{+}\NormalTok{ hum\_off]}
+\NormalTok{plot\_share\_epi }\OtherTok{\textless{}{-}}\NormalTok{ plot\_share\_epi }\SpecialCharTok{+}
+  \FunctionTok{geom\_linerange}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_epi[, .(}\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(red), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(red)), }\AttributeTok{by =}\NormalTok{ y],}
+                 \FunctionTok{aes}\NormalTok{(}\AttributeTok{y =}\NormalTok{ y, }\AttributeTok{xmin =}\NormalTok{ lo, }\AttributeTok{xmax =}\NormalTok{ hi), }\AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{,}
+                 \AttributeTok{linewidth =} \FloatTok{0.35}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_epi, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ red, }\AttributeTok{y =}\NormalTok{ y, }\AttributeTok{shape =}\NormalTok{ rater),}
+             \AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{, }\AttributeTok{size =} \FloatTok{1.1}\NormalTok{) }\SpecialCharTok{+}
+\NormalTok{  rater\_shape }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{"none"}\NormalTok{)}
 \end{Highlighting}
 \end{Shaded}
 
@@ -439,6 +494,18 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Functions served beyond}\SpecialCharTok{\textbackslash{}n}\StringTok{crop production and}\SpecialCharTok{\textbackslash{}n}\StringTok{water conservation"}\NormalTok{,}
        \AttributeTok{y =} \StringTok{"Reducible share"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{theme\_AP}\NormalTok{()}
+
+\NormalTok{hum\_ncat }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(hum[, .(id\_cite, rater, irreducible)], dt[, .(id\_cite, ncat)],}
+                  \AttributeTok{by =} \StringTok{"id\_cite"}\NormalTok{)[, .(}\AttributeTok{red =} \DecValTok{1} \SpecialCharTok{{-}} \FunctionTok{mean}\NormalTok{(irreducible)), by }\OtherTok{=}\NormalTok{ .(ncat, rater)]}
+\NormalTok{hum\_ncat[, x }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{match}\NormalTok{(ncat, }\FunctionTok{names}\NormalTok{(ncat\_labs)) }\SpecialCharTok{+}\NormalTok{ hum\_off]}
+\NormalTok{plot\_share\_ncat }\OtherTok{\textless{}{-}}\NormalTok{ plot\_share\_ncat }\SpecialCharTok{+}
+  \FunctionTok{geom\_linerange}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_ncat[, .(}\AttributeTok{lo =} \FunctionTok{min}\NormalTok{(red), }\AttributeTok{hi =} \FunctionTok{max}\NormalTok{(red)), }\AttributeTok{by =}\NormalTok{ x],}
+                 \FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ x, }\AttributeTok{ymin =}\NormalTok{ lo, }\AttributeTok{ymax =}\NormalTok{ hi), }\AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{,}
+                 \AttributeTok{linewidth =} \FloatTok{0.35}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ hum\_ncat, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ x, }\AttributeTok{y =}\NormalTok{ red, }\AttributeTok{shape =}\NormalTok{ rater),}
+             \AttributeTok{inherit.aes =} \ConstantTok{FALSE}\NormalTok{, }\AttributeTok{size =} \FloatTok{1.1}\NormalTok{) }\SpecialCharTok{+}
+\NormalTok{  rater\_shape }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{"none"}\NormalTok{)}
 
 \FunctionTok{cat}\NormalTok{(}\StringTok{"Reducible share by number of functions outside the core:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
 \end{Highlighting}
@@ -1917,7 +1984,7 @@ each practice.}
 ## LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
 ## 
 ## locale:
-## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/C
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
 ## 
 ## time zone: Europe/London
 ## tzcode source: internal
@@ -1929,28 +1996,27 @@ each practice.}
 ##  [1] ggrepel_0.9.6           rnaturalearthdata_1.0.0 rnaturalearth_1.1.0    
 ##  [4] sf_1.1-0                jsonlite_2.0.0          readxl_1.4.5           
 ##  [7] scales_1.4.0            cowplot_1.2.0.9000      ggplot2_4.0.3.9000     
-## [10] benchmarkme_1.0.8       digest_0.6.39           data.table_1.18.4      
-## [13] here_1.0.2             
+## [10] data.table_1.18.4       here_1.0.2              benchmarkme_1.0.8      
 ## 
 ## loaded via a namespace (and not attached):
 ##  [1] generics_0.1.4        class_7.3-23          KernSmooth_2.23-26   
-##  [4] lattice_0.22-7        magrittr_2.0.5        evaluate_1.0.5       
-##  [7] grid_4.5.2            RColorBrewer_1.1-3    iterators_1.0.14     
-## [10] fastmap_1.2.0         cellranger_1.1.0      foreach_1.5.2        
-## [13] doParallel_1.0.17     rprojroot_2.1.1       Matrix_1.7-4         
-## [16] e1071_1.7-17          DBI_1.3.0             tinytex_0.58         
-## [19] httr_1.4.8            codetools_0.2-20      Rdpack_2.6.6         
-## [22] cli_3.6.6             sensobol_1.2.0        rlang_1.2.0          
-## [25] units_1.0-0           rbibutils_2.4.1       withr_3.0.3          
-## [28] yaml_2.3.12           otel_0.2.0            tools_4.5.2          
-## [31] parallel_4.5.2        dplyr_1.1.4           vctrs_0.7.3          
-## [34] R6_2.6.1              proxy_0.4-29          classInt_0.4-11      
-## [37] lifecycle_1.0.5       pkgconfig_2.0.3       pillar_1.11.1        
-## [40] gtable_0.3.6          glue_1.8.1            Rcpp_1.1.1-1.1       
-## [43] benchmarkmeData_1.0.4 xfun_0.55             tibble_3.3.1         
-## [46] tidyselect_1.2.1      knitr_1.51            farver_2.1.2         
-## [49] htmltools_0.5.9       labeling_0.4.3        rmarkdown_2.30       
-## [52] compiler_4.5.2        S7_0.2.2
+##  [4] lattice_0.22-7        digest_0.6.39         magrittr_2.0.5       
+##  [7] evaluate_1.0.5        grid_4.5.2            RColorBrewer_1.1-3   
+## [10] iterators_1.0.14      fastmap_1.2.0         cellranger_1.1.0     
+## [13] foreach_1.5.2         doParallel_1.0.17     rprojroot_2.1.1      
+## [16] Matrix_1.7-4          e1071_1.7-17          DBI_1.3.0            
+## [19] tinytex_0.58          httr_1.4.8            codetools_0.2-20     
+## [22] Rdpack_2.6.6          cli_3.6.6             sensobol_1.2.0       
+## [25] rlang_1.2.0           units_1.0-0           rbibutils_2.4.1      
+## [28] withr_3.0.3           yaml_2.3.12           otel_0.2.0           
+## [31] tools_4.5.2           parallel_4.5.2        dplyr_1.1.4          
+## [34] vctrs_0.7.3           R6_2.6.1              proxy_0.4-29         
+## [37] lifecycle_1.0.5       classInt_0.4-11       pkgconfig_2.0.3      
+## [40] pillar_1.11.1         gtable_0.3.6          glue_1.8.1           
+## [43] Rcpp_1.1.1-1.1        benchmarkmeData_1.0.4 xfun_0.55            
+## [46] tibble_3.3.1          tidyselect_1.2.1      knitr_1.51           
+## [49] farver_2.1.2          htmltools_0.5.9       labeling_0.4.3       
+## [52] rmarkdown_2.30        compiler_4.5.2        S7_0.2.2
 \end{verbatim}
 
 \begin{Shaded}

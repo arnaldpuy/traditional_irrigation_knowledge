@@ -170,7 +170,20 @@ plot_sob_a <- ggplot(sob_grid, aes(share, fill = vote)) +
   scale_y_continuous(expand = expansion(c(0, 0.04))) +
   labs(x = "Irreducible share", y = "Specifications") +
   theme_AP() +
-  theme(legend.position = c(0.01, 0.98), legend.justification = c(0, 1))
+  theme(legend.position = c(0.01, 0.86), legend.justification = c(0, 1))
+
+hum_share <- fread(file.path(out, "human_validation_shares.csv"))
+hum_top <- max(ggplot_build(plot_sob_a)$data[[1]]$count) * 1.08
+plot_sob_a <- plot_sob_a +
+  annotate("rect", xmin = min(hum_share$irreducible_share),
+           xmax = max(hum_share$irreducible_share), ymin = -Inf, ymax = Inf,
+           fill = "grey50", alpha = 0.18) +
+  geom_point(data = hum_share, aes(x = irreducible_share, y = hum_top, shape = rater),
+             inherit.aes = FALSE, size = 1.1) +
+  annotate("text", x = max(hum_share$irreducible_share) + 0.012, y = hum_top,
+           label = "Human raters", size = 1.9, hjust = 0, colour = "grey25") +
+  scale_shape_manual(values = c(anthropologist = 16, modeller_1 = 2,
+                                modeller_2 = 0), guide = "none")
 
 # Panel b: first- and total-order indices --------------------------------------
 
@@ -230,6 +243,17 @@ ensemble_by <- function(grp) {
 # Panel a: irreducible share by knowledge domain -------------------------------
 
 dom_full <- ensemble_by("domain_short")
+
+# Human raters ------------------------------------------------------------------
+
+hum <- fread(file.path(out, "human_validation_ratings.csv"))[!is.na(irreducible)]
+hum <- merge(hum, dt[, .(id_cite, domain_short, epistemic_type)], by = "id_cite")
+hum_off <- 0
+rater_shape <- scale_shape_manual(values = c(anthropologist = 16, modeller_1 = 2,
+                                             modeller_2 = 0),
+                                  labels = c("Anthropologist", "Modeller 1",
+                                             "Modeller 2"),
+                                  name = "Human rater")
 dom_ens <- dom_full[, .(med = median(share), lo = min(share), hi = max(share)),
                     by = domain_short]
 dom_ord <- dom_ens[order(-med), domain_short]
@@ -246,6 +270,24 @@ plot_share_dom <- ggplot(dom_full, aes(domain_short, share)) +
   scale_x_discrete(labels = function(x) gsub(" & ", " &\n", x)) +
   labs(x = "", y = "Irreducible share") +
   theme_AP()
+
+hum_dom <- hum[, .(share = mean(irreducible)), by = .(domain_short, rater)]
+hum_dom[, x := match(domain_short, dom_ord) + hum_off]
+plot_share_dom <- plot_share_dom +
+  geom_linerange(data = hum_dom[, .(lo = min(share), hi = max(share)), by = x],
+                 aes(x = x, ymin = lo, ymax = hi), inherit.aes = FALSE,
+                 linewidth = 0.35) +
+  geom_point(data = hum_dom, aes(x = x, y = share, shape = rater),
+             inherit.aes = FALSE, size = 1.1) +
+  rater_shape +
+  guides(shape = guide_legend(nrow = 2, byrow = TRUE)) +
+  labs(shape = "Human\nrater") +
+  theme(legend.position = c(0.5, 0.02), legend.justification = c(0.5, 0),
+        legend.title.position = "left",
+        legend.title = element_text(size = 5.5, vjust = 0.5, lineheight = 0.9),
+        legend.text = element_text(size = 5.2),
+        legend.key.width = unit(0.25, "cm"),
+        legend.key.spacing.x = unit(0.1, "cm"))
 
 # Panel b: reducible share by form of knowledge --------------------------------
 
@@ -273,6 +315,19 @@ plot_share_epi <- ggplot(epi_full, aes(red, label)) +
                      expand = expansion(mult = c(0.02, 0.08))) +
   labs(x = "Reducible share", y = "") +
   theme_AP()
+
+hum_epi <- hum[, .(red = 1 - mean(irreducible)), by = .(epistemic_type, rater)]
+hum_epi <- merge(hum_epi, unique(epi_full[, .(epistemic_type, label)]),
+                 by = "epistemic_type")
+hum_epi[, y := match(label, epi_ord) + hum_off]
+plot_share_epi <- plot_share_epi +
+  geom_linerange(data = hum_epi[, .(lo = min(red), hi = max(red)), by = y],
+                 aes(y = y, xmin = lo, xmax = hi), inherit.aes = FALSE,
+                 linewidth = 0.35) +
+  geom_point(data = hum_epi, aes(x = red, y = y, shape = rater),
+             inherit.aes = FALSE, size = 1.1) +
+  rater_shape +
+  theme(legend.position = "none")
 ```
 
 ```{r fig1-panels-cd, dependson="fig1-shares-build"}
@@ -329,6 +384,18 @@ plot_share_ncat <- ggplot(ncat_full, aes(label, red)) +
   labs(x = "Functions served beyond\ncrop production and\nwater conservation",
        y = "Reducible share") +
   theme_AP()
+
+hum_ncat <- merge(hum[, .(id_cite, rater, irreducible)], dt[, .(id_cite, ncat)],
+                  by = "id_cite")[, .(red = 1 - mean(irreducible)), by = .(ncat, rater)]
+hum_ncat[, x := match(ncat, names(ncat_labs)) + hum_off]
+plot_share_ncat <- plot_share_ncat +
+  geom_linerange(data = hum_ncat[, .(lo = min(red), hi = max(red)), by = x],
+                 aes(x = x, ymin = lo, ymax = hi), inherit.aes = FALSE,
+                 linewidth = 0.35) +
+  geom_point(data = hum_ncat, aes(x = x, y = red, shape = rater),
+             inherit.aes = FALSE, size = 1.1) +
+  rater_shape +
+  theme(legend.position = "none")
 
 cat("Reducible share by number of functions outside the core:\n")
 print(ncat_full[, .(median = sprintf("%.0f%%", 100 * median(red)),

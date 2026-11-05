@@ -10,7 +10,7 @@ R and Python code accompanying the paper *Irrigation modernisation is blind to m
 
 ## Abstract
 
-*The modernization of traditional irrigation systems by means of technologies designed to minimize water use and maximize crop yield is promoted worldwide to improve global water and food security. However, we do not know how much traditional knowledge gets lost when this efficiency-based irrigation frameworks are implemented. Here we address this gap by analyzing 475 assumptions (fragments of tacit knowledge) extracted from 110 interviews across seven Spanish irrigation systems, where such knowledge has accumulated for over a millennium, while varying our analysis to test whether the result survives defensible analytical choices. We find that at least 60% of the assumptions contain knowledge that is irreducible to a water-in/yield-out metric and that they serve functions spanning production, hydrology, ecology and social organization. Although many irrigation technologies promise to serve some of these functions, the strength of the evidence that they actually do is very limited. Our results indicate that efficiency is not a sufficient criterion for modernizing irrigation systems: evaluating improvement requires accounting for the knowledge and functions that technological substitution may eliminate.*
+*The modernization of traditional irrigation systems by means of technologies designed to minimize water use and maximize crop yield is promoted worldwide to improve global water and food security. However, we do not know how much traditional knowledge gets lost when this efficiency-based irrigation frameworks are implemented. Here we address this gap by analyzing 475 assumptions (fragments of tacit knowledge) extracted from 110 interviews across seven Spanish irrigation systems, where such knowledge has accumulated for over a millennium. We find that at least 60% of the assumptions contain knowledge that is irreducible to a water-in/yield-out metric and that they serve functions spanning production, hydrology, ecology and social organization. Although many irrigation technologies promise to serve some of these functions, the strength of the evidence that they actually do is very limited. Our results indicate that efficiency is not a sufficient criterion for modernizing irrigation systems: evaluating improvement requires accounting for the knowledge and functions that technological substitution may eliminate.*
 
 ## Contents
 
@@ -57,7 +57,8 @@ traditional_irrigation_knowledge/
 ├── prompts/          # the LLM instruments behind every reported number
 └── datasets/
     ├── inputs/       # the 475 assumptions (no interviewee identifiers), the published assumption tables,
-    │                 # the planted-item key, the policy corpus manifest and linearised text
+    │                 # the planted-item key, the three human raters' workbooks (human_validation/),
+    │                 # the policy corpus manifest and linearised text
     └── output/       # stored model replies, every derived table the scripts and notebook read, checksums.csv
 ```
 
@@ -151,7 +152,7 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 
 | Item | Produced by | Reads |
 |---|---|---|
-| Fig. 1 | notebook chunks `fig1-shares-build`, `fig1-panels-cd`, `fig1-shares-panels`, `fig1-shares` | `sobol_headline_grid.csv`, `sobol_functions_*.csv`, `function_practice_counts_grid.csv` |
+| Fig. 1 | notebook chunks `fig1-shares-build`, `fig1-panels-cd`, `fig1-shares-panels`, `fig1-shares` | `sobol_headline_grid.csv`, `sobol_functions_*.csv`, `function_practice_counts_grid.csv`, `human_validation_ratings.csv` (script 45) |
 | Fig. 2 | `fig2-bundles-build`, `fig2-bundles` | `practice_function_*.csv`, `sobol_ladder_bundles_*.csv` |
 | Results 1 numbers | `numbers-results1`; scripts 06, 14 | `sobol_headline_*.csv`, `embedding_auc.csv` |
 | Results 2 numbers | `numbers-results2`; script 10 | `compression_frontier.csv` |
@@ -161,7 +162,8 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 | Severing shares | script 11 | `severing_*.csv` |
 | Inter-model agreement (Methods) | script 05 | the stored coding replies |
 | Fig. S1 | `figS1-map` | site coordinates in the notebook |
-| Fig. S2 | `figS2-sobol-build`, `figS2-sobol` | `sobol_headline_*.csv` |
+| Fig. S2 | `figS2-sobol-build`, `figS2-sobol` | `sobol_headline_*.csv`, `human_validation_shares.csv` (script 45) |
+| Human validation (Methods) | script 45 | `datasets/inputs/human_validation/*.xlsx`; writes `human_validation_{ratings,agreement,shares}.csv` |
 | Fig. S3 | `sm-build`, `figS3-embedding` | `emb_*.csv`, `embedding_auc.csv` (scripts 12–14) |
 | Fig. S4 | `dimensionality-build`, `figS4-dimensions` | `emb_witness_summary.csv`, the coding spectrum (script 15) |
 | Fig. S5 | `manuscript/fig-approach-tikz.tex`, compiled with `pdflatex` | `compression_frontier.csv` for its numbers |
