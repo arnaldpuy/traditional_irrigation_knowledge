@@ -415,7 +415,7 @@ fig1 <- plot_grid(plot_share_dom +
 fig1
 ```
 
-```{r fig1-shares, dependson=c("fig1-shares-build", "fig1-shares-panels", "fig1-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. The violin plots show the median and the spread of the $1{,}080$ specifications of the multiverse analysis. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (the total number of assumptions per type is in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water management (total number in parentheses)."}
+```{r fig1-shares, dependson=c("fig1-shares-build", "fig1-shares-panels", "fig1-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. The violin plots show the median and the spread of the multiverse analysis. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (the total number of assumptions per type is in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water management (total number in parentheses)."}
 # MAIN FIGURE 1, WITH THE FUNCTION PANELS #####################################
 
 bottom <- plot_grid(plot_share_fun + 
@@ -615,7 +615,7 @@ cat(sprintf("Best pair recovers %.0f%%; conventional pair %.0f%%; conventional p
             100 * fr[k == 2, median(best_share)], 100 * core_med, 100 * core_is_best))
 ```
 
-```{r figS6-frontier, dependson="figS6-frontier-build", fig.width=5.5, fig.height=2.0, fig.cap="Share of assumptions represented by an efficiency metric serving $k$ functions across the $1{,}080$ analytical specifications. a) Blue: the highest share reached by any choice of $k$ functions, computed over all $4{,}095$ subsets of the twelve. An assumption counts as represented when every function it serves is recorded. Grey: the highest share reached by any optimal $k$-dimensional summary (for instance, an efficiency framework that blends functions by weighting soil health and biodiversity together; Eckart-Young theorem). No representation with $k$ dimensions can do better than the grey shade. The lines denote the median across specifications and the bands show the full range. The dotted line marks 90%. b) Order in which functions enter the best efficiency framework as $k$ gets larger. The color gradation shows the share of the $1{,}080$ analytical specifications in which the function belongs to the best set of $k$ functions."}
+```{r figS6-frontier, dependson="figS6-frontier-build", fig.width=5.5, fig.height=2.0, fig.cap="Share of assumptions represented by an efficiency metric serving $k$ functions across the $1{,}080$ analytical specifications. a) Blue: the highest share reached by any choice of $k$ functions, computed over all $4{,}095$ subsets of the twelve. An assumption counts as represented when every function it serves is recorded. Grey: the highest share reached by any optimal $k$-dimensional summary (for instance, an efficiency framework that blends functions by weighting soil health and biodiversity together). No representation with $k$ dimensions can do better than the grey shade. The lines denote the median across specifications and the bands show the full range. The dotted horizontal line marks 90%. b) Order in which functions enter the best efficiency framework as $k$ gets larger. The color gradation shows the share of the $1{,}080$ analytical specifications in which the function belongs to the best set of $k$ functions."}
 # MAIN FIGURE: THE COMPRESSION FRONTIER #######################################
 
 plot_grid(plot_frontier, plot_order, ncol = 2, rel_widths = c(0.44, 0.56),
@@ -775,7 +775,9 @@ locations <- data.table(
   place = c("Dúrcal", "Huétor-Tájar", "Murcia", "Ricote", "Sudanell",
             "Arriate", "Oria"),
   lon = c(-3.5694, -4.0439, -1.1307, -1.4361, 0.6011, -5.0606, -2.2731),
-  lat = c(37.0022, 37.1964, 37.9922, 38.0714, 41.5261, 36.7914, 37.5225))
+  lat = c(37.0022, 37.1964, 37.9922, 38.0714, 41.5261, 36.7914, 37.5225),
+  n_interviews = c(12L, 13L, 40L, 5L, 11L, 10L, 19L))
+stopifnot(sum(locations$n_interviews) == 110L)
 spain <- ne_countries(scale = "medium", country = "Spain", returnclass = "sf")
 
 # Label-free semantic witness ------------------------------------------------
@@ -814,34 +816,46 @@ cat(sprintf("AUC %.2f | Wilcoxon p %.1e | %d of 384 components for 90%% variance
             auc_val, wilcox.test(sim_centroid ~ code, data = demb)$p.value, pc90))
 ```
 
-```{r figS1-map, dependson="sm-build", fig.width=3.4, fig.height=3.4, fig.cap="Location of the seven traditional irrigation communities interviewed in Spain."}
+```{r figS1-map, dependson="sm-build", fig.width=4, fig.height=3.4, fig.cap="Location of the seven traditional irrigation communities interviewed in Spain."}
 # SM FIGURE: STUDY SITES ######################################################
+
+site_labels <- merge(locations[, .(place, lon, lat)],
+                     data.table(place = c("Dúrcal", "Huétor-Tájar", "Murcia",
+                                          "Ricote", "Sudanell", "Arriate", "Oria"),
+                                nx = c(0, -0.7, 1.5, -0.4, 0.9, -1.4, 0.5),
+                                ny = c(-1.0, 1.0, -0.6, 1.0, 0.6, 0.2, -1.2)),
+                     by = "place")
+stopifnot(nrow(site_labels) == 7L)
 
 ggplot() +
   geom_sf(data = spain, fill = "#f5f0e8", colour = "#aaaaaa", linewidth = 0.4) +
-  geom_point(data = locations, aes(x = lon, y = lat), shape = 21,
-             fill = "#c0392b", colour = "white", size = 3, stroke = 0.7) +
-  geom_text_repel(data = locations, aes(x = lon, y = lat, label = place),
-                  size = 2.6, colour = "#222222", box.padding = 0.5,
-                  point.padding = 0.3, segment.colour = "#888888",
+  geom_point(data = locations[order(-n_interviews)],
+             aes(x = lon, y = lat, size = n_interviews), shape = 21,
+             fill = "#c0392b", colour = "white", stroke = 0.6, alpha = 0.9) +
+  geom_text_repel(data = site_labels, aes(x = lon, y = lat, label = place),
+                  nudge_x = site_labels$nx, nudge_y = site_labels$ny,
+                  size = 2.6, colour = "#222222", box.padding = 0.3, force = 0.5,
+                  point.padding = 0.4, segment.colour = "#888888",
                   segment.size = 0.4, min.segment.length = 0.2,
                   max.overlaps = Inf, seed = 42) +
+  scale_size_area(max_size = 7, breaks = c(5, 10, 20, 40), name = "Interviews") +
   coord_sf(xlim = c(-9.5, 4.5), ylim = c(35.5, 44.5), expand = FALSE) +
   labs(x = NULL, y = NULL) +
   theme_AP() +
   theme(panel.background = element_rect(fill = "#dce8f0", colour = NA),
         panel.grid = element_line(colour = "#cccccc", linewidth = 0.2),
-        axis.text = element_text(size = 6, colour = "#555555"))
+        axis.text = element_text(size = 6, colour = "#555555"),
+        legend.position = "right")
 ```
 
-```{r figS2-sobol, dependson="figS2-sobol-build", fig.width=5.8, fig.height=1.8, fig.cap="Uncertainty and sensitivity analysis of the irreducible share across the $1{,}080$ specifications. a) Distribution of the irreducible share, coloured by vote rule. b) Sobol' indices. The first-order index ($S_i$) denotes the share of the variance contributed by a factor on its own. The total-order index ($T_i$) denotes the share of the variance contributed by the factor jointly with its interactions with all other factors. c) Second-order indices ($S_{ij}$), which denote the share of the variance explained by each pair of factors."}
+```{r figS2-sobol, dependson="figS2-sobol-build", fig.width=5.8, fig.height=1.8, fig.cap="Uncertainty and sensitivity analysis of the irreducible share across the $1{,}080$ specifications. a) Distribution of the irreducible share, coloured by vote rule. The grey area represents the irreducible share according to the three human raters. b) Sobol' indices. The first-order index ($S_i$) denotes the share of the variance contributed by a factor on its own. The total-order index ($T_i$) denotes the share of the variance contributed by the factor jointly with its interactions with all other factors. c) Second-order indices ($S_{ij}$), which denote the share of the variance explained by pairwise interactions."}
 # MAIN FIGURE 1 ###############################################################
 
 plot_grid(plot_sob_a, plot_sob_b, plot_sob_c, ncol = 3,
           rel_widths = c(0.32, 0.31, 0.37), labels = "auto")
 ```
 
-```{r figS3-embedding, dependson="sm-build", fig.width=6, fig.height=2.3, fig.cap="The label-free check. a) Principal Component Analysis (PCA) of the 475 vectors (one per assumption) against the first two dimensions of the analysis. The position of the ``efficiency lexicon'' vector is shown by the star. b) Cosine similarity of each assumption to the efficiency lexicon vector. AUC is the area under the curve, the probability that a reducible assumption lies closer to the lexicon than an irreducible one, where 0.5 is chance. c) Cumulative share of variance against components retained. The dashed line is at 73, the number of components needed to reach 90% of the variance (dotted line)."}
+```{r figS3-embedding, dependson="sm-build", fig.width=6, fig.height=2.3, fig.cap="The label-free check. a) Principal Component Analysis (PCA) of the 475 vectors (one per assumption) against the first two dimensions of the analysis. The position of the ``efficiency lexicon'' vector is shown by the star. b) Cosine similarity of each assumption to the efficiency lexicon vector. AUC is the area under the curve, the probability that a reducible assumption lies closer to the lexicon than an irreducible one, where 0.5 is chance. The AUC has a range of 0.62--0.87 across specifications with at least 11 reducible assumptions. c) Cumulative share of variance against components retained. The dashed line is at 73, the number of components needed to reach 90% of the variance (dotted line)."}
 # SM FIGURE: LABEL-FREE SEMANTIC WITNESS ######################################
 
 col_code <- c(Irreducible = col_irr, Reducible = col_leg)

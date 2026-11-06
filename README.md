@@ -52,6 +52,8 @@ traditional_irrigation_knowledge/
 │   ├── 27_policy_linearize.py … 31_quote_locations.R    # modernization policies (Text S1.5, Table S4)
 │   ├── 32_literature_search.R … 41_link_extraction.R    # the literature on the technologies (Text S1.7)
 │   ├── 42_provenance_checks.R                  # valid-draw audit and literature flow table
+│   ├── 43_policy_quote_candidates.R … 45_human_validation_ratings.R   # policy quotes; the three human raters
+│   ├── 46_within_domain_or.R                   # reducibility by function load, LLMs and human raters, within each domain
 │   └── historical/                             # scripts that produced archived replies but depend on undistributed inputs
 ├── functions/        # helper functions, one *_fun per file
 ├── prompts/          # the LLM instruments behind every reported number
@@ -136,7 +138,7 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 
 ## What is and is not reproducible offline
 
-- **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37) and the evidence tables (39–40). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
+- **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37), the evidence tables (39–40), the human-rater tables (45) and the function-load odds and risk ratios (46). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
 - **Needs the LLM APIs**: new model calls in 02–04, 17, 19, 20, 24, 28–30, 37 and 41 (set the script's `*_RUN_ENABLED` variable). Fresh calls will not reproduce the archived text; the archived replies reproduce the published numbers.
 - **Optional local preparation**: 01 rebuilds `assumptions_corpus.csv` from the included assumption-table PDFs with `pdfplumber` and Poppler; the deposited CSV is byte-identical to its output, so the runner does not call it.
 - **Needs files not distributed**: 12–13 (the sentence-transformer weights, downloaded on first use), 27 and 31 (the policy PDFs), 38 and 41 (the review full texts), 32–36 (search and retrieval against Scopus, Dimensions and publishers).

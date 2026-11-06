@@ -585,14 +585,13 @@ restricted to multiples of \(1/n\).}
 \centering
 \includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig1-shares-1.pdf}
 \caption{Share of reducible and irreducible assumptions. The violin
-plots show the median and the spread of the \(1{,}080\) specifications
-of the multiverse analysis. a) Irreducible share grouped by knowledge
-domain. b) Reducible share grouped by type of knowledge (the total
-number of assumptions per type is in parentheses). c) The functions of
-traditional irrigation and the number of assumptions serving each
-function. d) Reducible share by the number of functions an assumption
-serves beyond crop production and water management (total number in
-parentheses).}
+plots show the median and the spread of the multiverse analysis. a)
+Irreducible share grouped by knowledge domain. b) Reducible share
+grouped by type of knowledge (the total number of assumptions per type
+is in parentheses). c) The functions of traditional irrigation and the
+number of assumptions serving each function. d) Reducible share by the
+number of functions an assumption serves beyond crop production and
+water management (total number in parentheses).}
 \end{figure}
 
 \begin{Shaded}
@@ -945,14 +944,14 @@ specifications. a) Blue: the highest share reached by any choice of
 assumption counts as represented when every function it serves is
 recorded. Grey: the highest share reached by any optimal
 \(k\)-dimensional summary (for instance, an efficiency framework that
-blends functions by weighting soil health and biodiversity together;
-Eckart-Young theorem). No representation with \(k\) dimensions can do
-better than the grey shade. The lines denote the median across
-specifications and the bands show the full range. The dotted line marks
-90\%. b) Order in which functions enter the best efficiency framework as
-\(k\) gets larger. The color gradation shows the share of the
-\(1{,}080\) analytical specifications in which the function belongs to
-the best set of \(k\) functions.}
+blends functions by weighting soil health and biodiversity together). No
+representation with \(k\) dimensions can do better than the grey shade.
+The lines denote the median across specifications and the bands show the
+full range. The dotted horizontal line marks 90\%. b) Order in which
+functions enter the best efficiency framework as \(k\) gets larger. The
+color gradation shows the share of the \(1{,}080\) analytical
+specifications in which the function belongs to the best set of \(k\)
+functions.}
 \end{figure}
 
 \begin{Shaded}
@@ -1325,7 +1324,9 @@ across specifications and bars the full range.}
   \AttributeTok{place =} \FunctionTok{c}\NormalTok{(}\StringTok{"Dúrcal"}\NormalTok{, }\StringTok{"Huétor{-}Tájar"}\NormalTok{, }\StringTok{"Murcia"}\NormalTok{, }\StringTok{"Ricote"}\NormalTok{, }\StringTok{"Sudanell"}\NormalTok{,}
             \StringTok{"Arriate"}\NormalTok{, }\StringTok{"Oria"}\NormalTok{),}
   \AttributeTok{lon =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{3.5694}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{4.0439}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.1307}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.4361}\NormalTok{, }\FloatTok{0.6011}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{5.0606}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{2.2731}\NormalTok{),}
-  \AttributeTok{lat =} \FunctionTok{c}\NormalTok{(}\FloatTok{37.0022}\NormalTok{, }\FloatTok{37.1964}\NormalTok{, }\FloatTok{37.9922}\NormalTok{, }\FloatTok{38.0714}\NormalTok{, }\FloatTok{41.5261}\NormalTok{, }\FloatTok{36.7914}\NormalTok{, }\FloatTok{37.5225}\NormalTok{))}
+  \AttributeTok{lat =} \FunctionTok{c}\NormalTok{(}\FloatTok{37.0022}\NormalTok{, }\FloatTok{37.1964}\NormalTok{, }\FloatTok{37.9922}\NormalTok{, }\FloatTok{38.0714}\NormalTok{, }\FloatTok{41.5261}\NormalTok{, }\FloatTok{36.7914}\NormalTok{, }\FloatTok{37.5225}\NormalTok{),}
+  \AttributeTok{n\_interviews =} \FunctionTok{c}\NormalTok{(12L, 13L, 40L, 5L, 11L, 10L, 19L))}
+\FunctionTok{stopifnot}\NormalTok{(}\FunctionTok{sum}\NormalTok{(locations}\SpecialCharTok{$}\NormalTok{n\_interviews) }\SpecialCharTok{==}\NormalTok{ 110L)}
 \NormalTok{spain }\OtherTok{\textless{}{-}} \FunctionTok{ne\_countries}\NormalTok{(}\AttributeTok{scale =} \StringTok{"medium"}\NormalTok{, }\AttributeTok{country =} \StringTok{"Spain"}\NormalTok{, }\AttributeTok{returnclass =} \StringTok{"sf"}\NormalTok{)}
 
 \CommentTok{\# Label{-}free semantic witness {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
@@ -1373,21 +1374,33 @@ across specifications and bars the full range.}
 \begin{Highlighting}[]
 \CommentTok{\# SM FIGURE: STUDY SITES \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#}
 
+\NormalTok{site\_labels }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(locations[, .(place, lon, lat)],}
+                     \FunctionTok{data.table}\NormalTok{(}\AttributeTok{place =} \FunctionTok{c}\NormalTok{(}\StringTok{"Dúrcal"}\NormalTok{, }\StringTok{"Huétor{-}Tájar"}\NormalTok{, }\StringTok{"Murcia"}\NormalTok{,}
+                                          \StringTok{"Ricote"}\NormalTok{, }\StringTok{"Sudanell"}\NormalTok{, }\StringTok{"Arriate"}\NormalTok{, }\StringTok{"Oria"}\NormalTok{),}
+                                \AttributeTok{nx =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{0.7}\NormalTok{, }\FloatTok{1.5}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{0.4}\NormalTok{, }\FloatTok{0.9}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.4}\NormalTok{, }\FloatTok{0.5}\NormalTok{),}
+                                \AttributeTok{ny =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{1.0}\NormalTok{, }\FloatTok{1.0}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{0.6}\NormalTok{, }\FloatTok{1.0}\NormalTok{, }\FloatTok{0.6}\NormalTok{, }\FloatTok{0.2}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.2}\NormalTok{)),}
+                     \AttributeTok{by =} \StringTok{"place"}\NormalTok{)}
+\FunctionTok{stopifnot}\NormalTok{(}\FunctionTok{nrow}\NormalTok{(site\_labels) }\SpecialCharTok{==}\NormalTok{ 7L)}
+
 \FunctionTok{ggplot}\NormalTok{() }\SpecialCharTok{+}
   \FunctionTok{geom\_sf}\NormalTok{(}\AttributeTok{data =}\NormalTok{ spain, }\AttributeTok{fill =} \StringTok{"\#f5f0e8"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#aaaaaa"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
-  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ locations, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat), }\AttributeTok{shape =} \DecValTok{21}\NormalTok{,}
-             \AttributeTok{fill =} \StringTok{"\#c0392b"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"white"}\NormalTok{, }\AttributeTok{size =} \DecValTok{3}\NormalTok{, }\AttributeTok{stroke =} \FloatTok{0.7}\NormalTok{) }\SpecialCharTok{+}
-  \FunctionTok{geom\_text\_repel}\NormalTok{(}\AttributeTok{data =}\NormalTok{ locations, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat, }\AttributeTok{label =}\NormalTok{ place),}
-                  \AttributeTok{size =} \FloatTok{2.6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#222222"}\NormalTok{, }\AttributeTok{box.padding =} \FloatTok{0.5}\NormalTok{,}
-                  \AttributeTok{point.padding =} \FloatTok{0.3}\NormalTok{, }\AttributeTok{segment.colour =} \StringTok{"\#888888"}\NormalTok{,}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{data =}\NormalTok{ locations[}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{n\_interviews)],}
+             \FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat, }\AttributeTok{size =}\NormalTok{ n\_interviews), }\AttributeTok{shape =} \DecValTok{21}\NormalTok{,}
+             \AttributeTok{fill =} \StringTok{"\#c0392b"}\NormalTok{, }\AttributeTok{colour =} \StringTok{"white"}\NormalTok{, }\AttributeTok{stroke =} \FloatTok{0.6}\NormalTok{, }\AttributeTok{alpha =} \FloatTok{0.9}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_text\_repel}\NormalTok{(}\AttributeTok{data =}\NormalTok{ site\_labels, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ lon, }\AttributeTok{y =}\NormalTok{ lat, }\AttributeTok{label =}\NormalTok{ place),}
+                  \AttributeTok{nudge\_x =}\NormalTok{ site\_labels}\SpecialCharTok{$}\NormalTok{nx, }\AttributeTok{nudge\_y =}\NormalTok{ site\_labels}\SpecialCharTok{$}\NormalTok{ny,}
+                  \AttributeTok{size =} \FloatTok{2.6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#222222"}\NormalTok{, }\AttributeTok{box.padding =} \FloatTok{0.3}\NormalTok{, }\AttributeTok{force =} \FloatTok{0.5}\NormalTok{,}
+                  \AttributeTok{point.padding =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{segment.colour =} \StringTok{"\#888888"}\NormalTok{,}
                   \AttributeTok{segment.size =} \FloatTok{0.4}\NormalTok{, }\AttributeTok{min.segment.length =} \FloatTok{0.2}\NormalTok{,}
                   \AttributeTok{max.overlaps =} \ConstantTok{Inf}\NormalTok{, }\AttributeTok{seed =} \DecValTok{42}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{scale\_size\_area}\NormalTok{(}\AttributeTok{max\_size =} \DecValTok{7}\NormalTok{, }\AttributeTok{breaks =} \FunctionTok{c}\NormalTok{(}\DecValTok{5}\NormalTok{, }\DecValTok{10}\NormalTok{, }\DecValTok{20}\NormalTok{, }\DecValTok{40}\NormalTok{), }\AttributeTok{name =} \StringTok{"Interviews"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{coord\_sf}\NormalTok{(}\AttributeTok{xlim =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{9.5}\NormalTok{, }\FloatTok{4.5}\NormalTok{), }\AttributeTok{ylim =} \FunctionTok{c}\NormalTok{(}\FloatTok{35.5}\NormalTok{, }\FloatTok{44.5}\NormalTok{), }\AttributeTok{expand =} \ConstantTok{FALSE}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \ConstantTok{NULL}\NormalTok{, }\AttributeTok{y =} \ConstantTok{NULL}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
   \FunctionTok{theme}\NormalTok{(}\AttributeTok{panel.background =} \FunctionTok{element\_rect}\NormalTok{(}\AttributeTok{fill =} \StringTok{"\#dce8f0"}\NormalTok{, }\AttributeTok{colour =} \ConstantTok{NA}\NormalTok{),}
         \AttributeTok{panel.grid =} \FunctionTok{element\_line}\NormalTok{(}\AttributeTok{colour =} \StringTok{"\#cccccc"}\NormalTok{, }\AttributeTok{linewidth =} \FloatTok{0.2}\NormalTok{),}
-        \AttributeTok{axis.text =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#555555"}\NormalTok{))}
+        \AttributeTok{axis.text =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{size =} \DecValTok{6}\NormalTok{, }\AttributeTok{colour =} \StringTok{"\#555555"}\NormalTok{),}
+        \AttributeTok{legend.position =} \StringTok{"right"}\NormalTok{)}
 \end{Highlighting}
 \end{Shaded}
 
@@ -1412,13 +1425,14 @@ interviewed in Spain.}
 \includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS2-sobol-1.pdf}
 \caption{Uncertainty and sensitivity analysis of the irreducible share
 across the \(1{,}080\) specifications. a) Distribution of the
-irreducible share, coloured by vote rule. b) Sobol' indices. The
-first-order index (\(S_i\)) denotes the share of the variance
-contributed by a factor on its own. The total-order index (\(T_i\))
-denotes the share of the variance contributed by the factor jointly with
-its interactions with all other factors. c) Second-order indices
-(\(S_{ij}\)), which denote the share of the variance explained by each
-pair of factors.}
+irreducible share, coloured by vote rule. The grey area represents the
+irreducible share according to the three human raters. b) Sobol'
+indices. The first-order index (\(S_i\)) denotes the share of the
+variance contributed by a factor on its own. The total-order index
+(\(T_i\)) denotes the share of the variance contributed by the factor
+jointly with its interactions with all other factors. c) Second-order
+indices (\(S_{ij}\)), which denote the share of the variance explained
+by pairwise interactions.}
 \end{figure}
 
 \begin{Shaded}
@@ -1473,9 +1487,11 @@ the analysis. The position of the ``efficiency lexicon'\,' vector is
 shown by the star. b) Cosine similarity of each assumption to the
 efficiency lexicon vector. AUC is the area under the curve, the
 probability that a reducible assumption lies closer to the lexicon than
-an irreducible one, where 0.5 is chance. c) Cumulative share of variance
-against components retained. The dashed line is at 73, the number of
-components needed to reach 90\% of the variance (dotted line).}
+an irreducible one, where 0.5 is chance. The AUC has a range of
+0.62--0.87 across specifications with at least 11 reducible assumptions.
+c) Cumulative share of variance against components retained. The dashed
+line is at 73, the number of components needed to reach 90\% of the
+variance (dotted line).}
 \end{figure}
 
 \begin{Shaded}
@@ -1997,7 +2013,7 @@ each practice.}
 ## LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
 ## 
 ## locale:
-## [1] C
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
 ## 
 ## time zone: Europe/London
 ## tzcode source: internal

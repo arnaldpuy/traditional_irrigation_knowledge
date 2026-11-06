@@ -1,0 +1,2593 @@
+domain_short,ncat,red,n,vote,drop,prompt,provider
+Crop,0,0.078125,64,any draw,none,standard,anthropic
+Crop,1,0,40,any draw,none,standard,anthropic
+Crop,two or more,0,13,any draw,none,standard,anthropic
+Irrigation,0,0.203125,64,any draw,none,standard,anthropic
+Irrigation,two or more,0,34,any draw,none,standard,anthropic
+Irrigation,1,0.0405405405405405,74,any draw,none,standard,anthropic
+Soil & moisture,two or more,0,26,any draw,none,standard,anthropic
+Soil & moisture,1,0.0149253731343284,67,any draw,none,standard,anthropic
+Soil & moisture,0,0,10,any draw,none,standard,anthropic
+Weather & climate,1,0,62,any draw,none,standard,anthropic
+Weather & climate,two or more,0,8,any draw,none,standard,anthropic
+Weather & climate,0,0,13,any draw,none,standard,anthropic
+Crop,0,0.0943396226415094,53,any draw,arriate,standard,anthropic
+Crop,1,0,34,any draw,arriate,standard,anthropic
+Crop,two or more,0,12,any draw,arriate,standard,anthropic
+Irrigation,1,0.0483870967741936,62,any draw,arriate,standard,anthropic
+Irrigation,0,0.226415094339623,53,any draw,arriate,standard,anthropic
+Irrigation,two or more,0,29,any draw,arriate,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,arriate,standard,anthropic
+Soil & moisture,two or more,0,20,any draw,arriate,standard,anthropic
+Soil & moisture,0,0,10,any draw,arriate,standard,anthropic
+Weather & climate,1,0,56,any draw,arriate,standard,anthropic
+Weather & climate,0,0,12,any draw,arriate,standard,anthropic
+Weather & climate,two or more,0,6,any draw,arriate,standard,anthropic
+Crop,0,0.0701754385964912,57,any draw,ricote,standard,anthropic
+Crop,1,0,36,any draw,ricote,standard,anthropic
+Crop,two or more,0,13,any draw,ricote,standard,anthropic
+Irrigation,0,0.181818181818182,55,any draw,ricote,standard,anthropic
+Irrigation,two or more,0,32,any draw,ricote,standard,anthropic
+Irrigation,1,0.0422535211267606,71,any draw,ricote,standard,anthropic
+Soil & moisture,two or more,0,24,any draw,ricote,standard,anthropic
+Soil & moisture,1,0.02,50,any draw,ricote,standard,anthropic
+Soil & moisture,0,0,9,any draw,ricote,standard,anthropic
+Weather & climate,1,0,61,any draw,ricote,standard,anthropic
+Weather & climate,two or more,0,8,any draw,ricote,standard,anthropic
+Weather & climate,0,0,9,any draw,ricote,standard,anthropic
+Crop,0,0.0909090909090909,55,any draw,sudanell,standard,anthropic
+Crop,1,0,38,any draw,sudanell,standard,anthropic
+Crop,two or more,0,13,any draw,sudanell,standard,anthropic
+Irrigation,0,0.211538461538462,52,any draw,sudanell,standard,anthropic
+Irrigation,two or more,0,29,any draw,sudanell,standard,anthropic
+Irrigation,1,0.0434782608695652,69,any draw,sudanell,standard,anthropic
+Soil & moisture,two or more,0,25,any draw,sudanell,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,sudanell,standard,anthropic
+Soil & moisture,0,0,8,any draw,sudanell,standard,anthropic
+Weather & climate,1,0,51,any draw,sudanell,standard,anthropic
+Weather & climate,two or more,0,7,any draw,sudanell,standard,anthropic
+Weather & climate,0,0,13,any draw,sudanell,standard,anthropic
+Crop,0,0.0740740740740741,54,any draw,durcal,standard,anthropic
+Crop,1,0,33,any draw,durcal,standard,anthropic
+Crop,two or more,0,8,any draw,durcal,standard,anthropic
+Irrigation,0,0.192982456140351,57,any draw,durcal,standard,anthropic
+Irrigation,two or more,0,30,any draw,durcal,standard,anthropic
+Irrigation,1,0.0327868852459016,61,any draw,durcal,standard,anthropic
+Soil & moisture,two or more,0,21,any draw,durcal,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,durcal,standard,anthropic
+Soil & moisture,0,0,6,any draw,durcal,standard,anthropic
+Weather & climate,1,0,54,any draw,durcal,standard,anthropic
+Weather & climate,two or more,0,7,any draw,durcal,standard,anthropic
+Weather & climate,0,0,11,any draw,durcal,standard,anthropic
+Crop,0,0.0566037735849057,53,any draw,murcia,standard,anthropic
+Crop,1,0,30,any draw,murcia,standard,anthropic
+Crop,two or more,0,12,any draw,murcia,standard,anthropic
+Irrigation,0,0.206896551724138,58,any draw,murcia,standard,anthropic
+Irrigation,two or more,0,30,any draw,murcia,standard,anthropic
+Irrigation,1,0.0178571428571429,56,any draw,murcia,standard,anthropic
+Soil & moisture,two or more,0,24,any draw,murcia,standard,anthropic
+Soil & moisture,1,0.0175438596491228,57,any draw,murcia,standard,anthropic
+Soil & moisture,0,0,9,any draw,murcia,standard,anthropic
+Weather & climate,1,0,47,any draw,murcia,standard,anthropic
+Weather & climate,two or more,0,6,any draw,murcia,standard,anthropic
+Weather & climate,0,0,12,any draw,murcia,standard,anthropic
+Crop,0,0.087719298245614,57,any draw,huetortajar,standard,anthropic
+Crop,1,0,34,any draw,huetortajar,standard,anthropic
+Crop,two or more,0,13,any draw,huetortajar,standard,anthropic
+Irrigation,0,0.192307692307692,52,any draw,huetortajar,standard,anthropic
+Irrigation,two or more,0,28,any draw,huetortajar,standard,anthropic
+Irrigation,1,0.0441176470588235,68,any draw,huetortajar,standard,anthropic
+Soil & moisture,two or more,0,22,any draw,huetortajar,standard,anthropic
+Soil & moisture,1,0,59,any draw,huetortajar,standard,anthropic
+Soil & moisture,0,0,10,any draw,huetortajar,standard,anthropic
+Weather & climate,1,0,57,any draw,huetortajar,standard,anthropic
+Weather & climate,two or more,0,8,any draw,huetortajar,standard,anthropic
+Weather & climate,0,0,10,any draw,huetortajar,standard,anthropic
+Crop,0,0.0727272727272727,55,any draw,oria,standard,anthropic
+Crop,1,0,35,any draw,oria,standard,anthropic
+Crop,two or more,0,7,any draw,oria,standard,anthropic
+Irrigation,0,0.210526315789474,57,any draw,oria,standard,anthropic
+Irrigation,two or more,0,26,any draw,oria,standard,anthropic
+Irrigation,1,0.0526315789473684,57,any draw,oria,standard,anthropic
+Soil & moisture,two or more,0,20,any draw,oria,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,oria,standard,anthropic
+Soil & moisture,0,0,8,any draw,oria,standard,anthropic
+Weather & climate,1,0,46,any draw,oria,standard,anthropic
+Weather & climate,two or more,0,6,any draw,oria,standard,anthropic
+Weather & climate,0,0,11,any draw,oria,standard,anthropic
+Crop,0,0.09375,64,majority,none,standard,anthropic
+Crop,1,0,40,majority,none,standard,anthropic
+Crop,two or more,0,13,majority,none,standard,anthropic
+Irrigation,0,0.25,64,majority,none,standard,anthropic
+Irrigation,two or more,0,34,majority,none,standard,anthropic
+Irrigation,1,0.0540540540540541,74,majority,none,standard,anthropic
+Soil & moisture,two or more,0,26,majority,none,standard,anthropic
+Soil & moisture,1,0.0149253731343284,67,majority,none,standard,anthropic
+Soil & moisture,0,0.1,10,majority,none,standard,anthropic
+Weather & climate,1,0,62,majority,none,standard,anthropic
+Weather & climate,two or more,0,8,majority,none,standard,anthropic
+Weather & climate,0,0,13,majority,none,standard,anthropic
+Crop,0,0.113207547169811,53,majority,arriate,standard,anthropic
+Crop,1,0,34,majority,arriate,standard,anthropic
+Crop,two or more,0,12,majority,arriate,standard,anthropic
+Irrigation,1,0.0645161290322581,62,majority,arriate,standard,anthropic
+Irrigation,0,0.283018867924528,53,majority,arriate,standard,anthropic
+Irrigation,two or more,0,29,majority,arriate,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,arriate,standard,anthropic
+Soil & moisture,two or more,0,20,majority,arriate,standard,anthropic
+Soil & moisture,0,0.1,10,majority,arriate,standard,anthropic
+Weather & climate,1,0,56,majority,arriate,standard,anthropic
+Weather & climate,0,0,12,majority,arriate,standard,anthropic
+Weather & climate,two or more,0,6,majority,arriate,standard,anthropic
+Crop,0,0.087719298245614,57,majority,ricote,standard,anthropic
+Crop,1,0,36,majority,ricote,standard,anthropic
+Crop,two or more,0,13,majority,ricote,standard,anthropic
+Irrigation,0,0.236363636363636,55,majority,ricote,standard,anthropic
+Irrigation,two or more,0,32,majority,ricote,standard,anthropic
+Irrigation,1,0.0422535211267606,71,majority,ricote,standard,anthropic
+Soil & moisture,two or more,0,24,majority,ricote,standard,anthropic
+Soil & moisture,1,0.02,50,majority,ricote,standard,anthropic
+Soil & moisture,0,0.111111111111111,9,majority,ricote,standard,anthropic
+Weather & climate,1,0,61,majority,ricote,standard,anthropic
+Weather & climate,two or more,0,8,majority,ricote,standard,anthropic
+Weather & climate,0,0,9,majority,ricote,standard,anthropic
+Crop,0,0.109090909090909,55,majority,sudanell,standard,anthropic
+Crop,1,0,38,majority,sudanell,standard,anthropic
+Crop,two or more,0,13,majority,sudanell,standard,anthropic
+Irrigation,0,0.25,52,majority,sudanell,standard,anthropic
+Irrigation,two or more,0,29,majority,sudanell,standard,anthropic
+Irrigation,1,0.0579710144927536,69,majority,sudanell,standard,anthropic
+Soil & moisture,two or more,0,25,majority,sudanell,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,sudanell,standard,anthropic
+Soil & moisture,0,0,8,majority,sudanell,standard,anthropic
+Weather & climate,1,0,51,majority,sudanell,standard,anthropic
+Weather & climate,two or more,0,7,majority,sudanell,standard,anthropic
+Weather & climate,0,0,13,majority,sudanell,standard,anthropic
+Crop,0,0.0740740740740741,54,majority,durcal,standard,anthropic
+Crop,1,0,33,majority,durcal,standard,anthropic
+Crop,two or more,0,8,majority,durcal,standard,anthropic
+Irrigation,0,0.245614035087719,57,majority,durcal,standard,anthropic
+Irrigation,two or more,0,30,majority,durcal,standard,anthropic
+Irrigation,1,0.0491803278688525,61,majority,durcal,standard,anthropic
+Soil & moisture,two or more,0,21,majority,durcal,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,durcal,standard,anthropic
+Soil & moisture,0,0.166666666666667,6,majority,durcal,standard,anthropic
+Weather & climate,1,0,54,majority,durcal,standard,anthropic
+Weather & climate,two or more,0,7,majority,durcal,standard,anthropic
+Weather & climate,0,0,11,majority,durcal,standard,anthropic
+Crop,0,0.0754716981132076,53,majority,murcia,standard,anthropic
+Crop,1,0,30,majority,murcia,standard,anthropic
+Crop,two or more,0,12,majority,murcia,standard,anthropic
+Irrigation,0,0.258620689655172,58,majority,murcia,standard,anthropic
+Irrigation,two or more,0,30,majority,murcia,standard,anthropic
+Irrigation,1,0.0357142857142857,56,majority,murcia,standard,anthropic
+Soil & moisture,two or more,0,24,majority,murcia,standard,anthropic
+Soil & moisture,1,0.0175438596491228,57,majority,murcia,standard,anthropic
+Soil & moisture,0,0.111111111111111,9,majority,murcia,standard,anthropic
+Weather & climate,1,0,47,majority,murcia,standard,anthropic
+Weather & climate,two or more,0,6,majority,murcia,standard,anthropic
+Weather & climate,0,0,12,majority,murcia,standard,anthropic
+Crop,0,0.105263157894737,57,majority,huetortajar,standard,anthropic
+Crop,1,0,34,majority,huetortajar,standard,anthropic
+Crop,two or more,0,13,majority,huetortajar,standard,anthropic
+Irrigation,0,0.230769230769231,52,majority,huetortajar,standard,anthropic
+Irrigation,two or more,0,28,majority,huetortajar,standard,anthropic
+Irrigation,1,0.0588235294117647,68,majority,huetortajar,standard,anthropic
+Soil & moisture,two or more,0,22,majority,huetortajar,standard,anthropic
+Soil & moisture,1,0,59,majority,huetortajar,standard,anthropic
+Soil & moisture,0,0.1,10,majority,huetortajar,standard,anthropic
+Weather & climate,1,0,57,majority,huetortajar,standard,anthropic
+Weather & climate,two or more,0,8,majority,huetortajar,standard,anthropic
+Weather & climate,0,0,10,majority,huetortajar,standard,anthropic
+Crop,0,0.0909090909090909,55,majority,oria,standard,anthropic
+Crop,1,0,35,majority,oria,standard,anthropic
+Crop,two or more,0,7,majority,oria,standard,anthropic
+Irrigation,0,0.245614035087719,57,majority,oria,standard,anthropic
+Irrigation,two or more,0,26,majority,oria,standard,anthropic
+Irrigation,1,0.0701754385964912,57,majority,oria,standard,anthropic
+Soil & moisture,two or more,0,20,majority,oria,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,oria,standard,anthropic
+Soil & moisture,0,0.125,8,majority,oria,standard,anthropic
+Weather & climate,1,0,46,majority,oria,standard,anthropic
+Weather & climate,two or more,0,6,majority,oria,standard,anthropic
+Weather & climate,0,0,11,majority,oria,standard,anthropic
+Crop,0,0.109375,64,unanimous,none,standard,anthropic
+Crop,1,0.025,40,unanimous,none,standard,anthropic
+Crop,two or more,0,13,unanimous,none,standard,anthropic
+Irrigation,0,0.265625,64,unanimous,none,standard,anthropic
+Irrigation,two or more,0,34,unanimous,none,standard,anthropic
+Irrigation,1,0.0675675675675676,74,unanimous,none,standard,anthropic
+Soil & moisture,two or more,0,26,unanimous,none,standard,anthropic
+Soil & moisture,1,0.0149253731343284,67,unanimous,none,standard,anthropic
+Soil & moisture,0,0.1,10,unanimous,none,standard,anthropic
+Weather & climate,1,0,62,unanimous,none,standard,anthropic
+Weather & climate,two or more,0,8,unanimous,none,standard,anthropic
+Weather & climate,0,0,13,unanimous,none,standard,anthropic
+Crop,0,0.132075471698113,53,unanimous,arriate,standard,anthropic
+Crop,1,0.0294117647058824,34,unanimous,arriate,standard,anthropic
+Crop,two or more,0,12,unanimous,arriate,standard,anthropic
+Irrigation,1,0.0806451612903226,62,unanimous,arriate,standard,anthropic
+Irrigation,0,0.30188679245283,53,unanimous,arriate,standard,anthropic
+Irrigation,two or more,0,29,unanimous,arriate,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,arriate,standard,anthropic
+Soil & moisture,two or more,0,20,unanimous,arriate,standard,anthropic
+Soil & moisture,0,0.1,10,unanimous,arriate,standard,anthropic
+Weather & climate,1,0,56,unanimous,arriate,standard,anthropic
+Weather & climate,0,0,12,unanimous,arriate,standard,anthropic
+Weather & climate,two or more,0,6,unanimous,arriate,standard,anthropic
+Crop,0,0.105263157894737,57,unanimous,ricote,standard,anthropic
+Crop,1,0,36,unanimous,ricote,standard,anthropic
+Crop,two or more,0,13,unanimous,ricote,standard,anthropic
+Irrigation,0,0.254545454545455,55,unanimous,ricote,standard,anthropic
+Irrigation,two or more,0,32,unanimous,ricote,standard,anthropic
+Irrigation,1,0.0563380281690141,71,unanimous,ricote,standard,anthropic
+Soil & moisture,two or more,0,24,unanimous,ricote,standard,anthropic
+Soil & moisture,1,0.02,50,unanimous,ricote,standard,anthropic
+Soil & moisture,0,0.111111111111111,9,unanimous,ricote,standard,anthropic
+Weather & climate,1,0,61,unanimous,ricote,standard,anthropic
+Weather & climate,two or more,0,8,unanimous,ricote,standard,anthropic
+Weather & climate,0,0,9,unanimous,ricote,standard,anthropic
+Crop,0,0.127272727272727,55,unanimous,sudanell,standard,anthropic
+Crop,1,0.0263157894736842,38,unanimous,sudanell,standard,anthropic
+Crop,two or more,0,13,unanimous,sudanell,standard,anthropic
+Irrigation,0,0.269230769230769,52,unanimous,sudanell,standard,anthropic
+Irrigation,two or more,0,29,unanimous,sudanell,standard,anthropic
+Irrigation,1,0.072463768115942,69,unanimous,sudanell,standard,anthropic
+Soil & moisture,two or more,0,25,unanimous,sudanell,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,sudanell,standard,anthropic
+Soil & moisture,0,0,8,unanimous,sudanell,standard,anthropic
+Weather & climate,1,0,51,unanimous,sudanell,standard,anthropic
+Weather & climate,two or more,0,7,unanimous,sudanell,standard,anthropic
+Weather & climate,0,0,13,unanimous,sudanell,standard,anthropic
+Crop,0,0.0925925925925926,54,unanimous,durcal,standard,anthropic
+Crop,1,0.0303030303030303,33,unanimous,durcal,standard,anthropic
+Crop,two or more,0,8,unanimous,durcal,standard,anthropic
+Irrigation,0,0.245614035087719,57,unanimous,durcal,standard,anthropic
+Irrigation,two or more,0,30,unanimous,durcal,standard,anthropic
+Irrigation,1,0.0655737704918033,61,unanimous,durcal,standard,anthropic
+Soil & moisture,two or more,0,21,unanimous,durcal,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,durcal,standard,anthropic
+Soil & moisture,0,0.166666666666667,6,unanimous,durcal,standard,anthropic
+Weather & climate,1,0,54,unanimous,durcal,standard,anthropic
+Weather & climate,two or more,0,7,unanimous,durcal,standard,anthropic
+Weather & climate,0,0,11,unanimous,durcal,standard,anthropic
+Crop,0,0.0943396226415094,53,unanimous,murcia,standard,anthropic
+Crop,1,0.0333333333333333,30,unanimous,murcia,standard,anthropic
+Crop,two or more,0,12,unanimous,murcia,standard,anthropic
+Irrigation,0,0.275862068965517,58,unanimous,murcia,standard,anthropic
+Irrigation,two or more,0,30,unanimous,murcia,standard,anthropic
+Irrigation,1,0.0357142857142857,56,unanimous,murcia,standard,anthropic
+Soil & moisture,two or more,0,24,unanimous,murcia,standard,anthropic
+Soil & moisture,1,0.0175438596491228,57,unanimous,murcia,standard,anthropic
+Soil & moisture,0,0.111111111111111,9,unanimous,murcia,standard,anthropic
+Weather & climate,1,0,47,unanimous,murcia,standard,anthropic
+Weather & climate,two or more,0,6,unanimous,murcia,standard,anthropic
+Weather & climate,0,0,12,unanimous,murcia,standard,anthropic
+Crop,0,0.105263157894737,57,unanimous,huetortajar,standard,anthropic
+Crop,1,0.0294117647058824,34,unanimous,huetortajar,standard,anthropic
+Crop,two or more,0,13,unanimous,huetortajar,standard,anthropic
+Irrigation,0,0.25,52,unanimous,huetortajar,standard,anthropic
+Irrigation,two or more,0,28,unanimous,huetortajar,standard,anthropic
+Irrigation,1,0.0735294117647059,68,unanimous,huetortajar,standard,anthropic
+Soil & moisture,two or more,0,22,unanimous,huetortajar,standard,anthropic
+Soil & moisture,1,0,59,unanimous,huetortajar,standard,anthropic
+Soil & moisture,0,0.1,10,unanimous,huetortajar,standard,anthropic
+Weather & climate,1,0,57,unanimous,huetortajar,standard,anthropic
+Weather & climate,two or more,0,8,unanimous,huetortajar,standard,anthropic
+Weather & climate,0,0,10,unanimous,huetortajar,standard,anthropic
+Crop,0,0.109090909090909,55,unanimous,oria,standard,anthropic
+Crop,1,0.0285714285714286,35,unanimous,oria,standard,anthropic
+Crop,two or more,0,7,unanimous,oria,standard,anthropic
+Irrigation,0,0.263157894736842,57,unanimous,oria,standard,anthropic
+Irrigation,two or more,0,26,unanimous,oria,standard,anthropic
+Irrigation,1,0.087719298245614,57,unanimous,oria,standard,anthropic
+Soil & moisture,two or more,0,20,unanimous,oria,standard,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,oria,standard,anthropic
+Soil & moisture,0,0.125,8,unanimous,oria,standard,anthropic
+Weather & climate,1,0,46,unanimous,oria,standard,anthropic
+Weather & climate,two or more,0,6,unanimous,oria,standard,anthropic
+Weather & climate,0,0,11,unanimous,oria,standard,anthropic
+Crop,0,0.0625,64,any draw,none,standard,openai
+Crop,1,0.05,40,any draw,none,standard,openai
+Crop,two or more,0,13,any draw,none,standard,openai
+Irrigation,0,0.34375,64,any draw,none,standard,openai
+Irrigation,two or more,0,34,any draw,none,standard,openai
+Irrigation,1,0.0945945945945946,74,any draw,none,standard,openai
+Soil & moisture,two or more,0,26,any draw,none,standard,openai
+Soil & moisture,1,0.0597014925373134,67,any draw,none,standard,openai
+Soil & moisture,0,0.1,10,any draw,none,standard,openai
+Weather & climate,1,0,62,any draw,none,standard,openai
+Weather & climate,two or more,0,8,any draw,none,standard,openai
+Weather & climate,0,0,13,any draw,none,standard,openai
+Crop,0,0.0754716981132076,53,any draw,arriate,standard,openai
+Crop,1,0.0588235294117647,34,any draw,arriate,standard,openai
+Crop,two or more,0,12,any draw,arriate,standard,openai
+Irrigation,1,0.112903225806452,62,any draw,arriate,standard,openai
+Irrigation,0,0.39622641509434,53,any draw,arriate,standard,openai
+Irrigation,two or more,0,29,any draw,arriate,standard,openai
+Soil & moisture,1,0.0677966101694915,59,any draw,arriate,standard,openai
+Soil & moisture,two or more,0,20,any draw,arriate,standard,openai
+Soil & moisture,0,0.1,10,any draw,arriate,standard,openai
+Weather & climate,1,0,56,any draw,arriate,standard,openai
+Weather & climate,0,0,12,any draw,arriate,standard,openai
+Weather & climate,two or more,0,6,any draw,arriate,standard,openai
+Crop,0,0.0526315789473684,57,any draw,ricote,standard,openai
+Crop,1,0.0555555555555556,36,any draw,ricote,standard,openai
+Crop,two or more,0,13,any draw,ricote,standard,openai
+Irrigation,0,0.309090909090909,55,any draw,ricote,standard,openai
+Irrigation,two or more,0,32,any draw,ricote,standard,openai
+Irrigation,1,0.0845070422535211,71,any draw,ricote,standard,openai
+Soil & moisture,two or more,0,24,any draw,ricote,standard,openai
+Soil & moisture,1,0.04,50,any draw,ricote,standard,openai
+Soil & moisture,0,0.111111111111111,9,any draw,ricote,standard,openai
+Weather & climate,1,0,61,any draw,ricote,standard,openai
+Weather & climate,two or more,0,8,any draw,ricote,standard,openai
+Weather & climate,0,0,9,any draw,ricote,standard,openai
+Crop,0,0.0727272727272727,55,any draw,sudanell,standard,openai
+Crop,1,0.0526315789473684,38,any draw,sudanell,standard,openai
+Crop,two or more,0,13,any draw,sudanell,standard,openai
+Irrigation,0,0.346153846153846,52,any draw,sudanell,standard,openai
+Irrigation,two or more,0,29,any draw,sudanell,standard,openai
+Irrigation,1,0.101449275362319,69,any draw,sudanell,standard,openai
+Soil & moisture,two or more,0,25,any draw,sudanell,standard,openai
+Soil & moisture,1,0.0677966101694915,59,any draw,sudanell,standard,openai
+Soil & moisture,0,0,8,any draw,sudanell,standard,openai
+Weather & climate,1,0,51,any draw,sudanell,standard,openai
+Weather & climate,two or more,0,7,any draw,sudanell,standard,openai
+Weather & climate,0,0,13,any draw,sudanell,standard,openai
+Crop,0,0.037037037037037,54,any draw,durcal,standard,openai
+Crop,1,0.0606060606060606,33,any draw,durcal,standard,openai
+Crop,two or more,0,8,any draw,durcal,standard,openai
+Irrigation,0,0.315789473684211,57,any draw,durcal,standard,openai
+Irrigation,two or more,0,30,any draw,durcal,standard,openai
+Irrigation,1,0.0819672131147541,61,any draw,durcal,standard,openai
+Soil & moisture,two or more,0,21,any draw,durcal,standard,openai
+Soil & moisture,1,0.0338983050847458,59,any draw,durcal,standard,openai
+Soil & moisture,0,0.166666666666667,6,any draw,durcal,standard,openai
+Weather & climate,1,0,54,any draw,durcal,standard,openai
+Weather & climate,two or more,0,7,any draw,durcal,standard,openai
+Weather & climate,0,0,11,any draw,durcal,standard,openai
+Crop,0,0.0566037735849057,53,any draw,murcia,standard,openai
+Crop,1,0.0333333333333333,30,any draw,murcia,standard,openai
+Crop,two or more,0,12,any draw,murcia,standard,openai
+Irrigation,0,0.362068965517241,58,any draw,murcia,standard,openai
+Irrigation,two or more,0,30,any draw,murcia,standard,openai
+Irrigation,1,0.0714285714285714,56,any draw,murcia,standard,openai
+Soil & moisture,two or more,0,24,any draw,murcia,standard,openai
+Soil & moisture,1,0.0701754385964912,57,any draw,murcia,standard,openai
+Soil & moisture,0,0.111111111111111,9,any draw,murcia,standard,openai
+Weather & climate,1,0,47,any draw,murcia,standard,openai
+Weather & climate,two or more,0,6,any draw,murcia,standard,openai
+Weather & climate,0,0,12,any draw,murcia,standard,openai
+Crop,0,0.0701754385964912,57,any draw,huetortajar,standard,openai
+Crop,1,0.0294117647058824,34,any draw,huetortajar,standard,openai
+Crop,two or more,0,13,any draw,huetortajar,standard,openai
+Irrigation,0,0.326923076923077,52,any draw,huetortajar,standard,openai
+Irrigation,two or more,0,28,any draw,huetortajar,standard,openai
+Irrigation,1,0.0882352941176471,68,any draw,huetortajar,standard,openai
+Soil & moisture,two or more,0,22,any draw,huetortajar,standard,openai
+Soil & moisture,1,0.0677966101694915,59,any draw,huetortajar,standard,openai
+Soil & moisture,0,0.1,10,any draw,huetortajar,standard,openai
+Weather & climate,1,0,57,any draw,huetortajar,standard,openai
+Weather & climate,two or more,0,8,any draw,huetortajar,standard,openai
+Weather & climate,0,0,10,any draw,huetortajar,standard,openai
+Crop,0,0.0727272727272727,55,any draw,oria,standard,openai
+Crop,1,0.0571428571428571,35,any draw,oria,standard,openai
+Crop,two or more,0,7,any draw,oria,standard,openai
+Irrigation,0,0.350877192982456,57,any draw,oria,standard,openai
+Irrigation,two or more,0,26,any draw,oria,standard,openai
+Irrigation,1,0.12280701754386,57,any draw,oria,standard,openai
+Soil & moisture,two or more,0,20,any draw,oria,standard,openai
+Soil & moisture,1,0.0677966101694915,59,any draw,oria,standard,openai
+Soil & moisture,0,0.125,8,any draw,oria,standard,openai
+Weather & climate,1,0,46,any draw,oria,standard,openai
+Weather & climate,two or more,0,6,any draw,oria,standard,openai
+Weather & climate,0,0,11,any draw,oria,standard,openai
+Crop,0,0.171875,64,majority,none,standard,openai
+Crop,1,0.075,40,majority,none,standard,openai
+Crop,two or more,0,13,majority,none,standard,openai
+Irrigation,0,0.390625,64,majority,none,standard,openai
+Irrigation,two or more,0,34,majority,none,standard,openai
+Irrigation,1,0.108108108108108,74,majority,none,standard,openai
+Soil & moisture,two or more,0,26,majority,none,standard,openai
+Soil & moisture,1,0.164179104477612,67,majority,none,standard,openai
+Soil & moisture,0,0.2,10,majority,none,standard,openai
+Weather & climate,1,0,62,majority,none,standard,openai
+Weather & climate,two or more,0,8,majority,none,standard,openai
+Weather & climate,0,0,13,majority,none,standard,openai
+Crop,0,0.207547169811321,53,majority,arriate,standard,openai
+Crop,1,0.0882352941176471,34,majority,arriate,standard,openai
+Crop,two or more,0,12,majority,arriate,standard,openai
+Irrigation,1,0.129032258064516,62,majority,arriate,standard,openai
+Irrigation,0,0.433962264150943,53,majority,arriate,standard,openai
+Irrigation,two or more,0,29,majority,arriate,standard,openai
+Soil & moisture,1,0.169491525423729,59,majority,arriate,standard,openai
+Soil & moisture,two or more,0,20,majority,arriate,standard,openai
+Soil & moisture,0,0.2,10,majority,arriate,standard,openai
+Weather & climate,1,0,56,majority,arriate,standard,openai
+Weather & climate,0,0,12,majority,arriate,standard,openai
+Weather & climate,two or more,0,6,majority,arriate,standard,openai
+Crop,0,0.157894736842105,57,majority,ricote,standard,openai
+Crop,1,0.0833333333333333,36,majority,ricote,standard,openai
+Crop,two or more,0,13,majority,ricote,standard,openai
+Irrigation,0,0.363636363636364,55,majority,ricote,standard,openai
+Irrigation,two or more,0,32,majority,ricote,standard,openai
+Irrigation,1,0.0985915492957746,71,majority,ricote,standard,openai
+Soil & moisture,two or more,0,24,majority,ricote,standard,openai
+Soil & moisture,1,0.12,50,majority,ricote,standard,openai
+Soil & moisture,0,0.222222222222222,9,majority,ricote,standard,openai
+Weather & climate,1,0,61,majority,ricote,standard,openai
+Weather & climate,two or more,0,8,majority,ricote,standard,openai
+Weather & climate,0,0,9,majority,ricote,standard,openai
+Crop,0,0.181818181818182,55,majority,sudanell,standard,openai
+Crop,1,0.0789473684210526,38,majority,sudanell,standard,openai
+Crop,two or more,0,13,majority,sudanell,standard,openai
+Irrigation,0,0.403846153846154,52,majority,sudanell,standard,openai
+Irrigation,two or more,0,29,majority,sudanell,standard,openai
+Irrigation,1,0.115942028985507,69,majority,sudanell,standard,openai
+Soil & moisture,two or more,0,25,majority,sudanell,standard,openai
+Soil & moisture,1,0.169491525423729,59,majority,sudanell,standard,openai
+Soil & moisture,0,0.125,8,majority,sudanell,standard,openai
+Weather & climate,1,0,51,majority,sudanell,standard,openai
+Weather & climate,two or more,0,7,majority,sudanell,standard,openai
+Weather & climate,0,0,13,majority,sudanell,standard,openai
+Crop,0,0.166666666666667,54,majority,durcal,standard,openai
+Crop,1,0.0909090909090909,33,majority,durcal,standard,openai
+Crop,two or more,0,8,majority,durcal,standard,openai
+Irrigation,0,0.350877192982456,57,majority,durcal,standard,openai
+Irrigation,two or more,0,30,majority,durcal,standard,openai
+Irrigation,1,0.0983606557377049,61,majority,durcal,standard,openai
+Soil & moisture,two or more,0,21,majority,durcal,standard,openai
+Soil & moisture,1,0.152542372881356,59,majority,durcal,standard,openai
+Soil & moisture,0,0.333333333333333,6,majority,durcal,standard,openai
+Weather & climate,1,0,54,majority,durcal,standard,openai
+Weather & climate,two or more,0,7,majority,durcal,standard,openai
+Weather & climate,0,0,11,majority,durcal,standard,openai
+Crop,0,0.132075471698113,53,majority,murcia,standard,openai
+Crop,1,0.0666666666666667,30,majority,murcia,standard,openai
+Crop,two or more,0,12,majority,murcia,standard,openai
+Irrigation,0,0.396551724137931,58,majority,murcia,standard,openai
+Irrigation,two or more,0,30,majority,murcia,standard,openai
+Irrigation,1,0.0714285714285714,56,majority,murcia,standard,openai
+Soil & moisture,two or more,0,24,majority,murcia,standard,openai
+Soil & moisture,1,0.192982456140351,57,majority,murcia,standard,openai
+Soil & moisture,0,0.222222222222222,9,majority,murcia,standard,openai
+Weather & climate,1,0,47,majority,murcia,standard,openai
+Weather & climate,two or more,0,6,majority,murcia,standard,openai
+Weather & climate,0,0,12,majority,murcia,standard,openai
+Crop,0,0.175438596491228,57,majority,huetortajar,standard,openai
+Crop,1,0.0588235294117647,34,majority,huetortajar,standard,openai
+Crop,two or more,0,13,majority,huetortajar,standard,openai
+Irrigation,0,0.384615384615385,52,majority,huetortajar,standard,openai
+Irrigation,two or more,0,28,majority,huetortajar,standard,openai
+Irrigation,1,0.102941176470588,68,majority,huetortajar,standard,openai
+Soil & moisture,two or more,0,22,majority,huetortajar,standard,openai
+Soil & moisture,1,0.169491525423729,59,majority,huetortajar,standard,openai
+Soil & moisture,0,0.2,10,majority,huetortajar,standard,openai
+Weather & climate,1,0,57,majority,huetortajar,standard,openai
+Weather & climate,two or more,0,8,majority,huetortajar,standard,openai
+Weather & climate,0,0,10,majority,huetortajar,standard,openai
+Crop,0,0.181818181818182,55,majority,oria,standard,openai
+Crop,1,0.0571428571428571,35,majority,oria,standard,openai
+Crop,two or more,0,7,majority,oria,standard,openai
+Irrigation,0,0.403508771929825,57,majority,oria,standard,openai
+Irrigation,two or more,0,26,majority,oria,standard,openai
+Irrigation,1,0.140350877192982,57,majority,oria,standard,openai
+Soil & moisture,two or more,0,20,majority,oria,standard,openai
+Soil & moisture,1,0.169491525423729,59,majority,oria,standard,openai
+Soil & moisture,0,0.125,8,majority,oria,standard,openai
+Weather & climate,1,0,46,majority,oria,standard,openai
+Weather & climate,two or more,0,6,majority,oria,standard,openai
+Weather & climate,0,0,11,majority,oria,standard,openai
+Crop,0,0.203125,64,unanimous,none,standard,openai
+Crop,1,0.125,40,unanimous,none,standard,openai
+Crop,two or more,0,13,unanimous,none,standard,openai
+Irrigation,0,0.46875,64,unanimous,none,standard,openai
+Irrigation,two or more,0.0588235294117647,34,unanimous,none,standard,openai
+Irrigation,1,0.148648648648649,74,unanimous,none,standard,openai
+Soil & moisture,two or more,0.115384615384615,26,unanimous,none,standard,openai
+Soil & moisture,1,0.283582089552239,67,unanimous,none,standard,openai
+Soil & moisture,0,0.2,10,unanimous,none,standard,openai
+Weather & climate,1,0,62,unanimous,none,standard,openai
+Weather & climate,two or more,0,8,unanimous,none,standard,openai
+Weather & climate,0,0,13,unanimous,none,standard,openai
+Crop,0,0.245283018867925,53,unanimous,arriate,standard,openai
+Crop,1,0.147058823529412,34,unanimous,arriate,standard,openai
+Crop,two or more,0,12,unanimous,arriate,standard,openai
+Irrigation,1,0.17741935483871,62,unanimous,arriate,standard,openai
+Irrigation,0,0.528301886792453,53,unanimous,arriate,standard,openai
+Irrigation,two or more,0.0689655172413793,29,unanimous,arriate,standard,openai
+Soil & moisture,1,0.288135593220339,59,unanimous,arriate,standard,openai
+Soil & moisture,two or more,0.1,20,unanimous,arriate,standard,openai
+Soil & moisture,0,0.2,10,unanimous,arriate,standard,openai
+Weather & climate,1,0,56,unanimous,arriate,standard,openai
+Weather & climate,0,0,12,unanimous,arriate,standard,openai
+Weather & climate,two or more,0,6,unanimous,arriate,standard,openai
+Crop,0,0.192982456140351,57,unanimous,ricote,standard,openai
+Crop,1,0.111111111111111,36,unanimous,ricote,standard,openai
+Crop,two or more,0,13,unanimous,ricote,standard,openai
+Irrigation,0,0.436363636363636,55,unanimous,ricote,standard,openai
+Irrigation,two or more,0.0625,32,unanimous,ricote,standard,openai
+Irrigation,1,0.140845070422535,71,unanimous,ricote,standard,openai
+Soil & moisture,two or more,0.125,24,unanimous,ricote,standard,openai
+Soil & moisture,1,0.24,50,unanimous,ricote,standard,openai
+Soil & moisture,0,0.222222222222222,9,unanimous,ricote,standard,openai
+Weather & climate,1,0,61,unanimous,ricote,standard,openai
+Weather & climate,two or more,0,8,unanimous,ricote,standard,openai
+Weather & climate,0,0,9,unanimous,ricote,standard,openai
+Crop,0,0.218181818181818,55,unanimous,sudanell,standard,openai
+Crop,1,0.131578947368421,38,unanimous,sudanell,standard,openai
+Crop,two or more,0,13,unanimous,sudanell,standard,openai
+Irrigation,0,0.480769230769231,52,unanimous,sudanell,standard,openai
+Irrigation,two or more,0.0689655172413793,29,unanimous,sudanell,standard,openai
+Irrigation,1,0.159420289855072,69,unanimous,sudanell,standard,openai
+Soil & moisture,two or more,0.08,25,unanimous,sudanell,standard,openai
+Soil & moisture,1,0.305084745762712,59,unanimous,sudanell,standard,openai
+Soil & moisture,0,0.125,8,unanimous,sudanell,standard,openai
+Weather & climate,1,0,51,unanimous,sudanell,standard,openai
+Weather & climate,two or more,0,7,unanimous,sudanell,standard,openai
+Weather & climate,0,0,13,unanimous,sudanell,standard,openai
+Crop,0,0.203703703703704,54,unanimous,durcal,standard,openai
+Crop,1,0.151515151515152,33,unanimous,durcal,standard,openai
+Crop,two or more,0,8,unanimous,durcal,standard,openai
+Irrigation,0,0.421052631578947,57,unanimous,durcal,standard,openai
+Irrigation,two or more,0.0333333333333333,30,unanimous,durcal,standard,openai
+Irrigation,1,0.131147540983607,61,unanimous,durcal,standard,openai
+Soil & moisture,two or more,0.0952380952380952,21,unanimous,durcal,standard,openai
+Soil & moisture,1,0.271186440677966,59,unanimous,durcal,standard,openai
+Soil & moisture,0,0.333333333333333,6,unanimous,durcal,standard,openai
+Weather & climate,1,0,54,unanimous,durcal,standard,openai
+Weather & climate,two or more,0,7,unanimous,durcal,standard,openai
+Weather & climate,0,0,11,unanimous,durcal,standard,openai
+Crop,0,0.169811320754717,53,unanimous,murcia,standard,openai
+Crop,1,0.133333333333333,30,unanimous,murcia,standard,openai
+Crop,two or more,0,12,unanimous,murcia,standard,openai
+Irrigation,0,0.482758620689655,58,unanimous,murcia,standard,openai
+Irrigation,two or more,0.0666666666666667,30,unanimous,murcia,standard,openai
+Irrigation,1,0.0892857142857143,56,unanimous,murcia,standard,openai
+Soil & moisture,two or more,0.125,24,unanimous,murcia,standard,openai
+Soil & moisture,1,0.333333333333333,57,unanimous,murcia,standard,openai
+Soil & moisture,0,0.222222222222222,9,unanimous,murcia,standard,openai
+Weather & climate,1,0,47,unanimous,murcia,standard,openai
+Weather & climate,two or more,0,6,unanimous,murcia,standard,openai
+Weather & climate,0,0,12,unanimous,murcia,standard,openai
+Crop,0,0.192982456140351,57,unanimous,huetortajar,standard,openai
+Crop,1,0.0882352941176471,34,unanimous,huetortajar,standard,openai
+Crop,two or more,0,13,unanimous,huetortajar,standard,openai
+Irrigation,0,0.461538461538462,52,unanimous,huetortajar,standard,openai
+Irrigation,two or more,0.0714285714285714,28,unanimous,huetortajar,standard,openai
+Irrigation,1,0.147058823529412,68,unanimous,huetortajar,standard,openai
+Soil & moisture,two or more,0.136363636363636,22,unanimous,huetortajar,standard,openai
+Soil & moisture,1,0.271186440677966,59,unanimous,huetortajar,standard,openai
+Soil & moisture,0,0.2,10,unanimous,huetortajar,standard,openai
+Weather & climate,1,0,57,unanimous,huetortajar,standard,openai
+Weather & climate,two or more,0,8,unanimous,huetortajar,standard,openai
+Weather & climate,0,0,10,unanimous,huetortajar,standard,openai
+Crop,0,0.2,55,unanimous,oria,standard,openai
+Crop,1,0.114285714285714,35,unanimous,oria,standard,openai
+Crop,two or more,0,7,unanimous,oria,standard,openai
+Irrigation,0,0.473684210526316,57,unanimous,oria,standard,openai
+Irrigation,two or more,0.0384615384615385,26,unanimous,oria,standard,openai
+Irrigation,1,0.192982456140351,57,unanimous,oria,standard,openai
+Soil & moisture,two or more,0.15,20,unanimous,oria,standard,openai
+Soil & moisture,1,0.271186440677966,59,unanimous,oria,standard,openai
+Soil & moisture,0,0.125,8,unanimous,oria,standard,openai
+Weather & climate,1,0,46,unanimous,oria,standard,openai
+Weather & climate,two or more,0,6,unanimous,oria,standard,openai
+Weather & climate,0,0,11,unanimous,oria,standard,openai
+Crop,0,0.078125,64,any draw,none,short,anthropic
+Crop,1,0.05,40,any draw,none,short,anthropic
+Crop,two or more,0,13,any draw,none,short,anthropic
+Irrigation,0,0.453125,64,any draw,none,short,anthropic
+Irrigation,two or more,0,34,any draw,none,short,anthropic
+Irrigation,1,0.148648648648649,74,any draw,none,short,anthropic
+Soil & moisture,two or more,0,26,any draw,none,short,anthropic
+Soil & moisture,1,0.0746268656716418,67,any draw,none,short,anthropic
+Soil & moisture,0,0.2,10,any draw,none,short,anthropic
+Weather & climate,1,0,62,any draw,none,short,anthropic
+Weather & climate,two or more,0,8,any draw,none,short,anthropic
+Weather & climate,0,0.0769230769230769,13,any draw,none,short,anthropic
+Crop,0,0.0943396226415094,53,any draw,arriate,short,anthropic
+Crop,1,0.0588235294117647,34,any draw,arriate,short,anthropic
+Crop,two or more,0,12,any draw,arriate,short,anthropic
+Irrigation,1,0.17741935483871,62,any draw,arriate,short,anthropic
+Irrigation,0,0.490566037735849,53,any draw,arriate,short,anthropic
+Irrigation,two or more,0,29,any draw,arriate,short,anthropic
+Soil & moisture,1,0.0847457627118644,59,any draw,arriate,short,anthropic
+Soil & moisture,two or more,0,20,any draw,arriate,short,anthropic
+Soil & moisture,0,0.2,10,any draw,arriate,short,anthropic
+Weather & climate,1,0,56,any draw,arriate,short,anthropic
+Weather & climate,0,0.0833333333333333,12,any draw,arriate,short,anthropic
+Weather & climate,two or more,0,6,any draw,arriate,short,anthropic
+Crop,0,0.0526315789473684,57,any draw,ricote,short,anthropic
+Crop,1,0.0277777777777778,36,any draw,ricote,short,anthropic
+Crop,two or more,0,13,any draw,ricote,short,anthropic
+Irrigation,0,0.436363636363636,55,any draw,ricote,short,anthropic
+Irrigation,two or more,0,32,any draw,ricote,short,anthropic
+Irrigation,1,0.140845070422535,71,any draw,ricote,short,anthropic
+Soil & moisture,two or more,0,24,any draw,ricote,short,anthropic
+Soil & moisture,1,0.08,50,any draw,ricote,short,anthropic
+Soil & moisture,0,0.111111111111111,9,any draw,ricote,short,anthropic
+Weather & climate,1,0,61,any draw,ricote,short,anthropic
+Weather & climate,two or more,0,8,any draw,ricote,short,anthropic
+Weather & climate,0,0.111111111111111,9,any draw,ricote,short,anthropic
+Crop,0,0.0909090909090909,55,any draw,sudanell,short,anthropic
+Crop,1,0.0526315789473684,38,any draw,sudanell,short,anthropic
+Crop,two or more,0,13,any draw,sudanell,short,anthropic
+Irrigation,0,0.461538461538462,52,any draw,sudanell,short,anthropic
+Irrigation,two or more,0,29,any draw,sudanell,short,anthropic
+Irrigation,1,0.144927536231884,69,any draw,sudanell,short,anthropic
+Soil & moisture,two or more,0,25,any draw,sudanell,short,anthropic
+Soil & moisture,1,0.0847457627118644,59,any draw,sudanell,short,anthropic
+Soil & moisture,0,0.125,8,any draw,sudanell,short,anthropic
+Weather & climate,1,0,51,any draw,sudanell,short,anthropic
+Weather & climate,two or more,0,7,any draw,sudanell,short,anthropic
+Weather & climate,0,0.0769230769230769,13,any draw,sudanell,short,anthropic
+Crop,0,0.0555555555555556,54,any draw,durcal,short,anthropic
+Crop,1,0.0606060606060606,33,any draw,durcal,short,anthropic
+Crop,two or more,0,8,any draw,durcal,short,anthropic
+Irrigation,0,0.43859649122807,57,any draw,durcal,short,anthropic
+Irrigation,two or more,0,30,any draw,durcal,short,anthropic
+Irrigation,1,0.147540983606557,61,any draw,durcal,short,anthropic
+Soil & moisture,two or more,0,21,any draw,durcal,short,anthropic
+Soil & moisture,1,0.0508474576271187,59,any draw,durcal,short,anthropic
+Soil & moisture,0,0.333333333333333,6,any draw,durcal,short,anthropic
+Weather & climate,1,0,54,any draw,durcal,short,anthropic
+Weather & climate,two or more,0,7,any draw,durcal,short,anthropic
+Weather & climate,0,0.0909090909090909,11,any draw,durcal,short,anthropic
+Crop,0,0.0943396226415094,53,any draw,murcia,short,anthropic
+Crop,1,0.0333333333333333,30,any draw,murcia,short,anthropic
+Crop,two or more,0,12,any draw,murcia,short,anthropic
+Irrigation,0,0.431034482758621,58,any draw,murcia,short,anthropic
+Irrigation,two or more,0,30,any draw,murcia,short,anthropic
+Irrigation,1,0.125,56,any draw,murcia,short,anthropic
+Soil & moisture,two or more,0,24,any draw,murcia,short,anthropic
+Soil & moisture,1,0.087719298245614,57,any draw,murcia,short,anthropic
+Soil & moisture,0,0.222222222222222,9,any draw,murcia,short,anthropic
+Weather & climate,1,0,47,any draw,murcia,short,anthropic
+Weather & climate,two or more,0,6,any draw,murcia,short,anthropic
+Weather & climate,0,0.0833333333333333,12,any draw,murcia,short,anthropic
+Crop,0,0.087719298245614,57,any draw,huetortajar,short,anthropic
+Crop,1,0.0588235294117647,34,any draw,huetortajar,short,anthropic
+Crop,two or more,0,13,any draw,huetortajar,short,anthropic
+Irrigation,0,0.461538461538462,52,any draw,huetortajar,short,anthropic
+Irrigation,two or more,0,28,any draw,huetortajar,short,anthropic
+Irrigation,1,0.147058823529412,68,any draw,huetortajar,short,anthropic
+Soil & moisture,two or more,0,22,any draw,huetortajar,short,anthropic
+Soil & moisture,1,0.0677966101694915,59,any draw,huetortajar,short,anthropic
+Soil & moisture,0,0.2,10,any draw,huetortajar,short,anthropic
+Weather & climate,1,0,57,any draw,huetortajar,short,anthropic
+Weather & climate,two or more,0,8,any draw,huetortajar,short,anthropic
+Weather & climate,0,0,10,any draw,huetortajar,short,anthropic
+Crop,0,0.0727272727272727,55,any draw,oria,short,anthropic
+Crop,1,0.0571428571428571,35,any draw,oria,short,anthropic
+Crop,two or more,0,7,any draw,oria,short,anthropic
+Irrigation,0,0.456140350877193,57,any draw,oria,short,anthropic
+Irrigation,two or more,0,26,any draw,oria,short,anthropic
+Irrigation,1,0.157894736842105,57,any draw,oria,short,anthropic
+Soil & moisture,two or more,0,20,any draw,oria,short,anthropic
+Soil & moisture,1,0.0677966101694915,59,any draw,oria,short,anthropic
+Soil & moisture,0,0.25,8,any draw,oria,short,anthropic
+Weather & climate,1,0,46,any draw,oria,short,anthropic
+Weather & climate,two or more,0,6,any draw,oria,short,anthropic
+Weather & climate,0,0.0909090909090909,11,any draw,oria,short,anthropic
+Crop,0,0.109375,64,majority,none,short,anthropic
+Crop,1,0.05,40,majority,none,short,anthropic
+Crop,two or more,0,13,majority,none,short,anthropic
+Irrigation,0,0.53125,64,majority,none,short,anthropic
+Irrigation,two or more,0,34,majority,none,short,anthropic
+Irrigation,1,0.175675675675676,74,majority,none,short,anthropic
+Soil & moisture,two or more,0,26,majority,none,short,anthropic
+Soil & moisture,1,0.104477611940299,67,majority,none,short,anthropic
+Soil & moisture,0,0.3,10,majority,none,short,anthropic
+Weather & climate,1,0,62,majority,none,short,anthropic
+Weather & climate,two or more,0,8,majority,none,short,anthropic
+Weather & climate,0,0.230769230769231,13,majority,none,short,anthropic
+Crop,0,0.132075471698113,53,majority,arriate,short,anthropic
+Crop,1,0.0588235294117647,34,majority,arriate,short,anthropic
+Crop,two or more,0,12,majority,arriate,short,anthropic
+Irrigation,1,0.193548387096774,62,majority,arriate,short,anthropic
+Irrigation,0,0.547169811320755,53,majority,arriate,short,anthropic
+Irrigation,two or more,0,29,majority,arriate,short,anthropic
+Soil & moisture,1,0.11864406779661,59,majority,arriate,short,anthropic
+Soil & moisture,two or more,0,20,majority,arriate,short,anthropic
+Soil & moisture,0,0.3,10,majority,arriate,short,anthropic
+Weather & climate,1,0,56,majority,arriate,short,anthropic
+Weather & climate,0,0.25,12,majority,arriate,short,anthropic
+Weather & climate,two or more,0,6,majority,arriate,short,anthropic
+Crop,0,0.087719298245614,57,majority,ricote,short,anthropic
+Crop,1,0.0277777777777778,36,majority,ricote,short,anthropic
+Crop,two or more,0,13,majority,ricote,short,anthropic
+Irrigation,0,0.527272727272727,55,majority,ricote,short,anthropic
+Irrigation,two or more,0,32,majority,ricote,short,anthropic
+Irrigation,1,0.169014084507042,71,majority,ricote,short,anthropic
+Soil & moisture,two or more,0,24,majority,ricote,short,anthropic
+Soil & moisture,1,0.12,50,majority,ricote,short,anthropic
+Soil & moisture,0,0.222222222222222,9,majority,ricote,short,anthropic
+Weather & climate,1,0,61,majority,ricote,short,anthropic
+Weather & climate,two or more,0,8,majority,ricote,short,anthropic
+Weather & climate,0,0.333333333333333,9,majority,ricote,short,anthropic
+Crop,0,0.127272727272727,55,majority,sudanell,short,anthropic
+Crop,1,0.0526315789473684,38,majority,sudanell,short,anthropic
+Crop,two or more,0,13,majority,sudanell,short,anthropic
+Irrigation,0,0.557692307692308,52,majority,sudanell,short,anthropic
+Irrigation,two or more,0,29,majority,sudanell,short,anthropic
+Irrigation,1,0.173913043478261,69,majority,sudanell,short,anthropic
+Soil & moisture,two or more,0,25,majority,sudanell,short,anthropic
+Soil & moisture,1,0.11864406779661,59,majority,sudanell,short,anthropic
+Soil & moisture,0,0.25,8,majority,sudanell,short,anthropic
+Weather & climate,1,0,51,majority,sudanell,short,anthropic
+Weather & climate,two or more,0,7,majority,sudanell,short,anthropic
+Weather & climate,0,0.230769230769231,13,majority,sudanell,short,anthropic
+Crop,0,0.0740740740740741,54,majority,durcal,short,anthropic
+Crop,1,0.0606060606060606,33,majority,durcal,short,anthropic
+Crop,two or more,0,8,majority,durcal,short,anthropic
+Irrigation,0,0.491228070175439,57,majority,durcal,short,anthropic
+Irrigation,two or more,0,30,majority,durcal,short,anthropic
+Irrigation,1,0.180327868852459,61,majority,durcal,short,anthropic
+Soil & moisture,two or more,0,21,majority,durcal,short,anthropic
+Soil & moisture,1,0.0677966101694915,59,majority,durcal,short,anthropic
+Soil & moisture,0,0.333333333333333,6,majority,durcal,short,anthropic
+Weather & climate,1,0,54,majority,durcal,short,anthropic
+Weather & climate,two or more,0,7,majority,durcal,short,anthropic
+Weather & climate,0,0.181818181818182,11,majority,durcal,short,anthropic
+Crop,0,0.113207547169811,53,majority,murcia,short,anthropic
+Crop,1,0.0333333333333333,30,majority,murcia,short,anthropic
+Crop,two or more,0,12,majority,murcia,short,anthropic
+Irrigation,0,0.517241379310345,58,majority,murcia,short,anthropic
+Irrigation,two or more,0,30,majority,murcia,short,anthropic
+Irrigation,1,0.142857142857143,56,majority,murcia,short,anthropic
+Soil & moisture,two or more,0,24,majority,murcia,short,anthropic
+Soil & moisture,1,0.12280701754386,57,majority,murcia,short,anthropic
+Soil & moisture,0,0.333333333333333,9,majority,murcia,short,anthropic
+Weather & climate,1,0,47,majority,murcia,short,anthropic
+Weather & climate,two or more,0,6,majority,murcia,short,anthropic
+Weather & climate,0,0.25,12,majority,murcia,short,anthropic
+Crop,0,0.12280701754386,57,majority,huetortajar,short,anthropic
+Crop,1,0.0588235294117647,34,majority,huetortajar,short,anthropic
+Crop,two or more,0,13,majority,huetortajar,short,anthropic
+Irrigation,0,0.538461538461538,52,majority,huetortajar,short,anthropic
+Irrigation,two or more,0,28,majority,huetortajar,short,anthropic
+Irrigation,1,0.176470588235294,68,majority,huetortajar,short,anthropic
+Soil & moisture,two or more,0,22,majority,huetortajar,short,anthropic
+Soil & moisture,1,0.0847457627118644,59,majority,huetortajar,short,anthropic
+Soil & moisture,0,0.3,10,majority,huetortajar,short,anthropic
+Weather & climate,1,0,57,majority,huetortajar,short,anthropic
+Weather & climate,two or more,0,8,majority,huetortajar,short,anthropic
+Weather & climate,0,0.1,10,majority,huetortajar,short,anthropic
+Crop,0,0.109090909090909,55,majority,oria,short,anthropic
+Crop,1,0.0571428571428571,35,majority,oria,short,anthropic
+Crop,two or more,0,7,majority,oria,short,anthropic
+Irrigation,0,0.543859649122807,57,majority,oria,short,anthropic
+Irrigation,two or more,0,26,majority,oria,short,anthropic
+Irrigation,1,0.192982456140351,57,majority,oria,short,anthropic
+Soil & moisture,two or more,0,20,majority,oria,short,anthropic
+Soil & moisture,1,0.101694915254237,59,majority,oria,short,anthropic
+Soil & moisture,0,0.375,8,majority,oria,short,anthropic
+Weather & climate,1,0,46,majority,oria,short,anthropic
+Weather & climate,two or more,0,6,majority,oria,short,anthropic
+Weather & climate,0,0.272727272727273,11,majority,oria,short,anthropic
+Crop,0,0.125,64,unanimous,none,short,anthropic
+Crop,1,0.075,40,unanimous,none,short,anthropic
+Crop,two or more,0,13,unanimous,none,short,anthropic
+Irrigation,0,0.546875,64,unanimous,none,short,anthropic
+Irrigation,two or more,0,34,unanimous,none,short,anthropic
+Irrigation,1,0.202702702702703,74,unanimous,none,short,anthropic
+Soil & moisture,two or more,0.0384615384615385,26,unanimous,none,short,anthropic
+Soil & moisture,1,0.134328358208955,67,unanimous,none,short,anthropic
+Soil & moisture,0,0.5,10,unanimous,none,short,anthropic
+Weather & climate,1,0,62,unanimous,none,short,anthropic
+Weather & climate,two or more,0,8,unanimous,none,short,anthropic
+Weather & climate,0,0.230769230769231,13,unanimous,none,short,anthropic
+Crop,0,0.150943396226415,53,unanimous,arriate,short,anthropic
+Crop,1,0.0882352941176471,34,unanimous,arriate,short,anthropic
+Crop,two or more,0,12,unanimous,arriate,short,anthropic
+Irrigation,1,0.209677419354839,62,unanimous,arriate,short,anthropic
+Irrigation,0,0.566037735849057,53,unanimous,arriate,short,anthropic
+Irrigation,two or more,0,29,unanimous,arriate,short,anthropic
+Soil & moisture,1,0.152542372881356,59,unanimous,arriate,short,anthropic
+Soil & moisture,two or more,0.05,20,unanimous,arriate,short,anthropic
+Soil & moisture,0,0.5,10,unanimous,arriate,short,anthropic
+Weather & climate,1,0,56,unanimous,arriate,short,anthropic
+Weather & climate,0,0.25,12,unanimous,arriate,short,anthropic
+Weather & climate,two or more,0,6,unanimous,arriate,short,anthropic
+Crop,0,0.105263157894737,57,unanimous,ricote,short,anthropic
+Crop,1,0.0555555555555556,36,unanimous,ricote,short,anthropic
+Crop,two or more,0,13,unanimous,ricote,short,anthropic
+Irrigation,0,0.545454545454545,55,unanimous,ricote,short,anthropic
+Irrigation,two or more,0,32,unanimous,ricote,short,anthropic
+Irrigation,1,0.197183098591549,71,unanimous,ricote,short,anthropic
+Soil & moisture,two or more,0.0416666666666667,24,unanimous,ricote,short,anthropic
+Soil & moisture,1,0.14,50,unanimous,ricote,short,anthropic
+Soil & moisture,0,0.444444444444444,9,unanimous,ricote,short,anthropic
+Weather & climate,1,0,61,unanimous,ricote,short,anthropic
+Weather & climate,two or more,0,8,unanimous,ricote,short,anthropic
+Weather & climate,0,0.333333333333333,9,unanimous,ricote,short,anthropic
+Crop,0,0.145454545454545,55,unanimous,sudanell,short,anthropic
+Crop,1,0.0789473684210526,38,unanimous,sudanell,short,anthropic
+Crop,two or more,0,13,unanimous,sudanell,short,anthropic
+Irrigation,0,0.576923076923077,52,unanimous,sudanell,short,anthropic
+Irrigation,two or more,0,29,unanimous,sudanell,short,anthropic
+Irrigation,1,0.202898550724638,69,unanimous,sudanell,short,anthropic
+Soil & moisture,two or more,0,25,unanimous,sudanell,short,anthropic
+Soil & moisture,1,0.135593220338983,59,unanimous,sudanell,short,anthropic
+Soil & moisture,0,0.5,8,unanimous,sudanell,short,anthropic
+Weather & climate,1,0,51,unanimous,sudanell,short,anthropic
+Weather & climate,two or more,0,7,unanimous,sudanell,short,anthropic
+Weather & climate,0,0.230769230769231,13,unanimous,sudanell,short,anthropic
+Crop,0,0.0740740740740741,54,unanimous,durcal,short,anthropic
+Crop,1,0.0909090909090909,33,unanimous,durcal,short,anthropic
+Crop,two or more,0,8,unanimous,durcal,short,anthropic
+Irrigation,0,0.508771929824562,57,unanimous,durcal,short,anthropic
+Irrigation,two or more,0,30,unanimous,durcal,short,anthropic
+Irrigation,1,0.19672131147541,61,unanimous,durcal,short,anthropic
+Soil & moisture,two or more,0.0476190476190476,21,unanimous,durcal,short,anthropic
+Soil & moisture,1,0.101694915254237,59,unanimous,durcal,short,anthropic
+Soil & moisture,0,0.666666666666667,6,unanimous,durcal,short,anthropic
+Weather & climate,1,0,54,unanimous,durcal,short,anthropic
+Weather & climate,two or more,0,7,unanimous,durcal,short,anthropic
+Weather & climate,0,0.181818181818182,11,unanimous,durcal,short,anthropic
+Crop,0,0.132075471698113,53,unanimous,murcia,short,anthropic
+Crop,1,0.0666666666666667,30,unanimous,murcia,short,anthropic
+Crop,two or more,0,12,unanimous,murcia,short,anthropic
+Irrigation,0,0.53448275862069,58,unanimous,murcia,short,anthropic
+Irrigation,two or more,0,30,unanimous,murcia,short,anthropic
+Irrigation,1,0.178571428571429,56,unanimous,murcia,short,anthropic
+Soil & moisture,two or more,0.0416666666666667,24,unanimous,murcia,short,anthropic
+Soil & moisture,1,0.157894736842105,57,unanimous,murcia,short,anthropic
+Soil & moisture,0,0.444444444444444,9,unanimous,murcia,short,anthropic
+Weather & climate,1,0,47,unanimous,murcia,short,anthropic
+Weather & climate,two or more,0,6,unanimous,murcia,short,anthropic
+Weather & climate,0,0.25,12,unanimous,murcia,short,anthropic
+Crop,0,0.140350877192982,57,unanimous,huetortajar,short,anthropic
+Crop,1,0.0588235294117647,34,unanimous,huetortajar,short,anthropic
+Crop,two or more,0,13,unanimous,huetortajar,short,anthropic
+Irrigation,0,0.538461538461538,52,unanimous,huetortajar,short,anthropic
+Irrigation,two or more,0,28,unanimous,huetortajar,short,anthropic
+Irrigation,1,0.205882352941176,68,unanimous,huetortajar,short,anthropic
+Soil & moisture,two or more,0.0454545454545455,22,unanimous,huetortajar,short,anthropic
+Soil & moisture,1,0.11864406779661,59,unanimous,huetortajar,short,anthropic
+Soil & moisture,0,0.5,10,unanimous,huetortajar,short,anthropic
+Weather & climate,1,0,57,unanimous,huetortajar,short,anthropic
+Weather & climate,two or more,0,8,unanimous,huetortajar,short,anthropic
+Weather & climate,0,0.1,10,unanimous,huetortajar,short,anthropic
+Crop,0,0.127272727272727,55,unanimous,oria,short,anthropic
+Crop,1,0.0857142857142857,35,unanimous,oria,short,anthropic
+Crop,two or more,0,7,unanimous,oria,short,anthropic
+Irrigation,0,0.56140350877193,57,unanimous,oria,short,anthropic
+Irrigation,two or more,0,26,unanimous,oria,short,anthropic
+Irrigation,1,0.228070175438597,57,unanimous,oria,short,anthropic
+Soil & moisture,two or more,0.05,20,unanimous,oria,short,anthropic
+Soil & moisture,1,0.135593220338983,59,unanimous,oria,short,anthropic
+Soil & moisture,0,0.5,8,unanimous,oria,short,anthropic
+Weather & climate,1,0,46,unanimous,oria,short,anthropic
+Weather & climate,two or more,0,6,unanimous,oria,short,anthropic
+Weather & climate,0,0.272727272727273,11,unanimous,oria,short,anthropic
+Crop,0,0.015625,64,any draw,none,short,openai
+Crop,1,0,40,any draw,none,short,openai
+Crop,two or more,0,13,any draw,none,short,openai
+Irrigation,0,0.1875,64,any draw,none,short,openai
+Irrigation,two or more,0,34,any draw,none,short,openai
+Irrigation,1,0.027027027027027,74,any draw,none,short,openai
+Soil & moisture,two or more,0,26,any draw,none,short,openai
+Soil & moisture,1,0.0447761194029851,67,any draw,none,short,openai
+Soil & moisture,0,0.1,10,any draw,none,short,openai
+Weather & climate,1,0,62,any draw,none,short,openai
+Weather & climate,two or more,0,8,any draw,none,short,openai
+Weather & climate,0,0.153846153846154,13,any draw,none,short,openai
+Crop,0,0.0188679245283019,53,any draw,arriate,short,openai
+Crop,1,0,34,any draw,arriate,short,openai
+Crop,two or more,0,12,any draw,arriate,short,openai
+Irrigation,1,0.032258064516129,62,any draw,arriate,short,openai
+Irrigation,0,0.207547169811321,53,any draw,arriate,short,openai
+Irrigation,two or more,0,29,any draw,arriate,short,openai
+Soil & moisture,1,0.0508474576271187,59,any draw,arriate,short,openai
+Soil & moisture,two or more,0,20,any draw,arriate,short,openai
+Soil & moisture,0,0.1,10,any draw,arriate,short,openai
+Weather & climate,1,0,56,any draw,arriate,short,openai
+Weather & climate,0,0.166666666666667,12,any draw,arriate,short,openai
+Weather & climate,two or more,0,6,any draw,arriate,short,openai
+Crop,0,0.0175438596491228,57,any draw,ricote,short,openai
+Crop,1,0,36,any draw,ricote,short,openai
+Crop,two or more,0,13,any draw,ricote,short,openai
+Irrigation,0,0.163636363636364,55,any draw,ricote,short,openai
+Irrigation,two or more,0,32,any draw,ricote,short,openai
+Irrigation,1,0.0140845070422535,71,any draw,ricote,short,openai
+Soil & moisture,two or more,0,24,any draw,ricote,short,openai
+Soil & moisture,1,0.04,50,any draw,ricote,short,openai
+Soil & moisture,0,0.111111111111111,9,any draw,ricote,short,openai
+Weather & climate,1,0,61,any draw,ricote,short,openai
+Weather & climate,two or more,0,8,any draw,ricote,short,openai
+Weather & climate,0,0.222222222222222,9,any draw,ricote,short,openai
+Crop,0,0.0181818181818182,55,any draw,sudanell,short,openai
+Crop,1,0,38,any draw,sudanell,short,openai
+Crop,two or more,0,13,any draw,sudanell,short,openai
+Irrigation,0,0.173076923076923,52,any draw,sudanell,short,openai
+Irrigation,two or more,0,29,any draw,sudanell,short,openai
+Irrigation,1,0.0289855072463768,69,any draw,sudanell,short,openai
+Soil & moisture,two or more,0,25,any draw,sudanell,short,openai
+Soil & moisture,1,0.0508474576271187,59,any draw,sudanell,short,openai
+Soil & moisture,0,0,8,any draw,sudanell,short,openai
+Weather & climate,1,0,51,any draw,sudanell,short,openai
+Weather & climate,two or more,0,7,any draw,sudanell,short,openai
+Weather & climate,0,0.153846153846154,13,any draw,sudanell,short,openai
+Crop,0,0,54,any draw,durcal,short,openai
+Crop,1,0,33,any draw,durcal,short,openai
+Crop,two or more,0,8,any draw,durcal,short,openai
+Irrigation,0,0.210526315789474,57,any draw,durcal,short,openai
+Irrigation,two or more,0,30,any draw,durcal,short,openai
+Irrigation,1,0.0327868852459016,61,any draw,durcal,short,openai
+Soil & moisture,two or more,0,21,any draw,durcal,short,openai
+Soil & moisture,1,0.0338983050847458,59,any draw,durcal,short,openai
+Soil & moisture,0,0.166666666666667,6,any draw,durcal,short,openai
+Weather & climate,1,0,54,any draw,durcal,short,openai
+Weather & climate,two or more,0,7,any draw,durcal,short,openai
+Weather & climate,0,0.0909090909090909,11,any draw,durcal,short,openai
+Crop,0,0.0188679245283019,53,any draw,murcia,short,openai
+Crop,1,0,30,any draw,murcia,short,openai
+Crop,two or more,0,12,any draw,murcia,short,openai
+Irrigation,0,0.189655172413793,58,any draw,murcia,short,openai
+Irrigation,two or more,0,30,any draw,murcia,short,openai
+Irrigation,1,0.0178571428571429,56,any draw,murcia,short,openai
+Soil & moisture,two or more,0,24,any draw,murcia,short,openai
+Soil & moisture,1,0.0526315789473684,57,any draw,murcia,short,openai
+Soil & moisture,0,0.111111111111111,9,any draw,murcia,short,openai
+Weather & climate,1,0,47,any draw,murcia,short,openai
+Weather & climate,two or more,0,6,any draw,murcia,short,openai
+Weather & climate,0,0.166666666666667,12,any draw,murcia,short,openai
+Crop,0,0.0175438596491228,57,any draw,huetortajar,short,openai
+Crop,1,0,34,any draw,huetortajar,short,openai
+Crop,two or more,0,13,any draw,huetortajar,short,openai
+Irrigation,0,0.192307692307692,52,any draw,huetortajar,short,openai
+Irrigation,two or more,0,28,any draw,huetortajar,short,openai
+Irrigation,1,0.0294117647058824,68,any draw,huetortajar,short,openai
+Soil & moisture,two or more,0,22,any draw,huetortajar,short,openai
+Soil & moisture,1,0.0508474576271187,59,any draw,huetortajar,short,openai
+Soil & moisture,0,0.1,10,any draw,huetortajar,short,openai
+Weather & climate,1,0,57,any draw,huetortajar,short,openai
+Weather & climate,two or more,0,8,any draw,huetortajar,short,openai
+Weather & climate,0,0.1,10,any draw,huetortajar,short,openai
+Crop,0,0.0181818181818182,55,any draw,oria,short,openai
+Crop,1,0,35,any draw,oria,short,openai
+Crop,two or more,0,7,any draw,oria,short,openai
+Irrigation,0,0.175438596491228,57,any draw,oria,short,openai
+Irrigation,two or more,0,26,any draw,oria,short,openai
+Irrigation,1,0.0350877192982456,57,any draw,oria,short,openai
+Soil & moisture,two or more,0,20,any draw,oria,short,openai
+Soil & moisture,1,0.0338983050847458,59,any draw,oria,short,openai
+Soil & moisture,0,0.125,8,any draw,oria,short,openai
+Weather & climate,1,0,46,any draw,oria,short,openai
+Weather & climate,two or more,0,6,any draw,oria,short,openai
+Weather & climate,0,0.181818181818182,11,any draw,oria,short,openai
+Crop,0,0.03125,64,majority,none,short,openai
+Crop,1,0.05,40,majority,none,short,openai
+Crop,two or more,0,13,majority,none,short,openai
+Irrigation,0,0.34375,64,majority,none,short,openai
+Irrigation,two or more,0,34,majority,none,short,openai
+Irrigation,1,0.0810810810810811,74,majority,none,short,openai
+Soil & moisture,two or more,0,26,majority,none,short,openai
+Soil & moisture,1,0.104477611940299,67,majority,none,short,openai
+Soil & moisture,0,0.3,10,majority,none,short,openai
+Weather & climate,1,0,62,majority,none,short,openai
+Weather & climate,two or more,0,8,majority,none,short,openai
+Weather & climate,0,0.153846153846154,13,majority,none,short,openai
+Crop,0,0.0377358490566038,53,majority,arriate,short,openai
+Crop,1,0.0588235294117647,34,majority,arriate,short,openai
+Crop,two or more,0,12,majority,arriate,short,openai
+Irrigation,1,0.0806451612903226,62,majority,arriate,short,openai
+Irrigation,0,0.377358490566038,53,majority,arriate,short,openai
+Irrigation,two or more,0,29,majority,arriate,short,openai
+Soil & moisture,1,0.11864406779661,59,majority,arriate,short,openai
+Soil & moisture,two or more,0,20,majority,arriate,short,openai
+Soil & moisture,0,0.3,10,majority,arriate,short,openai
+Weather & climate,1,0,56,majority,arriate,short,openai
+Weather & climate,0,0.166666666666667,12,majority,arriate,short,openai
+Weather & climate,two or more,0,6,majority,arriate,short,openai
+Crop,0,0.0350877192982456,57,majority,ricote,short,openai
+Crop,1,0.0555555555555556,36,majority,ricote,short,openai
+Crop,two or more,0,13,majority,ricote,short,openai
+Irrigation,0,0.309090909090909,55,majority,ricote,short,openai
+Irrigation,two or more,0,32,majority,ricote,short,openai
+Irrigation,1,0.0704225352112676,71,majority,ricote,short,openai
+Soil & moisture,two or more,0,24,majority,ricote,short,openai
+Soil & moisture,1,0.1,50,majority,ricote,short,openai
+Soil & moisture,0,0.222222222222222,9,majority,ricote,short,openai
+Weather & climate,1,0,61,majority,ricote,short,openai
+Weather & climate,two or more,0,8,majority,ricote,short,openai
+Weather & climate,0,0.222222222222222,9,majority,ricote,short,openai
+Crop,0,0.0363636363636364,55,majority,sudanell,short,openai
+Crop,1,0.0526315789473684,38,majority,sudanell,short,openai
+Crop,two or more,0,13,majority,sudanell,short,openai
+Irrigation,0,0.346153846153846,52,majority,sudanell,short,openai
+Irrigation,two or more,0,29,majority,sudanell,short,openai
+Irrigation,1,0.0869565217391304,69,majority,sudanell,short,openai
+Soil & moisture,two or more,0,25,majority,sudanell,short,openai
+Soil & moisture,1,0.11864406779661,59,majority,sudanell,short,openai
+Soil & moisture,0,0.25,8,majority,sudanell,short,openai
+Weather & climate,1,0,51,majority,sudanell,short,openai
+Weather & climate,two or more,0,7,majority,sudanell,short,openai
+Weather & climate,0,0.153846153846154,13,majority,sudanell,short,openai
+Crop,0,0,54,majority,durcal,short,openai
+Crop,1,0.0606060606060606,33,majority,durcal,short,openai
+Crop,two or more,0,8,majority,durcal,short,openai
+Irrigation,0,0.333333333333333,57,majority,durcal,short,openai
+Irrigation,two or more,0,30,majority,durcal,short,openai
+Irrigation,1,0.0983606557377049,61,majority,durcal,short,openai
+Soil & moisture,two or more,0,21,majority,durcal,short,openai
+Soil & moisture,1,0.0847457627118644,59,majority,durcal,short,openai
+Soil & moisture,0,0.5,6,majority,durcal,short,openai
+Weather & climate,1,0,54,majority,durcal,short,openai
+Weather & climate,two or more,0,7,majority,durcal,short,openai
+Weather & climate,0,0.0909090909090909,11,majority,durcal,short,openai
+Crop,0,0.0377358490566038,53,majority,murcia,short,openai
+Crop,1,0.0333333333333333,30,majority,murcia,short,openai
+Crop,two or more,0,12,majority,murcia,short,openai
+Irrigation,0,0.362068965517241,58,majority,murcia,short,openai
+Irrigation,two or more,0,30,majority,murcia,short,openai
+Irrigation,1,0.0357142857142857,56,majority,murcia,short,openai
+Soil & moisture,two or more,0,24,majority,murcia,short,openai
+Soil & moisture,1,0.12280701754386,57,majority,murcia,short,openai
+Soil & moisture,0,0.222222222222222,9,majority,murcia,short,openai
+Weather & climate,1,0,47,majority,murcia,short,openai
+Weather & climate,two or more,0,6,majority,murcia,short,openai
+Weather & climate,0,0.166666666666667,12,majority,murcia,short,openai
+Crop,0,0.0350877192982456,57,majority,huetortajar,short,openai
+Crop,1,0.0588235294117647,34,majority,huetortajar,short,openai
+Crop,two or more,0,13,majority,huetortajar,short,openai
+Irrigation,0,0.346153846153846,52,majority,huetortajar,short,openai
+Irrigation,two or more,0,28,majority,huetortajar,short,openai
+Irrigation,1,0.0882352941176471,68,majority,huetortajar,short,openai
+Soil & moisture,two or more,0,22,majority,huetortajar,short,openai
+Soil & moisture,1,0.101694915254237,59,majority,huetortajar,short,openai
+Soil & moisture,0,0.3,10,majority,huetortajar,short,openai
+Weather & climate,1,0,57,majority,huetortajar,short,openai
+Weather & climate,two or more,0,8,majority,huetortajar,short,openai
+Weather & climate,0,0.1,10,majority,huetortajar,short,openai
+Crop,0,0.0363636363636364,55,majority,oria,short,openai
+Crop,1,0.0285714285714286,35,majority,oria,short,openai
+Crop,two or more,0,7,majority,oria,short,openai
+Irrigation,0,0.333333333333333,57,majority,oria,short,openai
+Irrigation,two or more,0,26,majority,oria,short,openai
+Irrigation,1,0.105263157894737,57,majority,oria,short,openai
+Soil & moisture,two or more,0,20,majority,oria,short,openai
+Soil & moisture,1,0.0847457627118644,59,majority,oria,short,openai
+Soil & moisture,0,0.375,8,majority,oria,short,openai
+Weather & climate,1,0,46,majority,oria,short,openai
+Weather & climate,two or more,0,6,majority,oria,short,openai
+Weather & climate,0,0.181818181818182,11,majority,oria,short,openai
+Crop,0,0.078125,64,unanimous,none,short,openai
+Crop,1,0.1,40,unanimous,none,short,openai
+Crop,two or more,0,13,unanimous,none,short,openai
+Irrigation,0,0.515625,64,unanimous,none,short,openai
+Irrigation,two or more,0.0588235294117647,34,unanimous,none,short,openai
+Irrigation,1,0.0945945945945946,74,unanimous,none,short,openai
+Soil & moisture,two or more,0.0384615384615385,26,unanimous,none,short,openai
+Soil & moisture,1,0.223880597014925,67,unanimous,none,short,openai
+Soil & moisture,0,0.5,10,unanimous,none,short,openai
+Weather & climate,1,0,62,unanimous,none,short,openai
+Weather & climate,two or more,0,8,unanimous,none,short,openai
+Weather & climate,0,0.153846153846154,13,unanimous,none,short,openai
+Crop,0,0.0943396226415094,53,unanimous,arriate,short,openai
+Crop,1,0.117647058823529,34,unanimous,arriate,short,openai
+Crop,two or more,0,12,unanimous,arriate,short,openai
+Irrigation,1,0.0967741935483871,62,unanimous,arriate,short,openai
+Irrigation,0,0.566037735849057,53,unanimous,arriate,short,openai
+Irrigation,two or more,0.0689655172413793,29,unanimous,arriate,short,openai
+Soil & moisture,1,0.254237288135593,59,unanimous,arriate,short,openai
+Soil & moisture,two or more,0.05,20,unanimous,arriate,short,openai
+Soil & moisture,0,0.5,10,unanimous,arriate,short,openai
+Weather & climate,1,0,56,unanimous,arriate,short,openai
+Weather & climate,0,0.166666666666667,12,unanimous,arriate,short,openai
+Weather & climate,two or more,0,6,unanimous,arriate,short,openai
+Crop,0,0.0526315789473684,57,unanimous,ricote,short,openai
+Crop,1,0.111111111111111,36,unanimous,ricote,short,openai
+Crop,two or more,0,13,unanimous,ricote,short,openai
+Irrigation,0,0.490909090909091,55,unanimous,ricote,short,openai
+Irrigation,two or more,0.0625,32,unanimous,ricote,short,openai
+Irrigation,1,0.0845070422535211,71,unanimous,ricote,short,openai
+Soil & moisture,two or more,0.0416666666666667,24,unanimous,ricote,short,openai
+Soil & moisture,1,0.2,50,unanimous,ricote,short,openai
+Soil & moisture,0,0.444444444444444,9,unanimous,ricote,short,openai
+Weather & climate,1,0,61,unanimous,ricote,short,openai
+Weather & climate,two or more,0,8,unanimous,ricote,short,openai
+Weather & climate,0,0.222222222222222,9,unanimous,ricote,short,openai
+Crop,0,0.0909090909090909,55,unanimous,sudanell,short,openai
+Crop,1,0.105263157894737,38,unanimous,sudanell,short,openai
+Crop,two or more,0,13,unanimous,sudanell,short,openai
+Irrigation,0,0.538461538461538,52,unanimous,sudanell,short,openai
+Irrigation,two or more,0.0344827586206897,29,unanimous,sudanell,short,openai
+Irrigation,1,0.101449275362319,69,unanimous,sudanell,short,openai
+Soil & moisture,two or more,0,25,unanimous,sudanell,short,openai
+Soil & moisture,1,0.220338983050847,59,unanimous,sudanell,short,openai
+Soil & moisture,0,0.5,8,unanimous,sudanell,short,openai
+Weather & climate,1,0,51,unanimous,sudanell,short,openai
+Weather & climate,two or more,0,7,unanimous,sudanell,short,openai
+Weather & climate,0,0.153846153846154,13,unanimous,sudanell,short,openai
+Crop,0,0.0555555555555556,54,unanimous,durcal,short,openai
+Crop,1,0.121212121212121,33,unanimous,durcal,short,openai
+Crop,two or more,0,8,unanimous,durcal,short,openai
+Irrigation,0,0.491228070175439,57,unanimous,durcal,short,openai
+Irrigation,two or more,0.0666666666666667,30,unanimous,durcal,short,openai
+Irrigation,1,0.0983606557377049,61,unanimous,durcal,short,openai
+Soil & moisture,two or more,0.0476190476190476,21,unanimous,durcal,short,openai
+Soil & moisture,1,0.203389830508475,59,unanimous,durcal,short,openai
+Soil & moisture,0,0.666666666666667,6,unanimous,durcal,short,openai
+Weather & climate,1,0,54,unanimous,durcal,short,openai
+Weather & climate,two or more,0,7,unanimous,durcal,short,openai
+Weather & climate,0,0.0909090909090909,11,unanimous,durcal,short,openai
+Crop,0,0.0943396226415094,53,unanimous,murcia,short,openai
+Crop,1,0.1,30,unanimous,murcia,short,openai
+Crop,two or more,0,12,unanimous,murcia,short,openai
+Irrigation,0,0.551724137931035,58,unanimous,murcia,short,openai
+Irrigation,two or more,0.0666666666666667,30,unanimous,murcia,short,openai
+Irrigation,1,0.0535714285714286,56,unanimous,murcia,short,openai
+Soil & moisture,two or more,0.0416666666666667,24,unanimous,murcia,short,openai
+Soil & moisture,1,0.263157894736842,57,unanimous,murcia,short,openai
+Soil & moisture,0,0.444444444444444,9,unanimous,murcia,short,openai
+Weather & climate,1,0,47,unanimous,murcia,short,openai
+Weather & climate,two or more,0,6,unanimous,murcia,short,openai
+Weather & climate,0,0.166666666666667,12,unanimous,murcia,short,openai
+Crop,0,0.087719298245614,57,unanimous,huetortajar,short,openai
+Crop,1,0.0588235294117647,34,unanimous,huetortajar,short,openai
+Crop,two or more,0,13,unanimous,huetortajar,short,openai
+Irrigation,0,0.461538461538462,52,unanimous,huetortajar,short,openai
+Irrigation,two or more,0.0714285714285714,28,unanimous,huetortajar,short,openai
+Irrigation,1,0.102941176470588,68,unanimous,huetortajar,short,openai
+Soil & moisture,two or more,0.0454545454545455,22,unanimous,huetortajar,short,openai
+Soil & moisture,1,0.220338983050847,59,unanimous,huetortajar,short,openai
+Soil & moisture,0,0.5,10,unanimous,huetortajar,short,openai
+Weather & climate,1,0,57,unanimous,huetortajar,short,openai
+Weather & climate,two or more,0,8,unanimous,huetortajar,short,openai
+Weather & climate,0,0.1,10,unanimous,huetortajar,short,openai
+Crop,0,0.0727272727272727,55,unanimous,oria,short,openai
+Crop,1,0.0857142857142857,35,unanimous,oria,short,openai
+Crop,two or more,0,7,unanimous,oria,short,openai
+Irrigation,0,0.508771929824562,57,unanimous,oria,short,openai
+Irrigation,two or more,0.0384615384615385,26,unanimous,oria,short,openai
+Irrigation,1,0.12280701754386,57,unanimous,oria,short,openai
+Soil & moisture,two or more,0.05,20,unanimous,oria,short,openai
+Soil & moisture,1,0.203389830508475,59,unanimous,oria,short,openai
+Soil & moisture,0,0.5,8,unanimous,oria,short,openai
+Weather & climate,1,0,46,unanimous,oria,short,openai
+Weather & climate,two or more,0,6,unanimous,oria,short,openai
+Weather & climate,0,0.181818181818182,11,unanimous,oria,short,openai
+Crop,0,0.171875,64,any draw,none,strict,anthropic
+Crop,1,0,40,any draw,none,strict,anthropic
+Crop,two or more,0,13,any draw,none,strict,anthropic
+Irrigation,0,0.125,64,any draw,none,strict,anthropic
+Irrigation,two or more,0,34,any draw,none,strict,anthropic
+Irrigation,1,0.027027027027027,74,any draw,none,strict,anthropic
+Soil & moisture,two or more,0,26,any draw,none,strict,anthropic
+Soil & moisture,1,0.0149253731343284,67,any draw,none,strict,anthropic
+Soil & moisture,0,0,10,any draw,none,strict,anthropic
+Weather & climate,1,0,62,any draw,none,strict,anthropic
+Weather & climate,two or more,0,8,any draw,none,strict,anthropic
+Weather & climate,0,0,13,any draw,none,strict,anthropic
+Crop,0,0.188679245283019,53,any draw,arriate,strict,anthropic
+Crop,1,0,34,any draw,arriate,strict,anthropic
+Crop,two or more,0,12,any draw,arriate,strict,anthropic
+Irrigation,1,0.032258064516129,62,any draw,arriate,strict,anthropic
+Irrigation,0,0.150943396226415,53,any draw,arriate,strict,anthropic
+Irrigation,two or more,0,29,any draw,arriate,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,arriate,strict,anthropic
+Soil & moisture,two or more,0,20,any draw,arriate,strict,anthropic
+Soil & moisture,0,0,10,any draw,arriate,strict,anthropic
+Weather & climate,1,0,56,any draw,arriate,strict,anthropic
+Weather & climate,0,0,12,any draw,arriate,strict,anthropic
+Weather & climate,two or more,0,6,any draw,arriate,strict,anthropic
+Crop,0,0.157894736842105,57,any draw,ricote,strict,anthropic
+Crop,1,0,36,any draw,ricote,strict,anthropic
+Crop,two or more,0,13,any draw,ricote,strict,anthropic
+Irrigation,0,0.0909090909090909,55,any draw,ricote,strict,anthropic
+Irrigation,two or more,0,32,any draw,ricote,strict,anthropic
+Irrigation,1,0.028169014084507,71,any draw,ricote,strict,anthropic
+Soil & moisture,two or more,0,24,any draw,ricote,strict,anthropic
+Soil & moisture,1,0.02,50,any draw,ricote,strict,anthropic
+Soil & moisture,0,0,9,any draw,ricote,strict,anthropic
+Weather & climate,1,0,61,any draw,ricote,strict,anthropic
+Weather & climate,two or more,0,8,any draw,ricote,strict,anthropic
+Weather & climate,0,0,9,any draw,ricote,strict,anthropic
+Crop,0,0.163636363636364,55,any draw,sudanell,strict,anthropic
+Crop,1,0,38,any draw,sudanell,strict,anthropic
+Crop,two or more,0,13,any draw,sudanell,strict,anthropic
+Irrigation,0,0.115384615384615,52,any draw,sudanell,strict,anthropic
+Irrigation,two or more,0,29,any draw,sudanell,strict,anthropic
+Irrigation,1,0.0289855072463768,69,any draw,sudanell,strict,anthropic
+Soil & moisture,two or more,0,25,any draw,sudanell,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,sudanell,strict,anthropic
+Soil & moisture,0,0,8,any draw,sudanell,strict,anthropic
+Weather & climate,1,0,51,any draw,sudanell,strict,anthropic
+Weather & climate,two or more,0,7,any draw,sudanell,strict,anthropic
+Weather & climate,0,0,13,any draw,sudanell,strict,anthropic
+Crop,0,0.203703703703704,54,any draw,durcal,strict,anthropic
+Crop,1,0,33,any draw,durcal,strict,anthropic
+Crop,two or more,0,8,any draw,durcal,strict,anthropic
+Irrigation,0,0.12280701754386,57,any draw,durcal,strict,anthropic
+Irrigation,two or more,0,30,any draw,durcal,strict,anthropic
+Irrigation,1,0.0163934426229508,61,any draw,durcal,strict,anthropic
+Soil & moisture,two or more,0,21,any draw,durcal,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,durcal,strict,anthropic
+Soil & moisture,0,0,6,any draw,durcal,strict,anthropic
+Weather & climate,1,0,54,any draw,durcal,strict,anthropic
+Weather & climate,two or more,0,7,any draw,durcal,strict,anthropic
+Weather & climate,0,0,11,any draw,durcal,strict,anthropic
+Crop,0,0.150943396226415,53,any draw,murcia,strict,anthropic
+Crop,1,0,30,any draw,murcia,strict,anthropic
+Crop,two or more,0,12,any draw,murcia,strict,anthropic
+Irrigation,0,0.137931034482759,58,any draw,murcia,strict,anthropic
+Irrigation,two or more,0,30,any draw,murcia,strict,anthropic
+Irrigation,1,0.0357142857142857,56,any draw,murcia,strict,anthropic
+Soil & moisture,two or more,0,24,any draw,murcia,strict,anthropic
+Soil & moisture,1,0.0175438596491228,57,any draw,murcia,strict,anthropic
+Soil & moisture,0,0,9,any draw,murcia,strict,anthropic
+Weather & climate,1,0,47,any draw,murcia,strict,anthropic
+Weather & climate,two or more,0,6,any draw,murcia,strict,anthropic
+Weather & climate,0,0,12,any draw,murcia,strict,anthropic
+Crop,0,0.175438596491228,57,any draw,huetortajar,strict,anthropic
+Crop,1,0,34,any draw,huetortajar,strict,anthropic
+Crop,two or more,0,13,any draw,huetortajar,strict,anthropic
+Irrigation,0,0.115384615384615,52,any draw,huetortajar,strict,anthropic
+Irrigation,two or more,0,28,any draw,huetortajar,strict,anthropic
+Irrigation,1,0.0294117647058824,68,any draw,huetortajar,strict,anthropic
+Soil & moisture,two or more,0,22,any draw,huetortajar,strict,anthropic
+Soil & moisture,1,0,59,any draw,huetortajar,strict,anthropic
+Soil & moisture,0,0,10,any draw,huetortajar,strict,anthropic
+Weather & climate,1,0,57,any draw,huetortajar,strict,anthropic
+Weather & climate,two or more,0,8,any draw,huetortajar,strict,anthropic
+Weather & climate,0,0,10,any draw,huetortajar,strict,anthropic
+Crop,0,0.163636363636364,55,any draw,oria,strict,anthropic
+Crop,1,0,35,any draw,oria,strict,anthropic
+Crop,two or more,0,7,any draw,oria,strict,anthropic
+Irrigation,0,0.140350877192982,57,any draw,oria,strict,anthropic
+Irrigation,two or more,0,26,any draw,oria,strict,anthropic
+Irrigation,1,0.0175438596491228,57,any draw,oria,strict,anthropic
+Soil & moisture,two or more,0,20,any draw,oria,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,any draw,oria,strict,anthropic
+Soil & moisture,0,0,8,any draw,oria,strict,anthropic
+Weather & climate,1,0,46,any draw,oria,strict,anthropic
+Weather & climate,two or more,0,6,any draw,oria,strict,anthropic
+Weather & climate,0,0,11,any draw,oria,strict,anthropic
+Crop,0,0.1875,64,majority,none,strict,anthropic
+Crop,1,0,40,majority,none,strict,anthropic
+Crop,two or more,0,13,majority,none,strict,anthropic
+Irrigation,0,0.140625,64,majority,none,strict,anthropic
+Irrigation,two or more,0,34,majority,none,strict,anthropic
+Irrigation,1,0.0675675675675676,74,majority,none,strict,anthropic
+Soil & moisture,two or more,0,26,majority,none,strict,anthropic
+Soil & moisture,1,0.0149253731343284,67,majority,none,strict,anthropic
+Soil & moisture,0,0,10,majority,none,strict,anthropic
+Weather & climate,1,0,62,majority,none,strict,anthropic
+Weather & climate,two or more,0,8,majority,none,strict,anthropic
+Weather & climate,0,0,13,majority,none,strict,anthropic
+Crop,0,0.207547169811321,53,majority,arriate,strict,anthropic
+Crop,1,0,34,majority,arriate,strict,anthropic
+Crop,two or more,0,12,majority,arriate,strict,anthropic
+Irrigation,1,0.0483870967741936,62,majority,arriate,strict,anthropic
+Irrigation,0,0.169811320754717,53,majority,arriate,strict,anthropic
+Irrigation,two or more,0,29,majority,arriate,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,arriate,strict,anthropic
+Soil & moisture,two or more,0,20,majority,arriate,strict,anthropic
+Soil & moisture,0,0,10,majority,arriate,strict,anthropic
+Weather & climate,1,0,56,majority,arriate,strict,anthropic
+Weather & climate,0,0,12,majority,arriate,strict,anthropic
+Weather & climate,two or more,0,6,majority,arriate,strict,anthropic
+Crop,0,0.175438596491228,57,majority,ricote,strict,anthropic
+Crop,1,0,36,majority,ricote,strict,anthropic
+Crop,two or more,0,13,majority,ricote,strict,anthropic
+Irrigation,0,0.0909090909090909,55,majority,ricote,strict,anthropic
+Irrigation,two or more,0,32,majority,ricote,strict,anthropic
+Irrigation,1,0.0704225352112676,71,majority,ricote,strict,anthropic
+Soil & moisture,two or more,0,24,majority,ricote,strict,anthropic
+Soil & moisture,1,0.02,50,majority,ricote,strict,anthropic
+Soil & moisture,0,0,9,majority,ricote,strict,anthropic
+Weather & climate,1,0,61,majority,ricote,strict,anthropic
+Weather & climate,two or more,0,8,majority,ricote,strict,anthropic
+Weather & climate,0,0,9,majority,ricote,strict,anthropic
+Crop,0,0.181818181818182,55,majority,sudanell,strict,anthropic
+Crop,1,0,38,majority,sudanell,strict,anthropic
+Crop,two or more,0,13,majority,sudanell,strict,anthropic
+Irrigation,0,0.134615384615385,52,majority,sudanell,strict,anthropic
+Irrigation,two or more,0,29,majority,sudanell,strict,anthropic
+Irrigation,1,0.072463768115942,69,majority,sudanell,strict,anthropic
+Soil & moisture,two or more,0,25,majority,sudanell,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,sudanell,strict,anthropic
+Soil & moisture,0,0,8,majority,sudanell,strict,anthropic
+Weather & climate,1,0,51,majority,sudanell,strict,anthropic
+Weather & climate,two or more,0,7,majority,sudanell,strict,anthropic
+Weather & climate,0,0,13,majority,sudanell,strict,anthropic
+Crop,0,0.222222222222222,54,majority,durcal,strict,anthropic
+Crop,1,0,33,majority,durcal,strict,anthropic
+Crop,two or more,0,8,majority,durcal,strict,anthropic
+Irrigation,0,0.140350877192982,57,majority,durcal,strict,anthropic
+Irrigation,two or more,0,30,majority,durcal,strict,anthropic
+Irrigation,1,0.0655737704918033,61,majority,durcal,strict,anthropic
+Soil & moisture,two or more,0,21,majority,durcal,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,durcal,strict,anthropic
+Soil & moisture,0,0,6,majority,durcal,strict,anthropic
+Weather & climate,1,0,54,majority,durcal,strict,anthropic
+Weather & climate,two or more,0,7,majority,durcal,strict,anthropic
+Weather & climate,0,0,11,majority,durcal,strict,anthropic
+Crop,0,0.150943396226415,53,majority,murcia,strict,anthropic
+Crop,1,0,30,majority,murcia,strict,anthropic
+Crop,two or more,0,12,majority,murcia,strict,anthropic
+Irrigation,0,0.155172413793103,58,majority,murcia,strict,anthropic
+Irrigation,two or more,0,30,majority,murcia,strict,anthropic
+Irrigation,1,0.0892857142857143,56,majority,murcia,strict,anthropic
+Soil & moisture,two or more,0,24,majority,murcia,strict,anthropic
+Soil & moisture,1,0.0175438596491228,57,majority,murcia,strict,anthropic
+Soil & moisture,0,0,9,majority,murcia,strict,anthropic
+Weather & climate,1,0,47,majority,murcia,strict,anthropic
+Weather & climate,two or more,0,6,majority,murcia,strict,anthropic
+Weather & climate,0,0,12,majority,murcia,strict,anthropic
+Crop,0,0.192982456140351,57,majority,huetortajar,strict,anthropic
+Crop,1,0,34,majority,huetortajar,strict,anthropic
+Crop,two or more,0,13,majority,huetortajar,strict,anthropic
+Irrigation,0,0.134615384615385,52,majority,huetortajar,strict,anthropic
+Irrigation,two or more,0,28,majority,huetortajar,strict,anthropic
+Irrigation,1,0.0735294117647059,68,majority,huetortajar,strict,anthropic
+Soil & moisture,two or more,0,22,majority,huetortajar,strict,anthropic
+Soil & moisture,1,0,59,majority,huetortajar,strict,anthropic
+Soil & moisture,0,0,10,majority,huetortajar,strict,anthropic
+Weather & climate,1,0,57,majority,huetortajar,strict,anthropic
+Weather & climate,two or more,0,8,majority,huetortajar,strict,anthropic
+Weather & climate,0,0,10,majority,huetortajar,strict,anthropic
+Crop,0,0.181818181818182,55,majority,oria,strict,anthropic
+Crop,1,0,35,majority,oria,strict,anthropic
+Crop,two or more,0,7,majority,oria,strict,anthropic
+Irrigation,0,0.157894736842105,57,majority,oria,strict,anthropic
+Irrigation,two or more,0,26,majority,oria,strict,anthropic
+Irrigation,1,0.0526315789473684,57,majority,oria,strict,anthropic
+Soil & moisture,two or more,0,20,majority,oria,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,majority,oria,strict,anthropic
+Soil & moisture,0,0,8,majority,oria,strict,anthropic
+Weather & climate,1,0,46,majority,oria,strict,anthropic
+Weather & climate,two or more,0,6,majority,oria,strict,anthropic
+Weather & climate,0,0,11,majority,oria,strict,anthropic
+Crop,0,0.234375,64,unanimous,none,strict,anthropic
+Crop,1,0.025,40,unanimous,none,strict,anthropic
+Crop,two or more,0,13,unanimous,none,strict,anthropic
+Irrigation,0,0.171875,64,unanimous,none,strict,anthropic
+Irrigation,two or more,0,34,unanimous,none,strict,anthropic
+Irrigation,1,0.0675675675675676,74,unanimous,none,strict,anthropic
+Soil & moisture,two or more,0,26,unanimous,none,strict,anthropic
+Soil & moisture,1,0.0149253731343284,67,unanimous,none,strict,anthropic
+Soil & moisture,0,0,10,unanimous,none,strict,anthropic
+Weather & climate,1,0,62,unanimous,none,strict,anthropic
+Weather & climate,two or more,0,8,unanimous,none,strict,anthropic
+Weather & climate,0,0,13,unanimous,none,strict,anthropic
+Crop,0,0.264150943396226,53,unanimous,arriate,strict,anthropic
+Crop,1,0.0294117647058824,34,unanimous,arriate,strict,anthropic
+Crop,two or more,0,12,unanimous,arriate,strict,anthropic
+Irrigation,1,0.0483870967741936,62,unanimous,arriate,strict,anthropic
+Irrigation,0,0.188679245283019,53,unanimous,arriate,strict,anthropic
+Irrigation,two or more,0,29,unanimous,arriate,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,arriate,strict,anthropic
+Soil & moisture,two or more,0,20,unanimous,arriate,strict,anthropic
+Soil & moisture,0,0,10,unanimous,arriate,strict,anthropic
+Weather & climate,1,0,56,unanimous,arriate,strict,anthropic
+Weather & climate,0,0,12,unanimous,arriate,strict,anthropic
+Weather & climate,two or more,0,6,unanimous,arriate,strict,anthropic
+Crop,0,0.210526315789474,57,unanimous,ricote,strict,anthropic
+Crop,1,0.0277777777777778,36,unanimous,ricote,strict,anthropic
+Crop,two or more,0,13,unanimous,ricote,strict,anthropic
+Irrigation,0,0.127272727272727,55,unanimous,ricote,strict,anthropic
+Irrigation,two or more,0,32,unanimous,ricote,strict,anthropic
+Irrigation,1,0.0704225352112676,71,unanimous,ricote,strict,anthropic
+Soil & moisture,two or more,0,24,unanimous,ricote,strict,anthropic
+Soil & moisture,1,0.02,50,unanimous,ricote,strict,anthropic
+Soil & moisture,0,0,9,unanimous,ricote,strict,anthropic
+Weather & climate,1,0,61,unanimous,ricote,strict,anthropic
+Weather & climate,two or more,0,8,unanimous,ricote,strict,anthropic
+Weather & climate,0,0,9,unanimous,ricote,strict,anthropic
+Crop,0,0.218181818181818,55,unanimous,sudanell,strict,anthropic
+Crop,1,0.0263157894736842,38,unanimous,sudanell,strict,anthropic
+Crop,two or more,0,13,unanimous,sudanell,strict,anthropic
+Irrigation,0,0.173076923076923,52,unanimous,sudanell,strict,anthropic
+Irrigation,two or more,0,29,unanimous,sudanell,strict,anthropic
+Irrigation,1,0.072463768115942,69,unanimous,sudanell,strict,anthropic
+Soil & moisture,two or more,0,25,unanimous,sudanell,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,sudanell,strict,anthropic
+Soil & moisture,0,0,8,unanimous,sudanell,strict,anthropic
+Weather & climate,1,0,51,unanimous,sudanell,strict,anthropic
+Weather & climate,two or more,0,7,unanimous,sudanell,strict,anthropic
+Weather & climate,0,0,13,unanimous,sudanell,strict,anthropic
+Crop,0,0.277777777777778,54,unanimous,durcal,strict,anthropic
+Crop,1,0.0303030303030303,33,unanimous,durcal,strict,anthropic
+Crop,two or more,0,8,unanimous,durcal,strict,anthropic
+Irrigation,0,0.175438596491228,57,unanimous,durcal,strict,anthropic
+Irrigation,two or more,0,30,unanimous,durcal,strict,anthropic
+Irrigation,1,0.0655737704918033,61,unanimous,durcal,strict,anthropic
+Soil & moisture,two or more,0,21,unanimous,durcal,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,durcal,strict,anthropic
+Soil & moisture,0,0,6,unanimous,durcal,strict,anthropic
+Weather & climate,1,0,54,unanimous,durcal,strict,anthropic
+Weather & climate,two or more,0,7,unanimous,durcal,strict,anthropic
+Weather & climate,0,0,11,unanimous,durcal,strict,anthropic
+Crop,0,0.188679245283019,53,unanimous,murcia,strict,anthropic
+Crop,1,0.0333333333333333,30,unanimous,murcia,strict,anthropic
+Crop,two or more,0,12,unanimous,murcia,strict,anthropic
+Irrigation,0,0.172413793103448,58,unanimous,murcia,strict,anthropic
+Irrigation,two or more,0,30,unanimous,murcia,strict,anthropic
+Irrigation,1,0.0892857142857143,56,unanimous,murcia,strict,anthropic
+Soil & moisture,two or more,0,24,unanimous,murcia,strict,anthropic
+Soil & moisture,1,0.0175438596491228,57,unanimous,murcia,strict,anthropic
+Soil & moisture,0,0,9,unanimous,murcia,strict,anthropic
+Weather & climate,1,0,47,unanimous,murcia,strict,anthropic
+Weather & climate,two or more,0,6,unanimous,murcia,strict,anthropic
+Weather & climate,0,0,12,unanimous,murcia,strict,anthropic
+Crop,0,0.245614035087719,57,unanimous,huetortajar,strict,anthropic
+Crop,1,0,34,unanimous,huetortajar,strict,anthropic
+Crop,two or more,0,13,unanimous,huetortajar,strict,anthropic
+Irrigation,0,0.173076923076923,52,unanimous,huetortajar,strict,anthropic
+Irrigation,two or more,0,28,unanimous,huetortajar,strict,anthropic
+Irrigation,1,0.0735294117647059,68,unanimous,huetortajar,strict,anthropic
+Soil & moisture,two or more,0,22,unanimous,huetortajar,strict,anthropic
+Soil & moisture,1,0,59,unanimous,huetortajar,strict,anthropic
+Soil & moisture,0,0,10,unanimous,huetortajar,strict,anthropic
+Weather & climate,1,0,57,unanimous,huetortajar,strict,anthropic
+Weather & climate,two or more,0,8,unanimous,huetortajar,strict,anthropic
+Weather & climate,0,0,10,unanimous,huetortajar,strict,anthropic
+Crop,0,0.236363636363636,55,unanimous,oria,strict,anthropic
+Crop,1,0.0285714285714286,35,unanimous,oria,strict,anthropic
+Crop,two or more,0,7,unanimous,oria,strict,anthropic
+Irrigation,0,0.192982456140351,57,unanimous,oria,strict,anthropic
+Irrigation,two or more,0,26,unanimous,oria,strict,anthropic
+Irrigation,1,0.0526315789473684,57,unanimous,oria,strict,anthropic
+Soil & moisture,two or more,0,20,unanimous,oria,strict,anthropic
+Soil & moisture,1,0.0169491525423729,59,unanimous,oria,strict,anthropic
+Soil & moisture,0,0,8,unanimous,oria,strict,anthropic
+Weather & climate,1,0,46,unanimous,oria,strict,anthropic
+Weather & climate,two or more,0,6,unanimous,oria,strict,anthropic
+Weather & climate,0,0,11,unanimous,oria,strict,anthropic
+Crop,0,0.015625,64,any draw,none,strict,openai
+Crop,1,0,40,any draw,none,strict,openai
+Crop,two or more,0,13,any draw,none,strict,openai
+Irrigation,0,0,64,any draw,none,strict,openai
+Irrigation,two or more,0,34,any draw,none,strict,openai
+Irrigation,1,0,74,any draw,none,strict,openai
+Soil & moisture,two or more,0,26,any draw,none,strict,openai
+Soil & moisture,1,0,67,any draw,none,strict,openai
+Soil & moisture,0,0,10,any draw,none,strict,openai
+Weather & climate,1,0,62,any draw,none,strict,openai
+Weather & climate,two or more,0,8,any draw,none,strict,openai
+Weather & climate,0,0,13,any draw,none,strict,openai
+Crop,0,0,53,any draw,arriate,strict,openai
+Crop,1,0,34,any draw,arriate,strict,openai
+Crop,two or more,0,12,any draw,arriate,strict,openai
+Irrigation,1,0,62,any draw,arriate,strict,openai
+Irrigation,0,0,53,any draw,arriate,strict,openai
+Irrigation,two or more,0,29,any draw,arriate,strict,openai
+Soil & moisture,1,0,59,any draw,arriate,strict,openai
+Soil & moisture,two or more,0,20,any draw,arriate,strict,openai
+Soil & moisture,0,0,10,any draw,arriate,strict,openai
+Weather & climate,1,0,56,any draw,arriate,strict,openai
+Weather & climate,0,0,12,any draw,arriate,strict,openai
+Weather & climate,two or more,0,6,any draw,arriate,strict,openai
+Crop,0,0.0175438596491228,57,any draw,ricote,strict,openai
+Crop,1,0,36,any draw,ricote,strict,openai
+Crop,two or more,0,13,any draw,ricote,strict,openai
+Irrigation,0,0,55,any draw,ricote,strict,openai
+Irrigation,two or more,0,32,any draw,ricote,strict,openai
+Irrigation,1,0,71,any draw,ricote,strict,openai
+Soil & moisture,two or more,0,24,any draw,ricote,strict,openai
+Soil & moisture,1,0,50,any draw,ricote,strict,openai
+Soil & moisture,0,0,9,any draw,ricote,strict,openai
+Weather & climate,1,0,61,any draw,ricote,strict,openai
+Weather & climate,two or more,0,8,any draw,ricote,strict,openai
+Weather & climate,0,0,9,any draw,ricote,strict,openai
+Crop,0,0.0181818181818182,55,any draw,sudanell,strict,openai
+Crop,1,0,38,any draw,sudanell,strict,openai
+Crop,two or more,0,13,any draw,sudanell,strict,openai
+Irrigation,0,0,52,any draw,sudanell,strict,openai
+Irrigation,two or more,0,29,any draw,sudanell,strict,openai
+Irrigation,1,0,69,any draw,sudanell,strict,openai
+Soil & moisture,two or more,0,25,any draw,sudanell,strict,openai
+Soil & moisture,1,0,59,any draw,sudanell,strict,openai
+Soil & moisture,0,0,8,any draw,sudanell,strict,openai
+Weather & climate,1,0,51,any draw,sudanell,strict,openai
+Weather & climate,two or more,0,7,any draw,sudanell,strict,openai
+Weather & climate,0,0,13,any draw,sudanell,strict,openai
+Crop,0,0.0185185185185185,54,any draw,durcal,strict,openai
+Crop,1,0,33,any draw,durcal,strict,openai
+Crop,two or more,0,8,any draw,durcal,strict,openai
+Irrigation,0,0,57,any draw,durcal,strict,openai
+Irrigation,two or more,0,30,any draw,durcal,strict,openai
+Irrigation,1,0,61,any draw,durcal,strict,openai
+Soil & moisture,two or more,0,21,any draw,durcal,strict,openai
+Soil & moisture,1,0,59,any draw,durcal,strict,openai
+Soil & moisture,0,0,6,any draw,durcal,strict,openai
+Weather & climate,1,0,54,any draw,durcal,strict,openai
+Weather & climate,two or more,0,7,any draw,durcal,strict,openai
+Weather & climate,0,0,11,any draw,durcal,strict,openai
+Crop,0,0.0188679245283019,53,any draw,murcia,strict,openai
+Crop,1,0,30,any draw,murcia,strict,openai
+Crop,two or more,0,12,any draw,murcia,strict,openai
+Irrigation,0,0,58,any draw,murcia,strict,openai
+Irrigation,two or more,0,30,any draw,murcia,strict,openai
+Irrigation,1,0,56,any draw,murcia,strict,openai
+Soil & moisture,two or more,0,24,any draw,murcia,strict,openai
+Soil & moisture,1,0,57,any draw,murcia,strict,openai
+Soil & moisture,0,0,9,any draw,murcia,strict,openai
+Weather & climate,1,0,47,any draw,murcia,strict,openai
+Weather & climate,two or more,0,6,any draw,murcia,strict,openai
+Weather & climate,0,0,12,any draw,murcia,strict,openai
+Crop,0,0.0175438596491228,57,any draw,huetortajar,strict,openai
+Crop,1,0,34,any draw,huetortajar,strict,openai
+Crop,two or more,0,13,any draw,huetortajar,strict,openai
+Irrigation,0,0,52,any draw,huetortajar,strict,openai
+Irrigation,two or more,0,28,any draw,huetortajar,strict,openai
+Irrigation,1,0,68,any draw,huetortajar,strict,openai
+Soil & moisture,two or more,0,22,any draw,huetortajar,strict,openai
+Soil & moisture,1,0,59,any draw,huetortajar,strict,openai
+Soil & moisture,0,0,10,any draw,huetortajar,strict,openai
+Weather & climate,1,0,57,any draw,huetortajar,strict,openai
+Weather & climate,two or more,0,8,any draw,huetortajar,strict,openai
+Weather & climate,0,0,10,any draw,huetortajar,strict,openai
+Crop,0,0.0181818181818182,55,any draw,oria,strict,openai
+Crop,1,0,35,any draw,oria,strict,openai
+Crop,two or more,0,7,any draw,oria,strict,openai
+Irrigation,0,0,57,any draw,oria,strict,openai
+Irrigation,two or more,0,26,any draw,oria,strict,openai
+Irrigation,1,0,57,any draw,oria,strict,openai
+Soil & moisture,two or more,0,20,any draw,oria,strict,openai
+Soil & moisture,1,0,59,any draw,oria,strict,openai
+Soil & moisture,0,0,8,any draw,oria,strict,openai
+Weather & climate,1,0,46,any draw,oria,strict,openai
+Weather & climate,two or more,0,6,any draw,oria,strict,openai
+Weather & climate,0,0,11,any draw,oria,strict,openai
+Crop,0,0.03125,64,majority,none,strict,openai
+Crop,1,0,40,majority,none,strict,openai
+Crop,two or more,0,13,majority,none,strict,openai
+Irrigation,0,0.03125,64,majority,none,strict,openai
+Irrigation,two or more,0,34,majority,none,strict,openai
+Irrigation,1,0.027027027027027,74,majority,none,strict,openai
+Soil & moisture,two or more,0,26,majority,none,strict,openai
+Soil & moisture,1,0,67,majority,none,strict,openai
+Soil & moisture,0,0,10,majority,none,strict,openai
+Weather & climate,1,0,62,majority,none,strict,openai
+Weather & climate,two or more,0,8,majority,none,strict,openai
+Weather & climate,0,0,13,majority,none,strict,openai
+Crop,0,0.0188679245283019,53,majority,arriate,strict,openai
+Crop,1,0,34,majority,arriate,strict,openai
+Crop,two or more,0,12,majority,arriate,strict,openai
+Irrigation,1,0.032258064516129,62,majority,arriate,strict,openai
+Irrigation,0,0.0377358490566038,53,majority,arriate,strict,openai
+Irrigation,two or more,0,29,majority,arriate,strict,openai
+Soil & moisture,1,0,59,majority,arriate,strict,openai
+Soil & moisture,two or more,0,20,majority,arriate,strict,openai
+Soil & moisture,0,0,10,majority,arriate,strict,openai
+Weather & climate,1,0,56,majority,arriate,strict,openai
+Weather & climate,0,0,12,majority,arriate,strict,openai
+Weather & climate,two or more,0,6,majority,arriate,strict,openai
+Crop,0,0.0350877192982456,57,majority,ricote,strict,openai
+Crop,1,0,36,majority,ricote,strict,openai
+Crop,two or more,0,13,majority,ricote,strict,openai
+Irrigation,0,0.0181818181818182,55,majority,ricote,strict,openai
+Irrigation,two or more,0,32,majority,ricote,strict,openai
+Irrigation,1,0.028169014084507,71,majority,ricote,strict,openai
+Soil & moisture,two or more,0,24,majority,ricote,strict,openai
+Soil & moisture,1,0,50,majority,ricote,strict,openai
+Soil & moisture,0,0,9,majority,ricote,strict,openai
+Weather & climate,1,0,61,majority,ricote,strict,openai
+Weather & climate,two or more,0,8,majority,ricote,strict,openai
+Weather & climate,0,0,9,majority,ricote,strict,openai
+Crop,0,0.0363636363636364,55,majority,sudanell,strict,openai
+Crop,1,0,38,majority,sudanell,strict,openai
+Crop,two or more,0,13,majority,sudanell,strict,openai
+Irrigation,0,0.0384615384615385,52,majority,sudanell,strict,openai
+Irrigation,two or more,0,29,majority,sudanell,strict,openai
+Irrigation,1,0.0289855072463768,69,majority,sudanell,strict,openai
+Soil & moisture,two or more,0,25,majority,sudanell,strict,openai
+Soil & moisture,1,0,59,majority,sudanell,strict,openai
+Soil & moisture,0,0,8,majority,sudanell,strict,openai
+Weather & climate,1,0,51,majority,sudanell,strict,openai
+Weather & climate,two or more,0,7,majority,sudanell,strict,openai
+Weather & climate,0,0,13,majority,sudanell,strict,openai
+Crop,0,0.037037037037037,54,majority,durcal,strict,openai
+Crop,1,0,33,majority,durcal,strict,openai
+Crop,two or more,0,8,majority,durcal,strict,openai
+Irrigation,0,0.0350877192982456,57,majority,durcal,strict,openai
+Irrigation,two or more,0,30,majority,durcal,strict,openai
+Irrigation,1,0.0163934426229508,61,majority,durcal,strict,openai
+Soil & moisture,two or more,0,21,majority,durcal,strict,openai
+Soil & moisture,1,0,59,majority,durcal,strict,openai
+Soil & moisture,0,0,6,majority,durcal,strict,openai
+Weather & climate,1,0,54,majority,durcal,strict,openai
+Weather & climate,two or more,0,7,majority,durcal,strict,openai
+Weather & climate,0,0,11,majority,durcal,strict,openai
+Crop,0,0.0188679245283019,53,majority,murcia,strict,openai
+Crop,1,0,30,majority,murcia,strict,openai
+Crop,two or more,0,12,majority,murcia,strict,openai
+Irrigation,0,0.0344827586206897,58,majority,murcia,strict,openai
+Irrigation,two or more,0,30,majority,murcia,strict,openai
+Irrigation,1,0.0357142857142857,56,majority,murcia,strict,openai
+Soil & moisture,two or more,0,24,majority,murcia,strict,openai
+Soil & moisture,1,0,57,majority,murcia,strict,openai
+Soil & moisture,0,0,9,majority,murcia,strict,openai
+Weather & climate,1,0,47,majority,murcia,strict,openai
+Weather & climate,two or more,0,6,majority,murcia,strict,openai
+Weather & climate,0,0,12,majority,murcia,strict,openai
+Crop,0,0.0350877192982456,57,majority,huetortajar,strict,openai
+Crop,1,0,34,majority,huetortajar,strict,openai
+Crop,two or more,0,13,majority,huetortajar,strict,openai
+Irrigation,0,0.0192307692307692,52,majority,huetortajar,strict,openai
+Irrigation,two or more,0,28,majority,huetortajar,strict,openai
+Irrigation,1,0.0294117647058824,68,majority,huetortajar,strict,openai
+Soil & moisture,two or more,0,22,majority,huetortajar,strict,openai
+Soil & moisture,1,0,59,majority,huetortajar,strict,openai
+Soil & moisture,0,0,10,majority,huetortajar,strict,openai
+Weather & climate,1,0,57,majority,huetortajar,strict,openai
+Weather & climate,two or more,0,8,majority,huetortajar,strict,openai
+Weather & climate,0,0,10,majority,huetortajar,strict,openai
+Crop,0,0.0363636363636364,55,majority,oria,strict,openai
+Crop,1,0,35,majority,oria,strict,openai
+Crop,two or more,0,7,majority,oria,strict,openai
+Irrigation,0,0.0350877192982456,57,majority,oria,strict,openai
+Irrigation,two or more,0,26,majority,oria,strict,openai
+Irrigation,1,0.0175438596491228,57,majority,oria,strict,openai
+Soil & moisture,two or more,0,20,majority,oria,strict,openai
+Soil & moisture,1,0,59,majority,oria,strict,openai
+Soil & moisture,0,0,8,majority,oria,strict,openai
+Weather & climate,1,0,46,majority,oria,strict,openai
+Weather & climate,two or more,0,6,majority,oria,strict,openai
+Weather & climate,0,0,11,majority,oria,strict,openai
+Crop,0,0.046875,64,unanimous,none,strict,openai
+Crop,1,0.025,40,unanimous,none,strict,openai
+Crop,two or more,0,13,unanimous,none,strict,openai
+Irrigation,0,0.078125,64,unanimous,none,strict,openai
+Irrigation,two or more,0,34,unanimous,none,strict,openai
+Irrigation,1,0.0405405405405405,74,unanimous,none,strict,openai
+Soil & moisture,two or more,0,26,unanimous,none,strict,openai
+Soil & moisture,1,0.0149253731343284,67,unanimous,none,strict,openai
+Soil & moisture,0,0,10,unanimous,none,strict,openai
+Weather & climate,1,0,62,unanimous,none,strict,openai
+Weather & climate,two or more,0,8,unanimous,none,strict,openai
+Weather & climate,0,0,13,unanimous,none,strict,openai
+Crop,0,0.0377358490566038,53,unanimous,arriate,strict,openai
+Crop,1,0.0294117647058824,34,unanimous,arriate,strict,openai
+Crop,two or more,0,12,unanimous,arriate,strict,openai
+Irrigation,1,0.0483870967741936,62,unanimous,arriate,strict,openai
+Irrigation,0,0.0754716981132076,53,unanimous,arriate,strict,openai
+Irrigation,two or more,0,29,unanimous,arriate,strict,openai
+Soil & moisture,1,0.0169491525423729,59,unanimous,arriate,strict,openai
+Soil & moisture,two or more,0,20,unanimous,arriate,strict,openai
+Soil & moisture,0,0,10,unanimous,arriate,strict,openai
+Weather & climate,1,0,56,unanimous,arriate,strict,openai
+Weather & climate,0,0,12,unanimous,arriate,strict,openai
+Weather & climate,two or more,0,6,unanimous,arriate,strict,openai
+Crop,0,0.0350877192982456,57,unanimous,ricote,strict,openai
+Crop,1,0.0277777777777778,36,unanimous,ricote,strict,openai
+Crop,two or more,0,13,unanimous,ricote,strict,openai
+Irrigation,0,0.0727272727272727,55,unanimous,ricote,strict,openai
+Irrigation,two or more,0,32,unanimous,ricote,strict,openai
+Irrigation,1,0.0422535211267606,71,unanimous,ricote,strict,openai
+Soil & moisture,two or more,0,24,unanimous,ricote,strict,openai
+Soil & moisture,1,0,50,unanimous,ricote,strict,openai
+Soil & moisture,0,0,9,unanimous,ricote,strict,openai
+Weather & climate,1,0,61,unanimous,ricote,strict,openai
+Weather & climate,two or more,0,8,unanimous,ricote,strict,openai
+Weather & climate,0,0,9,unanimous,ricote,strict,openai
+Crop,0,0.0545454545454545,55,unanimous,sudanell,strict,openai
+Crop,1,0.0263157894736842,38,unanimous,sudanell,strict,openai
+Crop,two or more,0,13,unanimous,sudanell,strict,openai
+Irrigation,0,0.0769230769230769,52,unanimous,sudanell,strict,openai
+Irrigation,two or more,0,29,unanimous,sudanell,strict,openai
+Irrigation,1,0.0434782608695652,69,unanimous,sudanell,strict,openai
+Soil & moisture,two or more,0,25,unanimous,sudanell,strict,openai
+Soil & moisture,1,0.0169491525423729,59,unanimous,sudanell,strict,openai
+Soil & moisture,0,0,8,unanimous,sudanell,strict,openai
+Weather & climate,1,0,51,unanimous,sudanell,strict,openai
+Weather & climate,two or more,0,7,unanimous,sudanell,strict,openai
+Weather & climate,0,0,13,unanimous,sudanell,strict,openai
+Crop,0,0.0555555555555556,54,unanimous,durcal,strict,openai
+Crop,1,0.0303030303030303,33,unanimous,durcal,strict,openai
+Crop,two or more,0,8,unanimous,durcal,strict,openai
+Irrigation,0,0.0701754385964912,57,unanimous,durcal,strict,openai
+Irrigation,two or more,0,30,unanimous,durcal,strict,openai
+Irrigation,1,0.0327868852459016,61,unanimous,durcal,strict,openai
+Soil & moisture,two or more,0,21,unanimous,durcal,strict,openai
+Soil & moisture,1,0.0169491525423729,59,unanimous,durcal,strict,openai
+Soil & moisture,0,0,6,unanimous,durcal,strict,openai
+Weather & climate,1,0,54,unanimous,durcal,strict,openai
+Weather & climate,two or more,0,7,unanimous,durcal,strict,openai
+Weather & climate,0,0,11,unanimous,durcal,strict,openai
+Crop,0,0.0377358490566038,53,unanimous,murcia,strict,openai
+Crop,1,0.0333333333333333,30,unanimous,murcia,strict,openai
+Crop,two or more,0,12,unanimous,murcia,strict,openai
+Irrigation,0,0.0862068965517242,58,unanimous,murcia,strict,openai
+Irrigation,two or more,0,30,unanimous,murcia,strict,openai
+Irrigation,1,0.0535714285714286,56,unanimous,murcia,strict,openai
+Soil & moisture,two or more,0,24,unanimous,murcia,strict,openai
+Soil & moisture,1,0.0175438596491228,57,unanimous,murcia,strict,openai
+Soil & moisture,0,0,9,unanimous,murcia,strict,openai
+Weather & climate,1,0,47,unanimous,murcia,strict,openai
+Weather & climate,two or more,0,6,unanimous,murcia,strict,openai
+Weather & climate,0,0,12,unanimous,murcia,strict,openai
+Crop,0,0.0526315789473684,57,unanimous,huetortajar,strict,openai
+Crop,1,0,34,unanimous,huetortajar,strict,openai
+Crop,two or more,0,13,unanimous,huetortajar,strict,openai
+Irrigation,0,0.0769230769230769,52,unanimous,huetortajar,strict,openai
+Irrigation,two or more,0,28,unanimous,huetortajar,strict,openai
+Irrigation,1,0.0441176470588235,68,unanimous,huetortajar,strict,openai
+Soil & moisture,two or more,0,22,unanimous,huetortajar,strict,openai
+Soil & moisture,1,0.0169491525423729,59,unanimous,huetortajar,strict,openai
+Soil & moisture,0,0,10,unanimous,huetortajar,strict,openai
+Weather & climate,1,0,57,unanimous,huetortajar,strict,openai
+Weather & climate,two or more,0,8,unanimous,huetortajar,strict,openai
+Weather & climate,0,0,10,unanimous,huetortajar,strict,openai
+Crop,0,0.0545454545454545,55,unanimous,oria,strict,openai
+Crop,1,0.0285714285714286,35,unanimous,oria,strict,openai
+Crop,two or more,0,7,unanimous,oria,strict,openai
+Irrigation,0,0.087719298245614,57,unanimous,oria,strict,openai
+Irrigation,two or more,0,26,unanimous,oria,strict,openai
+Irrigation,1,0.0175438596491228,57,unanimous,oria,strict,openai
+Soil & moisture,two or more,0,20,unanimous,oria,strict,openai
+Soil & moisture,1,0.0169491525423729,59,unanimous,oria,strict,openai
+Soil & moisture,0,0,8,unanimous,oria,strict,openai
+Weather & climate,1,0,46,unanimous,oria,strict,openai
+Weather & climate,two or more,0,6,unanimous,oria,strict,openai
+Weather & climate,0,0,11,unanimous,oria,strict,openai
+Crop,0,0.046875,64,any draw,none,standard,deepseek
+Crop,1,0,40,any draw,none,standard,deepseek
+Crop,two or more,0,13,any draw,none,standard,deepseek
+Irrigation,0,0.203125,64,any draw,none,standard,deepseek
+Irrigation,two or more,0.0294117647058824,34,any draw,none,standard,deepseek
+Irrigation,1,0.0405405405405405,74,any draw,none,standard,deepseek
+Soil & moisture,two or more,0,26,any draw,none,standard,deepseek
+Soil & moisture,1,0.0149253731343284,67,any draw,none,standard,deepseek
+Soil & moisture,0,0.1,10,any draw,none,standard,deepseek
+Weather & climate,1,0,62,any draw,none,standard,deepseek
+Weather & climate,two or more,0,8,any draw,none,standard,deepseek
+Weather & climate,0,0,13,any draw,none,standard,deepseek
+Crop,0,0.0566037735849057,53,any draw,arriate,standard,deepseek
+Crop,1,0,34,any draw,arriate,standard,deepseek
+Crop,two or more,0,12,any draw,arriate,standard,deepseek
+Irrigation,1,0.0483870967741936,62,any draw,arriate,standard,deepseek
+Irrigation,0,0.245283018867925,53,any draw,arriate,standard,deepseek
+Irrigation,two or more,0.0344827586206897,29,any draw,arriate,standard,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,arriate,standard,deepseek
+Soil & moisture,two or more,0,20,any draw,arriate,standard,deepseek
+Soil & moisture,0,0.1,10,any draw,arriate,standard,deepseek
+Weather & climate,1,0,56,any draw,arriate,standard,deepseek
+Weather & climate,0,0,12,any draw,arriate,standard,deepseek
+Weather & climate,two or more,0,6,any draw,arriate,standard,deepseek
+Crop,0,0.0526315789473684,57,any draw,ricote,standard,deepseek
+Crop,1,0,36,any draw,ricote,standard,deepseek
+Crop,two or more,0,13,any draw,ricote,standard,deepseek
+Irrigation,0,0.181818181818182,55,any draw,ricote,standard,deepseek
+Irrigation,two or more,0.03125,32,any draw,ricote,standard,deepseek
+Irrigation,1,0.0422535211267606,71,any draw,ricote,standard,deepseek
+Soil & moisture,two or more,0,24,any draw,ricote,standard,deepseek
+Soil & moisture,1,0.02,50,any draw,ricote,standard,deepseek
+Soil & moisture,0,0.111111111111111,9,any draw,ricote,standard,deepseek
+Weather & climate,1,0,61,any draw,ricote,standard,deepseek
+Weather & climate,two or more,0,8,any draw,ricote,standard,deepseek
+Weather & climate,0,0,9,any draw,ricote,standard,deepseek
+Crop,0,0.0545454545454545,55,any draw,sudanell,standard,deepseek
+Crop,1,0,38,any draw,sudanell,standard,deepseek
+Crop,two or more,0,13,any draw,sudanell,standard,deepseek
+Irrigation,0,0.173076923076923,52,any draw,sudanell,standard,deepseek
+Irrigation,two or more,0.0344827586206897,29,any draw,sudanell,standard,deepseek
+Irrigation,1,0.0434782608695652,69,any draw,sudanell,standard,deepseek
+Soil & moisture,two or more,0,25,any draw,sudanell,standard,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,sudanell,standard,deepseek
+Soil & moisture,0,0,8,any draw,sudanell,standard,deepseek
+Weather & climate,1,0,51,any draw,sudanell,standard,deepseek
+Weather & climate,two or more,0,7,any draw,sudanell,standard,deepseek
+Weather & climate,0,0,13,any draw,sudanell,standard,deepseek
+Crop,0,0.0185185185185185,54,any draw,durcal,standard,deepseek
+Crop,1,0,33,any draw,durcal,standard,deepseek
+Crop,two or more,0,8,any draw,durcal,standard,deepseek
+Irrigation,0,0.192982456140351,57,any draw,durcal,standard,deepseek
+Irrigation,two or more,0.0333333333333333,30,any draw,durcal,standard,deepseek
+Irrigation,1,0.0327868852459016,61,any draw,durcal,standard,deepseek
+Soil & moisture,two or more,0,21,any draw,durcal,standard,deepseek
+Soil & moisture,1,0,59,any draw,durcal,standard,deepseek
+Soil & moisture,0,0.166666666666667,6,any draw,durcal,standard,deepseek
+Weather & climate,1,0,54,any draw,durcal,standard,deepseek
+Weather & climate,two or more,0,7,any draw,durcal,standard,deepseek
+Weather & climate,0,0,11,any draw,durcal,standard,deepseek
+Crop,0,0.0377358490566038,53,any draw,murcia,standard,deepseek
+Crop,1,0,30,any draw,murcia,standard,deepseek
+Crop,two or more,0,12,any draw,murcia,standard,deepseek
+Irrigation,0,0.189655172413793,58,any draw,murcia,standard,deepseek
+Irrigation,two or more,0.0333333333333333,30,any draw,murcia,standard,deepseek
+Irrigation,1,0.0178571428571429,56,any draw,murcia,standard,deepseek
+Soil & moisture,two or more,0,24,any draw,murcia,standard,deepseek
+Soil & moisture,1,0.0175438596491228,57,any draw,murcia,standard,deepseek
+Soil & moisture,0,0.111111111111111,9,any draw,murcia,standard,deepseek
+Weather & climate,1,0,47,any draw,murcia,standard,deepseek
+Weather & climate,two or more,0,6,any draw,murcia,standard,deepseek
+Weather & climate,0,0,12,any draw,murcia,standard,deepseek
+Crop,0,0.0526315789473684,57,any draw,huetortajar,standard,deepseek
+Crop,1,0,34,any draw,huetortajar,standard,deepseek
+Crop,two or more,0,13,any draw,huetortajar,standard,deepseek
+Irrigation,0,0.25,52,any draw,huetortajar,standard,deepseek
+Irrigation,two or more,0.0357142857142857,28,any draw,huetortajar,standard,deepseek
+Irrigation,1,0.0441176470588235,68,any draw,huetortajar,standard,deepseek
+Soil & moisture,two or more,0,22,any draw,huetortajar,standard,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,huetortajar,standard,deepseek
+Soil & moisture,0,0.1,10,any draw,huetortajar,standard,deepseek
+Weather & climate,1,0,57,any draw,huetortajar,standard,deepseek
+Weather & climate,two or more,0,8,any draw,huetortajar,standard,deepseek
+Weather & climate,0,0,10,any draw,huetortajar,standard,deepseek
+Crop,0,0.0545454545454545,55,any draw,oria,standard,deepseek
+Crop,1,0,35,any draw,oria,standard,deepseek
+Crop,two or more,0,7,any draw,oria,standard,deepseek
+Irrigation,0,0.192982456140351,57,any draw,oria,standard,deepseek
+Irrigation,two or more,0,26,any draw,oria,standard,deepseek
+Irrigation,1,0.0526315789473684,57,any draw,oria,standard,deepseek
+Soil & moisture,two or more,0,20,any draw,oria,standard,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,oria,standard,deepseek
+Soil & moisture,0,0.125,8,any draw,oria,standard,deepseek
+Weather & climate,1,0,46,any draw,oria,standard,deepseek
+Weather & climate,two or more,0,6,any draw,oria,standard,deepseek
+Weather & climate,0,0,11,any draw,oria,standard,deepseek
+Crop,0,0.0625,64,majority,none,standard,deepseek
+Crop,1,0.025,40,majority,none,standard,deepseek
+Crop,two or more,0,13,majority,none,standard,deepseek
+Irrigation,0,0.375,64,majority,none,standard,deepseek
+Irrigation,two or more,0.0882352941176471,34,majority,none,standard,deepseek
+Irrigation,1,0.0945945945945946,74,majority,none,standard,deepseek
+Soil & moisture,two or more,0.115384615384615,26,majority,none,standard,deepseek
+Soil & moisture,1,0.0597014925373134,67,majority,none,standard,deepseek
+Soil & moisture,0,0.1,10,majority,none,standard,deepseek
+Weather & climate,1,0,62,majority,none,standard,deepseek
+Weather & climate,two or more,0,8,majority,none,standard,deepseek
+Weather & climate,0,0,13,majority,none,standard,deepseek
+Crop,0,0.0754716981132076,53,majority,arriate,standard,deepseek
+Crop,1,0.0294117647058824,34,majority,arriate,standard,deepseek
+Crop,two or more,0,12,majority,arriate,standard,deepseek
+Irrigation,1,0.112903225806452,62,majority,arriate,standard,deepseek
+Irrigation,0,0.433962264150943,53,majority,arriate,standard,deepseek
+Irrigation,two or more,0.103448275862069,29,majority,arriate,standard,deepseek
+Soil & moisture,1,0.0677966101694915,59,majority,arriate,standard,deepseek
+Soil & moisture,two or more,0.1,20,majority,arriate,standard,deepseek
+Soil & moisture,0,0.1,10,majority,arriate,standard,deepseek
+Weather & climate,1,0,56,majority,arriate,standard,deepseek
+Weather & climate,0,0,12,majority,arriate,standard,deepseek
+Weather & climate,two or more,0,6,majority,arriate,standard,deepseek
+Crop,0,0.0701754385964912,57,majority,ricote,standard,deepseek
+Crop,1,0.0277777777777778,36,majority,ricote,standard,deepseek
+Crop,two or more,0,13,majority,ricote,standard,deepseek
+Irrigation,0,0.345454545454545,55,majority,ricote,standard,deepseek
+Irrigation,two or more,0.09375,32,majority,ricote,standard,deepseek
+Irrigation,1,0.0985915492957746,71,majority,ricote,standard,deepseek
+Soil & moisture,two or more,0.125,24,majority,ricote,standard,deepseek
+Soil & moisture,1,0.06,50,majority,ricote,standard,deepseek
+Soil & moisture,0,0.111111111111111,9,majority,ricote,standard,deepseek
+Weather & climate,1,0,61,majority,ricote,standard,deepseek
+Weather & climate,two or more,0,8,majority,ricote,standard,deepseek
+Weather & climate,0,0,9,majority,ricote,standard,deepseek
+Crop,0,0.0727272727272727,55,majority,sudanell,standard,deepseek
+Crop,1,0.0263157894736842,38,majority,sudanell,standard,deepseek
+Crop,two or more,0,13,majority,sudanell,standard,deepseek
+Irrigation,0,0.365384615384615,52,majority,sudanell,standard,deepseek
+Irrigation,two or more,0.103448275862069,29,majority,sudanell,standard,deepseek
+Irrigation,1,0.101449275362319,69,majority,sudanell,standard,deepseek
+Soil & moisture,two or more,0.08,25,majority,sudanell,standard,deepseek
+Soil & moisture,1,0.0677966101694915,59,majority,sudanell,standard,deepseek
+Soil & moisture,0,0,8,majority,sudanell,standard,deepseek
+Weather & climate,1,0,51,majority,sudanell,standard,deepseek
+Weather & climate,two or more,0,7,majority,sudanell,standard,deepseek
+Weather & climate,0,0,13,majority,sudanell,standard,deepseek
+Crop,0,0.037037037037037,54,majority,durcal,standard,deepseek
+Crop,1,0.0303030303030303,33,majority,durcal,standard,deepseek
+Crop,two or more,0,8,majority,durcal,standard,deepseek
+Irrigation,0,0.350877192982456,57,majority,durcal,standard,deepseek
+Irrigation,two or more,0.0333333333333333,30,majority,durcal,standard,deepseek
+Irrigation,1,0.0819672131147541,61,majority,durcal,standard,deepseek
+Soil & moisture,two or more,0.142857142857143,21,majority,durcal,standard,deepseek
+Soil & moisture,1,0.0338983050847458,59,majority,durcal,standard,deepseek
+Soil & moisture,0,0.166666666666667,6,majority,durcal,standard,deepseek
+Weather & climate,1,0,54,majority,durcal,standard,deepseek
+Weather & climate,two or more,0,7,majority,durcal,standard,deepseek
+Weather & climate,0,0,11,majority,durcal,standard,deepseek
+Crop,0,0.0566037735849057,53,majority,murcia,standard,deepseek
+Crop,1,0.0333333333333333,30,majority,murcia,standard,deepseek
+Crop,two or more,0,12,majority,murcia,standard,deepseek
+Irrigation,0,0.379310344827586,58,majority,murcia,standard,deepseek
+Irrigation,two or more,0.1,30,majority,murcia,standard,deepseek
+Irrigation,1,0.0714285714285714,56,majority,murcia,standard,deepseek
+Soil & moisture,two or more,0.125,24,majority,murcia,standard,deepseek
+Soil & moisture,1,0.0701754385964912,57,majority,murcia,standard,deepseek
+Soil & moisture,0,0.111111111111111,9,majority,murcia,standard,deepseek
+Weather & climate,1,0,47,majority,murcia,standard,deepseek
+Weather & climate,two or more,0,6,majority,murcia,standard,deepseek
+Weather & climate,0,0,12,majority,murcia,standard,deepseek
+Crop,0,0.0701754385964912,57,majority,huetortajar,standard,deepseek
+Crop,1,0,34,majority,huetortajar,standard,deepseek
+Crop,two or more,0,13,majority,huetortajar,standard,deepseek
+Irrigation,0,0.365384615384615,52,majority,huetortajar,standard,deepseek
+Irrigation,two or more,0.107142857142857,28,majority,huetortajar,standard,deepseek
+Irrigation,1,0.0882352941176471,68,majority,huetortajar,standard,deepseek
+Soil & moisture,two or more,0.136363636363636,22,majority,huetortajar,standard,deepseek
+Soil & moisture,1,0.0677966101694915,59,majority,huetortajar,standard,deepseek
+Soil & moisture,0,0.1,10,majority,huetortajar,standard,deepseek
+Weather & climate,1,0,57,majority,huetortajar,standard,deepseek
+Weather & climate,two or more,0,8,majority,huetortajar,standard,deepseek
+Weather & climate,0,0,10,majority,huetortajar,standard,deepseek
+Crop,0,0.0545454545454545,55,majority,oria,standard,deepseek
+Crop,1,0.0285714285714286,35,majority,oria,standard,deepseek
+Crop,two or more,0,7,majority,oria,standard,deepseek
+Irrigation,0,0.385964912280702,57,majority,oria,standard,deepseek
+Irrigation,two or more,0.0769230769230769,26,majority,oria,standard,deepseek
+Irrigation,1,0.105263157894737,57,majority,oria,standard,deepseek
+Soil & moisture,two or more,0.1,20,majority,oria,standard,deepseek
+Soil & moisture,1,0.0508474576271187,59,majority,oria,standard,deepseek
+Soil & moisture,0,0.125,8,majority,oria,standard,deepseek
+Weather & climate,1,0,46,majority,oria,standard,deepseek
+Weather & climate,two or more,0,6,majority,oria,standard,deepseek
+Weather & climate,0,0,11,majority,oria,standard,deepseek
+Crop,0,0.15625,64,unanimous,none,standard,deepseek
+Crop,1,0.125,40,unanimous,none,standard,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,none,standard,deepseek
+Irrigation,0,0.578125,64,unanimous,none,standard,deepseek
+Irrigation,two or more,0.176470588235294,34,unanimous,none,standard,deepseek
+Irrigation,1,0.202702702702703,74,unanimous,none,standard,deepseek
+Soil & moisture,two or more,0.307692307692308,26,unanimous,none,standard,deepseek
+Soil & moisture,1,0.417910447761194,67,unanimous,none,standard,deepseek
+Soil & moisture,0,0.2,10,unanimous,none,standard,deepseek
+Weather & climate,1,0,62,unanimous,none,standard,deepseek
+Weather & climate,two or more,0,8,unanimous,none,standard,deepseek
+Weather & climate,0,0.0769230769230769,13,unanimous,none,standard,deepseek
+Crop,0,0.188679245283019,53,unanimous,arriate,standard,deepseek
+Crop,1,0.147058823529412,34,unanimous,arriate,standard,deepseek
+Crop,two or more,0.0833333333333333,12,unanimous,arriate,standard,deepseek
+Irrigation,1,0.209677419354839,62,unanimous,arriate,standard,deepseek
+Irrigation,0,0.641509433962264,53,unanimous,arriate,standard,deepseek
+Irrigation,two or more,0.172413793103448,29,unanimous,arriate,standard,deepseek
+Soil & moisture,1,0.406779661016949,59,unanimous,arriate,standard,deepseek
+Soil & moisture,two or more,0.3,20,unanimous,arriate,standard,deepseek
+Soil & moisture,0,0.2,10,unanimous,arriate,standard,deepseek
+Weather & climate,1,0,56,unanimous,arriate,standard,deepseek
+Weather & climate,0,0,12,unanimous,arriate,standard,deepseek
+Weather & climate,two or more,0,6,unanimous,arriate,standard,deepseek
+Crop,0,0.140350877192982,57,unanimous,ricote,standard,deepseek
+Crop,1,0.138888888888889,36,unanimous,ricote,standard,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,ricote,standard,deepseek
+Irrigation,0,0.545454545454545,55,unanimous,ricote,standard,deepseek
+Irrigation,two or more,0.1875,32,unanimous,ricote,standard,deepseek
+Irrigation,1,0.197183098591549,71,unanimous,ricote,standard,deepseek
+Soil & moisture,two or more,0.333333333333333,24,unanimous,ricote,standard,deepseek
+Soil & moisture,1,0.4,50,unanimous,ricote,standard,deepseek
+Soil & moisture,0,0.222222222222222,9,unanimous,ricote,standard,deepseek
+Weather & climate,1,0,61,unanimous,ricote,standard,deepseek
+Weather & climate,two or more,0,8,unanimous,ricote,standard,deepseek
+Weather & climate,0,0.111111111111111,9,unanimous,ricote,standard,deepseek
+Crop,0,0.127272727272727,55,unanimous,sudanell,standard,deepseek
+Crop,1,0.105263157894737,38,unanimous,sudanell,standard,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,sudanell,standard,deepseek
+Irrigation,0,0.576923076923077,52,unanimous,sudanell,standard,deepseek
+Irrigation,two or more,0.172413793103448,29,unanimous,sudanell,standard,deepseek
+Irrigation,1,0.202898550724638,69,unanimous,sudanell,standard,deepseek
+Soil & moisture,two or more,0.28,25,unanimous,sudanell,standard,deepseek
+Soil & moisture,1,0.423728813559322,59,unanimous,sudanell,standard,deepseek
+Soil & moisture,0,0.125,8,unanimous,sudanell,standard,deepseek
+Weather & climate,1,0,51,unanimous,sudanell,standard,deepseek
+Weather & climate,two or more,0,7,unanimous,sudanell,standard,deepseek
+Weather & climate,0,0.0769230769230769,13,unanimous,sudanell,standard,deepseek
+Crop,0,0.148148148148148,54,unanimous,durcal,standard,deepseek
+Crop,1,0.151515151515152,33,unanimous,durcal,standard,deepseek
+Crop,two or more,0,8,unanimous,durcal,standard,deepseek
+Irrigation,0,0.543859649122807,57,unanimous,durcal,standard,deepseek
+Irrigation,two or more,0.133333333333333,30,unanimous,durcal,standard,deepseek
+Irrigation,1,0.213114754098361,61,unanimous,durcal,standard,deepseek
+Soil & moisture,two or more,0.238095238095238,21,unanimous,durcal,standard,deepseek
+Soil & moisture,1,0.389830508474576,59,unanimous,durcal,standard,deepseek
+Soil & moisture,0,0.166666666666667,6,unanimous,durcal,standard,deepseek
+Weather & climate,1,0,54,unanimous,durcal,standard,deepseek
+Weather & climate,two or more,0,7,unanimous,durcal,standard,deepseek
+Weather & climate,0,0.0909090909090909,11,unanimous,durcal,standard,deepseek
+Crop,0,0.150943396226415,53,unanimous,murcia,standard,deepseek
+Crop,1,0.133333333333333,30,unanimous,murcia,standard,deepseek
+Crop,two or more,0.0833333333333333,12,unanimous,murcia,standard,deepseek
+Irrigation,0,0.603448275862069,58,unanimous,murcia,standard,deepseek
+Irrigation,two or more,0.2,30,unanimous,murcia,standard,deepseek
+Irrigation,1,0.160714285714286,56,unanimous,murcia,standard,deepseek
+Soil & moisture,two or more,0.333333333333333,24,unanimous,murcia,standard,deepseek
+Soil & moisture,1,0.473684210526316,57,unanimous,murcia,standard,deepseek
+Soil & moisture,0,0.222222222222222,9,unanimous,murcia,standard,deepseek
+Weather & climate,1,0,47,unanimous,murcia,standard,deepseek
+Weather & climate,two or more,0,6,unanimous,murcia,standard,deepseek
+Weather & climate,0,0.0833333333333333,12,unanimous,murcia,standard,deepseek
+Crop,0,0.175438596491228,57,unanimous,huetortajar,standard,deepseek
+Crop,1,0.0882352941176471,34,unanimous,huetortajar,standard,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,huetortajar,standard,deepseek
+Irrigation,0,0.557692307692308,52,unanimous,huetortajar,standard,deepseek
+Irrigation,two or more,0.214285714285714,28,unanimous,huetortajar,standard,deepseek
+Irrigation,1,0.205882352941176,68,unanimous,huetortajar,standard,deepseek
+Soil & moisture,two or more,0.318181818181818,22,unanimous,huetortajar,standard,deepseek
+Soil & moisture,1,0.423728813559322,59,unanimous,huetortajar,standard,deepseek
+Soil & moisture,0,0.2,10,unanimous,huetortajar,standard,deepseek
+Weather & climate,1,0,57,unanimous,huetortajar,standard,deepseek
+Weather & climate,two or more,0,8,unanimous,huetortajar,standard,deepseek
+Weather & climate,0,0.1,10,unanimous,huetortajar,standard,deepseek
+Crop,0,0.163636363636364,55,unanimous,oria,standard,deepseek
+Crop,1,0.114285714285714,35,unanimous,oria,standard,deepseek
+Crop,two or more,0.142857142857143,7,unanimous,oria,standard,deepseek
+Irrigation,0,0.578947368421053,57,unanimous,oria,standard,deepseek
+Irrigation,two or more,0.153846153846154,26,unanimous,oria,standard,deepseek
+Irrigation,1,0.228070175438597,57,unanimous,oria,standard,deepseek
+Soil & moisture,two or more,0.35,20,unanimous,oria,standard,deepseek
+Soil & moisture,1,0.406779661016949,59,unanimous,oria,standard,deepseek
+Soil & moisture,0,0.25,8,unanimous,oria,standard,deepseek
+Weather & climate,1,0,46,unanimous,oria,standard,deepseek
+Weather & climate,two or more,0,6,unanimous,oria,standard,deepseek
+Weather & climate,0,0.0909090909090909,11,unanimous,oria,standard,deepseek
+Crop,0,0,64,any draw,none,short,deepseek
+Crop,1,0,40,any draw,none,short,deepseek
+Crop,two or more,0,13,any draw,none,short,deepseek
+Irrigation,0,0,64,any draw,none,short,deepseek
+Irrigation,two or more,0,34,any draw,none,short,deepseek
+Irrigation,1,0.027027027027027,74,any draw,none,short,deepseek
+Soil & moisture,two or more,0,26,any draw,none,short,deepseek
+Soil & moisture,1,0.0149253731343284,67,any draw,none,short,deepseek
+Soil & moisture,0,0,10,any draw,none,short,deepseek
+Weather & climate,1,0,62,any draw,none,short,deepseek
+Weather & climate,two or more,0,8,any draw,none,short,deepseek
+Weather & climate,0,0.0769230769230769,13,any draw,none,short,deepseek
+Crop,0,0,53,any draw,arriate,short,deepseek
+Crop,1,0,34,any draw,arriate,short,deepseek
+Crop,two or more,0,12,any draw,arriate,short,deepseek
+Irrigation,1,0.032258064516129,62,any draw,arriate,short,deepseek
+Irrigation,0,0,53,any draw,arriate,short,deepseek
+Irrigation,two or more,0,29,any draw,arriate,short,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,arriate,short,deepseek
+Soil & moisture,two or more,0,20,any draw,arriate,short,deepseek
+Soil & moisture,0,0,10,any draw,arriate,short,deepseek
+Weather & climate,1,0,56,any draw,arriate,short,deepseek
+Weather & climate,0,0.0833333333333333,12,any draw,arriate,short,deepseek
+Weather & climate,two or more,0,6,any draw,arriate,short,deepseek
+Crop,0,0,57,any draw,ricote,short,deepseek
+Crop,1,0,36,any draw,ricote,short,deepseek
+Crop,two or more,0,13,any draw,ricote,short,deepseek
+Irrigation,0,0,55,any draw,ricote,short,deepseek
+Irrigation,two or more,0,32,any draw,ricote,short,deepseek
+Irrigation,1,0.028169014084507,71,any draw,ricote,short,deepseek
+Soil & moisture,two or more,0,24,any draw,ricote,short,deepseek
+Soil & moisture,1,0.02,50,any draw,ricote,short,deepseek
+Soil & moisture,0,0,9,any draw,ricote,short,deepseek
+Weather & climate,1,0,61,any draw,ricote,short,deepseek
+Weather & climate,two or more,0,8,any draw,ricote,short,deepseek
+Weather & climate,0,0.111111111111111,9,any draw,ricote,short,deepseek
+Crop,0,0,55,any draw,sudanell,short,deepseek
+Crop,1,0,38,any draw,sudanell,short,deepseek
+Crop,two or more,0,13,any draw,sudanell,short,deepseek
+Irrigation,0,0,52,any draw,sudanell,short,deepseek
+Irrigation,two or more,0,29,any draw,sudanell,short,deepseek
+Irrigation,1,0.0289855072463768,69,any draw,sudanell,short,deepseek
+Soil & moisture,two or more,0,25,any draw,sudanell,short,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,sudanell,short,deepseek
+Soil & moisture,0,0,8,any draw,sudanell,short,deepseek
+Weather & climate,1,0,51,any draw,sudanell,short,deepseek
+Weather & climate,two or more,0,7,any draw,sudanell,short,deepseek
+Weather & climate,0,0.0769230769230769,13,any draw,sudanell,short,deepseek
+Crop,0,0,54,any draw,durcal,short,deepseek
+Crop,1,0,33,any draw,durcal,short,deepseek
+Crop,two or more,0,8,any draw,durcal,short,deepseek
+Irrigation,0,0,57,any draw,durcal,short,deepseek
+Irrigation,two or more,0,30,any draw,durcal,short,deepseek
+Irrigation,1,0.0327868852459016,61,any draw,durcal,short,deepseek
+Soil & moisture,two or more,0,21,any draw,durcal,short,deepseek
+Soil & moisture,1,0,59,any draw,durcal,short,deepseek
+Soil & moisture,0,0,6,any draw,durcal,short,deepseek
+Weather & climate,1,0,54,any draw,durcal,short,deepseek
+Weather & climate,two or more,0,7,any draw,durcal,short,deepseek
+Weather & climate,0,0.0909090909090909,11,any draw,durcal,short,deepseek
+Crop,0,0,53,any draw,murcia,short,deepseek
+Crop,1,0,30,any draw,murcia,short,deepseek
+Crop,two or more,0,12,any draw,murcia,short,deepseek
+Irrigation,0,0,58,any draw,murcia,short,deepseek
+Irrigation,two or more,0,30,any draw,murcia,short,deepseek
+Irrigation,1,0,56,any draw,murcia,short,deepseek
+Soil & moisture,two or more,0,24,any draw,murcia,short,deepseek
+Soil & moisture,1,0.0175438596491228,57,any draw,murcia,short,deepseek
+Soil & moisture,0,0,9,any draw,murcia,short,deepseek
+Weather & climate,1,0,47,any draw,murcia,short,deepseek
+Weather & climate,two or more,0,6,any draw,murcia,short,deepseek
+Weather & climate,0,0.0833333333333333,12,any draw,murcia,short,deepseek
+Crop,0,0,57,any draw,huetortajar,short,deepseek
+Crop,1,0,34,any draw,huetortajar,short,deepseek
+Crop,two or more,0,13,any draw,huetortajar,short,deepseek
+Irrigation,0,0,52,any draw,huetortajar,short,deepseek
+Irrigation,two or more,0,28,any draw,huetortajar,short,deepseek
+Irrigation,1,0.0294117647058824,68,any draw,huetortajar,short,deepseek
+Soil & moisture,two or more,0,22,any draw,huetortajar,short,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,huetortajar,short,deepseek
+Soil & moisture,0,0,10,any draw,huetortajar,short,deepseek
+Weather & climate,1,0,57,any draw,huetortajar,short,deepseek
+Weather & climate,two or more,0,8,any draw,huetortajar,short,deepseek
+Weather & climate,0,0,10,any draw,huetortajar,short,deepseek
+Crop,0,0,55,any draw,oria,short,deepseek
+Crop,1,0,35,any draw,oria,short,deepseek
+Crop,two or more,0,7,any draw,oria,short,deepseek
+Irrigation,0,0,57,any draw,oria,short,deepseek
+Irrigation,two or more,0,26,any draw,oria,short,deepseek
+Irrigation,1,0.0350877192982456,57,any draw,oria,short,deepseek
+Soil & moisture,two or more,0,20,any draw,oria,short,deepseek
+Soil & moisture,1,0.0169491525423729,59,any draw,oria,short,deepseek
+Soil & moisture,0,0,8,any draw,oria,short,deepseek
+Weather & climate,1,0,46,any draw,oria,short,deepseek
+Weather & climate,two or more,0,6,any draw,oria,short,deepseek
+Weather & climate,0,0.0909090909090909,11,any draw,oria,short,deepseek
+Crop,0,0.0625,64,majority,none,short,deepseek
+Crop,1,0.05,40,majority,none,short,deepseek
+Crop,two or more,0,13,majority,none,short,deepseek
+Irrigation,0,0.265625,64,majority,none,short,deepseek
+Irrigation,two or more,0.0294117647058824,34,majority,none,short,deepseek
+Irrigation,1,0.0675675675675676,74,majority,none,short,deepseek
+Soil & moisture,two or more,0,26,majority,none,short,deepseek
+Soil & moisture,1,0.0597014925373134,67,majority,none,short,deepseek
+Soil & moisture,0,0,10,majority,none,short,deepseek
+Weather & climate,1,0.0161290322580645,62,majority,none,short,deepseek
+Weather & climate,two or more,0,8,majority,none,short,deepseek
+Weather & climate,0,0.0769230769230769,13,majority,none,short,deepseek
+Crop,0,0.0754716981132076,53,majority,arriate,short,deepseek
+Crop,1,0.0588235294117647,34,majority,arriate,short,deepseek
+Crop,two or more,0,12,majority,arriate,short,deepseek
+Irrigation,1,0.0806451612903226,62,majority,arriate,short,deepseek
+Irrigation,0,0.30188679245283,53,majority,arriate,short,deepseek
+Irrigation,two or more,0.0344827586206897,29,majority,arriate,short,deepseek
+Soil & moisture,1,0.0508474576271187,59,majority,arriate,short,deepseek
+Soil & moisture,two or more,0,20,majority,arriate,short,deepseek
+Soil & moisture,0,0,10,majority,arriate,short,deepseek
+Weather & climate,1,0.0178571428571429,56,majority,arriate,short,deepseek
+Weather & climate,0,0.0833333333333333,12,majority,arriate,short,deepseek
+Weather & climate,two or more,0,6,majority,arriate,short,deepseek
+Crop,0,0.0526315789473684,57,majority,ricote,short,deepseek
+Crop,1,0.0555555555555556,36,majority,ricote,short,deepseek
+Crop,two or more,0,13,majority,ricote,short,deepseek
+Irrigation,0,0.254545454545455,55,majority,ricote,short,deepseek
+Irrigation,two or more,0.03125,32,majority,ricote,short,deepseek
+Irrigation,1,0.0704225352112676,71,majority,ricote,short,deepseek
+Soil & moisture,two or more,0,24,majority,ricote,short,deepseek
+Soil & moisture,1,0.08,50,majority,ricote,short,deepseek
+Soil & moisture,0,0,9,majority,ricote,short,deepseek
+Weather & climate,1,0.0163934426229508,61,majority,ricote,short,deepseek
+Weather & climate,two or more,0,8,majority,ricote,short,deepseek
+Weather & climate,0,0.111111111111111,9,majority,ricote,short,deepseek
+Crop,0,0.0727272727272727,55,majority,sudanell,short,deepseek
+Crop,1,0.0526315789473684,38,majority,sudanell,short,deepseek
+Crop,two or more,0,13,majority,sudanell,short,deepseek
+Irrigation,0,0.230769230769231,52,majority,sudanell,short,deepseek
+Irrigation,two or more,0.0344827586206897,29,majority,sudanell,short,deepseek
+Irrigation,1,0.0579710144927536,69,majority,sudanell,short,deepseek
+Soil & moisture,two or more,0,25,majority,sudanell,short,deepseek
+Soil & moisture,1,0.0677966101694915,59,majority,sudanell,short,deepseek
+Soil & moisture,0,0,8,majority,sudanell,short,deepseek
+Weather & climate,1,0.0196078431372549,51,majority,sudanell,short,deepseek
+Weather & climate,two or more,0,7,majority,sudanell,short,deepseek
+Weather & climate,0,0.0769230769230769,13,majority,sudanell,short,deepseek
+Crop,0,0.037037037037037,54,majority,durcal,short,deepseek
+Crop,1,0.0606060606060606,33,majority,durcal,short,deepseek
+Crop,two or more,0,8,majority,durcal,short,deepseek
+Irrigation,0,0.263157894736842,57,majority,durcal,short,deepseek
+Irrigation,two or more,0.0333333333333333,30,majority,durcal,short,deepseek
+Irrigation,1,0.0819672131147541,61,majority,durcal,short,deepseek
+Soil & moisture,two or more,0,21,majority,durcal,short,deepseek
+Soil & moisture,1,0.0338983050847458,59,majority,durcal,short,deepseek
+Soil & moisture,0,0,6,majority,durcal,short,deepseek
+Weather & climate,1,0.0185185185185185,54,majority,durcal,short,deepseek
+Weather & climate,two or more,0,7,majority,durcal,short,deepseek
+Weather & climate,0,0.0909090909090909,11,majority,durcal,short,deepseek
+Crop,0,0.0566037735849057,53,majority,murcia,short,deepseek
+Crop,1,0.0666666666666667,30,majority,murcia,short,deepseek
+Crop,two or more,0,12,majority,murcia,short,deepseek
+Irrigation,0,0.275862068965517,58,majority,murcia,short,deepseek
+Irrigation,two or more,0.0333333333333333,30,majority,murcia,short,deepseek
+Irrigation,1,0.0357142857142857,56,majority,murcia,short,deepseek
+Soil & moisture,two or more,0,24,majority,murcia,short,deepseek
+Soil & moisture,1,0.0701754385964912,57,majority,murcia,short,deepseek
+Soil & moisture,0,0,9,majority,murcia,short,deepseek
+Weather & climate,1,0.0212765957446809,47,majority,murcia,short,deepseek
+Weather & climate,two or more,0,6,majority,murcia,short,deepseek
+Weather & climate,0,0.0833333333333333,12,majority,murcia,short,deepseek
+Crop,0,0.0701754385964912,57,majority,huetortajar,short,deepseek
+Crop,1,0.0294117647058824,34,majority,huetortajar,short,deepseek
+Crop,two or more,0,13,majority,huetortajar,short,deepseek
+Irrigation,0,0.230769230769231,52,majority,huetortajar,short,deepseek
+Irrigation,two or more,0.0357142857142857,28,majority,huetortajar,short,deepseek
+Irrigation,1,0.0588235294117647,68,majority,huetortajar,short,deepseek
+Soil & moisture,two or more,0,22,majority,huetortajar,short,deepseek
+Soil & moisture,1,0.0677966101694915,59,majority,huetortajar,short,deepseek
+Soil & moisture,0,0,10,majority,huetortajar,short,deepseek
+Weather & climate,1,0.0175438596491228,57,majority,huetortajar,short,deepseek
+Weather & climate,two or more,0,8,majority,huetortajar,short,deepseek
+Weather & climate,0,0,10,majority,huetortajar,short,deepseek
+Crop,0,0.0727272727272727,55,majority,oria,short,deepseek
+Crop,1,0.0285714285714286,35,majority,oria,short,deepseek
+Crop,two or more,0,7,majority,oria,short,deepseek
+Irrigation,0,0.298245614035088,57,majority,oria,short,deepseek
+Irrigation,two or more,0,26,majority,oria,short,deepseek
+Irrigation,1,0.087719298245614,57,majority,oria,short,deepseek
+Soil & moisture,two or more,0,20,majority,oria,short,deepseek
+Soil & moisture,1,0.0508474576271187,59,majority,oria,short,deepseek
+Soil & moisture,0,0,8,majority,oria,short,deepseek
+Weather & climate,1,0,46,majority,oria,short,deepseek
+Weather & climate,two or more,0,6,majority,oria,short,deepseek
+Weather & climate,0,0.0909090909090909,11,majority,oria,short,deepseek
+Crop,0,0.140625,64,unanimous,none,short,deepseek
+Crop,1,0.15,40,unanimous,none,short,deepseek
+Crop,two or more,0,13,unanimous,none,short,deepseek
+Irrigation,0,0.515625,64,unanimous,none,short,deepseek
+Irrigation,two or more,0.0882352941176471,34,unanimous,none,short,deepseek
+Irrigation,1,0.202702702702703,74,unanimous,none,short,deepseek
+Soil & moisture,two or more,0.192307692307692,26,unanimous,none,short,deepseek
+Soil & moisture,1,0.194029850746269,67,unanimous,none,short,deepseek
+Soil & moisture,0,0.3,10,unanimous,none,short,deepseek
+Weather & climate,1,0.032258064516129,62,unanimous,none,short,deepseek
+Weather & climate,two or more,0.125,8,unanimous,none,short,deepseek
+Weather & climate,0,0.230769230769231,13,unanimous,none,short,deepseek
+Crop,0,0.169811320754717,53,unanimous,arriate,short,deepseek
+Crop,1,0.147058823529412,34,unanimous,arriate,short,deepseek
+Crop,two or more,0,12,unanimous,arriate,short,deepseek
+Irrigation,1,0.17741935483871,62,unanimous,arriate,short,deepseek
+Irrigation,0,0.547169811320755,53,unanimous,arriate,short,deepseek
+Irrigation,two or more,0.103448275862069,29,unanimous,arriate,short,deepseek
+Soil & moisture,1,0.169491525423729,59,unanimous,arriate,short,deepseek
+Soil & moisture,two or more,0.2,20,unanimous,arriate,short,deepseek
+Soil & moisture,0,0.3,10,unanimous,arriate,short,deepseek
+Weather & climate,1,0.0357142857142857,56,unanimous,arriate,short,deepseek
+Weather & climate,0,0.25,12,unanimous,arriate,short,deepseek
+Weather & climate,two or more,0,6,unanimous,arriate,short,deepseek
+Crop,0,0.12280701754386,57,unanimous,ricote,short,deepseek
+Crop,1,0.138888888888889,36,unanimous,ricote,short,deepseek
+Crop,two or more,0,13,unanimous,ricote,short,deepseek
+Irrigation,0,0.490909090909091,55,unanimous,ricote,short,deepseek
+Irrigation,two or more,0.09375,32,unanimous,ricote,short,deepseek
+Irrigation,1,0.183098591549296,71,unanimous,ricote,short,deepseek
+Soil & moisture,two or more,0.208333333333333,24,unanimous,ricote,short,deepseek
+Soil & moisture,1,0.2,50,unanimous,ricote,short,deepseek
+Soil & moisture,0,0.222222222222222,9,unanimous,ricote,short,deepseek
+Weather & climate,1,0.0327868852459016,61,unanimous,ricote,short,deepseek
+Weather & climate,two or more,0.125,8,unanimous,ricote,short,deepseek
+Weather & climate,0,0.222222222222222,9,unanimous,ricote,short,deepseek
+Crop,0,0.127272727272727,55,unanimous,sudanell,short,deepseek
+Crop,1,0.157894736842105,38,unanimous,sudanell,short,deepseek
+Crop,two or more,0,13,unanimous,sudanell,short,deepseek
+Irrigation,0,0.519230769230769,52,unanimous,sudanell,short,deepseek
+Irrigation,two or more,0.0689655172413793,29,unanimous,sudanell,short,deepseek
+Irrigation,1,0.202898550724638,69,unanimous,sudanell,short,deepseek
+Soil & moisture,two or more,0.16,25,unanimous,sudanell,short,deepseek
+Soil & moisture,1,0.203389830508475,59,unanimous,sudanell,short,deepseek
+Soil & moisture,0,0.125,8,unanimous,sudanell,short,deepseek
+Weather & climate,1,0.0392156862745098,51,unanimous,sudanell,short,deepseek
+Weather & climate,two or more,0.142857142857143,7,unanimous,sudanell,short,deepseek
+Weather & climate,0,0.230769230769231,13,unanimous,sudanell,short,deepseek
+Crop,0,0.12962962962963,54,unanimous,durcal,short,deepseek
+Crop,1,0.181818181818182,33,unanimous,durcal,short,deepseek
+Crop,two or more,0,8,unanimous,durcal,short,deepseek
+Irrigation,0,0.526315789473684,57,unanimous,durcal,short,deepseek
+Irrigation,two or more,0.1,30,unanimous,durcal,short,deepseek
+Irrigation,1,0.213114754098361,61,unanimous,durcal,short,deepseek
+Soil & moisture,two or more,0.238095238095238,21,unanimous,durcal,short,deepseek
+Soil & moisture,1,0.169491525423729,59,unanimous,durcal,short,deepseek
+Soil & moisture,0,0.5,6,unanimous,durcal,short,deepseek
+Weather & climate,1,0.0185185185185185,54,unanimous,durcal,short,deepseek
+Weather & climate,two or more,0.142857142857143,7,unanimous,durcal,short,deepseek
+Weather & climate,0,0.272727272727273,11,unanimous,durcal,short,deepseek
+Crop,0,0.132075471698113,53,unanimous,murcia,short,deepseek
+Crop,1,0.166666666666667,30,unanimous,murcia,short,deepseek
+Crop,two or more,0,12,unanimous,murcia,short,deepseek
+Irrigation,0,0.53448275862069,58,unanimous,murcia,short,deepseek
+Irrigation,two or more,0.1,30,unanimous,murcia,short,deepseek
+Irrigation,1,0.178571428571429,56,unanimous,murcia,short,deepseek
+Soil & moisture,two or more,0.208333333333333,24,unanimous,murcia,short,deepseek
+Soil & moisture,1,0.210526315789474,57,unanimous,murcia,short,deepseek
+Soil & moisture,0,0.333333333333333,9,unanimous,murcia,short,deepseek
+Weather & climate,1,0.0425531914893617,47,unanimous,murcia,short,deepseek
+Weather & climate,two or more,0.166666666666667,6,unanimous,murcia,short,deepseek
+Weather & climate,0,0.25,12,unanimous,murcia,short,deepseek
+Crop,0,0.157894736842105,57,unanimous,huetortajar,short,deepseek
+Crop,1,0.117647058823529,34,unanimous,huetortajar,short,deepseek
+Crop,two or more,0,13,unanimous,huetortajar,short,deepseek
+Irrigation,0,0.461538461538462,52,unanimous,huetortajar,short,deepseek
+Irrigation,two or more,0.0714285714285714,28,unanimous,huetortajar,short,deepseek
+Irrigation,1,0.205882352941176,68,unanimous,huetortajar,short,deepseek
+Soil & moisture,two or more,0.227272727272727,22,unanimous,huetortajar,short,deepseek
+Soil & moisture,1,0.203389830508475,59,unanimous,huetortajar,short,deepseek
+Soil & moisture,0,0.3,10,unanimous,huetortajar,short,deepseek
+Weather & climate,1,0.0350877192982456,57,unanimous,huetortajar,short,deepseek
+Weather & climate,two or more,0.125,8,unanimous,huetortajar,short,deepseek
+Weather & climate,0,0.1,10,unanimous,huetortajar,short,deepseek
+Crop,0,0.145454545454545,55,unanimous,oria,short,deepseek
+Crop,1,0.142857142857143,35,unanimous,oria,short,deepseek
+Crop,two or more,0,7,unanimous,oria,short,deepseek
+Irrigation,0,0.526315789473684,57,unanimous,oria,short,deepseek
+Irrigation,two or more,0.0769230769230769,26,unanimous,oria,short,deepseek
+Irrigation,1,0.263157894736842,57,unanimous,oria,short,deepseek
+Soil & moisture,two or more,0.1,20,unanimous,oria,short,deepseek
+Soil & moisture,1,0.203389830508475,59,unanimous,oria,short,deepseek
+Soil & moisture,0,0.375,8,unanimous,oria,short,deepseek
+Weather & climate,1,0.0217391304347826,46,unanimous,oria,short,deepseek
+Weather & climate,two or more,0.166666666666667,6,unanimous,oria,short,deepseek
+Weather & climate,0,0.272727272727273,11,unanimous,oria,short,deepseek
+Crop,0,0.109375,64,any draw,none,strict,deepseek
+Crop,1,0,40,any draw,none,strict,deepseek
+Crop,two or more,0,13,any draw,none,strict,deepseek
+Irrigation,0,0.0625,64,any draw,none,strict,deepseek
+Irrigation,two or more,0,34,any draw,none,strict,deepseek
+Irrigation,1,0.027027027027027,74,any draw,none,strict,deepseek
+Soil & moisture,two or more,0,26,any draw,none,strict,deepseek
+Soil & moisture,1,0,67,any draw,none,strict,deepseek
+Soil & moisture,0,0,10,any draw,none,strict,deepseek
+Weather & climate,1,0.0161290322580645,62,any draw,none,strict,deepseek
+Weather & climate,two or more,0,8,any draw,none,strict,deepseek
+Weather & climate,0,0,13,any draw,none,strict,deepseek
+Crop,0,0.113207547169811,53,any draw,arriate,strict,deepseek
+Crop,1,0,34,any draw,arriate,strict,deepseek
+Crop,two or more,0,12,any draw,arriate,strict,deepseek
+Irrigation,1,0.0161290322580645,62,any draw,arriate,strict,deepseek
+Irrigation,0,0.0566037735849057,53,any draw,arriate,strict,deepseek
+Irrigation,two or more,0,29,any draw,arriate,strict,deepseek
+Soil & moisture,1,0,59,any draw,arriate,strict,deepseek
+Soil & moisture,two or more,0,20,any draw,arriate,strict,deepseek
+Soil & moisture,0,0,10,any draw,arriate,strict,deepseek
+Weather & climate,1,0.0178571428571429,56,any draw,arriate,strict,deepseek
+Weather & climate,0,0,12,any draw,arriate,strict,deepseek
+Weather & climate,two or more,0,6,any draw,arriate,strict,deepseek
+Crop,0,0.105263157894737,57,any draw,ricote,strict,deepseek
+Crop,1,0,36,any draw,ricote,strict,deepseek
+Crop,two or more,0,13,any draw,ricote,strict,deepseek
+Irrigation,0,0.0727272727272727,55,any draw,ricote,strict,deepseek
+Irrigation,two or more,0,32,any draw,ricote,strict,deepseek
+Irrigation,1,0.028169014084507,71,any draw,ricote,strict,deepseek
+Soil & moisture,two or more,0,24,any draw,ricote,strict,deepseek
+Soil & moisture,1,0,50,any draw,ricote,strict,deepseek
+Soil & moisture,0,0,9,any draw,ricote,strict,deepseek
+Weather & climate,1,0.0163934426229508,61,any draw,ricote,strict,deepseek
+Weather & climate,two or more,0,8,any draw,ricote,strict,deepseek
+Weather & climate,0,0,9,any draw,ricote,strict,deepseek
+Crop,0,0.109090909090909,55,any draw,sudanell,strict,deepseek
+Crop,1,0,38,any draw,sudanell,strict,deepseek
+Crop,two or more,0,13,any draw,sudanell,strict,deepseek
+Irrigation,0,0.0576923076923077,52,any draw,sudanell,strict,deepseek
+Irrigation,two or more,0,29,any draw,sudanell,strict,deepseek
+Irrigation,1,0.0289855072463768,69,any draw,sudanell,strict,deepseek
+Soil & moisture,two or more,0,25,any draw,sudanell,strict,deepseek
+Soil & moisture,1,0,59,any draw,sudanell,strict,deepseek
+Soil & moisture,0,0,8,any draw,sudanell,strict,deepseek
+Weather & climate,1,0.0196078431372549,51,any draw,sudanell,strict,deepseek
+Weather & climate,two or more,0,7,any draw,sudanell,strict,deepseek
+Weather & climate,0,0,13,any draw,sudanell,strict,deepseek
+Crop,0,0.12962962962963,54,any draw,durcal,strict,deepseek
+Crop,1,0,33,any draw,durcal,strict,deepseek
+Crop,two or more,0,8,any draw,durcal,strict,deepseek
+Irrigation,0,0.0701754385964912,57,any draw,durcal,strict,deepseek
+Irrigation,two or more,0,30,any draw,durcal,strict,deepseek
+Irrigation,1,0.0163934426229508,61,any draw,durcal,strict,deepseek
+Soil & moisture,two or more,0,21,any draw,durcal,strict,deepseek
+Soil & moisture,1,0,59,any draw,durcal,strict,deepseek
+Soil & moisture,0,0,6,any draw,durcal,strict,deepseek
+Weather & climate,1,0,54,any draw,durcal,strict,deepseek
+Weather & climate,two or more,0,7,any draw,durcal,strict,deepseek
+Weather & climate,0,0,11,any draw,durcal,strict,deepseek
+Crop,0,0.0943396226415094,53,any draw,murcia,strict,deepseek
+Crop,1,0,30,any draw,murcia,strict,deepseek
+Crop,two or more,0,12,any draw,murcia,strict,deepseek
+Irrigation,0,0.0517241379310345,58,any draw,murcia,strict,deepseek
+Irrigation,two or more,0,30,any draw,murcia,strict,deepseek
+Irrigation,1,0.0357142857142857,56,any draw,murcia,strict,deepseek
+Soil & moisture,two or more,0,24,any draw,murcia,strict,deepseek
+Soil & moisture,1,0,57,any draw,murcia,strict,deepseek
+Soil & moisture,0,0,9,any draw,murcia,strict,deepseek
+Weather & climate,1,0.0212765957446809,47,any draw,murcia,strict,deepseek
+Weather & climate,two or more,0,6,any draw,murcia,strict,deepseek
+Weather & climate,0,0,12,any draw,murcia,strict,deepseek
+Crop,0,0.105263157894737,57,any draw,huetortajar,strict,deepseek
+Crop,1,0,34,any draw,huetortajar,strict,deepseek
+Crop,two or more,0,13,any draw,huetortajar,strict,deepseek
+Irrigation,0,0.0576923076923077,52,any draw,huetortajar,strict,deepseek
+Irrigation,two or more,0,28,any draw,huetortajar,strict,deepseek
+Irrigation,1,0.0294117647058824,68,any draw,huetortajar,strict,deepseek
+Soil & moisture,two or more,0,22,any draw,huetortajar,strict,deepseek
+Soil & moisture,1,0,59,any draw,huetortajar,strict,deepseek
+Soil & moisture,0,0,10,any draw,huetortajar,strict,deepseek
+Weather & climate,1,0.0175438596491228,57,any draw,huetortajar,strict,deepseek
+Weather & climate,two or more,0,8,any draw,huetortajar,strict,deepseek
+Weather & climate,0,0,10,any draw,huetortajar,strict,deepseek
+Crop,0,0.109090909090909,55,any draw,oria,strict,deepseek
+Crop,1,0,35,any draw,oria,strict,deepseek
+Crop,two or more,0,7,any draw,oria,strict,deepseek
+Irrigation,0,0.0701754385964912,57,any draw,oria,strict,deepseek
+Irrigation,two or more,0,26,any draw,oria,strict,deepseek
+Irrigation,1,0.0350877192982456,57,any draw,oria,strict,deepseek
+Soil & moisture,two or more,0,20,any draw,oria,strict,deepseek
+Soil & moisture,1,0,59,any draw,oria,strict,deepseek
+Soil & moisture,0,0,8,any draw,oria,strict,deepseek
+Weather & climate,1,0.0217391304347826,46,any draw,oria,strict,deepseek
+Weather & climate,two or more,0,6,any draw,oria,strict,deepseek
+Weather & climate,0,0,11,any draw,oria,strict,deepseek
+Crop,0,0.15625,64,majority,none,strict,deepseek
+Crop,1,0,40,majority,none,strict,deepseek
+Crop,two or more,0,13,majority,none,strict,deepseek
+Irrigation,0,0.1875,64,majority,none,strict,deepseek
+Irrigation,two or more,0,34,majority,none,strict,deepseek
+Irrigation,1,0.108108108108108,74,majority,none,strict,deepseek
+Soil & moisture,two or more,0,26,majority,none,strict,deepseek
+Soil & moisture,1,0.0447761194029851,67,majority,none,strict,deepseek
+Soil & moisture,0,0,10,majority,none,strict,deepseek
+Weather & climate,1,0.0806451612903226,62,majority,none,strict,deepseek
+Weather & climate,two or more,0,8,majority,none,strict,deepseek
+Weather & climate,0,0,13,majority,none,strict,deepseek
+Crop,0,0.169811320754717,53,majority,arriate,strict,deepseek
+Crop,1,0,34,majority,arriate,strict,deepseek
+Crop,two or more,0,12,majority,arriate,strict,deepseek
+Irrigation,1,0.0967741935483871,62,majority,arriate,strict,deepseek
+Irrigation,0,0.207547169811321,53,majority,arriate,strict,deepseek
+Irrigation,two or more,0,29,majority,arriate,strict,deepseek
+Soil & moisture,1,0.0508474576271187,59,majority,arriate,strict,deepseek
+Soil & moisture,two or more,0,20,majority,arriate,strict,deepseek
+Soil & moisture,0,0,10,majority,arriate,strict,deepseek
+Weather & climate,1,0.0714285714285714,56,majority,arriate,strict,deepseek
+Weather & climate,0,0,12,majority,arriate,strict,deepseek
+Weather & climate,two or more,0,6,majority,arriate,strict,deepseek
+Crop,0,0.140350877192982,57,majority,ricote,strict,deepseek
+Crop,1,0,36,majority,ricote,strict,deepseek
+Crop,two or more,0,13,majority,ricote,strict,deepseek
+Irrigation,0,0.163636363636364,55,majority,ricote,strict,deepseek
+Irrigation,two or more,0,32,majority,ricote,strict,deepseek
+Irrigation,1,0.112676056338028,71,majority,ricote,strict,deepseek
+Soil & moisture,two or more,0,24,majority,ricote,strict,deepseek
+Soil & moisture,1,0.04,50,majority,ricote,strict,deepseek
+Soil & moisture,0,0,9,majority,ricote,strict,deepseek
+Weather & climate,1,0.0819672131147541,61,majority,ricote,strict,deepseek
+Weather & climate,two or more,0,8,majority,ricote,strict,deepseek
+Weather & climate,0,0,9,majority,ricote,strict,deepseek
+Crop,0,0.145454545454545,55,majority,sudanell,strict,deepseek
+Crop,1,0,38,majority,sudanell,strict,deepseek
+Crop,two or more,0,13,majority,sudanell,strict,deepseek
+Irrigation,0,0.192307692307692,52,majority,sudanell,strict,deepseek
+Irrigation,two or more,0,29,majority,sudanell,strict,deepseek
+Irrigation,1,0.101449275362319,69,majority,sudanell,strict,deepseek
+Soil & moisture,two or more,0,25,majority,sudanell,strict,deepseek
+Soil & moisture,1,0.0508474576271187,59,majority,sudanell,strict,deepseek
+Soil & moisture,0,0,8,majority,sudanell,strict,deepseek
+Weather & climate,1,0.0980392156862745,51,majority,sudanell,strict,deepseek
+Weather & climate,two or more,0,7,majority,sudanell,strict,deepseek
+Weather & climate,0,0,13,majority,sudanell,strict,deepseek
+Crop,0,0.185185185185185,54,majority,durcal,strict,deepseek
+Crop,1,0,33,majority,durcal,strict,deepseek
+Crop,two or more,0,8,majority,durcal,strict,deepseek
+Irrigation,0,0.175438596491228,57,majority,durcal,strict,deepseek
+Irrigation,two or more,0,30,majority,durcal,strict,deepseek
+Irrigation,1,0.0983606557377049,61,majority,durcal,strict,deepseek
+Soil & moisture,two or more,0,21,majority,durcal,strict,deepseek
+Soil & moisture,1,0.0338983050847458,59,majority,durcal,strict,deepseek
+Soil & moisture,0,0,6,majority,durcal,strict,deepseek
+Weather & climate,1,0.0555555555555556,54,majority,durcal,strict,deepseek
+Weather & climate,two or more,0,7,majority,durcal,strict,deepseek
+Weather & climate,0,0,11,majority,durcal,strict,deepseek
+Crop,0,0.150943396226415,53,majority,murcia,strict,deepseek
+Crop,1,0,30,majority,murcia,strict,deepseek
+Crop,two or more,0,12,majority,murcia,strict,deepseek
+Irrigation,0,0.189655172413793,58,majority,murcia,strict,deepseek
+Irrigation,two or more,0,30,majority,murcia,strict,deepseek
+Irrigation,1,0.125,56,majority,murcia,strict,deepseek
+Soil & moisture,two or more,0,24,majority,murcia,strict,deepseek
+Soil & moisture,1,0.0526315789473684,57,majority,murcia,strict,deepseek
+Soil & moisture,0,0,9,majority,murcia,strict,deepseek
+Weather & climate,1,0.106382978723404,47,majority,murcia,strict,deepseek
+Weather & climate,two or more,0,6,majority,murcia,strict,deepseek
+Weather & climate,0,0,12,majority,murcia,strict,deepseek
+Crop,0,0.157894736842105,57,majority,huetortajar,strict,deepseek
+Crop,1,0,34,majority,huetortajar,strict,deepseek
+Crop,two or more,0,13,majority,huetortajar,strict,deepseek
+Irrigation,0,0.192307692307692,52,majority,huetortajar,strict,deepseek
+Irrigation,two or more,0,28,majority,huetortajar,strict,deepseek
+Irrigation,1,0.117647058823529,68,majority,huetortajar,strict,deepseek
+Soil & moisture,two or more,0,22,majority,huetortajar,strict,deepseek
+Soil & moisture,1,0.0338983050847458,59,majority,huetortajar,strict,deepseek
+Soil & moisture,0,0,10,majority,huetortajar,strict,deepseek
+Weather & climate,1,0.0701754385964912,57,majority,huetortajar,strict,deepseek
+Weather & climate,two or more,0,8,majority,huetortajar,strict,deepseek
+Weather & climate,0,0,10,majority,huetortajar,strict,deepseek
+Crop,0,0.145454545454545,55,majority,oria,strict,deepseek
+Crop,1,0,35,majority,oria,strict,deepseek
+Crop,two or more,0,7,majority,oria,strict,deepseek
+Irrigation,0,0.192982456140351,57,majority,oria,strict,deepseek
+Irrigation,two or more,0,26,majority,oria,strict,deepseek
+Irrigation,1,0.105263157894737,57,majority,oria,strict,deepseek
+Soil & moisture,two or more,0,20,majority,oria,strict,deepseek
+Soil & moisture,1,0.0508474576271187,59,majority,oria,strict,deepseek
+Soil & moisture,0,0,8,majority,oria,strict,deepseek
+Weather & climate,1,0.0869565217391304,46,majority,oria,strict,deepseek
+Weather & climate,two or more,0,6,majority,oria,strict,deepseek
+Weather & climate,0,0,11,majority,oria,strict,deepseek
+Crop,0,0.203125,64,unanimous,none,strict,deepseek
+Crop,1,0.075,40,unanimous,none,strict,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,none,strict,deepseek
+Irrigation,0,0.296875,64,unanimous,none,strict,deepseek
+Irrigation,two or more,0.0882352941176471,34,unanimous,none,strict,deepseek
+Irrigation,1,0.22972972972973,74,unanimous,none,strict,deepseek
+Soil & moisture,two or more,0.0384615384615385,26,unanimous,none,strict,deepseek
+Soil & moisture,1,0.149253731343284,67,unanimous,none,strict,deepseek
+Soil & moisture,0,0.2,10,unanimous,none,strict,deepseek
+Weather & climate,1,0.145161290322581,62,unanimous,none,strict,deepseek
+Weather & climate,two or more,0,8,unanimous,none,strict,deepseek
+Weather & climate,0,0.230769230769231,13,unanimous,none,strict,deepseek
+Crop,0,0.226415094339623,53,unanimous,arriate,strict,deepseek
+Crop,1,0.0882352941176471,34,unanimous,arriate,strict,deepseek
+Crop,two or more,0.0833333333333333,12,unanimous,arriate,strict,deepseek
+Irrigation,1,0.209677419354839,62,unanimous,arriate,strict,deepseek
+Irrigation,0,0.30188679245283,53,unanimous,arriate,strict,deepseek
+Irrigation,two or more,0.0344827586206897,29,unanimous,arriate,strict,deepseek
+Soil & moisture,1,0.152542372881356,59,unanimous,arriate,strict,deepseek
+Soil & moisture,two or more,0.05,20,unanimous,arriate,strict,deepseek
+Soil & moisture,0,0.2,10,unanimous,arriate,strict,deepseek
+Weather & climate,1,0.125,56,unanimous,arriate,strict,deepseek
+Weather & climate,0,0.25,12,unanimous,arriate,strict,deepseek
+Weather & climate,two or more,0,6,unanimous,arriate,strict,deepseek
+Crop,0,0.192982456140351,57,unanimous,ricote,strict,deepseek
+Crop,1,0.0555555555555556,36,unanimous,ricote,strict,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,ricote,strict,deepseek
+Irrigation,0,0.254545454545455,55,unanimous,ricote,strict,deepseek
+Irrigation,two or more,0.09375,32,unanimous,ricote,strict,deepseek
+Irrigation,1,0.225352112676056,71,unanimous,ricote,strict,deepseek
+Soil & moisture,two or more,0.0416666666666667,24,unanimous,ricote,strict,deepseek
+Soil & moisture,1,0.14,50,unanimous,ricote,strict,deepseek
+Soil & moisture,0,0.222222222222222,9,unanimous,ricote,strict,deepseek
+Weather & climate,1,0.147540983606557,61,unanimous,ricote,strict,deepseek
+Weather & climate,two or more,0,8,unanimous,ricote,strict,deepseek
+Weather & climate,0,0.111111111111111,9,unanimous,ricote,strict,deepseek
+Crop,0,0.2,55,unanimous,sudanell,strict,deepseek
+Crop,1,0.0789473684210526,38,unanimous,sudanell,strict,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,sudanell,strict,deepseek
+Irrigation,0,0.288461538461538,52,unanimous,sudanell,strict,deepseek
+Irrigation,two or more,0.103448275862069,29,unanimous,sudanell,strict,deepseek
+Irrigation,1,0.217391304347826,69,unanimous,sudanell,strict,deepseek
+Soil & moisture,two or more,0.04,25,unanimous,sudanell,strict,deepseek
+Soil & moisture,1,0.152542372881356,59,unanimous,sudanell,strict,deepseek
+Soil & moisture,0,0.125,8,unanimous,sudanell,strict,deepseek
+Weather & climate,1,0.156862745098039,51,unanimous,sudanell,strict,deepseek
+Weather & climate,two or more,0,7,unanimous,sudanell,strict,deepseek
+Weather & climate,0,0.230769230769231,13,unanimous,sudanell,strict,deepseek
+Crop,0,0.185185185185185,54,unanimous,durcal,strict,deepseek
+Crop,1,0.0909090909090909,33,unanimous,durcal,strict,deepseek
+Crop,two or more,0.125,8,unanimous,durcal,strict,deepseek
+Irrigation,0,0.280701754385965,57,unanimous,durcal,strict,deepseek
+Irrigation,two or more,0.0666666666666667,30,unanimous,durcal,strict,deepseek
+Irrigation,1,0.229508196721311,61,unanimous,durcal,strict,deepseek
+Soil & moisture,two or more,0,21,unanimous,durcal,strict,deepseek
+Soil & moisture,1,0.152542372881356,59,unanimous,durcal,strict,deepseek
+Soil & moisture,0,0.333333333333333,6,unanimous,durcal,strict,deepseek
+Weather & climate,1,0.111111111111111,54,unanimous,durcal,strict,deepseek
+Weather & climate,two or more,0,7,unanimous,durcal,strict,deepseek
+Weather & climate,0,0.181818181818182,11,unanimous,durcal,strict,deepseek
+Crop,0,0.207547169811321,53,unanimous,murcia,strict,deepseek
+Crop,1,0.1,30,unanimous,murcia,strict,deepseek
+Crop,two or more,0.0833333333333333,12,unanimous,murcia,strict,deepseek
+Irrigation,0,0.310344827586207,58,unanimous,murcia,strict,deepseek
+Irrigation,two or more,0.1,30,unanimous,murcia,strict,deepseek
+Irrigation,1,0.267857142857143,56,unanimous,murcia,strict,deepseek
+Soil & moisture,two or more,0.0416666666666667,24,unanimous,murcia,strict,deepseek
+Soil & moisture,1,0.157894736842105,57,unanimous,murcia,strict,deepseek
+Soil & moisture,0,0.222222222222222,9,unanimous,murcia,strict,deepseek
+Weather & climate,1,0.191489361702128,47,unanimous,murcia,strict,deepseek
+Weather & climate,two or more,0,6,unanimous,murcia,strict,deepseek
+Weather & climate,0,0.25,12,unanimous,murcia,strict,deepseek
+Crop,0,0.210526315789474,57,unanimous,huetortajar,strict,deepseek
+Crop,1,0.0588235294117647,34,unanimous,huetortajar,strict,deepseek
+Crop,two or more,0.0769230769230769,13,unanimous,huetortajar,strict,deepseek
+Irrigation,0,0.326923076923077,52,unanimous,huetortajar,strict,deepseek
+Irrigation,two or more,0.107142857142857,28,unanimous,huetortajar,strict,deepseek
+Irrigation,1,0.25,68,unanimous,huetortajar,strict,deepseek
+Soil & moisture,two or more,0.0454545454545455,22,unanimous,huetortajar,strict,deepseek
+Soil & moisture,1,0.135593220338983,59,unanimous,huetortajar,strict,deepseek
+Soil & moisture,0,0.2,10,unanimous,huetortajar,strict,deepseek
+Weather & climate,1,0.140350877192982,57,unanimous,huetortajar,strict,deepseek
+Weather & climate,two or more,0,8,unanimous,huetortajar,strict,deepseek
+Weather & climate,0,0.3,10,unanimous,huetortajar,strict,deepseek
+Crop,0,0.2,55,unanimous,oria,strict,deepseek
+Crop,1,0.0571428571428571,35,unanimous,oria,strict,deepseek
+Crop,two or more,0,7,unanimous,oria,strict,deepseek
+Irrigation,0,0.315789473684211,57,unanimous,oria,strict,deepseek
+Irrigation,two or more,0.115384615384615,26,unanimous,oria,strict,deepseek
+Irrigation,1,0.210526315789474,57,unanimous,oria,strict,deepseek
+Soil & moisture,two or more,0.05,20,unanimous,oria,strict,deepseek
+Soil & moisture,1,0.152542372881356,59,unanimous,oria,strict,deepseek
+Soil & moisture,0,0.125,8,unanimous,oria,strict,deepseek
+Weather & climate,1,0.152173913043478,46,unanimous,oria,strict,deepseek
+Weather & climate,two or more,0,6,unanimous,oria,strict,deepseek
+Weather & climate,0,0.272727272727273,11,unanimous,oria,strict,deepseek
