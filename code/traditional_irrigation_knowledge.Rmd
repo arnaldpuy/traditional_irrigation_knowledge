@@ -338,21 +338,16 @@ plot_share_epi <- plot_share_epi +
 fun_prev <- dt[, .(f = trimws(unlist(strsplit(functions, ";", fixed = TRUE)))),
                by = id_cite][f %in% names(fun_lab), .N, by = f]
 fun_prev[, share := N / uniqueN(dt$id_cite)]
-fun_prev[, core := fifelse(f %in% core2, "Water/yield core", "Other functions")]
 fun_prev[, label := factor(fun_lab[f], levels = fun_lab[fun_prev[order(share), f]])]
 
-plot_share_fun <- ggplot(fun_prev, aes(share, label, colour = core)) +
+plot_share_fun <- ggplot(fun_prev, aes(share, label)) +
   geom_segment(aes(x = 0, xend = share, yend = label), linewidth = 0.4) +
   geom_point(size = 1.7) +
-  geom_text(aes(label = N), hjust = -0.5, size = 2, colour = "grey30",
-            show.legend = FALSE) +
-  scale_colour_manual(values = c(`Water/yield core` = "grey20",
-                                 `Other functions` = "grey65"), name = "") +
+  geom_text(aes(label = N), hjust = -0.5, size = 2, colour = "grey30") +
   scale_x_continuous(labels = percent_format(), limits = c(0, 0.97),
                      breaks = breaks_pretty(n = 3)) +
   labs(x = "Share of the corpus serving the function", y = "") +
-  theme_AP() +
-  theme(legend.position = c(0.98, 0.03), legend.justification = c(1, 0))
+  theme_AP()
 
 # Panel d: reducibility against functions served outside the core --------------
 

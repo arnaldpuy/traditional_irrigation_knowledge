@@ -448,21 +448,16 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
 \NormalTok{fun\_prev }\OtherTok{\textless{}{-}}\NormalTok{ dt[, .(}\AttributeTok{f =} \FunctionTok{trimws}\NormalTok{(}\FunctionTok{unlist}\NormalTok{(}\FunctionTok{strsplit}\NormalTok{(functions, }\StringTok{";"}\NormalTok{, }\AttributeTok{fixed =} \ConstantTok{TRUE}\NormalTok{)))),}
 \NormalTok{               by }\OtherTok{=}\NormalTok{ id\_cite][f }\SpecialCharTok{\%in\%} \FunctionTok{names}\NormalTok{(fun\_lab), .N, by }\OtherTok{=}\NormalTok{ f]}
 \NormalTok{fun\_prev[, share }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ N }\SpecialCharTok{/} \FunctionTok{uniqueN}\NormalTok{(dt}\SpecialCharTok{$}\NormalTok{id\_cite)]}
-\NormalTok{fun\_prev[, core }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{fifelse}\NormalTok{(f }\SpecialCharTok{\%in\%}\NormalTok{ core2, }\StringTok{"Water/yield core"}\NormalTok{, }\StringTok{"Other functions"}\NormalTok{)]}
 \NormalTok{fun\_prev[, label }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(fun\_lab[f], }\AttributeTok{levels =}\NormalTok{ fun\_lab[fun\_prev[}\FunctionTok{order}\NormalTok{(share), f]])]}
 
-\NormalTok{plot\_share\_fun }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(fun\_prev, }\FunctionTok{aes}\NormalTok{(share, label, }\AttributeTok{colour =}\NormalTok{ core)) }\SpecialCharTok{+}
+\NormalTok{plot\_share\_fun }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(fun\_prev, }\FunctionTok{aes}\NormalTok{(share, label)) }\SpecialCharTok{+}
   \FunctionTok{geom\_segment}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =} \DecValTok{0}\NormalTok{, }\AttributeTok{xend =}\NormalTok{ share, }\AttributeTok{yend =}\NormalTok{ label), }\AttributeTok{linewidth =} \FloatTok{0.4}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{size =} \FloatTok{1.7}\NormalTok{) }\SpecialCharTok{+}
-  \FunctionTok{geom\_text}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{label =}\NormalTok{ N), }\AttributeTok{hjust =} \SpecialCharTok{{-}}\FloatTok{0.5}\NormalTok{, }\AttributeTok{size =} \DecValTok{2}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey30"}\NormalTok{,}
-            \AttributeTok{show.legend =} \ConstantTok{FALSE}\NormalTok{) }\SpecialCharTok{+}
-  \FunctionTok{scale\_colour\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\StringTok{\textasciigrave{}}\AttributeTok{Water/yield core}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"grey20"}\NormalTok{,}
-                                 \StringTok{\textasciigrave{}}\AttributeTok{Other functions}\StringTok{\textasciigrave{}} \OtherTok{=} \StringTok{"grey65"}\NormalTok{), }\AttributeTok{name =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{geom\_text}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{label =}\NormalTok{ N), }\AttributeTok{hjust =} \SpecialCharTok{{-}}\FloatTok{0.5}\NormalTok{, }\AttributeTok{size =} \DecValTok{2}\NormalTok{, }\AttributeTok{colour =} \StringTok{"grey30"}\NormalTok{) }\SpecialCharTok{+}
   \FunctionTok{scale\_x\_continuous}\NormalTok{(}\AttributeTok{labels =} \FunctionTok{percent\_format}\NormalTok{(), }\AttributeTok{limits =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\FloatTok{0.97}\NormalTok{),}
                      \AttributeTok{breaks =} \FunctionTok{breaks\_pretty}\NormalTok{(}\AttributeTok{n =} \DecValTok{3}\NormalTok{)) }\SpecialCharTok{+}
   \FunctionTok{labs}\NormalTok{(}\AttributeTok{x =} \StringTok{"Share of the corpus serving the function"}\NormalTok{, }\AttributeTok{y =} \StringTok{""}\NormalTok{) }\SpecialCharTok{+}
-  \FunctionTok{theme\_AP}\NormalTok{() }\SpecialCharTok{+}
-  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \FunctionTok{c}\NormalTok{(}\FloatTok{0.98}\NormalTok{, }\FloatTok{0.03}\NormalTok{), }\AttributeTok{legend.justification =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{))}
+  \FunctionTok{theme\_AP}\NormalTok{()}
 
 \CommentTok{\# Panel d: reducibility against functions served outside the core {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
 
