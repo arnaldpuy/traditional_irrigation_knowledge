@@ -415,7 +415,7 @@ fig1 <- plot_grid(plot_share_dom +
 fig1
 ```
 
-```{r fig1-shares, dependson=c("fig1-shares-build", "fig1-shares-panels", "fig1-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (total numbers per type in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water management (total number in parentheses)."}
+```{r fig1-shares, dependson=c("fig1-shares-build", "fig1-shares-panels", "fig1-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. The violin plots show the median and the spread of the $1{,}080$ specifications of the multiverse analysis. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (the total number of assumptions per type is in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water management (total number in parentheses)."}
 # MAIN FIGURE 1, WITH THE FUNCTION PANELS #####################################
 
 bottom <- plot_grid(plot_share_fun + 
@@ -719,7 +719,7 @@ plot_bundle_cue <- ggplot(ind, aes(label, ind_ge2_vars)) +
   theme(axis.text.x = element_text(size = 6))
 ```
 
-```{r fig2-bundles, dependson = "fig2-bundles-build", fig.width=2.5, fig.height=4.5}
+```{r fig2-bundles, dependson = "fig2-bundles-build", fig.width=2.5, fig.height=4.5, fig.cap="The bundling of practices and functions. a) Share of analytical specifications ($1{,}080$) attributing each function to each practice. b) Number of practices carrying each function. Points denote the median across specifications and bars the full range."}
 plot_grid(plot_bundle_heat + 
             theme(legend.position = "top"), 
           plot_bundle_fun, ncol = 1, 
@@ -834,14 +834,14 @@ ggplot() +
         axis.text = element_text(size = 6, colour = "#555555"))
 ```
 
-```{r figS2-sobol, dependson="figS2-sobol-build", fig.width=5.8, fig.height=1.8, fig.cap="Uncertainty and sensitivity analysis of the irreducible share across the $1{,}080$ specifications. a) Distribution of the irreducible share, coloured by vote rule. b) Sobol' indices: the first-order index ($S_i$) is the share of the variance a factor explains on its own, the total-order index ($T_i$) the share it explains together with its interactions with all other factors. c) Second-order indices ($S_{ij}$), the share of the variance explained by each pair of factors."}
+```{r figS2-sobol, dependson="figS2-sobol-build", fig.width=5.8, fig.height=1.8, fig.cap="Uncertainty and sensitivity analysis of the irreducible share across the $1{,}080$ specifications. a) Distribution of the irreducible share, coloured by vote rule. b) Sobol' indices. The first-order index ($S_i$) denotes the share of the variance contributed by a factor on its own. The total-order index ($T_i$) denotes the share of the variance contributed by the factor jointly with its interactions with all other factors. c) Second-order indices ($S_{ij}$), which denote the share of the variance explained by each pair of factors."}
 # MAIN FIGURE 1 ###############################################################
 
 plot_grid(plot_sob_a, plot_sob_b, plot_sob_c, ncol = 3,
           rel_widths = c(0.32, 0.31, 0.37), labels = "auto")
 ```
 
-```{r figS3-embedding, dependson="sm-build", fig.width=6, fig.height=2.3, fig.cap="The label-free check. a) Principal Component Analysis (PCA) of the 475 vectors (one per assumption) against the first two dimensions of the analysis. The position of the efficiency lexicon vector is shown by the star. b) Cosine similarity of each assumption to the efficiency lexicon vector. AUC is the area under the curve, the probability that a reducible assumption lies closer to the lexicon than an irreducible one, where 0.5 is chance. c) Cumulative share of variance against components retained. The dashed line is at 73, the number of components needed to reach 90% of the variance (dotted line)."}
+```{r figS3-embedding, dependson="sm-build", fig.width=6, fig.height=2.3, fig.cap="The label-free check. a) Principal Component Analysis (PCA) of the 475 vectors (one per assumption) against the first two dimensions of the analysis. The position of the ``efficiency lexicon'' vector is shown by the star. b) Cosine similarity of each assumption to the efficiency lexicon vector. AUC is the area under the curve, the probability that a reducible assumption lies closer to the lexicon than an irreducible one, where 0.5 is chance. c) Cumulative share of variance against components retained. The dashed line is at 73, the number of components needed to reach 90% of the variance (dotted line)."}
 # SM FIGURE: LABEL-FREE SEMANTIC WITNESS ######################################
 
 col_code <- c(Irreducible = col_irr, Reducible = col_leg)
@@ -1069,10 +1069,13 @@ plot_sens_tot <- ggplot(ch_tot, aes(med, label)) +
 comp <- sens[practice %in% names(prac_lab), .(n = sum(n)),
              by = .(cell, practice, ch)]
 comp[, share := n / sum(n), by = .(cell, practice)]
-comp <- merge(CJ(practice = names(prac_lab), ch = names(ch_lab)),
-              comp[, .(share = median(share)), by = .(practice, ch)],
-              by = c("practice", "ch"), all.x = TRUE)
+
+comp <- merge(unique(comp[, .(cell, practice)])[, .(ch = names(ch_lab)),
+                                                 by = .(cell, practice)],
+              comp[, .(cell, practice, ch, share)],
+              by = c("cell", "practice", "ch"), all.x = TRUE)
 comp[is.na(share), share := 0]
+comp <- comp[, .(share = median(share)), by = .(practice, ch)]
 comp[, share := share / sum(share), by = practice]
 comp[, channel := factor(ch_lab[ch], levels = ch_lab)]
 tac_ord <- comp[ch == "tactile"][order(share), practice]

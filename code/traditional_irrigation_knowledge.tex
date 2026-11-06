@@ -584,9 +584,11 @@ restricted to multiples of \(1/n\).}
 \begin{figure}
 \centering
 \includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig1-shares-1.pdf}
-\caption{Share of reducible and irreducible assumptions. a) Irreducible
-share grouped by knowledge domain. b) Reducible share grouped by type of
-knowledge (total numbers per type in parentheses). c) The functions of
+\caption{Share of reducible and irreducible assumptions. The violin
+plots show the median and the spread of the \(1{,}080\) specifications
+of the multiverse analysis. a) Irreducible share grouped by knowledge
+domain. b) Reducible share grouped by type of knowledge (the total
+number of assumptions per type is in parentheses). c) The functions of
 traditional irrigation and the number of assumptions serving each
 function. d) Reducible share by the number of functions an assumption
 serves beyond crop production and water management (total number in
@@ -1118,7 +1120,14 @@ the best set of \(k\) functions.}
 \end{Highlighting}
 \end{Shaded}
 
+\begin{figure}
+\centering
 \includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig2-bundles-1.pdf}
+\caption{The bundling of practices and functions. a) Share of analytical
+specifications (\(1{,}080\)) attributing each function to each practice.
+b) Number of practices carrying each function. Points denote the median
+across specifications and bars the full range.}
+\end{figure}
 
 \begin{Shaded}
 \begin{Highlighting}[]
@@ -1403,12 +1412,13 @@ interviewed in Spain.}
 \includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS2-sobol-1.pdf}
 \caption{Uncertainty and sensitivity analysis of the irreducible share
 across the \(1{,}080\) specifications. a) Distribution of the
-irreducible share, coloured by vote rule. b) Sobol' indices: the
-first-order index (\(S_i\)) is the share of the variance a factor
-explains on its own, the total-order index (\(T_i\)) the share it
-explains together with its interactions with all other factors. c)
-Second-order indices (\(S_{ij}\)), the share of the variance explained
-by each pair of factors.}
+irreducible share, coloured by vote rule. b) Sobol' indices. The
+first-order index (\(S_i\)) denotes the share of the variance
+contributed by a factor on its own. The total-order index (\(T_i\))
+denotes the share of the variance contributed by the factor jointly with
+its interactions with all other factors. c) Second-order indices
+(\(S_{ij}\)), which denote the share of the variance explained by each
+pair of factors.}
 \end{figure}
 
 \begin{Shaded}
@@ -1459,13 +1469,13 @@ by each pair of factors.}
 \includegraphics{traditional_irrigation_knowledge_files/figure-latex/figS3-embedding-1.pdf}
 \caption{The label-free check. a) Principal Component Analysis (PCA) of
 the 475 vectors (one per assumption) against the first two dimensions of
-the analysis. The position of the efficiency lexicon vector is shown by
-the star. b) Cosine similarity of each assumption to the efficiency
-lexicon vector. AUC is the area under the curve, the probability that a
-reducible assumption lies closer to the lexicon than an irreducible one,
-where 0.5 is chance. c) Cumulative share of variance against components
-retained. The dashed line is at 73, the number of components needed to
-reach 90\% of the variance (dotted line).}
+the analysis. The position of the ``efficiency lexicon'\,' vector is
+shown by the star. b) Cosine similarity of each assumption to the
+efficiency lexicon vector. AUC is the area under the curve, the
+probability that a reducible assumption lies closer to the lexicon than
+an irreducible one, where 0.5 is chance. c) Cumulative share of variance
+against components retained. The dashed line is at 73, the number of
+components needed to reach 90\% of the variance (dotted line).}
 \end{figure}
 
 \begin{Shaded}
@@ -1873,10 +1883,13 @@ The dashed line marks twelve, the maximum the coding can take.}
 \NormalTok{comp }\OtherTok{\textless{}{-}}\NormalTok{ sens[practice }\SpecialCharTok{\%in\%} \FunctionTok{names}\NormalTok{(prac\_lab), .(}\AttributeTok{n =} \FunctionTok{sum}\NormalTok{(n)),}
 \NormalTok{             by }\OtherTok{=}\NormalTok{ .(cell, practice, ch)]}
 \NormalTok{comp[, share }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ n }\SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(n), by }\OtherTok{=}\NormalTok{ .(cell, practice)]}
-\NormalTok{comp }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(}\FunctionTok{CJ}\NormalTok{(}\AttributeTok{practice =} \FunctionTok{names}\NormalTok{(prac\_lab), }\AttributeTok{ch =} \FunctionTok{names}\NormalTok{(ch\_lab)),}
-\NormalTok{              comp[, .(}\AttributeTok{share =} \FunctionTok{median}\NormalTok{(share)), }\AttributeTok{by =}\NormalTok{ .(practice, ch)],}
-              \AttributeTok{by =} \FunctionTok{c}\NormalTok{(}\StringTok{"practice"}\NormalTok{, }\StringTok{"ch"}\NormalTok{), }\AttributeTok{all.x =} \ConstantTok{TRUE}\NormalTok{)}
+
+\NormalTok{comp }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(}\FunctionTok{unique}\NormalTok{(comp[, .(cell, practice)])[, .(}\AttributeTok{ch =} \FunctionTok{names}\NormalTok{(ch\_lab)),}
+                                                 \AttributeTok{by =}\NormalTok{ .(cell, practice)],}
+\NormalTok{              comp[, .(cell, practice, ch, share)],}
+              \AttributeTok{by =} \FunctionTok{c}\NormalTok{(}\StringTok{"cell"}\NormalTok{, }\StringTok{"practice"}\NormalTok{, }\StringTok{"ch"}\NormalTok{), }\AttributeTok{all.x =} \ConstantTok{TRUE}\NormalTok{)}
 \NormalTok{comp[}\FunctionTok{is.na}\NormalTok{(share), share }\SpecialCharTok{:}\ErrorTok{=} \DecValTok{0}\NormalTok{]}
+\NormalTok{comp }\OtherTok{\textless{}{-}}\NormalTok{ comp[, .(}\AttributeTok{share =} \FunctionTok{median}\NormalTok{(share)), by }\OtherTok{=}\NormalTok{ .(practice, ch)]}
 \NormalTok{comp[, share }\SpecialCharTok{:}\ErrorTok{=}\NormalTok{ share }\SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(share), by }\OtherTok{=}\NormalTok{ practice]}
 \NormalTok{comp[, channel }\SpecialCharTok{:}\ErrorTok{=} \FunctionTok{factor}\NormalTok{(ch\_lab[ch], }\AttributeTok{levels =}\NormalTok{ ch\_lab)]}
 \NormalTok{tac\_ord }\OtherTok{\textless{}{-}}\NormalTok{ comp[ch }\SpecialCharTok{==} \StringTok{"tactile"}\NormalTok{][}\FunctionTok{order}\NormalTok{(share), practice]}
@@ -1911,18 +1924,18 @@ The dashed line marks twelve, the maximum the coding can take.}
 ## Key: <label>
 ##                label Sight Touch Smell Hearing Taste
 ##               <fctr> <num> <num> <num>   <num> <num>
-##  1:    Turn exchange   100     0     0       0     0
-##  2:     Open channel    90     7     3       0     0
-##  3: Ridge and furrow    89    11     0       0     0
-##  4:      Sky reading    81    12     4       4     0
-##  5:   Weed tolerance    82    13     0       0     5
-##  6:   Plot levelling    83    17     0       0     0
-##  7:       Cover crop    74    18     8       0     0
-##  8:    Crop rotation    60    20     9       0    11
-##  9: Flood irrigation    69    28     1       2     0
-## 10: Channel cleaning    58    29     0      12     0
+##  1: Ridge and furrow   100     0     0       0     0
+##  2:    Turn exchange   100     0     0       0     0
+##  3:     Open channel    97     3     0       0     0
+##  4:   Weed tolerance    92     8     0       0     0
+##  5:   Plot levelling    90    10     0       0     0
+##  6:      Sky reading    82    12     3       3     0
+##  7:       Cover crop    83    17     0       0     0
+##  8:    Crop rotation    79    21     0       0     0
+##  9: Channel cleaning    73    27     0       0     0
+## 10: Flood irrigation    71    29     0       0     0
 ## 11:         Mulching    59    41     0       0     0
-## 12:          Tillage    51    45     0       4     0
+## 12:          Tillage    53    47     0       0     0
 \end{verbatim}
 
 \begin{Shaded}
@@ -1984,7 +1997,7 @@ each practice.}
 ## LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
 ## 
 ## locale:
-## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## [1] C
 ## 
 ## time zone: Europe/London
 ## tzcode source: internal
