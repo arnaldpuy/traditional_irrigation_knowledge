@@ -23,7 +23,8 @@ needs_external <- c(
   `27_policy_linearize.py` = "the policy PDFs (public documents, not redistributed)",
   `31_quote_locations.R` = "the policy PDFs, for page numbers",
   `38_evidence_source_screen.R` = "the review full texts (copyrighted, not redistributed)",
-  `41_link_extraction.R` = "the review full texts; archived replies are parsed if present")
+  `41_link_extraction.R` = "the review full texts; archived replies are parsed if present",
+  `47_spain_share_europe.R` = "the country-level irrigated areas of the ten global datasets (not redistributed; see README)")
 
 stopifnot(all(offline %in% scripts))
 strict <- tolower(Sys.getenv("REPRODUCE_STRICT", "false")) == "true"
