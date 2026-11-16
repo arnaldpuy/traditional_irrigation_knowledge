@@ -118,7 +118,7 @@
 % ---------------------------------------------------------------------------
 \node[stp, anchor=north west] (s5) at ($(s3.north west)+(0, -6.4)$) {5. Human rating of the 242 papers};
 \node[page, minimum width=3.4cm, minimum height=2.5cm, below=5mm of s5.south west, anchor=north west] (sheet) {};
-\foreach \y/\lab/\ans in {0.3/primary study/yes, 0.55/empirical evidence/yes, 0.8/two kinds of evidence/no, 1.05/causal mechanism/yes, 1.3/three or more settings/no, 1.55/beyond the field/no, 1.8/support factors named/yes, 2.05/limitations reported/yes, 2.3/uncertainty reported/no} {
+\foreach \y/\lab/\ans in {0.3/primary study/yes, 0.55/empirical evidence/yes, 0.8/two lines of evidence/no, 1.05/causal mechanism/yes, 1.3/three or more settings/no, 1.55/beyond the field/no, 1.8/support factors named/yes, 2.05/limitations reported/yes, 2.3/uncertainty reported/no} {
   \node[note, anchor=west, font=\tiny] at ($(sheet.north west)+(0.1, -\y)$) {\lab};
   \node[note, anchor=east, font=\tiny\bfseries] at ($(sheet.north east)+(-0.1, -\y)$) {\ans};
 }

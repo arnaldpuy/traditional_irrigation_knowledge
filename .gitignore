@@ -2,6 +2,8 @@ manuscript/*
 !manuscript/fig-approach-tikz.tex
 !manuscript/fig-evidence-workflow-tikz.tex
 !manuscript/fig-policy-reading-tikz.tex
+!manuscript/fig-multiverse-radial-tikz.tex
+!manuscript/fig-multiverse-shares.tex
 docs/
 .here
 /*.md

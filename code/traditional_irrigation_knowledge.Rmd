@@ -107,12 +107,12 @@ funcs12 <- c("crop_production", "water_conservation", "soil_health",
 core2 <- c("crop_production", "water_conservation")
 fun_lab <- c(crop_production = "Crop production",
              water_conservation = "Water conservation",
-             soil_health = "Soil health", risk_management = "Risk management",
-             social_cohesion = "Social cohesion", biodiversity = "Biodiversity",
+             soil_health = "Soil health maintenance", risk_management = "Risk management",
+             social_cohesion = "Social cohesion", biodiversity = "Biodiversity conservation",
              groundwater_recharge = "Groundwater recharge",
              microclimate_regulation = "Microclimate regulation",
-             pest_control = "Pest control", livestock = "Livestock",
-             medicinal_food = "Medicinal/food plants",
+             pest_control = "Pest control", livestock = "Livestock husbandry",
+             medicinal_food = "Wild food and medicine",
              recreation_wellbeing = "Recreation/wellbeing")
 
 arm_file <- function(fam, ph) {
@@ -223,7 +223,7 @@ plot_sob_c <- ggplot(sob_int, aes(reorder(lab, si), si)) +
   theme(axis.text.y = element_text(size = 5.6))
 ```
 
-```{r fig1-shares-build, dependson="load-data"}
+```{r fig2-shares-build, dependson="load-data"}
 # FIGURE 1 PANELS #############################################################
 
 draw_share <- merge(bin[, .(s_irr = mean(!legible)),
@@ -330,7 +330,7 @@ plot_share_epi <- plot_share_epi +
   theme(legend.position = "none")
 ```
 
-```{r fig1-panels-cd, dependson="fig1-shares-build"}
+```{r fig2-panels-cd, dependson="fig2-shares-build"}
 # FIGURE 2, PANELS C AND D ####################################################
 
 # Panel c: the twelve-function vocabulary and how common each function is ------
@@ -398,7 +398,7 @@ print(ncat_full[, .(median = sprintf("%.0f%%", 100 * median(red)),
                                     100 * max(red))), by = label])
 ```
 
-```{r fig1-shares-panels, dependson="fig1-shares-build", fig.width=5.5, fig.height=1.8, fig.cap="The irreducible share by knowledge domain and by form of knowledge. Both panels summarise the 216 specifications that apply to a breakdown by group (three LLM families, three wordings of the removal-test rule, three vote rules, and keeping all communities or dropping one). The spread is specification uncertainty, not binomial sampling error. (a) Distribution of the irreducible share by knowledge domain: violins are scaled to equal width, points are medians. The distributions are skewed, with mass at 100\\% and a long lower tail, and irreducibility extends even to the domains closest to efficiency frameworks. Only the irreducible share is shown, the reducible share being its exact complement. (b) Distribution of the reducible share by form of knowledge (corpus counts in parentheses), violins scaled to equal width and points marking medians. Heuristic rules and mechanistic beliefs are partly absorbed. The remaining types return a reducible share of exactly zero in most specifications --- 97\\% for calendrical, 94\\% for astronomical, 76\\% for normative-social, 63\\% for valuation and 54\\% for indicator --- so their width near zero represents a spike rather than a spread, the share of a type with $n$ assumptions being restricted to multiples of $1/n$."}
+```{r fig2-shares-panels, dependson="fig2-shares-build", fig.width=5.5, fig.height=1.8, fig.cap="The irreducible share by knowledge domain and by form of knowledge. Both panels summarise the 216 specifications that apply to a breakdown by group (three LLM families, three wordings of the removal-test rule, three vote rules, and keeping all communities or dropping one). The spread is specification uncertainty, not binomial sampling error. (a) Distribution of the irreducible share by knowledge domain: violins are scaled to equal width, points are medians. The distributions are skewed, with mass at 100\\% and a long lower tail, and irreducibility extends even to the domains closest to efficiency frameworks. Only the irreducible share is shown, the reducible share being its exact complement. (b) Distribution of the reducible share by form of knowledge (corpus counts in parentheses), violins scaled to equal width and points marking medians. Heuristic rules and mechanistic beliefs are partly absorbed. The remaining types return a reducible share of exactly zero in most specifications --- 97\\% for calendrical, 94\\% for astronomical, 76\\% for normative-social, 63\\% for valuation and 54\\% for indicator --- so their width near zero represents a spike rather than a spread, the share of a type with $n$ assumptions being restricted to multiples of $1/n$."}
 # MAIN FIGURE 1 ##############################################################
 
 fig1 <- plot_grid(plot_share_dom + 
@@ -410,7 +410,7 @@ fig1 <- plot_grid(plot_share_dom +
 fig1
 ```
 
-```{r fig1-shares, dependson=c("fig1-shares-build", "fig1-shares-panels", "fig1-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. The violin plots show the median and the spread of the multiverse analysis. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (the total number of assumptions per type is in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water management (total number in parentheses)."}
+```{r fig2-shares, dependson=c("fig2-shares-build", "fig2-shares-panels", "fig2-panels-cd"), fig.width=5.5, fig.height=3.5, fig.cap="Share of reducible and irreducible assumptions. The violin plots show the median and the spread of the multiverse analysis. a) Irreducible share grouped by knowledge domain. b) Reducible share grouped by type of knowledge (the total number of assumptions per type is in parentheses). c) The functions of traditional irrigation and the number of assumptions serving each function. d) Reducible share by the number of functions an assumption serves beyond crop production and water conservation (total number in parentheses)."}
 # MAIN FIGURE 1, WITH THE FUNCTION PANELS #####################################
 
 bottom <- plot_grid(plot_share_fun + 
@@ -420,7 +420,7 @@ bottom <- plot_grid(plot_share_fun +
 plot_grid(fig1, bottom, ncol = 1, rel_heights = c(0.4, 0.6))
 ```
 
-```{r numbers-results1, dependson="fig1-shares-build"}
+```{r numbers-results1, dependson="fig2-shares-build"}
 # NUMBERS CITED IN RESULTS 1 ##################################################
 
 hl <- fread(file.path(out, "sobol_headline_grid.csv"))
@@ -648,7 +648,7 @@ print(dcast(cells, family ~ factor(phrasing, levels = phrasings),
 
 # Results 3: bundles
 
-```{r fig2-bundles-build, dependson="load-data"}
+```{r fig3-bundles-build, dependson="load-data"}
 # FIGURE 4 PANELS #############################################################
 
 pfi <- fread(file.path(out, "practice_function_incidence.csv"))
@@ -714,14 +714,14 @@ plot_bundle_cue <- ggplot(ind, aes(label, ind_ge2_vars)) +
   theme(axis.text.x = element_text(size = 6))
 ```
 
-```{r fig2-bundles, dependson = "fig2-bundles-build", fig.width=2.5, fig.height=4.5, fig.cap="The bundling of practices and functions. a) Share of analytical specifications ($1{,}080$) attributing each function to each practice. b) Number of practices carrying each function. Points denote the median across specifications and bars the full range."}
+```{r fig3-bundles, dependson = "fig3-bundles-build", fig.width=2.5, fig.height=4.5, fig.cap="The bundling of practices and functions. a) Share of analytical specifications ($1{,}080$) attributing each function to each practice. b) Number of practices carrying each function. Points denote the median across specifications and bars the full range."}
 plot_grid(plot_bundle_heat + 
             theme(legend.position = "top"), 
           plot_bundle_fun, ncol = 1, 
           rel_heights = c(0.6, 0.4), labels = "auto")
 ```
 
-```{r numbers-results3, dependson="fig2-bundles-build"}
+```{r numbers-results3, dependson="fig3-bundles-build"}
 # NUMBERS CITED IN RESULTS 3 ##################################################
 
 pc <- fread(file.path(out, "practice_function_counts_grid.csv"))
@@ -1121,7 +1121,7 @@ plot_grid(plot_sens_tot, plot_sens_prac, ncol = 2, rel_widths = c(0.38, 0.62),
 fig_dir <- here("code", "traditional_irrigation_knowledge_files", "figure-latex")
 out_dir <- here("manuscript", "figures")
 dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
-figs <- c("fig1-shares", "fig2-bundles", "figS1-map", "figS2-sobol",
+figs <- c("fig2-shares", "fig3-bundles", "figS1-map", "figS2-sobol",
           "figS3-embedding", "figS4-dimensions", "figS6-frontier", "figS7-sensory")
 ok <- file.copy(file.path(fig_dir, paste0(figs, "-1.pdf")),
                 file.path(out_dir, paste0(figs, ".pdf")), overwrite = TRUE)

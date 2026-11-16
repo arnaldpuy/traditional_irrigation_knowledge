@@ -174,8 +174,8 @@ picks[, page := mapply(locate, doc, verbatim_clean)]
 
 fn_lab <- c(water_conservation = "Water conservation", crop_production = "Crop production",
             risk_management = "Risk management", social_cohesion = "Social cohesion",
-            groundwater_recharge = "Groundwater recharge", soil_health = "Soil health",
-            biodiversity = "Biodiversity")
+            groundwater_recharge = "Groundwater recharge", soil_health = "Soil health maintenance",
+            biodiversity = "Biodiversity conservation")
 picks[, fn_ord := match(fn, names(fn_lab))]
 setorder(picks, fn_ord, doc)
 fwrite(picks[, .(rec_id, doc, fn, language, anchor, context, note, verbatim_clean, english_translation,
@@ -208,7 +208,7 @@ rows <- tab[, sprintf(
   fifelse(is.na(page), "n/a", as.character(page)),
   fifelse(nzchar(note), paste0(" (", esc(note), ")"), ""))]
 writeLines(c("\\begin{longtable}{p{2.2cm} >{\\raggedright\\arraybackslash}p{11.6cm}}",
-             "\\caption{Verified quotations in which the policy documents attribute each function to irrigation modernisation, a named technology or the modernisation investment itself. Every passage is an exact substring of the archived document text, selected by the authors from every sentence that names a modernisation technology or programme together with the function. Sentences about irrigation in general do not qualify. A passage that names several functions lists all of them in the left column. Quotations in Spanish and Catalan are followed by an English translation in square brackets.}",
+             "\\caption{Quotations in which the policy documents attribute each function to irrigation modernisation, a named technology or the modernisation investment itself. A passage that names several functions lists all of them in the left column. Quotations in Spanish and Catalan are followed by an English translation in square brackets.}",
              "\\label{tab:SM_policy_quotes}\\\\",
              "\\toprule", "Function & Verified quotation and source \\\\", "\\midrule",
              "\\endfirsthead",

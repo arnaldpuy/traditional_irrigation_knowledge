@@ -42,8 +42,8 @@
              column 1/.style={nodes={text width=8.6cm, align=left}},
              column 2/.style={nodes={text width=6.3cm, align=left}}] {
   Assumption & Function \\
-  Different crops have different water demands (Oria) & {\color{leg}Crop production, water management} \\
-  In a foreseeable drought, plant crops with lower water requirements (Arriate) & {\color{leg}Crop production, water management, risk management} \\
+  Different crops have different water demands (Oria) & {\color{leg}Crop production, water conservation} \\
+  In a foreseeable drought, plant crops with lower water requirements (Arriate) & {\color{leg}Crop production, water conservation, risk management} \\
   Water excess can cause the appearance of fungus (Hu\'etor-T\'ajar) & {\color{leg}Crop production, pest control} \\
   Irrigators share a similar sowing calendar with their neighbors (Hu\'etor-T\'ajar) & {\color{leg}Crop production, social cohesion} \\
 };
@@ -65,7 +65,7 @@
     \begin{scope}[on background layer]
       \fill[band] (-0.25, -2.3) rectangle (#4*0.5 - 0.25, 1.2);
     \end{scope}
-    \foreach \lab [count=\i from 0] in {Crop production, Water management,
+    \foreach \lab [count=\i from 0] in {Crop production, Water conservation,
                                         Risk management, Social cohesion, Pest control}
       \node[head] at (\i*0.5, 0.3) {\lab};
     % assumption 1: crop, water
@@ -119,10 +119,10 @@
              column 2/.style={nodes={anchor=east}},
              column 4/.style={nodes={anchor=east, text=irr, font=\footnotesize\bfseries}}] {
   $k$ & candidate sets & best set & share captured \\
-  2  & 66    & Crop production, water management & 32\% \\
+  2  & 66    & Crop production, water conservation & 32\% \\
   3  & 220   & $+$ risk management & 52\% \\
-  4  & 495   & $+$ soil health & 71\% \\
-  7  & 792   & $+$ social cohesion, groundwater recharge, biodiversity & 88\% \\
+  4  & 495   & $+$ soil health maintenance & 71\% \\
+  7  & 792   & $+$ social cohesion, groundwater recharge, biodiversity conservation & 88\% \\
   12 & 1     & all twelve functions & 100\% \\
 };
 \draw[black!40] ($(B-1-1.south west)+(0,-1pt)$) -- ($(B-1-4.south east)+(0,-1pt)$);

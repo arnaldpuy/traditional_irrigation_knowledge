@@ -10,7 +10,7 @@ R and Python code accompanying the paper *Irrigation modernisation is blind to m
 
 ## Abstract
 
-*The modernization of traditional irrigation systems by means of technologies designed to minimize water use and maximize crop yield is promoted worldwide to improve global water and food security. However, we do not know how much traditional knowledge gets lost when this efficiency-based irrigation frameworks are implemented. Here we address this gap by analyzing 475 assumptions (fragments of tacit knowledge) extracted from 110 interviews across seven Spanish irrigation systems, where such knowledge has accumulated for over a millennium. We find that at least 60% of the assumptions contain knowledge that is irreducible to a water-in/yield-out metric and that they serve functions spanning production, hydrology, ecology and social organization. Although many irrigation technologies promise to serve some of these functions, the strength of the evidence that they actually do is very limited. Our results indicate that efficiency is not a sufficient criterion for modernizing irrigation systems: evaluating improvement requires accounting for the knowledge and functions that technological substitution may eliminate.*
+*The modernisation of traditional irrigation systems by technologies designed to minimize water use and maximize crop yield is promoted worldwide to improve global water and food security. However, we do not know how much traditional knowledge gets lost when these efficiency-based irrigation frameworks are implemented. Here we address this gap by analyzing 475 assumptions (fragments of tacit knowledge) extracted from 110 interviews across seven Spanish irrigation systems, where such knowledge has accumulated for over a millennium. We find that at least 60% of the assumptions contain knowledge that is irreducible to a water-in/yield-out metric and that they serve functions spanning production, hydrology, ecology and social organization. red{Although many irrigation technologies promise to serve some of these functions, XXXXXXXXX.} Our results indicate that efficiency is not a sufficient criterion for modernizing irrigation systems: evaluating improvement requires accounting for the knowledge and functions that technological substitution may eliminate.*
 
 ## Contents
 
@@ -55,6 +55,7 @@ traditional_irrigation_knowledge/
 │   ├── 43_policy_quote_candidates.R … 45_human_validation_ratings.R   # policy quotes; the three human raters
 │   ├── 46_within_domain_or.R                   # reducibility by function load, LLMs and human raters, within each domain
 │   ├── 47_spain_share_europe.R                 # Spain's share of Europe's irrigated area across ten global datasets
+│   ├── 48_fig_multiverse_shares.R              # the 1,080 irreducible shares behind Fig. 1, in the order the TikZ tree reads them
 │   └── historical/                             # scripts that produced archived replies but depend on undistributed inputs
 ├── functions/        # helper functions, one *_fun per file
 ├── prompts/          # the LLM instruments behind every reported number
@@ -139,7 +140,7 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 
 ## What is and is not reproducible offline
 
-- **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37), the evidence tables (39–40), the human-rater tables (45) and the function-load odds and risk ratios (46). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
+- **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37), the evidence tables (39–40), the human-rater tables (45), the function-load odds and risk ratios (46) and the shares drawn around the rim of Fig. 1 (48). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
 - **Needs the LLM APIs**: new model calls in 02–04, 17, 19, 20, 24, 28–30, 37 and 41 (set the script's `*_RUN_ENABLED` variable). Fresh calls will not reproduce the archived text; the archived replies reproduce the published numbers.
 - **Optional local preparation**: 01 rebuilds `assumptions_corpus.csv` from the included assumption-table PDFs with `pdfplumber` and Poppler; the deposited CSV is byte-identical to its output, so the runner does not call it.
 - **Needs files not distributed**: 12–13 (the sentence-transformer weights, downloaded on first use), 27 and 31 (the policy PDFs), 38 and 41 (the review full texts), 32–36 (search and retrieval against Scopus, Dimensions and publishers), 47 (the country-level irrigated areas of ten global datasets, harmonised by the pipeline of [Where irrigation exists is globally contested](https://github.com/arnaldpuy/detectability_crisis); two of the source datasets carry non-commercial terms and two state no licence, so only the 30-row summary `spain_share_europe.csv` is deposited).
@@ -155,8 +156,9 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 
 | Item | Produced by | Reads |
 |---|---|---|
-| Fig. 1 | notebook chunks `fig1-shares-build`, `fig1-panels-cd`, `fig1-shares-panels`, `fig1-shares` | `sobol_headline_grid.csv`, `sobol_functions_*.csv`, `function_practice_counts_grid.csv`, `human_validation_ratings.csv` (script 45) |
-| Fig. 2 | `fig2-bundles-build`, `fig2-bundles` | `practice_function_*.csv`, `sobol_ladder_bundles_*.csv` |
+| Fig. 1 | `manuscript/fig-multiverse-radial-tikz.tex`, compiled with `pdflatex`; script 48 writes its data file `manuscript/fig-multiverse-shares.tex` | `sobol_headline_grid.csv` |
+| Fig. 2 | notebook chunks `fig2-shares-build`, `fig2-panels-cd`, `fig2-shares-panels`, `fig2-shares` | `sobol_headline_grid.csv`, `sobol_functions_*.csv`, `function_practice_counts_grid.csv`, `human_validation_ratings.csv` (script 45) |
+| Fig. 3 | `fig3-bundles-build`, `fig3-bundles` | `practice_function_*.csv`, `sobol_ladder_bundles_*.csv` |
 | Results 1 numbers | `numbers-results1`; scripts 06, 14 | `sobol_headline_*.csv`, `embedding_auc.csv` |
 | Results 2 numbers | `numbers-results2`; script 10 | `compression_frontier.csv` |
 | Results 3 numbers | `numbers-results3`; scripts 08, 09 | `sobol_ladder_bundles_*.csv`, `practice_function_*.csv` |
@@ -238,9 +240,9 @@ Written by the notebook to `code/traditional_irrigation_knowledge_files/figure-l
 
 | File | Content |
 |---|---|
-| `fig1-shares-1.pdf` | Fig. 1, reducible and irreducible shares |
-| `fig2-bundles-1.pdf` | Fig. 2, practices and functions |
-| `figS1-map-1.pdf` … `figS7-sensory-1.pdf` | Figs. S1–S7 (S5 is built from `manuscript/fig-approach-tikz.tex` with `pdflatex`; it is the only file of `manuscript/` in the repository, the manuscripts themselves are not distributed here) |
+| `fig2-shares-1.pdf` | Fig. 2, reducible and irreducible shares |
+| `fig3-bundles-1.pdf` | Fig. 3, practices and functions |
+| `figS1-map-1.pdf` … `figS7-sensory-1.pdf` | Figs. S1–S7 (S5 is built from `manuscript/fig-approach-tikz.tex` with `pdflatex`). Fig. 1 is built the same way from `manuscript/fig-multiverse-radial-tikz.tex` and its data file `fig-multiverse-shares.tex`. These TikZ sources, with those of Figs. S8 and S9, are the only files of `manuscript/` in the repository; the manuscripts themselves are not distributed here |
 
 ### Tables
 

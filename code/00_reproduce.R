@@ -15,7 +15,8 @@ offline <- c("05_intermodel_agreement.R", "06_sobol_headline.R", "07_sobol_funct
              "20_language_conditions.R", "29_policy_irrigation_recode.R",
              "37_literature_extraction.R", "39_evidence_strength_matrix.R",
              "40_evidence_strength_reliability.R", "42_provenance_checks.R",
-             "45_human_validation_ratings.R", "46_within_domain_or.R")
+             "45_human_validation_ratings.R", "46_within_domain_or.R",
+             "48_fig_multiverse_shares.R")
 needs_external <- c(
   `01_parse_assumptions.py` = "the seven assumption-table PDFs (included) and pdfplumber",
   `12_embeddings.py` = "sentence-transformers and the model weights (download)",

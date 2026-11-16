@@ -209,12 +209,12 @@
 \NormalTok{core2 }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"crop\_production"}\NormalTok{, }\StringTok{"water\_conservation"}\NormalTok{)}
 \NormalTok{fun\_lab }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{crop\_production =} \StringTok{"Crop production"}\NormalTok{,}
              \AttributeTok{water\_conservation =} \StringTok{"Water conservation"}\NormalTok{,}
-             \AttributeTok{soil\_health =} \StringTok{"Soil health"}\NormalTok{, }\AttributeTok{risk\_management =} \StringTok{"Risk management"}\NormalTok{,}
-             \AttributeTok{social\_cohesion =} \StringTok{"Social cohesion"}\NormalTok{, }\AttributeTok{biodiversity =} \StringTok{"Biodiversity"}\NormalTok{,}
+             \AttributeTok{soil\_health =} \StringTok{"Soil health maintenance"}\NormalTok{, }\AttributeTok{risk\_management =} \StringTok{"Risk management"}\NormalTok{,}
+             \AttributeTok{social\_cohesion =} \StringTok{"Social cohesion"}\NormalTok{, }\AttributeTok{biodiversity =} \StringTok{"Biodiversity conservation"}\NormalTok{,}
              \AttributeTok{groundwater\_recharge =} \StringTok{"Groundwater recharge"}\NormalTok{,}
              \AttributeTok{microclimate\_regulation =} \StringTok{"Microclimate regulation"}\NormalTok{,}
-             \AttributeTok{pest\_control =} \StringTok{"Pest control"}\NormalTok{, }\AttributeTok{livestock =} \StringTok{"Livestock"}\NormalTok{,}
-             \AttributeTok{medicinal\_food =} \StringTok{"Medicinal/food plants"}\NormalTok{,}
+             \AttributeTok{pest\_control =} \StringTok{"Pest control"}\NormalTok{, }\AttributeTok{livestock =} \StringTok{"Livestock husbandry"}\NormalTok{,}
+             \AttributeTok{medicinal\_food =} \StringTok{"Wild food and medicine"}\NormalTok{,}
              \AttributeTok{recreation\_wellbeing =} \StringTok{"Recreation/wellbeing"}\NormalTok{)}
 
 \NormalTok{arm\_file }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(fam, ph) \{}
@@ -542,7 +542,7 @@ hold}\label{results-1-how-much-knowledge-efficiency-metrics-can-hold}}
 
 \begin{figure}
 \centering
-\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig1-shares-panels-1.pdf}
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig2-shares-panels-1.pdf}
 \caption{The irreducible share by knowledge domain and by form of
 knowledge. Both panels summarise the 216 specifications that apply to a
 breakdown by group (three LLM families, three wordings of the
@@ -578,7 +578,7 @@ restricted to multiples of \(1/n\).}
 
 \begin{figure}
 \centering
-\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig1-shares-1.pdf}
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig2-shares-1.pdf}
 \caption{Share of reducible and irreducible assumptions. The violin
 plots show the median and the spread of the multiverse analysis. a)
 Irreducible share grouped by knowledge domain. b) Reducible share
@@ -586,7 +586,7 @@ grouped by type of knowledge (the total number of assumptions per type
 is in parentheses). c) The functions of traditional irrigation and the
 number of assumptions serving each function. d) Reducible share by the
 number of functions an assumption serves beyond crop production and
-water management (total number in parentheses).}
+water conservation (total number in parentheses).}
 \end{figure}
 
 \begin{Shaded}
@@ -1116,7 +1116,7 @@ functions.}
 
 \begin{figure}
 \centering
-\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig2-bundles-1.pdf}
+\includegraphics{traditional_irrigation_knowledge_files/figure-latex/fig3-bundles-1.pdf}
 \caption{The bundling of practices and functions. a) Share of analytical
 specifications (\(1{,}080\)) attributing each function to each practice.
 b) Number of practices carrying each function. Points denote the median
@@ -1978,7 +1978,7 @@ each practice.}
 \NormalTok{fig\_dir }\OtherTok{\textless{}{-}} \FunctionTok{here}\NormalTok{(}\StringTok{"code"}\NormalTok{, }\StringTok{"traditional\_irrigation\_knowledge\_files"}\NormalTok{, }\StringTok{"figure{-}latex"}\NormalTok{)}
 \NormalTok{out\_dir }\OtherTok{\textless{}{-}} \FunctionTok{here}\NormalTok{(}\StringTok{"manuscript"}\NormalTok{, }\StringTok{"figures"}\NormalTok{)}
 \FunctionTok{dir.create}\NormalTok{(out\_dir, }\AttributeTok{recursive =} \ConstantTok{TRUE}\NormalTok{, }\AttributeTok{showWarnings =} \ConstantTok{FALSE}\NormalTok{)}
-\NormalTok{figs }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"fig1{-}shares"}\NormalTok{, }\StringTok{"fig2{-}bundles"}\NormalTok{, }\StringTok{"figS1{-}map"}\NormalTok{, }\StringTok{"figS2{-}sobol"}\NormalTok{,}
+\NormalTok{figs }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{"fig2{-}shares"}\NormalTok{, }\StringTok{"fig3{-}bundles"}\NormalTok{, }\StringTok{"figS1{-}map"}\NormalTok{, }\StringTok{"figS2{-}sobol"}\NormalTok{,}
           \StringTok{"figS3{-}embedding"}\NormalTok{, }\StringTok{"figS4{-}dimensions"}\NormalTok{, }\StringTok{"figS6{-}frontier"}\NormalTok{, }\StringTok{"figS7{-}sensory"}\NormalTok{)}
 \NormalTok{ok }\OtherTok{\textless{}{-}} \FunctionTok{file.copy}\NormalTok{(}\FunctionTok{file.path}\NormalTok{(fig\_dir, }\FunctionTok{paste0}\NormalTok{(figs, }\StringTok{"{-}1.pdf"}\NormalTok{)),}
                 \FunctionTok{file.path}\NormalTok{(out\_dir, }\FunctionTok{paste0}\NormalTok{(figs, }\StringTok{".pdf"}\NormalTok{)), }\AttributeTok{overwrite =} \ConstantTok{TRUE}\NormalTok{)}
