@@ -10,7 +10,21 @@ R and Python code accompanying the paper *Irrigation modernisation is blind to m
 
 ## Abstract
 
-*The modernisation of traditional irrigation systems by technologies designed to minimize water use and maximize crop yield is promoted worldwide to improve global water and food security. However, we do not know how much traditional knowledge gets lost when these efficiency-based irrigation frameworks are implemented. Here we address this gap by analyzing 475 assumptions (fragments of tacit knowledge) extracted from 110 interviews across seven Spanish irrigation systems, where such knowledge has accumulated for over a millennium. We find that at least 60% of the assumptions contain knowledge that is irreducible to a water-in/yield-out metric and that they serve functions spanning production, hydrology, ecology and social organization. red{Although many irrigation technologies promise to serve some of these functions, XXXXXXXXX.} Our results indicate that efficiency is not a sufficient criterion for modernizing irrigation systems: evaluating improvement requires accounting for the knowledge and functions that technological substitution may eliminate.*
+*The modernisation of traditional irrigation systems by technologies designed to
+minimize water use and maximize crop yield is promoted worldwide to improve
+global water and food security. However, we do not know how much traditional
+knowledge gets lost when these efficiency-based irrigation frameworks are
+implemented. Here we address this gap by analyzing 475 assumptions (fragments of
+tacit knowledge) extracted from 110 interviews across seven Spanish irrigation
+communities, where such knowledge has accumulated for over a millennium. We find
+that at least 60% of the assumptions contain knowledge that is irreducible to a
+water-in/yield-out metric and that they serve functions spanning production,
+hydrology, ecology and social organization. Although many irrigation
+technologies promise to serve some of these functions, the strength of the
+evidence that they actually do is very limited. Our results indicate that
+efficiency is not a sufficient criterion for modernizing irrigation systems:
+evaluating improvement should account for the knowledge and functions that
+technological substitution may eliminate.*
 
 ## Contents
 
