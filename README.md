@@ -15,7 +15,7 @@ minimize water use and maximize crop yield is promoted worldwide to improve
 global water and food security. However, we do not know how much traditional
 knowledge gets lost when these efficiency-based irrigation frameworks are
 implemented. Here we address this gap by analyzing 475 assumptions (fragments of
-tacit knowledge) extracted from 110 interviews across seven Spanish irrigation
+tacit knowledge) extracted from 109 interviews across seven Spanish irrigation
 communities, where such knowledge has accumulated for over a millennium. We find
 that at least 60% of the assumptions contain knowledge that is irreducible to a
 water-in/yield-out metric and that they serve functions spanning production,
@@ -28,7 +28,7 @@ technological substitution may eliminate.*
 
 ## Contents
 
-The analysis combines 475 assumptions extracted from 110 interviews in seven traditional irrigation communities in Spain, a Large Language Model (LLM) coding scheme, a global uncertainty and sensitivity analysis over 1,080 analytical specifications, and a review of the policy and scientific literature on irrigation modernization.
+The analysis combines 475 assumptions extracted from 109 interviews in seven traditional irrigation communities in Spain, a Large Language Model (LLM) coding scheme, a global uncertainty and sensitivity analysis over 1,080 analytical specifications, and a review of the policy and scientific literature on irrigation modernization.
 
 - [Background](#background)
 - [Repository structure](#repository-structure)
