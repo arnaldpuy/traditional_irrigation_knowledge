@@ -2,7 +2,7 @@
 
 # Irrigation modernisation is blind to most traditional knowledge
 
-[Arnald Puy](https://www.arnaldpuy.com)\*, AUTHOR LIST TO BE COMPLETED
+[Arnald Puy](https://www.arnaldpuy.com), Carmen Aguiló-Rivera, Seth N. Linga, Ana-Maria Crețu, Miguel Banegas García, Gerlo Borghuis, Louise Busschaert, Antonio Candel Turpín, Giovanni De Grandis, Mona Liza F. Delos Reyes, Francisco Garrido Avilés, Pablo Garrido Guillamón, Jose María García Avilés, Jerry W. Knox, Bruce Lankford, Antonio Mirón, Nicola Paciolla, Bich Tran, Saskia van der Kooij, Dominik Wisser, Victoria Reyes-García\*
 
 \*Corresponding author.
 
