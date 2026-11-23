@@ -109,7 +109,8 @@
     node[anchor=west, font=\scriptsize, text=black] {one result};
   % ring numbers on the left baseline
   \foreach \l in {1,...,5} {
-    \pgfmathsetmacro{\r}{\rad{\l}}
+    % centred in the band of ring \l, between its parent arc and its own arc
+    \pgfmathsetmacro{\r}{(\rad{\l - 1} + \rad{\l}) / 2}
     \node[circle, draw=black!45, line width=0.3pt, inner sep=0.6pt, minimum size=8pt,
           font=\fontsize{5}{6}\selectfont] at (-\r, -0.22) {\l};
   }
