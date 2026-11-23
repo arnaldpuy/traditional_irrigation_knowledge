@@ -771,8 +771,8 @@ locations <- data.table(
             "Arriate", "Oria"),
   lon = c(-3.5694, -4.0439, -1.1307, -1.4361, 0.6011, -5.0606, -2.2731),
   lat = c(37.0022, 37.1964, 37.9922, 38.0714, 41.5261, 36.7914, 37.5225),
-  n_interviews = c(12L, 13L, 40L, 5L, 11L, 10L, 19L))
-stopifnot(sum(locations$n_interviews) == 110L)
+  n_interviews = c(12L, 13L, 39L, 6L, 11L, 10L, 18L))
+stopifnot(sum(locations$n_interviews) == 109L)
 spain <- ne_countries(scale = "medium", country = "Spain", returnclass = "sf")
 
 # Label-free semantic witness ------------------------------------------------
