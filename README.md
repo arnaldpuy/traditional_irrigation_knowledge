@@ -1,4 +1,4 @@
-<!-- [![DOI](https://zenodo.org/badge/DOI/XXXX.svg)](https://doi.org/XXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24460289.svg)](https://doi.org/10.5281/zenodo.24460289)
 
 # Irrigation modernisation is blind to most traditional knowledge
 
