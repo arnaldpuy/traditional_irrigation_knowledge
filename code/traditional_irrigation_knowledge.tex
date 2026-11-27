@@ -1320,8 +1320,8 @@ across specifications and bars the full range.}
             \StringTok{"Arriate"}\NormalTok{, }\StringTok{"Oria"}\NormalTok{),}
   \AttributeTok{lon =} \FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\FloatTok{3.5694}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{4.0439}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.1307}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{1.4361}\NormalTok{, }\FloatTok{0.6011}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{5.0606}\NormalTok{, }\SpecialCharTok{{-}}\FloatTok{2.2731}\NormalTok{),}
   \AttributeTok{lat =} \FunctionTok{c}\NormalTok{(}\FloatTok{37.0022}\NormalTok{, }\FloatTok{37.1964}\NormalTok{, }\FloatTok{37.9922}\NormalTok{, }\FloatTok{38.0714}\NormalTok{, }\FloatTok{41.5261}\NormalTok{, }\FloatTok{36.7914}\NormalTok{, }\FloatTok{37.5225}\NormalTok{),}
-  \AttributeTok{n\_interviews =} \FunctionTok{c}\NormalTok{(12L, 13L, 40L, 5L, 11L, 10L, 19L))}
-\FunctionTok{stopifnot}\NormalTok{(}\FunctionTok{sum}\NormalTok{(locations}\SpecialCharTok{$}\NormalTok{n\_interviews) }\SpecialCharTok{==}\NormalTok{ 110L)}
+  \AttributeTok{n\_interviews =} \FunctionTok{c}\NormalTok{(12L, 13L, 39L, 6L, 11L, 10L, 18L))}
+\FunctionTok{stopifnot}\NormalTok{(}\FunctionTok{sum}\NormalTok{(locations}\SpecialCharTok{$}\NormalTok{n\_interviews) }\SpecialCharTok{==}\NormalTok{ 109L)}
 \NormalTok{spain }\OtherTok{\textless{}{-}} \FunctionTok{ne\_countries}\NormalTok{(}\AttributeTok{scale =} \StringTok{"medium"}\NormalTok{, }\AttributeTok{country =} \StringTok{"Spain"}\NormalTok{, }\AttributeTok{returnclass =} \StringTok{"sf"}\NormalTok{)}
 
 \CommentTok{\# Label{-}free semantic witness {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
@@ -2011,7 +2011,7 @@ stacked barplot.}
 ## LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
 ## 
 ## locale:
-## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/C
 ## 
 ## time zone: Europe/London
 ## tzcode source: internal
@@ -2023,27 +2023,29 @@ stacked barplot.}
 ##  [1] ggrepel_0.9.6           rnaturalearthdata_1.0.0 rnaturalearth_1.1.0    
 ##  [4] sf_1.1-0                jsonlite_2.0.0          readxl_1.4.5           
 ##  [7] scales_1.4.0            cowplot_1.2.0.9000      ggplot2_4.0.3.9000     
-## [10] data.table_1.18.4       here_1.0.2              benchmarkme_1.0.8      
+## [10] benchmarkme_1.0.8       openxlsx_4.2.8          digest_0.6.39          
+## [13] data.table_1.18.4       here_1.0.2             
 ## 
 ## loaded via a namespace (and not attached):
 ##  [1] generics_0.1.4        class_7.3-23          KernSmooth_2.23-26   
-##  [4] lattice_0.22-7        digest_0.6.39         magrittr_2.0.5       
+##  [4] stringi_1.8.7         lattice_0.22-7        magrittr_2.0.5       
 ##  [7] evaluate_1.0.5        grid_4.5.2            RColorBrewer_1.1-3   
 ## [10] iterators_1.0.14      fastmap_1.2.0         cellranger_1.1.0     
 ## [13] foreach_1.5.2         doParallel_1.0.17     rprojroot_2.1.1      
-## [16] Matrix_1.7-4          e1071_1.7-17          DBI_1.3.0            
-## [19] tinytex_0.58          httr_1.4.8            codetools_0.2-20     
-## [22] Rdpack_2.6.6          cli_3.6.6             sensobol_1.2.0       
-## [25] rlang_1.2.0           units_1.0-0           rbibutils_2.4.1      
-## [28] withr_3.0.3           yaml_2.3.12           otel_0.2.0           
-## [31] tools_4.5.2           parallel_4.5.2        dplyr_1.1.4          
-## [34] vctrs_0.7.3           R6_2.6.1              proxy_0.4-29         
-## [37] lifecycle_1.0.5       classInt_0.4-11       pkgconfig_2.0.3      
-## [40] pillar_1.11.1         gtable_0.3.6          glue_1.8.1           
-## [43] Rcpp_1.1.1-1.1        benchmarkmeData_1.0.4 xfun_0.55            
-## [46] tibble_3.3.1          tidyselect_1.2.1      knitr_1.51           
-## [49] farver_2.1.2          htmltools_0.5.9       labeling_0.4.3       
-## [52] rmarkdown_2.30        compiler_4.5.2        S7_0.2.2
+## [16] Matrix_1.7-4          zip_2.3.3             e1071_1.7-17         
+## [19] DBI_1.3.0             tinytex_0.58          httr_1.4.8           
+## [22] codetools_0.2-20      Rdpack_2.6.6          cli_3.6.6            
+## [25] sensobol_1.2.0        rlang_1.2.0           units_1.0-0          
+## [28] rbibutils_2.4.1       withr_3.0.3           yaml_2.3.12          
+## [31] otel_0.2.0            tools_4.5.2           parallel_4.5.2       
+## [34] dplyr_1.1.4           vctrs_0.7.3           R6_2.6.1             
+## [37] proxy_0.4-29          classInt_0.4-11       lifecycle_1.0.5      
+## [40] pkgconfig_2.0.3       pillar_1.11.1         gtable_0.3.6         
+## [43] glue_1.8.1            Rcpp_1.1.1-1.1        benchmarkmeData_1.0.4
+## [46] xfun_0.55             tibble_3.3.1          tidyselect_1.2.1     
+## [49] knitr_1.51            farver_2.1.2          htmltools_0.5.9      
+## [52] labeling_0.4.3        rmarkdown_2.30        compiler_4.5.2       
+## [55] S7_0.2.2
 \end{verbatim}
 
 \begin{Shaded}

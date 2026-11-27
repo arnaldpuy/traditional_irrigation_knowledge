@@ -1,7 +1,8 @@
 # OFFLINE REPRODUCTION ########################################################
 
 if (!requireNamespace("sensobol", quietly = TRUE)) install.packages("sensobol")
-sensobol::load_packages(c("here", "data.table", "digest"))
+sensobol::load_packages(c("here", "data.table", "digest", "openxlsx"))
+source(here("functions", "file_md5_fun.R"))
 
 code_dir <- here("code")
 scripts <- list.files(code_dir, pattern = "^[0-9]{2}_.*\\.R$")
@@ -16,7 +17,10 @@ offline <- c("05_intermodel_agreement.R", "06_sobol_headline.R", "07_sobol_funct
              "37_literature_extraction.R", "39_evidence_strength_matrix.R",
              "40_evidence_strength_reliability.R", "42_provenance_checks.R",
              "45_human_validation_ratings.R", "46_within_domain_or.R",
-             "48_fig_multiverse_shares.R")
+             "48_fig_multiverse_shares.R", "50_evidence_sample.R",
+             "51_evidence_inclusion_probabilities.R",
+             "56_evidence_calibration_kappa.R", "58_evidence_human_reading.R",
+             "59_evidence_levels.R", "60_evidence_sensitivity.R")
 needs_external <- c(
   `01_parse_assumptions.py` = "the seven assumption-table PDFs (included) and pdfplumber",
   `12_embeddings.py` = "sentence-transformers and the model weights (download)",
@@ -25,13 +29,19 @@ needs_external <- c(
   `31_quote_locations.R` = "the policy PDFs, for page numbers",
   `38_evidence_source_screen.R` = "the review full texts (copyrighted, not redistributed)",
   `41_link_extraction.R` = "the review full texts; archived replies are parsed if present",
-  `47_spain_share_europe.R` = "the country-level irrigated areas of the ten global datasets (not redistributed; see README)")
+  `47_spain_share_europe.R` = "the country-level irrigated areas of the ten global datasets (not redistributed; see README)",
+  `49_cited_study_resolution.R` = "the review full texts and the Crossref API",
+  `52_evidence_supplementary_sample.R` = "nothing external: it drew the supplementary sample once and refuses to redraw over the deposited draw",
+  `53_evidence_retrieval.R` = "the publishers' and repositories' APIs (Unpaywall, CORE, Elsevier)",
+  `54_evidence_retrieval_worklist.R` = "same, and the documents retrieved by hand",
+  `55_evidence_reader_sheets.R` = "the full texts of the cited documents (copyrighted, not redistributed)",
+  `57_evidence_llm_reading.R` = "the full texts of the cited documents; its archived replies and parsed tables are in stage2_llm_v2/ and stage2_llm_supp/")
 
 stopifnot(all(offline %in% scripts))
 strict <- tolower(Sys.getenv("REPRODUCE_STRICT", "false")) == "true"
 Sys.unsetenv(c("CODING_RUN_ENABLED", "PLANTED_RUN_ENABLED", "PARAPHRASE_RUN_ENABLED",
                "LANGUAGE_RUN_ENABLED", "LITEXTRACT_RUN_ENABLED", "POLICY_RUN_ENABLED",
-               "POLICY_RECODE_ENABLED", "LINK_RUN_ENABLED"))
+               "POLICY_RECODE_ENABLED", "LINK_RUN_ENABLED", "STAGE2_RUN_ENABLED"))
 Sys.setenv(LITEXTRACT_ARCHIVED_INPUT = "true")   # 37 reads the archived text log whatever is on disk
 if (!isTRUE(l10n_info()[["UTF-8"]])) {
   avail <- tryCatch(system2("locale", "-a", stdout = TRUE, stderr = FALSE), error = function(e) character(0))
@@ -59,7 +69,7 @@ files <- list.files(here("datasets", "output"), recursive = TRUE)
 files <- files[files != "checksums.csv"]
 after <- data.table(file = files,
                     md5 = vapply(file.path(here("datasets", "output"), files),
-                                 digest, character(1), algo = "md5", file = TRUE))
+                                 file_md5_fun, character(1)))
 after[, rewritten := file.mtime(file.path(here("datasets", "output"), file)) >= started]
 cmp <- merge(before, after, by = "file", all = TRUE, suffixes = c("_release", "_now"))
 changed <- cmp[!is.na(md5_release) & !is.na(md5_now) & md5_release != md5_now, file]

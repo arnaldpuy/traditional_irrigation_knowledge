@@ -1,0 +1,145 @@
+variant,technology,func,n_citations,n_studies,n_supplement,n_primary,n_supports_statement,n_own_result,share_primary,share_supports_statement,share_own_result,share_own_result_weighted,mean_q39_among_own_weighted,share_own_among_primary,mean_q39_among_own,n_rigour,n_applicability,n_transparency,evidence_score,evidence_level
+extraction,app_scheduling,biodiversity,,,,,,,,,,,,,,,,,,
+extraction,app_scheduling,crop_production,28,23,0,12,3,1,0.428571428571429,0.107142857142857,0.0357142857142857,0.123386848471847,0.571428571428571,0.0833333333333333,0.571428571428571,1,1,1,0.0204081632653061,Very low
+extraction,app_scheduling,groundwater_recharge,,,,,,,,,,,,,,,,,,
+extraction,app_scheduling,livestock,,,,,,,,,,,,,,,,,,
+extraction,app_scheduling,medicinal_food,,,,,,,,,,,,,,,,,,
+extraction,app_scheduling,microclimate_regulation,1,1,0,1,1,0,1,1,0,0,,0,,0,0,0,0,Very low
+extraction,app_scheduling,pest_control,4,4,0,1,0,0,0.25,0,0,0,,0,,0,0,0,0,Very low
+extraction,app_scheduling,recreation_wellbeing,1,1,0,1,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+extraction,app_scheduling,risk_management,20,19,0,12,4,3,0.6,0.2,0.15,0.15,0.523809523809524,0.25,0.523809523809524,3,3,3,0.0785714285714286,Very low
+extraction,app_scheduling,social_cohesion,,,,,,,,,,,,,,,,,,
+extraction,app_scheduling,soil_health,5,5,0,2,0,0,0.4,0,0,0,,0,,0,0,0,0,Very low
+extraction,app_scheduling,water_conservation,71,53,23,36,10,9,0.507042253521127,0.140845070422535,0.126760563380282,0.205035524327817,0.479785014659516,0.25,0.444444444444444,7,6,9,0.0563380281690141,Very low
+extraction,drip,biodiversity,1,1,0,1,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+extraction,drip,crop_production,59,48,28,46,30,30,0.779661016949153,0.508474576271186,0.508474576271186,0.529712243987595,0.188489107052523,0.652173913043478,0.195238095238095,19,2,13,0.099273607748184,Very low
+extraction,drip,groundwater_recharge,2,2,0,0,0,0,0,0,0,0,,,,0,0,0,0,Very low
+extraction,drip,livestock,,,,,,,,,,,,,,,,,,
+extraction,drip,medicinal_food,,,,,,,,,,,,,,,,,,
+extraction,drip,microclimate_regulation,1,1,0,1,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+extraction,drip,pest_control,25,23,0,22,15,8,0.88,0.6,0.32,0.32,0.0892857142857143,0.363636363636364,0.0892857142857143,0,1,3,0.0285714285714286,Very low
+extraction,drip,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+extraction,drip,risk_management,16,14,0,9,2,1,0.5625,0.125,0.0625,0.0625,0.142857142857143,0.111111111111111,0.142857142857143,0,0,1,0.00892857142857143,Very low
+extraction,drip,social_cohesion,2,2,0,2,2,2,1,1,1,1,0.714285714285714,1,0.714285714285714,2,2,2,0.714285714285714,High
+extraction,drip,soil_health,20,19,0,14,9,9,0.7,0.45,0.45,0.589971678172805,0.237635301111826,0.642857142857143,0.206349206349206,5,0,6,0.0928571428571428,Very low
+extraction,drip,water_conservation,65,52,33,46,30,29,0.707692307692308,0.461538461538462,0.446153846153846,0.449064176035104,0.150893313847481,0.630434782608696,0.157635467980296,16,2,12,0.0703296703296703,Very low
+extraction,flow_metering,biodiversity,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,crop_production,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,groundwater_recharge,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,livestock,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,medicinal_food,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,microclimate_regulation,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,pest_control,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,risk_management,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,social_cohesion,3,3,0,2,0,0,0.666666666666667,0,0,0,,0,,0,0,0,0,Very low
+extraction,flow_metering,soil_health,,,,,,,,,,,,,,,,,,
+extraction,flow_metering,water_conservation,5,5,0,2,0,0,0.4,0,0,0,,0,,0,0,0,0,Very low
+extraction,on_demand,biodiversity,,,,,,,,,,,,,,,,,,
+extraction,on_demand,crop_production,,,,,,,,,,,,,,,,,,
+extraction,on_demand,groundwater_recharge,,,,,,,,,,,,,,,,,,
+extraction,on_demand,livestock,,,,,,,,,,,,,,,,,,
+extraction,on_demand,medicinal_food,,,,,,,,,,,,,,,,,,
+extraction,on_demand,microclimate_regulation,,,,,,,,,,,,,,,,,,
+extraction,on_demand,pest_control,,,,,,,,,,,,,,,,,,
+extraction,on_demand,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+extraction,on_demand,risk_management,7,7,0,7,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+extraction,on_demand,social_cohesion,,,,,,,,,,,,,,,,,,
+extraction,on_demand,soil_health,,,,,,,,,,,,,,,,,,
+extraction,on_demand,water_conservation,2,2,0,1,0,0,0.5,0,0,0,,0,,0,0,0,0,Very low
+extraction,remote_sensing,biodiversity,2,2,0,1,0,0,0.5,0,0,0,,0,,0,0,0,0,Very low
+extraction,remote_sensing,crop_production,33,28,0,15,2,0,0.454545454545455,0.0606060606060606,0,0,,0,,0,0,0,0,Very low
+extraction,remote_sensing,groundwater_recharge,2,2,0,1,0,0,0.5,0,0,0,,0,,0,0,0,0,Very low
+extraction,remote_sensing,livestock,,,,,,,,,,,,,,,,,,
+extraction,remote_sensing,medicinal_food,,,,,,,,,,,,,,,,,,
+extraction,remote_sensing,microclimate_regulation,,,,,,,,,,,,,,,,,,
+extraction,remote_sensing,pest_control,33,32,0,18,4,2,0.545454545454545,0.121212121212121,0.0606060606060606,0.0606060606060606,0.357142857142857,0.111111111111111,0.357142857142857,1,2,2,0.0216450216450217,Very low
+extraction,remote_sensing,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+extraction,remote_sensing,risk_management,12,12,0,9,2,0,0.75,0.166666666666667,0,0,,0,,0,0,0,0,Very low
+extraction,remote_sensing,social_cohesion,3,3,0,2,1,1,0.666666666666667,0.333333333333333,0.333333333333333,0.333333333333333,0.285714285714286,0.5,0.285714285714286,0,1,0,0.0952380952380952,Very low
+extraction,remote_sensing,soil_health,12,12,0,4,1,0,0.333333333333333,0.0833333333333333,0,0,,0,,0,0,0,0,Very low
+extraction,remote_sensing,water_conservation,31,28,0,15,3,1,0.483870967741936,0.0967741935483871,0.032258064516129,0.0520736636504914,0.714285714285714,0.0666666666666667,0.714285714285714,1,1,1,0.0230414746543779,Very low
+extraction,soil_sensor,biodiversity,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,crop_production,23,19,0,17,9,9,0.739130434782609,0.391304347826087,0.391304347826087,0.286697361206391,0.372385708150467,0.529411764705882,0.365079365079365,9,1,9,0.142857142857143,Very low
+extraction,soil_sensor,groundwater_recharge,1,1,0,0,0,0,0,0,0,0,,,,0,0,0,0,Very low
+extraction,soil_sensor,livestock,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,medicinal_food,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,microclimate_regulation,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,pest_control,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,risk_management,3,3,0,1,1,0,0.333333333333333,0.333333333333333,0,0,,0,,0,0,0,0,Very low
+extraction,soil_sensor,social_cohesion,,,,,,,,,,,,,,,,,,
+extraction,soil_sensor,soil_health,5,5,0,4,2,2,0.8,0.4,0.4,0.4,0.5,0.5,0.5,2,1,2,0.2,Low
+extraction,soil_sensor,water_conservation,25,21,0,17,9,9,0.68,0.36,0.36,0.134941685056411,0.355357992990944,0.529411764705882,0.301587301587302,7,1,8,0.108571428571429,Very low
+narrow,app_scheduling,biodiversity,,,,,,,,,,,,,,,,,,
+narrow,app_scheduling,crop_production,28,23,0,12,3,1,0.428571428571429,0.107142857142857,0.0357142857142857,0.123386848471847,0.571428571428571,0.0833333333333333,0.571428571428571,1,1,1,0.0204081632653061,Very low
+narrow,app_scheduling,groundwater_recharge,,,,,,,,,,,,,,,,,,
+narrow,app_scheduling,livestock,,,,,,,,,,,,,,,,,,
+narrow,app_scheduling,medicinal_food,,,,,,,,,,,,,,,,,,
+narrow,app_scheduling,microclimate_regulation,1,1,0,1,1,0,1,1,0,0,,0,,0,0,0,0,Very low
+narrow,app_scheduling,pest_control,4,4,0,1,0,0,0.25,0,0,0,,0,,0,0,0,0,Very low
+narrow,app_scheduling,recreation_wellbeing,1,1,0,1,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+narrow,app_scheduling,risk_management,20,19,0,12,4,3,0.6,0.2,0.15,0.15,0.523809523809524,0.25,0.523809523809524,3,3,3,0.0785714285714286,Very low
+narrow,app_scheduling,social_cohesion,,,,,,,,,,,,,,,,,,
+narrow,app_scheduling,soil_health,5,5,0,2,0,0,0.4,0,0,0,,0,,0,0,0,0,Very low
+narrow,app_scheduling,water_conservation,71,53,23,36,10,9,0.507042253521127,0.140845070422535,0.126760563380282,0.205035524327817,0.479785014659516,0.25,0.444444444444444,7,6,9,0.0563380281690141,Very low
+narrow,drip,biodiversity,1,1,0,1,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+narrow,drip,crop_production,59,48,28,46,30,30,0.779661016949153,0.508474576271186,0.508474576271186,0.529712243987595,0.188489107052523,0.652173913043478,0.195238095238095,19,2,13,0.099273607748184,Very low
+narrow,drip,groundwater_recharge,2,2,0,0,0,0,0,0,0,0,,,,0,0,0,0,Very low
+narrow,drip,livestock,,,,,,,,,,,,,,,,,,
+narrow,drip,medicinal_food,,,,,,,,,,,,,,,,,,
+narrow,drip,microclimate_regulation,1,1,0,1,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+narrow,drip,pest_control,25,23,0,22,15,8,0.88,0.6,0.32,0.32,0.0892857142857143,0.363636363636364,0.0892857142857143,0,1,3,0.0285714285714286,Very low
+narrow,drip,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+narrow,drip,risk_management,16,14,0,9,2,1,0.5625,0.125,0.0625,0.0625,0.142857142857143,0.111111111111111,0.142857142857143,0,0,1,0.00892857142857143,Very low
+narrow,drip,social_cohesion,,,,,,,,,,,,,,,,,,
+narrow,drip,soil_health,20,19,0,14,9,9,0.7,0.45,0.45,0.589971678172805,0.237635301111826,0.642857142857143,0.206349206349206,5,0,6,0.0928571428571428,Very low
+narrow,drip,water_conservation,65,52,33,46,30,29,0.707692307692308,0.461538461538462,0.446153846153846,0.449064176035104,0.150893313847481,0.630434782608696,0.157635467980296,16,2,12,0.0703296703296703,Very low
+narrow,flow_metering,biodiversity,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,crop_production,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,groundwater_recharge,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,livestock,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,medicinal_food,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,microclimate_regulation,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,pest_control,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,risk_management,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,social_cohesion,3,3,0,2,0,0,0.666666666666667,0,0,0,,0,,0,0,0,0,Very low
+narrow,flow_metering,soil_health,,,,,,,,,,,,,,,,,,
+narrow,flow_metering,water_conservation,5,5,0,2,0,0,0.4,0,0,0,,0,,0,0,0,0,Very low
+narrow,on_demand,biodiversity,,,,,,,,,,,,,,,,,,
+narrow,on_demand,crop_production,,,,,,,,,,,,,,,,,,
+narrow,on_demand,groundwater_recharge,,,,,,,,,,,,,,,,,,
+narrow,on_demand,livestock,,,,,,,,,,,,,,,,,,
+narrow,on_demand,medicinal_food,,,,,,,,,,,,,,,,,,
+narrow,on_demand,microclimate_regulation,,,,,,,,,,,,,,,,,,
+narrow,on_demand,pest_control,,,,,,,,,,,,,,,,,,
+narrow,on_demand,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+narrow,on_demand,risk_management,7,7,0,7,0,0,1,0,0,0,,0,,0,0,0,0,Very low
+narrow,on_demand,social_cohesion,,,,,,,,,,,,,,,,,,
+narrow,on_demand,soil_health,,,,,,,,,,,,,,,,,,
+narrow,on_demand,water_conservation,2,2,0,1,0,0,0.5,0,0,0,,0,,0,0,0,0,Very low
+narrow,remote_sensing,biodiversity,2,2,0,1,0,0,0.5,0,0,0,,0,,0,0,0,0,Very low
+narrow,remote_sensing,crop_production,33,28,0,15,2,0,0.454545454545455,0.0606060606060606,0,0,,0,,0,0,0,0,Very low
+narrow,remote_sensing,groundwater_recharge,2,2,0,1,0,0,0.5,0,0,0,,0,,0,0,0,0,Very low
+narrow,remote_sensing,livestock,,,,,,,,,,,,,,,,,,
+narrow,remote_sensing,medicinal_food,,,,,,,,,,,,,,,,,,
+narrow,remote_sensing,microclimate_regulation,,,,,,,,,,,,,,,,,,
+narrow,remote_sensing,pest_control,33,32,0,18,4,2,0.545454545454545,0.121212121212121,0.0606060606060606,0.0606060606060606,0.357142857142857,0.111111111111111,0.357142857142857,1,2,2,0.0216450216450217,Very low
+narrow,remote_sensing,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+narrow,remote_sensing,risk_management,12,12,0,9,2,0,0.75,0.166666666666667,0,0,,0,,0,0,0,0,Very low
+narrow,remote_sensing,social_cohesion,3,3,0,2,1,1,0.666666666666667,0.333333333333333,0.333333333333333,0.333333333333333,0.285714285714286,0.5,0.285714285714286,0,1,0,0.0952380952380952,Very low
+narrow,remote_sensing,soil_health,12,12,0,4,1,0,0.333333333333333,0.0833333333333333,0,0,,0,,0,0,0,0,Very low
+narrow,remote_sensing,water_conservation,31,28,0,15,3,1,0.483870967741936,0.0967741935483871,0.032258064516129,0.0520736636504914,0.714285714285714,0.0666666666666667,0.714285714285714,1,1,1,0.0230414746543779,Very low
+narrow,soil_sensor,biodiversity,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,crop_production,23,19,0,17,9,9,0.739130434782609,0.391304347826087,0.391304347826087,0.286697361206391,0.372385708150467,0.529411764705882,0.365079365079365,9,1,9,0.142857142857143,Very low
+narrow,soil_sensor,groundwater_recharge,1,1,0,0,0,0,0,0,0,0,,,,0,0,0,0,Very low
+narrow,soil_sensor,livestock,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,medicinal_food,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,microclimate_regulation,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,pest_control,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,recreation_wellbeing,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,risk_management,3,3,0,1,1,0,0.333333333333333,0.333333333333333,0,0,,0,,0,0,0,0,Very low
+narrow,soil_sensor,social_cohesion,,,,,,,,,,,,,,,,,,
+narrow,soil_sensor,soil_health,5,5,0,4,2,2,0.8,0.4,0.4,0.4,0.5,0.5,0.5,2,1,2,0.2,Low
+narrow,soil_sensor,water_conservation,25,21,0,17,9,9,0.68,0.36,0.36,0.134941685056411,0.355357992990944,0.529411764705882,0.301587301587302,7,1,8,0.108571428571429,Very low

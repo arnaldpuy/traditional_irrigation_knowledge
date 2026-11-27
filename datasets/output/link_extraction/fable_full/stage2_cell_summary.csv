@@ -1,0 +1,37 @@
+technology,function,thick,n_studies,n_sampled,rule
+drip,biodiversity,FALSE,3,3,census
+remote_sensing,biodiversity,FALSE,4,4,census
+app_scheduling,crop_production,TRUE,199,30,30 at random
+drip,crop_production,TRUE,386,38,30 at random
+remote_sensing,crop_production,TRUE,116,33,30 at random
+soil_sensor,crop_production,TRUE,98,31,30 at random
+drip,groundwater_recharge,FALSE,22,22,census
+remote_sensing,groundwater_recharge,FALSE,2,2,census
+soil_sensor,groundwater_recharge,FALSE,1,1,census
+remote_sensing,livestock,FALSE,1,1,census
+app_scheduling,microclimate_regulation,FALSE,1,1,census
+drip,microclimate_regulation,FALSE,3,3,census
+app_scheduling,pest_control,FALSE,5,5,census
+drip,pest_control,FALSE,30,30,census
+remote_sensing,pest_control,FALSE,40,40,census
+app_scheduling,recreation_wellbeing,FALSE,1,1,census
+drip,recreation_wellbeing,FALSE,1,1,census
+app_scheduling,risk_management,TRUE,20,20,all (cell below 30)
+drip,risk_management,TRUE,15,15,all (cell below 30)
+on_demand,risk_management,TRUE,7,7,all (cell below 30)
+remote_sensing,risk_management,TRUE,13,13,all (cell below 30)
+soil_sensor,risk_management,TRUE,3,3,all (cell below 30)
+app_scheduling,social_cohesion,FALSE,3,3,census
+drip,social_cohesion,FALSE,8,8,census
+flow_metering,social_cohesion,FALSE,4,4,census
+remote_sensing,social_cohesion,FALSE,8,8,census
+app_scheduling,soil_health,TRUE,7,7,all (cell below 30)
+drip,soil_health,TRUE,122,30,30 at random
+remote_sensing,soil_health,TRUE,14,14,all (cell below 30)
+soil_sensor,soil_health,TRUE,6,6,all (cell below 30)
+app_scheduling,water_conservation,TRUE,403,38,30 at random
+drip,water_conservation,TRUE,392,42,30 at random
+flow_metering,water_conservation,TRUE,9,9,all (cell below 30)
+on_demand,water_conservation,TRUE,3,3,all (cell below 30)
+remote_sensing,water_conservation,TRUE,149,30,30 at random
+soil_sensor,water_conservation,TRUE,135,30,30 at random

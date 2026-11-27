@@ -1,0 +1,9 @@
+population,n_citations,n_studies,n_statements,n_primary,n_supports_statement,n_own_result,n_primary_not_on_claim,n_upstream,n_technology_mismatch,n_rigour,n_applicability,n_transparency,n_all_three_dimensions,n_all_nine,vote_rule
+"original sample, all directions (extraction variant)",493,237,390,294,126,103,191,97,56,69,35,64,22,0,majority of three draws
+"original sample, delivery claims (extraction variant)",439,214,350,258,104,81,177,95,52,54,18,53,14,0,majority of three draws
+"supplement, delivery claims (extraction variant)",84,58,79,64,36,35,29,8,9,19,6,19,4,0,majority of three draws
+"adjudicated, all directions (extraction variant)",586,303,472,365,165,141,224,105,66,90,41,85,26,0,majority of three draws
+"adjudicated, delivery claims (extraction variant)",523,272,426,322,140,116,206,103,61,73,24,72,18,0,majority of three draws
+"adjudicated, harm claims (extraction variant)",46,34,34,31,20,20,11,1,4,14,14,11,7,0,majority of three draws
+"adjudicated, all directions (narrow variant)",584,302,470,363,163,139,224,105,66,88,39,83,24,0,majority of three draws
+"adjudicated, delivery claims (narrow variant)",521,271,424,320,138,114,206,103,61,71,22,70,16,0,majority of three draws

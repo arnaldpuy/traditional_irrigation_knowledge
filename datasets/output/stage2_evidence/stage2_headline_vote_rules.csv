@@ -1,0 +1,19 @@
+variant,vote_rule,population,n_citations,n_primary,n_supports_statement,n_own_result,n_all_nine,n_all_three_dimensions
+extraction,any_draw,all directions,586,365,156,147,1,35
+extraction,majority,all directions,586,365,149,141,0,26
+extraction,unanimous,all directions,586,365,137,133,0,18
+extraction,any_draw,delivery claims,523,322,131,122,1,25
+extraction,majority,delivery claims,523,322,124,116,0,18
+extraction,unanimous,delivery claims,523,322,112,108,0,11
+extraction,any_draw,other directions,63,43,25,25,0,10
+extraction,majority,other directions,63,43,25,25,0,8
+extraction,unanimous,other directions,63,43,25,25,0,7
+narrow,any_draw,all directions,584,363,154,145,0,33
+narrow,majority,all directions,584,363,147,139,0,24
+narrow,unanimous,all directions,584,363,135,131,0,16
+narrow,any_draw,delivery claims,521,320,129,120,0,23
+narrow,majority,delivery claims,521,320,122,114,0,16
+narrow,unanimous,delivery claims,521,320,110,106,0,9
+narrow,any_draw,other directions,63,43,25,25,0,10
+narrow,majority,other directions,63,43,25,25,0,8
+narrow,unanimous,other directions,63,43,25,25,0,7

@@ -1,0 +1,1018 @@
+reader,cited_no,question,answer,majority,notes
+reader_1,1197,primary_study,yes,yes,close reading
+reader_1,291,primary_study,no,no,close reading
+reader_1,268,primary_study,yes,yes,baseline reading
+reader_1,493,primary_study,yes,yes,close reading
+reader_1,1502,primary_study,no,no,review paper; baseline reading
+reader_1,1092,primary_study,yes,yes,
+reader_1,1053,primary_study,no,yes,review paper; baseline reading
+reader_1,467,primary_study,no,no,review paper; baseline reading
+reader_1,316,primary_study,yes,yes,
+reader_1,1094,primary_study,no,no,review paper; baseline reading
+reader_1,1279,primary_study,yes,yes,baseline reading
+reader_1,474,primary_study,yes,yes,close reading
+reader_1,1196,primary_study,yes,yes,close reading
+reader_1,1259,primary_study,yes,yes,close reading
+reader_1,309,primary_study,yes,,summary paper; close reading
+reader_1,819,primary_study,no,yes,baseline reading
+reader_1,1026,primary_study,yes,yes,close reading
+reader_1,861,primary_study,no,no,fact sheet; close reading
+reader_1,293,primary_study,no,no,review paper; close reading
+reader_1,105,primary_study,no,no,review paper; baseline reading
+reader_1,267,primary_study,yes,yes,baseline reading
+reader_1,1460,primary_study,no,no,review paper; close reading
+reader_1,1326,primary_study,no,no,review paper; baseline reading
+reader_1,194,primary_study,yes,yes,close reading
+reader_1,632,primary_study,yes,yes,close reading
+reader_1,417,primary_study,yes,yes,baseline reading
+reader_1,1131,primary_study,yes,yes,close reading
+reader_1,640,primary_study,no,no,review paper; close reading
+reader_1,1197,empirical,yes,yes,close reading
+reader_1,291,empirical,yes,yes,close reading
+reader_1,268,empirical,yes,,baseline reading
+reader_1,493,empirical,yes,yes,close reading
+reader_1,1502,empirical,no,yes,review paper; baseline reading
+reader_1,1092,empirical,yes,,
+reader_1,1053,empirical,yes,yes,review paper; baseline reading
+reader_1,467,empirical,no,no,review paper; baseline reading
+reader_1,316,empirical,yes,yes,
+reader_1,1094,empirical,yes,yes,review paper; baseline reading
+reader_1,1279,empirical,yes,yes,baseline reading
+reader_1,474,empirical,yes,yes,close reading
+reader_1,1196,empirical,yes,yes,close reading
+reader_1,1259,empirical,yes,yes,close reading
+reader_1,309,empirical,no,,summary paper; close reading
+reader_1,819,empirical,yes,yes,baseline reading
+reader_1,1026,empirical,yes,yes,close reading
+reader_1,861,empirical,yes,yes,fact sheet; close reading
+reader_1,293,empirical,yes,yes,review paper; close reading
+reader_1,105,empirical,yes,yes,review paper; baseline reading
+reader_1,267,empirical,yes,yes,baseline reading
+reader_1,1460,empirical,yes,yes,review paper; close reading
+reader_1,1326,empirical,no,yes,review paper; baseline reading
+reader_1,194,empirical,no,no,close reading
+reader_1,632,empirical,yes,yes,close reading
+reader_1,417,empirical,yes,yes,baseline reading
+reader_1,1131,empirical,yes,yes,close reading
+reader_1,640,empirical,yes,yes,review paper; close reading
+reader_1,1197,triangulation,yes,,close reading
+reader_1,291,triangulation,no,no,close reading
+reader_1,268,triangulation,no,no,baseline reading
+reader_1,493,triangulation,yes,yes,close reading
+reader_1,1502,triangulation,no,yes,review paper; baseline reading
+reader_1,1092,triangulation,no,no,
+reader_1,1053,triangulation,yes,yes,review paper; baseline reading
+reader_1,467,triangulation,no,yes,review paper; baseline reading
+reader_1,316,triangulation,no,no,
+reader_1,1094,triangulation,yes,,review paper; baseline reading
+reader_1,1279,triangulation,yes,,baseline reading
+reader_1,474,triangulation,yes,,close reading
+reader_1,1196,triangulation,yes,yes,close reading
+reader_1,1259,triangulation,no,no,close reading
+reader_1,309,triangulation,no,no,summary paper; close reading
+reader_1,819,triangulation,yes,yes,baseline reading
+reader_1,1026,triangulation,yes,,close reading
+reader_1,861,triangulation,no,,fact sheet; close reading
+reader_1,293,triangulation,no,,review paper; close reading
+reader_1,105,triangulation,yes,yes,review paper; baseline reading
+reader_1,267,triangulation,no,no,baseline reading
+reader_1,1460,triangulation,yes,yes,review paper; close reading
+reader_1,1326,triangulation,yes,yes,review paper; baseline reading
+reader_1,194,triangulation,no,no,close reading
+reader_1,632,triangulation,yes,yes,close reading
+reader_1,417,triangulation,no,yes,baseline reading
+reader_1,1131,triangulation,no,no,close reading
+reader_1,640,triangulation,yes,yes,review paper; close reading
+reader_1,1197,causality,yes,yes,close reading
+reader_1,291,causality,yes,yes,close reading
+reader_1,268,causality,yes,yes,baseline reading
+reader_1,493,causality,yes,yes,close reading
+reader_1,1502,causality,no,,review paper; baseline reading
+reader_1,1092,causality,yes,yes,
+reader_1,1053,causality,yes,yes,review paper; baseline reading
+reader_1,467,causality,no,no,review paper; baseline reading
+reader_1,316,causality,yes,yes,
+reader_1,1094,causality,yes,yes,review paper; baseline reading
+reader_1,1279,causality,yes,yes,baseline reading
+reader_1,474,causality,yes,yes,close reading
+reader_1,1196,causality,yes,yes,close reading
+reader_1,1259,causality,yes,yes,close reading
+reader_1,309,causality,no,,summary paper; close reading
+reader_1,819,causality,yes,yes,baseline reading
+reader_1,1026,causality,yes,yes,close reading
+reader_1,861,causality,yes,yes,fact sheet; close reading
+reader_1,293,causality,yes,yes,review paper; close reading
+reader_1,105,causality,yes,yes,review paper; baseline reading
+reader_1,267,causality,yes,yes,baseline reading
+reader_1,1460,causality,yes,yes,review paper; close reading
+reader_1,1326,causality,no,,review paper; baseline reading
+reader_1,194,causality,no,,close reading
+reader_1,632,causality,yes,yes,close reading
+reader_1,417,causality,yes,yes,baseline reading
+reader_1,1131,causality,no,,close reading
+reader_1,640,causality,yes,yes,review paper; close reading
+reader_1,1197,representativeness,no,no,close reading
+reader_1,291,representativeness,yes,yes,close reading
+reader_1,268,representativeness,no,no,baseline reading
+reader_1,493,representativeness,yes,,close reading
+reader_1,1502,representativeness,yes,yes,review paper; baseline reading
+reader_1,1092,representativeness,no,no,
+reader_1,1053,representativeness,no,no,review paper; baseline reading
+reader_1,467,representativeness,yes,yes,review paper; baseline reading
+reader_1,316,representativeness,yes,no,
+reader_1,1094,representativeness,yes,yes,review paper; baseline reading
+reader_1,1279,representativeness,no,yes,baseline reading
+reader_1,474,representativeness,yes,,close reading
+reader_1,1196,representativeness,no,no,close reading
+reader_1,1259,representativeness,yes,no,close reading
+reader_1,309,representativeness,no,no,summary paper; close reading
+reader_1,819,representativeness,no,,baseline reading
+reader_1,1026,representativeness,no,no,close reading
+reader_1,861,representativeness,no,,fact sheet; close reading
+reader_1,293,representativeness,yes,yes,review paper; close reading
+reader_1,105,representativeness,yes,yes,review paper; baseline reading
+reader_1,267,representativeness,no,no,baseline reading
+reader_1,1460,representativeness,no,no,review paper; close reading
+reader_1,1326,representativeness,yes,yes,review paper; baseline reading
+reader_1,194,representativeness,no,no,close reading
+reader_1,632,representativeness,yes,yes,close reading
+reader_1,417,representativeness,no,yes,baseline reading
+reader_1,1131,representativeness,no,no,close reading
+reader_1,640,representativeness,yes,yes,review paper; close reading
+reader_1,1197,scalability,no,no,close reading
+reader_1,291,scalability,no,no,close reading
+reader_1,268,scalability,no,,baseline reading
+reader_1,493,scalability,no,no,close reading
+reader_1,1502,scalability,yes,yes,review paper; baseline reading
+reader_1,1092,scalability,no,no,
+reader_1,1053,scalability,no,no,review paper; baseline reading
+reader_1,467,scalability,no,,review paper; baseline reading
+reader_1,316,scalability,no,no,
+reader_1,1094,scalability,no,yes,review paper; baseline reading
+reader_1,1279,scalability,no,,baseline reading
+reader_1,474,scalability,no,no,close reading
+reader_1,1196,scalability,no,no,close reading
+reader_1,1259,scalability,no,no,close reading
+reader_1,309,scalability,no,no,summary paper; close reading
+reader_1,819,scalability,yes,yes,baseline reading
+reader_1,1026,scalability,no,,close reading
+reader_1,861,scalability,no,no,fact sheet; close reading
+reader_1,293,scalability,no,no,review paper; close reading
+reader_1,105,scalability,yes,,review paper; baseline reading
+reader_1,267,scalability,no,no,baseline reading
+reader_1,1460,scalability,no,no,review paper; close reading
+reader_1,1326,scalability,yes,yes,review paper; baseline reading
+reader_1,194,scalability,no,no,close reading
+reader_1,632,scalability,no,no,close reading
+reader_1,417,scalability,no,,baseline reading
+reader_1,1131,scalability,no,no,close reading
+reader_1,640,scalability,yes,yes,review paper; close reading
+reader_1,1197,support_factors,yes,,close reading
+reader_1,291,support_factors,yes,yes,close reading
+reader_1,268,support_factors,no,,baseline reading
+reader_1,493,support_factors,no,no,close reading
+reader_1,1502,support_factors,yes,yes,review paper; baseline reading
+reader_1,1092,support_factors,yes,yes,
+reader_1,1053,support_factors,yes,yes,review paper; baseline reading
+reader_1,467,support_factors,yes,yes,review paper; baseline reading
+reader_1,316,support_factors,no,no,
+reader_1,1094,support_factors,yes,yes,review paper; baseline reading
+reader_1,1279,support_factors,no,,baseline reading
+reader_1,474,support_factors,no,no,close reading
+reader_1,1196,support_factors,no,,close reading
+reader_1,1259,support_factors,no,no,close reading
+reader_1,309,support_factors,no,,summary paper; close reading
+reader_1,819,support_factors,yes,yes,baseline reading
+reader_1,1026,support_factors,yes,yes,close reading
+reader_1,861,support_factors,no,,fact sheet; close reading
+reader_1,293,support_factors,yes,yes,review paper; close reading
+reader_1,105,support_factors,yes,yes,review paper; baseline reading
+reader_1,267,support_factors,yes,yes,baseline reading
+reader_1,1460,support_factors,yes,yes,review paper; close reading
+reader_1,1326,support_factors,yes,yes,review paper; baseline reading
+reader_1,194,support_factors,yes,yes,close reading
+reader_1,632,support_factors,no,yes,close reading
+reader_1,417,support_factors,no,yes,baseline reading
+reader_1,1131,support_factors,yes,yes,close reading
+reader_1,640,support_factors,yes,yes,review paper; close reading
+reader_1,1197,limitations,yes,yes,close reading
+reader_1,291,limitations,yes,no,close reading
+reader_1,268,limitations,yes,no,baseline reading
+reader_1,493,limitations,yes,yes,close reading
+reader_1,1502,limitations,yes,yes,review paper; baseline reading
+reader_1,1092,limitations,yes,,
+reader_1,1053,limitations,yes,yes,review paper; baseline reading
+reader_1,467,limitations,yes,yes,review paper; baseline reading
+reader_1,316,limitations,no,no,
+reader_1,1094,limitations,yes,yes,review paper; baseline reading
+reader_1,1279,limitations,yes,yes,baseline reading
+reader_1,474,limitations,no,,close reading
+reader_1,1196,limitations,yes,yes,close reading
+reader_1,1259,limitations,no,,close reading
+reader_1,309,limitations,no,no,summary paper; close reading
+reader_1,819,limitations,yes,yes,baseline reading
+reader_1,1026,limitations,yes,,close reading
+reader_1,861,limitations,yes,yes,fact sheet; close reading
+reader_1,293,limitations,no,no,review paper; close reading
+reader_1,105,limitations,no,no,review paper; baseline reading
+reader_1,267,limitations,yes,yes,baseline reading
+reader_1,1460,limitations,no,no,review paper; close reading
+reader_1,1326,limitations,yes,,review paper; baseline reading
+reader_1,194,limitations,yes,no,close reading
+reader_1,632,limitations,yes,yes,close reading
+reader_1,417,limitations,yes,yes,baseline reading
+reader_1,1131,limitations,no,no,close reading
+reader_1,640,limitations,no,no,review paper; close reading
+reader_1,1197,uncertainty,no,no,close reading
+reader_1,291,uncertainty,no,no,close reading
+reader_1,268,uncertainty,no,no,baseline reading
+reader_1,493,uncertainty,yes,yes,close reading
+reader_1,1502,uncertainty,no,no,review paper; baseline reading
+reader_1,1092,uncertainty,no,no,
+reader_1,1053,uncertainty,no,no,review paper; baseline reading
+reader_1,467,uncertainty,no,no,review paper; baseline reading
+reader_1,316,uncertainty,no,,
+reader_1,1094,uncertainty,no,no,review paper; baseline reading
+reader_1,1279,uncertainty,no,no,baseline reading
+reader_1,474,uncertainty,no,yes,close reading
+reader_1,1196,uncertainty,no,yes,close reading
+reader_1,1259,uncertainty,no,no,close reading
+reader_1,309,uncertainty,no,no,summary paper; close reading
+reader_1,819,uncertainty,yes,yes,baseline reading
+reader_1,1026,uncertainty,yes,yes,close reading
+reader_1,861,uncertainty,no,no,fact sheet; close reading
+reader_1,293,uncertainty,no,no,review paper; close reading
+reader_1,105,uncertainty,no,no,review paper; baseline reading
+reader_1,267,uncertainty,yes,no,baseline reading
+reader_1,1460,uncertainty,no,no,review paper; close reading
+reader_1,1326,uncertainty,no,no,review paper; baseline reading
+reader_1,194,uncertainty,no,no,close reading
+reader_1,632,uncertainty,yes,yes,close reading
+reader_1,417,uncertainty,no,no,baseline reading
+reader_1,1131,uncertainty,yes,yes,close reading
+reader_1,640,uncertainty,no,no,review paper; close reading
+reader_2,1197,primary_study,yes,yes,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,primary_study,no,no,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,primary_study,yes,yes,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,primary_study,yes,yes,
+reader_2,1502,primary_study,no,no,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,primary_study,yes,yes,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,primary_study,yes,yes,
+reader_2,467,primary_study,no,no,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,primary_study,yes,yes,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,primary_study,no,no,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,primary_study,yes,yes,
+reader_2,474,primary_study,yes,yes,
+reader_2,1196,primary_study,yes,yes,R squared displayed in graphics
+reader_2,1259,primary_study,yes,yes,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,primary_study,yes,,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,primary_study,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,primary_study,yes,yes,
+reader_2,861,primary_study,no,no,
+reader_2,293,primary_study,no,no,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,primary_study,no,no,
+reader_2,267,primary_study,yes,yes,
+reader_2,1460,primary_study,no,no,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,primary_study,no,no,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,primary_study,yes,yes,
+reader_2,632,primary_study,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,primary_study,yes,yes,
+reader_2,1131,primary_study,yes,yes,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,primary_study,no,no,
+reader_2,1197,empirical,yes,yes,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,empirical,no,yes,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,empirical,no,,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,empirical,yes,yes,
+reader_2,1502,empirical,yes,yes,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,empirical,no,,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,empirical,yes,yes,
+reader_2,467,empirical,no,no,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,empirical,yes,yes,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,empirical,yes,yes,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,empirical,yes,yes,
+reader_2,474,empirical,yes,yes,
+reader_2,1196,empirical,yes,yes,R squared displayed in graphics
+reader_2,1259,empirical,yes,yes,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,empirical,no,,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,empirical,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,empirical,yes,yes,
+reader_2,861,empirical,yes,yes,
+reader_2,293,empirical,yes,yes,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,empirical,no,yes,
+reader_2,267,empirical,yes,yes,
+reader_2,1460,empirical,no,yes,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,empirical,yes,yes,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,empirical,no,no,
+reader_2,632,empirical,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,empirical,yes,yes,
+reader_2,1131,empirical,yes,yes,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,empirical,yes,yes,
+reader_2,1197,triangulation,no,,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,triangulation,no,no,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,triangulation,no,no,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,triangulation,no,yes,
+reader_2,1502,triangulation,yes,yes,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,triangulation,no,no,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,triangulation,yes,yes,
+reader_2,467,triangulation,yes,yes,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,triangulation,no,no,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,triangulation,no,,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,triangulation,no,,
+reader_2,474,triangulation,no,,
+reader_2,1196,triangulation,no,yes,R squared displayed in graphics
+reader_2,1259,triangulation,no,no,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,triangulation,no,no,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,triangulation,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,triangulation,no,,
+reader_2,861,triangulation,yes,,
+reader_2,293,triangulation,yes,,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,triangulation,yes,yes,
+reader_2,267,triangulation,no,no,
+reader_2,1460,triangulation,yes,yes,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,triangulation,yes,yes,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,triangulation,no,no,
+reader_2,632,triangulation,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,triangulation,yes,yes,
+reader_2,1131,triangulation,no,no,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,triangulation,yes,yes,
+reader_2,1197,causality,yes,yes,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,causality,yes,yes,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,causality,yes,yes,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,causality,yes,yes,
+reader_2,1502,causality,yes,,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,causality,yes,yes,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,causality,yes,yes,
+reader_2,467,causality,no,no,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,causality,yes,yes,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,causality,yes,yes,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,causality,yes,yes,
+reader_2,474,causality,yes,yes,
+reader_2,1196,causality,yes,yes,R squared displayed in graphics
+reader_2,1259,causality,yes,yes,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,causality,yes,,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,causality,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,causality,yes,yes,
+reader_2,861,causality,yes,yes,
+reader_2,293,causality,yes,yes,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,causality,yes,yes,
+reader_2,267,causality,yes,yes,
+reader_2,1460,causality,yes,yes,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,causality,yes,,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,causality,yes,,
+reader_2,632,causality,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,causality,yes,yes,
+reader_2,1131,causality,yes,,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,causality,yes,yes,
+reader_2,1197,representativeness,no,no,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,representativeness,yes,yes,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,representativeness,no,no,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,representativeness,no,,
+reader_2,1502,representativeness,yes,yes,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,representativeness,no,no,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,representativeness,no,no,
+reader_2,467,representativeness,yes,yes,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,representativeness,no,no,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,representativeness,yes,yes,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,representativeness,yes,yes,
+reader_2,474,representativeness,yes,,
+reader_2,1196,representativeness,no,no,R squared displayed in graphics
+reader_2,1259,representativeness,no,no,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,representativeness,no,no,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,representativeness,no,,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,representativeness,no,no,
+reader_2,861,representativeness,no,,
+reader_2,293,representativeness,yes,yes,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,representativeness,yes,yes,
+reader_2,267,representativeness,no,no,
+reader_2,1460,representativeness,no,no,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,representativeness,yes,yes,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,representativeness,no,no,
+reader_2,632,representativeness,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,representativeness,yes,yes,
+reader_2,1131,representativeness,no,no,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,representativeness,yes,yes,
+reader_2,1197,scalability,no,no,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,scalability,no,no,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,scalability,yes,,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,scalability,no,no,
+reader_2,1502,scalability,yes,yes,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,scalability,no,no,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,scalability,no,no,
+reader_2,467,scalability,no,,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,scalability,no,no,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,scalability,yes,yes,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,scalability,yes,,
+reader_2,474,scalability,no,no,
+reader_2,1196,scalability,no,no,R squared displayed in graphics
+reader_2,1259,scalability,no,no,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,scalability,yes,no,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,scalability,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,scalability,yes,,
+reader_2,861,scalability,no,no,
+reader_2,293,scalability,yes,no,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,scalability,no,,
+reader_2,267,scalability,no,no,
+reader_2,1460,scalability,no,no,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,scalability,yes,yes,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,scalability,no,no,
+reader_2,632,scalability,no,no,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,scalability,yes,,
+reader_2,1131,scalability,yes,no,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,scalability,yes,yes,
+reader_2,1197,support_factors,no,,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,support_factors,yes,yes,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,support_factors,no,,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,support_factors,no,no,
+reader_2,1502,support_factors,yes,yes,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,support_factors,yes,yes,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,support_factors,yes,yes,
+reader_2,467,support_factors,yes,yes,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,support_factors,no,no,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,support_factors,yes,yes,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,support_factors,yes,,
+reader_2,474,support_factors,no,no,
+reader_2,1196,support_factors,yes,,R squared displayed in graphics
+reader_2,1259,support_factors,no,no,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,support_factors,yes,,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,support_factors,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,support_factors,yes,yes,
+reader_2,861,support_factors,no,,
+reader_2,293,support_factors,no,yes,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,support_factors,yes,yes,
+reader_2,267,support_factors,no,yes,
+reader_2,1460,support_factors,no,yes,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,support_factors,yes,yes,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,support_factors,no,yes,
+reader_2,632,support_factors,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,support_factors,yes,yes,
+reader_2,1131,support_factors,yes,yes,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,support_factors,yes,yes,
+reader_2,1197,limitations,yes,yes,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,limitations,no,no,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,limitations,no,no,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,limitations,yes,yes,
+reader_2,1502,limitations,yes,yes,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,limitations,no,,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,limitations,yes,yes,
+reader_2,467,limitations,yes,yes,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,limitations,no,no,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,limitations,no,yes,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,limitations,yes,yes,
+reader_2,474,limitations,yes,,
+reader_2,1196,limitations,yes,yes,R squared displayed in graphics
+reader_2,1259,limitations,yes,,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,limitations,no,no,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,limitations,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,limitations,no,,
+reader_2,861,limitations,yes,yes,
+reader_2,293,limitations,no,no,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,limitations,yes,no,
+reader_2,267,limitations,yes,yes,
+reader_2,1460,limitations,no,no,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,limitations,no,,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,limitations,no,no,
+reader_2,632,limitations,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,limitations,yes,yes,
+reader_2,1131,limitations,no,no,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,limitations,no,no,
+reader_2,1197,uncertainty,no,no,"Limitations: states the need for improvement in early stage disease detection. Causality: the paper proprts that plant diseases have their own influence on the light reflected off the infected plants, because this influence is unique to the disease the study suggests they can identify diseases by the light coming off the plant. However, it does not explain why diseases have influence on the light emmited. I still said yes to causality despite this not being a complete causal mechanism as it is well know that plants change colour when infected."
+reader_2,291,uncertainty,no,no,"Triangulation: although multiple lines of evidence are mentioned they are for different claims, and the central claim that irrigation practices need more sustainable water management is cited but not by varying sources. Representitiveness: the study talks about many regions across the mediterranean but no regions are specifically spoken about. The main issue in avaluating this study is that it reports on multiple technologies and irrigation practices and quickly summarising them, resulting in the evidence for each one being somewhat weak."
+reader_2,268,uncertainty,no,no,"The paper describes an irrigation technology and suggests an experimnet to test this technology, I decided to evaluate representivieness and scalibility based off the proposed experiment. For this reason I chose support_factors to be 'no' as there was no effect to be replicated"
+reader_2,493,uncertainty,yes,yes,
+reader_2,1502,uncertainty,no,no,The study reports uncertainty of the technology just not uncertainty of its own results
+reader_2,1092,uncertainty,no,no,"This again is a proposed hypothetical experiment for an irrigation technology. For its hypothetical case study it only considers one region and its conditions, so I put representiveness as 'no' but it does suggest how the technology and design could be implemented to other regions so I put support_factors as 'yes'"
+reader_2,1053,uncertainty,no,no,
+reader_2,467,uncertainty,,no,The technology in the paper suppodesdly connects to social cohesion but I only see it connecting to social networking (perhaps not the same thing). For this reason I put causality as no
+reader_2,316,uncertainty,yes,,Unceratinty mentioned as R-squared in graphics
+reader_2,1094,uncertainty,no,no,reports the error of technologies but not its own study (similar with limitation)
+reader_2,1279,uncertainty,no,no,
+reader_2,474,uncertainty,yes,yes,
+reader_2,1196,uncertainty,yes,yes,R squared displayed in graphics
+reader_2,1259,uncertainty,no,no,"The study is evaluated for different irrigation levels, not sure if this counts towards representitiveness. Uncertainty: R-squared appears in graphs"
+reader_2,309,uncertainty,no,no,"The study presents as showing the state of affairs for smart irrigation (similar to a review) and so has none of its own data to present. However, I still place limitation and uncertainty as 'no' because the study could have still questioned its own methods in coming to its conclusions but does not."
+reader_2,819,uncertainty,yes,yes,"I am less certain about the rating of this paper. I believe the paper is a consideration of how to manage and implement an on-demand irrgation system. Because the paper models different approaches to this problem, I considered this a 'yes' for triangulation, as well as being empirical. In the annex the paper describes needing the models to be specified for homogenous region, so I put representitiveness as 'no'."
+reader_2,1026,uncertainty,yes,yes,
+reader_2,861,uncertainty,no,no,
+reader_2,293,uncertainty,no,no,"The technology is often described in the review as not being suitable for larger than field scales, since scalability was considered I have written it as 'yes'"
+reader_2,105,uncertainty,no,no,
+reader_2,267,uncertainty,no,no,
+reader_2,1460,uncertainty,no,no,"comprehensive' was found to be a very useful key word in finding uncertainty within review papers like this one. This paper does not describe an irrigation technology (so support_factor, representitiveness, and scalability were all no)"
+reader_2,1326,uncertainty,no,no,Participation in water governance is cited as a necessary part of water accounting (the technique described in the paper) so I put support_factor as 'yes'
+reader_2,194,uncertainty,no,no,
+reader_2,632,uncertainty,yes,yes,Multiple study sites utilised therefore triangulation 'yes'
+reader_2,417,uncertainty,no,no,
+reader_2,1131,uncertainty,yes,yes,"This study applied itself to an on demand irrigation network in Valencia, Spain. It is unclear whether this is above the field scale but I assumed it would be best to be charitable to the study"
+reader_2,640,uncertainty,no,no,
+reader_3,1197,primary_study,yes,yes, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,primary_study,no,no,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,primary_study,yes,yes,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,primary_study,yes,yes,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,primary_study,no,no,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,primary_study,yes,yes,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,primary_study,yes,yes,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,primary_study,no,no,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,primary_study,yes,yes,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,primary_study,no,no,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,primary_study,yes,yes,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,primary_study,yes,yes,Close read
+reader_3,1196,primary_study,yes,yes,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,primary_study,yes,yes,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,primary_study,no,,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,primary_study,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,primary_study,yes,yes,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,primary_study,no,no,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,primary_study,no,no,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,primary_study,no,no,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,primary_study,yes,yes,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,primary_study,no,no,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,primary_study,no,no,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,primary_study,yes,yes,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,primary_study,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,primary_study,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,primary_study,yes,yes,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,primary_study,no,no," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,empirical,yes,yes, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,empirical,yes,yes,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,empirical,no,,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,empirical,yes,yes,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,empirical,yes,yes,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,empirical,no,,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,empirical,yes,yes,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,empirical,yes,no,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,empirical,yes,yes,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,empirical,yes,yes,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,empirical,yes,yes,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,empirical,yes,yes,Close read
+reader_3,1196,empirical,yes,yes,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,empirical,yes,yes,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,empirical,yes,,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,empirical,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,empirical,yes,yes,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,empirical,yes,yes,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,empirical,yes,yes,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,empirical,yes,yes,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,empirical,no,yes,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,empirical,yes,yes,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,empirical,yes,yes,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,empirical,no,no,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,empirical,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,empirical,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,empirical,yes,yes,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,empirical,yes,yes," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,triangulation,no,, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,triangulation,no,no,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,triangulation,no,no,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,triangulation,yes,yes,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,triangulation,yes,yes,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,triangulation,no,no,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,triangulation,yes,yes,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,triangulation,yes,yes,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,triangulation,no,no,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,triangulation,no,,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,triangulation,no,,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,triangulation,no,,Close read
+reader_3,1196,triangulation,yes,yes,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,triangulation,no,no,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,triangulation,no,no,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,triangulation,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,triangulation,no,,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,triangulation,no,,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,triangulation,no,,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,triangulation,yes,yes,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,triangulation,no,no,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,triangulation,no,yes,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,triangulation,yes,yes,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,triangulation,no,no,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,triangulation,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,triangulation,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,triangulation,no,no,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,triangulation,yes,yes," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,causality,yes,yes, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,causality,yes,yes,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,causality,yes,yes,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,causality,yes,yes,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,causality,yes,,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,causality,yes,yes,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,causality,yes,yes,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,causality,yes,no,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,causality,yes,yes,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,causality,yes,yes,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,causality,yes,yes,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,causality,yes,yes,Close read
+reader_3,1196,causality,yes,yes,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,causality,yes,yes,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,causality,yes,,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,causality,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,causality,yes,yes,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,causality,yes,yes,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,causality,yes,yes,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,causality,yes,yes,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,causality,yes,yes,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,causality,yes,yes,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,causality,yes,,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,causality,yes,,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,causality,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,causality,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,causality,yes,,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,causality,yes,yes," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,representativeness,no,no, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,representativeness,yes,yes,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,representativeness,no,no,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,representativeness,no,,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,representativeness,yes,yes,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,representativeness,no,no,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,representativeness,no,no,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,representativeness,yes,yes,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,representativeness,no,no,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,representativeness,yes,yes,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,representativeness,yes,yes,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,representativeness,no,,Close read
+reader_3,1196,representativeness,no,no,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,representativeness,no,no,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,representativeness,no,no,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,representativeness,yes,,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,representativeness,no,no,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,representativeness,yes,,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,representativeness,yes,yes,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,representativeness,yes,yes,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,representativeness,no,no,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,representativeness,no,no,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,representativeness,yes,yes,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,representativeness,no,no,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,representativeness,no,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,representativeness,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,representativeness,no,no,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,representativeness,yes,yes," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,scalability,no,no, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,scalability,no,no,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,scalability,yes,,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,scalability,no,no,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,scalability,yes,yes,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,scalability,no,no,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,scalability,no,no,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,scalability,yes,,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,scalability,no,no,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,scalability,yes,yes,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,scalability,no,,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,scalability,no,no,Close read
+reader_3,1196,scalability,no,no,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,scalability,no,no,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,scalability,no,no,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,scalability,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,scalability,yes,,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,scalability,no,no,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,scalability,no,no,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,scalability,yes,,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,scalability,no,no,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,scalability,no,no,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,scalability,yes,yes,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,scalability,no,no,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,scalability,no,no,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,scalability,yes,,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,scalability,no,no,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,scalability,yes,yes," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,support_factors,no,, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,support_factors,yes,yes,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,support_factors,yes,,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,support_factors,no,no,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,support_factors,yes,yes,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,support_factors,yes,yes,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,support_factors,,yes,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,support_factors,yes,yes,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,support_factors,no,no,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,support_factors,yes,yes,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,support_factors,yes,,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,support_factors,no,no,Close read
+reader_3,1196,support_factors,yes,,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,support_factors,no,no,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,support_factors,yes,,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,support_factors,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,support_factors,yes,yes,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,support_factors,yes,,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,support_factors,yes,yes,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,support_factors,yes,yes,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,support_factors,yes,yes,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,support_factors,yes,yes,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,support_factors,yes,yes,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,support_factors,yes,yes,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,support_factors,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,support_factors,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,support_factors,yes,yes,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,support_factors,yes,yes," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,limitations,yes,yes, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,limitations,no,no,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,limitations,no,no,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,limitations,yes,yes,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,limitations,yes,yes,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,limitations,no,,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,limitations,yes,yes,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,limitations,yes,yes,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,limitations,no,no,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,limitations,yes,yes,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,limitations,yes,yes,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,limitations,yes,,Close read
+reader_3,1196,limitations,yes,yes,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,limitations,yes,,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,limitations,no,no,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,limitations,yes,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,limitations,yes,,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,limitations,no,yes,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,limitations,no,no,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,limitations,no,no,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,limitations,yes,yes,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,limitations,no,no,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,limitations,yes,,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,limitations,no,no,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,limitations,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,limitations,yes,yes,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,limitations,no,no,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,limitations,no,no," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_3,1197,uncertainty,yes,no, Triangulation: only emprical. Scalability: field level Close read. Uncertanity: R squared 
+reader_3,291,uncertainty,no,no,"Triangulation/scalability: main claim is for sustainable water management in the mediiterainan, and multiple ways in which this can be achieved are provided BUT doesn't report on the types or scales of evidence. Representiveness: within the examples provdied, some cited sources are said to have explored multiple differing regions (localised irrigation), including and expanding past the medditerain. Close read "
+reader_3,268,uncertainty,no,no,Emprical: provides reults from experimental analysis but isn't clear whether real-world data was used for it. Scalability: farm level Close read
+reader_3,493,uncertainty,yes,yes,"Study limited to a single plot in a single region with a single crop. Triganulation: emprical data in terms of recording climate, model-based for determination of water sources. Uncertanity: 2 models incoprate uncertanity into their data processing, multiple models were used to address uncertanity. Close read"
+reader_3,1502,uncertainty,no,no,"An indepth review. Uncertanity: whilst it comes up, there is no discussion on the uncertanity of their metholodgy "
+reader_3,1092,uncertainty,no,no,Emprical: simulates real farm scenarios rather than using emperical (past) data. Support factors: technology.  Close read
+reader_3,1053,uncertainty,no,no,Triangulation: Lit review portion many evidence types are used  Representativenes / scalability: the tomoato images could be from many regions and above a field level but this is never made explicit within the paper itself. Close read  
+reader_3,467,uncertainty,no,no,"Emperical: whilst specific numbers are not given, things such as trends chaning are reported with citations. Triangulation: study doen't reflect on the types of evidence it pulled from for its review. Representativeness: whilst specifc soils are not given it make clear that individual soil types are tested (not just 'soils') Close read"
+reader_3,316,uncertainty,yes,,Single crop in a single soil type in a single region.  Close read
+reader_3,1094,uncertainty,no,no,Limitations: mentions a few studies may have been missed. Uncertanuty: reports these on the tech but not its own study / methology Close read
+reader_3,1279,uncertainty,no,no,Representativeness: three soil types. Scalablity: a specific lon and lat provided. Close read
+reader_3,474,uncertainty,yes,yes,Close read
+reader_3,1196,uncertainty,yes,yes,Triangulation: 4 different methods to calculate SFUncertanity: reports r squared values and ranges for F1-F4 (which become the median(?) in the conclusion. Close read
+reader_3,1259,uncertainty,yes,no,"Limitations: does highlight that whilst their water and soil testing detected no disease, 'Duke' is more suceptiable and therefore could be infected by tiny amounts that would not appear in testing. Close read"
+reader_3,309,uncertainty,no,no,"Representivneness: whilst different reions and crops were tested, each machine learning technology only tested on one region and one crop. Close read"
+reader_3,819,uncertainty,no,yes,"Limitations: provides limitations in litertaure review but not about their specific actions. Uncertanty: no explicity mentioned, some graphs have a 10-90% but  that’s about 'satifaction of the hydrants'  Close read"
+reader_3,1026,uncertainty,yes,yes,"Trianagulayion: different techs to collect data but all boil down to the same classification of 'remote'. Limitations: in the results it prvides suggestions why p3 and p6 were out of range (old pipes, water losses etc) speaks on other method based limitations but how they countered that (e.g.  ""minimising differences between the theoretical and measured values
+of the efficiency""). Close read"
+reader_3,861,uncertainty,no,no,"Representativeness: three soil types, three+ crop types. Scalibility: when location of studies spoken on do mention a location its only ever 'Florida' so cannot say yes for certain Limitations: on the tech its surveying but not on their method of surveying. Close read"
+reader_3,293,uncertainty,no,no,"Triangulation: reports ML data but only states that observed input data was used in these ML, does that count as two indeoendant methods? I think not that theyre combined for one output. Limitations / uncertainty: talks on these for the litertaure surveyed a lot but not of its own methodology (literature review). Close read"
+reader_3,105,uncertainty,no,no,"Detalied lit review Scalibility: whilst field scale is the main focus some studies are reported explicilty to go above this level (e.g. Iowa p,13). Triangulation: many emprical studies cited. Support factors: remote sensing used in tamdem with this technology Limitations / Uncertnaity:  priovided  when presneting other peoples emprical evidence / comments on the technology but nothing on its own methodology. Close read"
+reader_3,267,uncertainty,no,no,Emprical: not emprical but comupational simulations. Triangulation: 6 different devices are tested and reported on? Limitations: highlights this cannot be an exhaustive review of all IoT platforms. Close read
+reader_3,1460,uncertainty,no,no,"Review is about leaks and smart buildings not irrigation itself making this one harder to evaluate on the binary questionnaire. Triangulation: menay methods but all sensors. Representativiness/scalibility: many technologies, none are explicitly stated to be diversly tested, typically 1-2 case studies provided for each, which are field level and don't breach the three needed for representativeness. NOTE at the very end in the conclusion GOR technologies are cited to work for a list of opie materials but when these references for this was cited before it never mentions the testing done on this, feels throw away and the test on these are not explicity mentioned so put representativeness as no.  Limitations: again limitations of the tech is provided but not of the review methodology itself. Close read"
+reader_3,1326,uncertainty,no,no,Representativeness / Scalability: IR/CIS brings up multiple crop types and countries. Limitation: speaks to how this review could not be systematic. Uncertanities: none on the metholdogy of the systematic review. Close read
+reader_3,194,uncertainty,no,no,Really difficult to understand / answer the questions based on the text itself. REALLY UNSURE ON MY ANSWERS FOR THIS ONE
+reader_3,632,uncertainty,yes,yes,"Scalability: whilkst three different orchards are investgated, they are each the field level as its focus is on pests not the farm operations as a whole. Baseline read"
+reader_3,417,uncertainty,yes,no,Triangulation: emprical climatic data and model simulations reported. Baseline reading
+reader_3,1131,uncertainty,yes,yes,"Representativeness: mentions citrus but no more specifics, could just be 1/2 types. Close read"
+reader_3,640,uncertainty,no,no," Triangulation:  statstical and remote data presnted    Representativeness: corn, wheat and cotton. Scalibility: ginat aquifer "
+reader_5,1197,primary_study,yes,yes,close reading
+reader_5,291,primary_study,no,no,close reading
+reader_5,268,primary_study,yes,yes,close reading
+reader_5,493,primary_study,yes,yes,baseline reading
+reader_5,1502,primary_study,no,no,baseline reading
+reader_5,1092,primary_study,yes,yes,baseline reading
+reader_5,1053,primary_study,yes,yes,baseline reading
+reader_5,467,primary_study,no,no,baseline reading
+reader_5,316,primary_study,yes,yes,baseline reading
+reader_5,1094,primary_study,no,no,baseline reading
+reader_5,1279,primary_study,yes,yes,baseline reading
+reader_5,474,primary_study,yes,yes,baseline reading
+reader_5,1196,primary_study,yes,yes,baseline reading
+reader_5,1259,primary_study,yes,yes,baseline reading
+reader_5,309,primary_study,no,,baseline reading
+reader_5,819,primary_study,yes,yes,baseline reading
+reader_5,1026,primary_study,yes,yes,baseline reading
+reader_5,861,primary_study,no,no,close reading
+reader_5,293,primary_study,no,no,baseline reading
+reader_5,105,primary_study,no,no,baseline reading
+reader_5,267,primary_study,yes,yes,baseline reading
+reader_5,1460,primary_study,no,no,
+reader_5,1326,primary_study,no,no,baseline reading
+reader_5,194,primary_study,yes,yes,close reading
+reader_5,632,primary_study,yes,yes,baseline reading
+reader_5,417,primary_study,yes,yes,baseline reading
+reader_5,1131,primary_study,yes,yes,baseline reading
+reader_5,640,primary_study,no,no,baseline reading
+reader_5,1197,empirical,yes,yes,close reading
+reader_5,291,empirical,yes,yes,close reading
+reader_5,268,empirical,yes,,close reading
+reader_5,493,empirical,yes,yes,baseline reading
+reader_5,1502,empirical,yes,yes,baseline reading
+reader_5,1092,empirical,yes,,baseline reading
+reader_5,1053,empirical,yes,yes,baseline reading
+reader_5,467,empirical,no,no,baseline reading
+reader_5,316,empirical,yes,yes,baseline reading
+reader_5,1094,empirical,yes,yes,baseline reading
+reader_5,1279,empirical,yes,yes,baseline reading
+reader_5,474,empirical,yes,yes,baseline reading
+reader_5,1196,empirical,yes,yes,baseline reading
+reader_5,1259,empirical,yes,yes,baseline reading
+reader_5,309,empirical,yes,,baseline reading
+reader_5,819,empirical,yes,yes,baseline reading
+reader_5,1026,empirical,yes,yes,baseline reading
+reader_5,861,empirical,yes,yes,close reading
+reader_5,293,empirical,yes,yes,baseline reading
+reader_5,105,empirical,yes,yes,baseline reading
+reader_5,267,empirical,yes,yes,baseline reading
+reader_5,1460,empirical,yes,yes,
+reader_5,1326,empirical,yes,yes,baseline reading
+reader_5,194,empirical,yes,no,close reading
+reader_5,632,empirical,yes,yes,baseline reading
+reader_5,417,empirical,yes,yes,baseline reading
+reader_5,1131,empirical,yes,yes,baseline reading
+reader_5,640,empirical,yes,yes,baseline reading
+reader_5,1197,triangulation,yes,,close reading
+reader_5,291,triangulation,yes,no,close reading
+reader_5,268,triangulation,no,no,close reading
+reader_5,493,triangulation,yes,yes,baseline reading
+reader_5,1502,triangulation,yes,yes,baseline reading
+reader_5,1092,triangulation,yes,no,baseline reading
+reader_5,1053,triangulation,yes,yes,baseline reading
+reader_5,467,triangulation,yes,yes,baseline reading
+reader_5,316,triangulation,yes,no,baseline reading
+reader_5,1094,triangulation,yes,,baseline reading
+reader_5,1279,triangulation,yes,,baseline reading
+reader_5,474,triangulation,yes,,baseline reading
+reader_5,1196,triangulation,yes,yes,baseline reading
+reader_5,1259,triangulation,yes,no,baseline reading
+reader_5,309,triangulation,no,no,baseline reading
+reader_5,819,triangulation,yes,yes,baseline reading
+reader_5,1026,triangulation,yes,,baseline reading
+reader_5,861,triangulation,yes,,close reading
+reader_5,293,triangulation,yes,,baseline reading
+reader_5,105,triangulation,yes,yes,baseline reading
+reader_5,267,triangulation,yes,no,baseline reading
+reader_5,1460,triangulation,yes,yes,
+reader_5,1326,triangulation,yes,yes,baseline reading
+reader_5,194,triangulation,yes,no,close reading
+reader_5,632,triangulation,yes,yes,baseline reading
+reader_5,417,triangulation,yes,yes,baseline reading
+reader_5,1131,triangulation,no,no,baseline reading
+reader_5,640,triangulation,yes,yes,baseline reading
+reader_5,1197,causality,no,yes,close reading
+reader_5,291,causality,no,yes,close reading
+reader_5,268,causality,no,yes,close reading
+reader_5,493,causality,no,yes,baseline reading
+reader_5,1502,causality,no,,baseline reading
+reader_5,1092,causality,no,yes,baseline reading
+reader_5,1053,causality,no,yes,baseline reading
+reader_5,467,causality,no,no,baseline reading
+reader_5,316,causality,yes,yes,baseline reading
+reader_5,1094,causality,no,yes,baseline reading
+reader_5,1279,causality,yes,yes,baseline reading
+reader_5,474,causality,no,yes,baseline reading
+reader_5,1196,causality,no,yes,baseline reading
+reader_5,1259,causality,yes,yes,baseline reading
+reader_5,309,causality,no,,baseline reading
+reader_5,819,causality,yes,yes,baseline reading
+reader_5,1026,causality,yes,yes,baseline reading
+reader_5,861,causality,yes,yes,close reading
+reader_5,293,causality,no,yes,baseline reading
+reader_5,105,causality,no,yes,baseline reading
+reader_5,267,causality,no,yes,baseline reading
+reader_5,1460,causality,no,yes,
+reader_5,1326,causality,no,,baseline reading
+reader_5,194,causality,no,,close reading
+reader_5,632,causality,no,yes,baseline reading
+reader_5,417,causality,no,yes,baseline reading
+reader_5,1131,causality,no,,baseline reading
+reader_5,640,causality,no,yes,baseline reading
+reader_5,1197,representativeness,yes,no,close reading
+reader_5,291,representativeness,yes,yes,close reading
+reader_5,268,representativeness,no,no,close reading
+reader_5,493,representativeness,yes,,baseline reading
+reader_5,1502,representativeness,yes,yes,baseline reading
+reader_5,1092,representativeness,yes,no,baseline reading
+reader_5,1053,representativeness,yes,no,baseline reading
+reader_5,467,representativeness,yes,yes,baseline reading
+reader_5,316,representativeness,no,no,baseline reading
+reader_5,1094,representativeness,yes,yes,baseline reading
+reader_5,1279,representativeness,yes,yes,baseline reading
+reader_5,474,representativeness,no,,baseline reading
+reader_5,1196,representativeness,no,no,baseline reading
+reader_5,1259,representativeness,no,no,baseline reading
+reader_5,309,representativeness,no,no,baseline reading
+reader_5,819,representativeness,yes,,baseline reading
+reader_5,1026,representativeness,no,no,baseline reading
+reader_5,861,representativeness,yes,,close reading
+reader_5,293,representativeness,yes,yes,baseline reading
+reader_5,105,representativeness,no,yes,baseline reading
+reader_5,267,representativeness,no,no,baseline reading
+reader_5,1460,representativeness,no,no,
+reader_5,1326,representativeness,yes,yes,baseline reading
+reader_5,194,representativeness,no,no,close reading
+reader_5,632,representativeness,yes,yes,baseline reading
+reader_5,417,representativeness,yes,yes,baseline reading
+reader_5,1131,representativeness,no,no,baseline reading
+reader_5,640,representativeness,yes,yes,baseline reading
+reader_5,1197,scalability,no,no,close reading
+reader_5,291,scalability,yes,no,close reading
+reader_5,268,scalability,no,,close reading
+reader_5,493,scalability,yes,no,baseline reading
+reader_5,1502,scalability,yes,yes,baseline reading
+reader_5,1092,scalability,no,no,baseline reading
+reader_5,1053,scalability,no,no,baseline reading
+reader_5,467,scalability,yes,,baseline reading
+reader_5,316,scalability,no,no,baseline reading
+reader_5,1094,scalability,yes,yes,baseline reading
+reader_5,1279,scalability,yes,,baseline reading
+reader_5,474,scalability,no,no,baseline reading
+reader_5,1196,scalability,no,no,baseline reading
+reader_5,1259,scalability,no,no,baseline reading
+reader_5,309,scalability,no,no,baseline reading
+reader_5,819,scalability,yes,yes,baseline reading
+reader_5,1026,scalability,no,,baseline reading
+reader_5,861,scalability,no,no,close reading
+reader_5,293,scalability,no,no,baseline reading
+reader_5,105,scalability,no,,baseline reading
+reader_5,267,scalability,no,no,baseline reading
+reader_5,1460,scalability,no,no,
+reader_5,1326,scalability,yes,yes,baseline reading
+reader_5,194,scalability,no,no,close reading
+reader_5,632,scalability,no,no,baseline reading
+reader_5,417,scalability,no,,baseline reading
+reader_5,1131,scalability,no,no,baseline reading
+reader_5,640,scalability,no,yes,baseline reading
+reader_5,1197,support_factors,yes,,close reading
+reader_5,291,support_factors,yes,yes,close reading
+reader_5,268,support_factors,yes,,close reading
+reader_5,493,support_factors,yes,no,baseline reading
+reader_5,1502,support_factors,yes,yes,baseline reading
+reader_5,1092,support_factors,no,yes,baseline reading
+reader_5,1053,support_factors,yes,yes,baseline reading
+reader_5,467,support_factors,yes,yes,baseline reading
+reader_5,316,support_factors,no,no,baseline reading
+reader_5,1094,support_factors,yes,yes,baseline reading
+reader_5,1279,support_factors,no,,baseline reading
+reader_5,474,support_factors,yes,no,baseline reading
+reader_5,1196,support_factors,no,,baseline reading
+reader_5,1259,support_factors,no,no,baseline reading
+reader_5,309,support_factors,no,,baseline reading
+reader_5,819,support_factors,yes,yes,baseline reading
+reader_5,1026,support_factors,yes,yes,baseline reading
+reader_5,861,support_factors,yes,,close reading
+reader_5,293,support_factors,yes,yes,baseline reading
+reader_5,105,support_factors,yes,yes,baseline reading
+reader_5,267,support_factors,yes,yes,baseline reading
+reader_5,1460,support_factors,yes,yes,
+reader_5,1326,support_factors,yes,yes,baseline reading
+reader_5,194,support_factors,yes,yes,close reading
+reader_5,632,support_factors,yes,yes,baseline reading
+reader_5,417,support_factors,yes,yes,baseline reading
+reader_5,1131,support_factors,yes,yes,baseline reading
+reader_5,640,support_factors,yes,yes,baseline reading
+reader_5,1197,limitations,no,yes,close reading
+reader_5,291,limitations,no,no,close reading
+reader_5,268,limitations,no,no,close reading
+reader_5,493,limitations,yes,yes,baseline reading
+reader_5,1502,limitations,yes,yes,baseline reading
+reader_5,1092,limitations,yes,,baseline reading
+reader_5,1053,limitations,yes,yes,baseline reading
+reader_5,467,limitations,yes,yes,baseline reading
+reader_5,316,limitations,no,no,baseline reading
+reader_5,1094,limitations,yes,yes,baseline reading
+reader_5,1279,limitations,yes,yes,baseline reading
+reader_5,474,limitations,no,,baseline reading
+reader_5,1196,limitations,yes,yes,baseline reading
+reader_5,1259,limitations,no,,baseline reading
+reader_5,309,limitations,no,no,baseline reading
+reader_5,819,limitations,yes,yes,baseline reading
+reader_5,1026,limitations,no,,baseline reading
+reader_5,861,limitations,yes,yes,close reading
+reader_5,293,limitations,yes,no,baseline reading
+reader_5,105,limitations,no,no,baseline reading
+reader_5,267,limitations,yes,yes,baseline reading
+reader_5,1460,limitations,no,no,
+reader_5,1326,limitations,no,,baseline reading
+reader_5,194,limitations,no,no,close reading
+reader_5,632,limitations,yes,yes,baseline reading
+reader_5,417,limitations,yes,yes,baseline reading
+reader_5,1131,limitations,no,no,baseline reading
+reader_5,640,limitations,no,no,baseline reading
+reader_5,1197,uncertainty,no,no,close reading
+reader_5,291,uncertainty,no,no,close reading
+reader_5,268,uncertainty,no,no,close reading
+reader_5,493,uncertainty,no,yes,baseline reading
+reader_5,1502,uncertainty,no,no,baseline reading
+reader_5,1092,uncertainty,no,no,baseline reading
+reader_5,1053,uncertainty,yes,no,baseline reading
+reader_5,467,uncertainty,no,no,baseline reading
+reader_5,316,uncertainty,no,,baseline reading
+reader_5,1094,uncertainty,no,no,baseline reading
+reader_5,1279,uncertainty,no,no,baseline reading
+reader_5,474,uncertainty,yes,yes,baseline reading
+reader_5,1196,uncertainty,yes,yes,baseline reading
+reader_5,1259,uncertainty,no,no,baseline reading
+reader_5,309,uncertainty,no,no,baseline reading
+reader_5,819,uncertainty,yes,yes,baseline reading
+reader_5,1026,uncertainty,no,yes,baseline reading
+reader_5,861,uncertainty,no,no,close reading
+reader_5,293,uncertainty,no,no,baseline reading
+reader_5,105,uncertainty,no,no,baseline reading
+reader_5,267,uncertainty,no,no,baseline reading
+reader_5,1460,uncertainty,no,no,
+reader_5,1326,uncertainty,no,no,baseline reading
+reader_5,194,uncertainty,no,no,close reading
+reader_5,632,uncertainty,yes,yes,baseline reading
+reader_5,417,uncertainty,no,no,baseline reading
+reader_5,1131,uncertainty,no,yes,baseline reading
+reader_5,640,uncertainty,no,no,baseline reading

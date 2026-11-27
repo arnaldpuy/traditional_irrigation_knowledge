@@ -28,7 +28,7 @@ technological substitution may eliminate.*
 
 ## Contents
 
-The analysis combines 475 assumptions extracted from 109 interviews in seven traditional irrigation communities in Spain, a Large Language Model (LLM) coding scheme, a global uncertainty and sensitivity analysis over 1,080 analytical specifications, and a review of the policy and scientific literature on irrigation modernization.
+The analysis combines 475 assumptions extracted from 109 interviews in seven traditional irrigation communities in Spain, a Large Language Model (LLM) coding scheme, a global uncertainty and sensitivity analysis over 1,080 analytical specifications, a review of the policy and scientific literature on irrigation modernization, and two independent readings (an LLM and five human readers) of the strength of the evidence that modern irrigation technologies serve the functions of traditional irrigation.
 
 - [Background](#background)
 - [Repository structure](#repository-structure)
@@ -64,23 +64,35 @@ traditional_irrigation_knowledge/
 │   ├── 17_planted_items.R … 20_language_conditions.R     # tests of the instrument (Text S1.1)
 │   ├── 21_necessity_search.R … 26_necessity_quote_pages.py   # the necessity premise (Table S1)
 │   ├── 27_policy_linearize.py … 31_quote_locations.R    # modernization policies (Text S1.5, Table S4)
-│   ├── 32_literature_search.R … 41_link_extraction.R    # the literature on the technologies (Text S1.7)
+│   ├── 32_literature_search.R … 37_literature_extraction.R   # the literature on the technologies (Text S1.7)
+│   ├── 38_evidence_source_screen.R … 40_evidence_strength_reliability.R   # earlier LLM-only evidence grading, superseded by 49–60
+│   ├── 41_link_extraction.R                    # claims that a technology delivers a function, with their citations
 │   ├── 42_provenance_checks.R                  # valid-draw audit and literature flow table
 │   ├── 43_policy_quote_candidates.R … 45_human_validation_ratings.R   # policy quotes; the three human raters
 │   ├── 46_within_domain_or.R                   # reducibility by function load, LLMs and human raters, within each domain
 │   ├── 47_spain_share_europe.R                 # Spain's share of Europe's irrigated area across ten global datasets
 │   ├── 48_fig_multiverse_shares.R              # the 1,080 irreducible shares behind Fig. S2, in the order the TikZ tree reads them
+│   ├── 49_cited_study_resolution.R             # the documents cited by the claims
+│   ├── 50_evidence_sample.R … 52_evidence_supplementary_sample.R   # the sample of cited documents and its inclusion probabilities
+│   ├── 53_evidence_retrieval.R … 55_evidence_reader_sheets.R       # retrieval of the documents and the readers' workbooks
+│   ├── 56_evidence_calibration_kappa.R         # agreement of the human readers in the calibration round
+│   ├── 57_evidence_llm_reading.R               # LLM reading of the cited documents (gated: needs an API key)
+│   ├── 58_evidence_human_reading.R             # the human readers' answers
+│   ├── 59_evidence_levels.R                    # strength of evidence per technology and function, LLM and human (Fig. 3)
+│   ├── 60_evidence_sensitivity.R               # sensitivity of the strength of evidence to the scoring choices
 │   └── historical/                             # scripts that produced archived replies but depend on undistributed inputs
 ├── functions/        # helper functions, one *_fun per file
+├── metadata/         # hand-written adjudication tables of the strength-of-evidence reading
 ├── prompts/          # the LLM instruments behind every reported number
 └── datasets/
     ├── inputs/       # the 475 assumptions (no interviewee identifiers), the published assumption tables,
     │                 # the planted-item key, the three human raters' workbooks (human_validation/),
+    │                 # the five readers' strength-of-evidence workbooks (stage2_human_reading/),
     │                 # the policy corpus manifest and linearised text
     └── output/       # stored model replies, every derived table the scripts and notebook read, checksums.csv
 ```
 
-> Note: the full texts of the reviewed papers and of the necessity-premise corpus are copyrighted and not redistributed; their manifests (DOI, title, retrieval route) are in `datasets/output/`. The policy documents are public and are represented by their manifest and the linearised text the models read. Scripts that call LLM APIs are gated behind environment variables and parse their archived replies when the gate is off.
+> Note: the full texts of the reviewed papers, of the documents they cite and of the necessity-premise corpus are copyrighted and not redistributed; their manifests (DOI, title, retrieval route) are in `datasets/output/`. The policy documents are public and are represented by their manifest and the linearised text the models read. Scripts that call LLM APIs are gated behind environment variables and parse their archived replies when the gate is off.
 
 ---
 
@@ -154,10 +166,10 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 
 ## What is and is not reproducible offline
 
-- **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37), the evidence tables (39–40), the human-rater tables (45), the function-load odds and risk ratios (46) and the shares drawn around the rim of Fig. S2 (48). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
-- **Needs the LLM APIs**: new model calls in 02–04, 17, 19, 20, 24, 28–30, 37 and 41 (set the script's `*_RUN_ENABLED` variable). Fresh calls will not reproduce the archived text; the archived replies reproduce the published numbers.
+- **Reproducible from the stored replies**: the 1,080-cell grids and Sobol' indices (06–08), degeneracy (09), the compression frontier (10), severing (11), the embedding checks (14–16, from the saved embeddings), the four instrument tests (17–20), the policy promise map (29), the literature extraction aggregates (37), the earlier evidence tables (39–40, which no reported number rests on), the human-rater tables (45), the function-load odds and risk ratios (46), the shares drawn around the rim of Fig. S2 (48) and the strength-of-evidence block from the archived LLM replies and the readers' workbooks: sample and inclusion probabilities (50–51; 52 drew the supplementary sample once and refuses to redraw over the deposited draw), calibration agreement (56), human answers (58), strength of evidence and Fig. 3 (59) and its sensitivity (60). `00_reproduce.R` runs them and reports any output whose checksum differs from the release.
+- **Needs the LLM APIs**: new model calls in 02–04, 17, 19, 20, 24, 28–30, 37, 41 and 57 (set the script's `*_RUN_ENABLED` variable). Fresh calls will not reproduce the archived text; the archived replies reproduce the published numbers.
 - **Optional local preparation**: 01 rebuilds `assumptions_corpus.csv` from the included assumption-table PDFs with `pdfplumber` and Poppler; the deposited CSV is byte-identical to its output, so the runner does not call it.
-- **Needs files not distributed**: 12–13 (the sentence-transformer weights, downloaded on first use), 27 and 31 (the policy PDFs), 38 and 41 (the review full texts), 32–36 (search and retrieval against Scopus, Dimensions and publishers), 47 (the country-level irrigated areas of ten global datasets, harmonised by the pipeline of [Where irrigation exists is globally contested](https://github.com/arnaldpuy/detectability_crisis); two of the source datasets carry non-commercial terms and two state no licence, so only the 30-row summary `spain_share_europe.csv` is deposited).
+- **Needs files not distributed**: 12–13 (the sentence-transformer weights, downloaded on first use), 27 and 31 (the policy PDFs), 38, 41 and 49 (the review full texts), 55 and 57 (the full texts of the cited documents; 57's archived replies and parsed tables are in `stage2_llm_v2/` and `stage2_llm_supp/`), 32–36, 53 and 54 (search and retrieval against Scopus, Dimensions and publishers), 47 (the country-level irrigated areas of ten global datasets, harmonised by the pipeline of [Where irrigation exists is globally contested](https://github.com/arnaldpuy/detectability_crisis); two of the source datasets carry non-commercial terms and two state no licence, so only the 30-row summary `spain_share_europe.csv` is deposited).
 - **Starting point of the policy reproduction**: 29 rebuilds the irrigation promise map from the archived recode replies and from the deposited base tables `policy_promise_draws.csv` and `policy_promise_map.csv`. Those base tables were produced by 28 from the raw promise-map replies and the policy PDFs, which are not redistributed; 28 is therefore outside the runner.
 - **Archived-input mode**: the runner sets `LITEXTRACT_ARCHIVED_INPUT=true`, so 37 reads the archived text log whether zero, some or all review full texts are present locally. Unset it to re-extract text from a complete local collection.
 - **Strict mode**: `REPRODUCE_STRICT=true Rscript code/00_reproduce.R` exits with a non-zero status when any output file differs from `checksums.csv` or is missing. The report also separates files the run rewrote from archived inputs and replies it never touches, so an all-identical result is not read as an all-recomputed one.
@@ -176,7 +188,8 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 | Results 2 numbers | `numbers-results2`; script 10 | `compression_frontier.csv` |
 | Results 3 numbers | `numbers-results3`; scripts 08, 09 | `sobol_ladder_bundles_*.csv`, `practice_function_*.csv` |
 | Results 4, policy promises | script 29 | `policy_promise_map_irrigation.csv` |
-| Results 4, evidence | scripts 37–40, provisional; being redone with human readers | `evidence_strength_matrix.csv` |
+| Results 4, strength of evidence; Fig. 3 | script 59 (writes `manuscript/fig-evidence-strength.pdf`) | `stage2_llm_v2/` and `stage2_llm_supp/` (script 57), `stage2_human_study_answers.csv` (script 58), `metadata/stage2_*.csv`; writes `stage2_citations_adjudicated.csv`, `stage2_cell_summary_by_rater.csv`, `stage2_ratings.xlsx` |
+| Strength of evidence, sample and readers (Methods, Text S1.5) | scripts 41, 49–58 | `link_extraction.csv`, `cited_studies.csv`, `stage2_sample.csv`, `stage2_supplementary_sample.csv`, `datasets/inputs/stage2_human_reading/*.xlsx` |
 | Severing shares | script 11 | `severing_*.csv` |
 | Inter-model agreement (Methods) | script 05 | the stored coding replies |
 | Fig. S1 | `figS1-map` | site coordinates in the notebook |
@@ -222,6 +235,7 @@ invisible(lapply(r_functions, source))
 | `fetch_batch_results_fun` | fetch_batch_results_fun <- function(batch, |
 | `fetch_fulltext_fun` | Retrieve the full text of one DOI through a waterfall of legal routes: |
 | `fetch_openalex_abstracts_fun` | Fetch abstracts for a vector of DOIs from OpenAlex (keyless; polite pool via |
+| `file_md5_fun` | MD5 of a file; for an .xlsx workbook, of the contents of its sheets, so that a |
 | `flatten_coding_record_fun` | flatten_coding_record_fun <- function(txt, choice) { |
 | `fleiss_kappa_fun` | Fleiss' kappa for a papers x raters matrix of categorical answers (NA rows dropped). |
 | `get_legend_fun` |  |
@@ -232,6 +246,7 @@ invisible(lapply(r_functions, source))
 | `parse_policy_findings_fun` | Parse one promise-map model reply (the JSON the code/18 instrument asks for) |
 | `policy_promise_instrument_fun` | The promise-map instrument of code/18 (prompt and JSON schema), made callable |
 | `poll_batch_fun` | poll_batch_fun <- function(batch_id, api_key = Sys.getenv("ANTHROPIC_API_KEY"), |
+| `run_claude_cached_draws_fun` | Read each document several times (independent draws) against the Claude |
 | `run_claude_direct_fun` | Run a set of classification requests against the Claude Messages API |
 | `run_deepseek_batch_fun` | run_deepseek_batch_fun <- function(items, system_prompt, |
 | `run_openai_batch_fun` | run_openai_batch_fun <- function(items, system_prompt, model = "gpt-5.4", |
@@ -256,6 +271,7 @@ Written by the notebook to `code/traditional_irrigation_knowledge_files/figure-l
 |---|---|
 | `fig1-shares-1.pdf` | Fig. 1, reducible and irreducible shares |
 | `fig2-bundles-1.pdf` | Fig. 2, practices and functions |
+| `manuscript/fig-evidence-strength.pdf` | Fig. 3, strength of the evidence, written by script 59 |
 | `figS1-map-1.pdf` … `figS8-sensory-1.pdf` | Figs. S1–S8, except S2 and S6, which are TikZ: S2 is built from `manuscript/fig-multiverse-radial-tikz.tex` and its data file `fig-multiverse-shares.tex`, S6 from `manuscript/fig-approach-tikz.tex`, both with `pdflatex`. These TikZ sources, with those of Figs. S9 and S10, are the only files of `manuscript/` in the repository; the manuscripts themselves are not distributed here |
 
 ### Tables
@@ -265,7 +281,10 @@ Written by the notebook to `code/traditional_irrigation_knowledge_files/figure-l
 | `datasets/output/sobol_headline_grid.csv` | the 1,080 specifications of the irreducible share |
 | `datasets/output/compression_frontier.csv` | best set of *k* functions per specification |
 | `datasets/output/policy_promise_map_irrigation.csv` | functions promised by each policy document |
-| `datasets/output/evidence_strength_matrix.csv`, `evidence_tech_function.csv` | the evidence layer (being redone with human readers) |
+| `datasets/output/stage2_evidence/stage2_ratings.xlsx` | the LLM and the human answers to the nine questions for each of the 523 citations, every reader's answers, and the strength of evidence per technology and function |
+| `datasets/output/stage2_evidence/stage2_cell_summary_by_rater.csv` | strength of evidence per technology and function, LLM and human readings (Fig. 3b) |
+| `datasets/output/stage2_evidence/stage2_human_answers.csv` | every reader's answer per document and question |
+| `datasets/output/evidence_strength_matrix.csv`, `evidence_tech_function.csv` | the earlier LLM-only evidence grading (superseded; no reported number rests on it) |
 | `datasets/output/literature_flow.csv` | the literature corpus from raw search to analysed papers |
 | `datasets/output/valid_draw_audit.csv` | valid draws per assumption and arm |
 | `datasets/output/spain_share_europe.csv` | Spain's share of Europe's irrigated area, by dataset and resolution (Introduction) |

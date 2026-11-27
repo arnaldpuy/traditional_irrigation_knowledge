@@ -5,12 +5,10 @@
 
 % Typography, palette, card outlines and arrows follow
 % fig-evidence-workflow-tikz.tex.
-% Reading text and branch destinations follow the supplied flowchart.
-% Keywords transcribed from Figure 3 of DAWN_Rating Task No 2_Instructions_final.docx.
-% The source arrows run PROXIMITY -> BASELINE -> CLOSE on NO;
-% each YES branch moves on to the next study.
-% The source spelling QUESTIONAIRE is preserved; the old Fig.3 cross-reference
-% now points to the keywords within this combined figure.
+% Two-layered reading strategy and card text follow the rater instructions
+% "Evidence Rating Revised_final instructions" (20 November 2026): the former
+% proximity-reading step and its keyword panels are dropped; the list of the
+% twelve functions is kept without keywords.
 \definecolor{leg}{HTML}{2166ac}
 \definecolor{irr}{HTML}{b2182b}
 \definecolor{band}{HTML}{dbe6f2}
@@ -24,74 +22,52 @@
   stp/.style={font=\bfseries\small, anchor=north west, inner sep=0pt},
   card/.style={draw=black!45, fill=pale, rounded corners=2pt,
     line width=0.5pt, inner sep=7pt, align=left, font=\scriptsize,
-    text width=4.7cm, minimum height=4.5cm, anchor=north west},
+    text width=5.2cm, minimum height=4.2cm, anchor=north west},
   done/.style={card, fill=band, text=leg, font=\scriptsize\bfseries,
     align=center, minimum height=0.85cm},
-  keyword/.style={draw=black!45, fill=pale, rounded corners=2pt,
-    line width=0.5pt, inner sep=7pt, align=left, font=\scriptsize,
-    text width=4.7cm, minimum height=1.7cm, anchor=north west},
+  fun/.style={draw=black!45, fill=pale, rounded corners=2pt,
+    line width=0.5pt, inner sep=5pt, align=left, font=\scriptsize,
+    text width=3.4cm, minimum height=0.55cm, anchor=north west},
   group/.style={font=\bfseries\footnotesize, anchor=north west, inner sep=0pt},
   arr/.style={-{Stealth[length=5pt]}, black!60, line width=0.7pt},
   label/.style={font=\scriptsize\bfseries, fill=white, inner sep=2pt},
 ]
 
-\node[stp] (h1) at (0,0) {PROXIMITY READING:};
-\node[stp] (h2) at (6.1,0) {BASELINE READING:};
-\node[stp] (h3) at (12.2,0) {CLOSE READING:};
+\node[stp] (h1) at (0,0) {BASELINE READING:};
+\node[stp] (h2) at (6.9,0) {CLOSE READING:};
 
-\node[card] (proximity) at (0,-0.55) {%
-  Using the keywords below related to agroecological functions and
-  evidence strength assessment indicators, search within the study and
-  read the sentence, the sentence before and after. Do this for each
-  question / indicator within the binary questionnaire.
+\node[card] (baseline) at (0,-0.55) {%
+  Read the methodology and discussion sections and the conclusion of the
+  study, or any other paragraph of the study that may enable an assessment
+  of each indicator in the binary questionnaire.
   \par\vspace{9pt}
-  \textbf{DOES THIS APPROACH EXHAUST ALL ANSWERS TO THE BINARY QUESTIONAIRE?}
+  \textbf{DOES THIS APPROACH EXHAUST ALL ANSWERS TO THE BINARY QUESTIONNAIRE?}
 };
 
-\node[card] (baseline) at (6.1,-0.55) {%
-  Read the abstract, methodology, and discussion sections of the study
-  to answer the remaining questions in the binary questionnaire.
-  \par\vspace{9pt}
-  \textbf{DOES THIS APPROACH EXHAUST ALL ANSWERS TO THE BINARY QUESTIONAIRE?}
-};
-
-\node[card] (close) at (12.2,-0.55) {%
-  Read the entire study to assess the indicators in the binary
+\node[card] (close) at (6.9,-0.55) {%
+  Read the entire study to assess each indicator in the binary
   questionnaire. If you cannot find evidence relating to an indicator,
-  then answer `NO'.
+  answer `NO'.
   \par\vspace{9pt}
-  Once completed and all questions in the binary questionnaire have
-  been answered, \textbf{MOVE ONTO THE NEXT STUDY}
+  Once all the questions in the binary questionnaire have been answered,
+  \textbf{MOVE ONTO THE NEXT STUDY}
 };
 
-\node[done] (next1) at (0,-5.95) {MOVE ONTO THE NEXT STUDY};
-\node[done] (next2) at (6.1,-5.95) {MOVE ONTO THE NEXT STUDY};
+\node[done] (next1) at (0,-5.65) {MOVE ONTO THE NEXT STUDY};
 
-\draw[arr, draw=irr] (proximity.east) -- node[label, text=irr, above=2pt] {NO} (baseline.west);
 \draw[arr, draw=irr] (baseline.east) -- node[label, text=irr, above=2pt] {NO} (close.west);
-\draw[arr, draw=leg] (proximity.south) -- node[label, text=leg, right=2pt] {YES} (next1.north);
-\draw[arr, draw=leg] (baseline.south) -- node[label, text=leg, right=2pt] {YES} (next2.north);
+\draw[arr, draw=leg] (baseline.south) -- node[label, text=leg, right=2pt] {YES} (next1.north);
 
-
-% Keyword reference panel
-\node[stp] at (0,-7.55) {Keywords for proximity reading};
-\node[group, text=leg] at (0,-8.15) {Agroecological functions};
-\node[keyword] (function1) at (0.00,-8.70) {\textbf{Crop Production}\par\vspace{3pt}yield, growth, crop quality, agricultural output};
-\node[keyword] (function2) at (6.10,-8.70) {\textbf{Social}\par\vspace{3pt}cohesion, governance, cooperation, equity};
-\node[keyword] (function3) at (12.20,-8.70) {\textbf{Pest (control)}\par\vspace{3pt}(suppression of) weeds, diseases};
-\node[keyword] (function4) at (0.00,-10.65) {\textbf{Wild Food and Medicine}\par\vspace{3pt}Medicinal (plants), wild food, forage};
-\node[keyword] (function5) at (6.10,-10.65) {\textbf{Groundwater (recharge)}\par\vspace{3pt}(Aquifer) recovery, return flows, water-table (protection)};
-\node[keyword] (function6) at (12.20,-10.65) {\textbf{Livestock (husbandry)}\par\vspace{3pt}forage, grazing, animal};
-\node[keyword] (function7) at (0.00,-12.60) {\textbf{(Micro) climatology}\par\vspace{3pt}(local) temperature or humidity, frost protection, shade};
-\node[keyword] (function8) at (6.10,-12.60) {\textbf{Soil Health (maintenance)}\par\vspace{3pt}soil structure, fertility, organic matter, salinity or erosion control};
-\node[keyword] (function9) at (12.20,-12.60) {\textbf{Water Conservation}\par\vspace{3pt}retention, water saving, use efficiency, reduced abstraction, water productivity, delivery (control)};
-\node[keyword] (function10) at (0.00,-14.55) {\textbf{Risk (management)}\par\vspace{3pt}(resilience to) drought/shortage of water, supply reliability, stability of output};
-\node[keyword] (function11) at (6.10,-14.55) {\textbf{Biodiversity (conservation)}\par\vspace{3pt}habitats, species, ecosystems, nature};
-\node[keyword] (function12) at (12.20,-14.55) {\textbf{Recreation / Wellbeing}\par\vspace{3pt}recreation, wellbeing, landscape, cultural, amenity, spiritual, welfare, pleasure, (mental) health, therapy, wellness, joy, happiness};
-\node[group, text=irr] at (0,-16.65) {Evidence strength indicators};
-\node[keyword, minimum height=2.15cm] (indicator1) at (0.00,-17.2) {\textbf{Rigor}\par\vspace{3pt}field, data, observation, test, sample, model, compute, reason, evidence, explain};
-\node[keyword, minimum height=2.15cm] (indicator2) at (6.10,-17.2) {\textbf{Applicability}\par\vspace{3pt}soil texture/nutrient, region, country, environment, climate, crop type/cultivar, basin, farm, field, limitation, scope, replicate, repeat};
-\node[keyword, minimum height=2.15cm] (indicator3) at (12.20,-17.2) {\textbf{Transparency}\par\vspace{3pt}scope, restrict, further study/investigation, range, interquartile, standard deviation, uncertainty, (percentage) error};
+% The twelve functions served by traditional irrigation
+\node[stp] at (0,-7.2) {The twelve functions named in the review claims};
+\foreach \i/\name in {0/Water conservation, 1/Crop production, 2/Soil health,
+                      3/Risk management, 4/Groundwater recharge, 5/Pest control,
+                      6/Social cohesion, 7/Biodiversity conservation, 8/Microclimate regulation,
+                      9/Recreation and wellbeing, 10/Livestock husbandry, 11/Wild food and medicine} {
+  \pgfmathtruncatemacro{\col}{mod(\i, 3)}
+  \pgfmathtruncatemacro{\row}{int(\i / 3)}
+  \node[fun] at ({\col*4.0}, {-7.75 - \row*0.8}) {\name};
+}
 
 \end{tikzpicture}
 \end{document}

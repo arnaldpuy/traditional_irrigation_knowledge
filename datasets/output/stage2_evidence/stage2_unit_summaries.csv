@@ -1,0 +1,7 @@
+variant,unit,n,n_primary,n_own_result,share_own_result
+extraction,citation,523,322,116,0.221797323135755
+narrow,citation,521,320,114,0.218809980806142
+extraction,cited document,272,181,64,0.235294117647059
+narrow,cited document,271,180,63,0.232472324723247
+extraction,review statement (claim),426,258,97,0.227699530516432
+narrow,review statement (claim),424,256,95,0.224056603773585

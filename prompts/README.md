@@ -34,6 +34,13 @@ output a small JSON object, one assumption per request.
 | `efficiency_strict_prompt.txt` | `code/historical/headline`, `code/03` | Same field, admits only water and yield quantities. Third grid wording. |
 | `severing_strength_prompt.txt` | `code/historical/headline`, `code/historical/headline`, analysed by `code/11` | For each of five modernization technologies, the severity with which it would sever the assumption: `direct` / `indirect` / `potential` / `none`. Feeds the 720-cell severing grid. |
 
+## Literature instruments
+
+| File | Run by | What it does |
+| --- | --- | --- |
+| `prompt_extraction_claims.txt` | `code/41` (Claude Fable 5.1) | Reads one review on an irrigation technology and extracts every claim that the technology delivers on, harms or has mixed effects on one of the twelve functions, with the review passage and the citations that support it. |
+| `stage2_reading_prompt_v1.txt` | `code/57` (Claude Fable 5.1, three draws, majority vote) | Reads one cited document against every review claim that cites it and answers the nine yes/no questions of the strength-of-evidence questionnaire (Q1 primary study, Q2 empirical data, Q3-Q9 quality criteria). The human readers received the same instructions in their workbooks. |
+
 ## Models
 
 The full-codebook coding (`code/02`) used Claude `claude-opus-4-8` and DeepSeek

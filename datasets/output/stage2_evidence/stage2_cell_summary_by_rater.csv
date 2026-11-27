@@ -1,0 +1,67 @@
+rater,technology,func,n_citations,n_pass,evidence_score,evidence_level
+LLM,app_scheduling,crop_production,28,1,0.0204081632653061,Very low
+Human,app_scheduling,crop_production,28,7,0.102040816326531,Very low
+LLM,app_scheduling,microclimate_regulation,1,0,0,Very low
+Human,app_scheduling,microclimate_regulation,1,0,0,Very low
+LLM,app_scheduling,pest_control,4,0,0,Very low
+Human,app_scheduling,pest_control,4,1,0.0714285714285714,Very low
+LLM,app_scheduling,recreation_wellbeing,1,0,0,Very low
+Human,app_scheduling,recreation_wellbeing,1,0,0,Very low
+LLM,app_scheduling,risk_management,20,3,0.0785714285714286,Very low
+Human,app_scheduling,risk_management,20,9,0.164285714285714,Very low
+LLM,app_scheduling,soil_health,5,0,0,Very low
+Human,app_scheduling,soil_health,5,0,0,Very low
+LLM,app_scheduling,water_conservation,71,9,0.0563380281690141,Very low
+Human,app_scheduling,water_conservation,71,17,0.096579476861167,Very low
+LLM,drip,biodiversity,1,0,0,Very low
+Human,drip,biodiversity,1,0,0,Very low
+LLM,drip,crop_production,59,30,0.099273607748184,Very low
+Human,drip,crop_production,59,31,0.154963680387409,Very low
+LLM,drip,groundwater_recharge,2,0,0,Very low
+Human,drip,groundwater_recharge,2,0,0,Very low
+LLM,drip,microclimate_regulation,1,0,0,Very low
+Human,drip,microclimate_regulation,1,1,0.428571428571429,Moderate
+LLM,drip,pest_control,25,8,0.0285714285714286,Very low
+Human,drip,pest_control,25,16,0.171428571428571,Very low
+LLM,drip,risk_management,16,1,0.00892857142857143,Very low
+Human,drip,risk_management,16,3,0.0803571428571429,Very low
+LLM,drip,social_cohesion,2,2,0.714285714285714,High
+Human,drip,social_cohesion,2,2,0.642857142857143,High
+LLM,drip,soil_health,20,9,0.0928571428571428,Very low
+Human,drip,soil_health,20,12,0.242857142857143,Low
+LLM,drip,water_conservation,65,29,0.0703296703296703,Very low
+Human,drip,water_conservation,65,30,0.118681318681319,Very low
+LLM,flow_metering,social_cohesion,3,0,0,Very low
+Human,flow_metering,social_cohesion,3,1,0.142857142857143,Very low
+LLM,flow_metering,water_conservation,5,0,0,Very low
+Human,flow_metering,water_conservation,5,1,0.0857142857142857,Very low
+LLM,on_demand,risk_management,7,0,0,Very low
+Human,on_demand,risk_management,7,5,0.346938775510204,Low
+LLM,on_demand,water_conservation,2,0,0,Very low
+Human,on_demand,water_conservation,2,1,0.357142857142857,Low
+LLM,remote_sensing,biodiversity,2,0,0,Very low
+Human,remote_sensing,biodiversity,2,1,0.0714285714285714,Very low
+LLM,remote_sensing,crop_production,33,0,0,Very low
+Human,remote_sensing,crop_production,33,13,0.177489177489177,Very low
+LLM,remote_sensing,groundwater_recharge,2,0,0,Very low
+Human,remote_sensing,groundwater_recharge,2,1,0.0714285714285714,Very low
+LLM,remote_sensing,pest_control,33,2,0.0216450216450217,Very low
+Human,remote_sensing,pest_control,33,17,0.225108225108225,Low
+LLM,remote_sensing,risk_management,12,0,0,Very low
+Human,remote_sensing,risk_management,12,6,0.261904761904762,Low
+LLM,remote_sensing,social_cohesion,3,1,0.0952380952380952,Very low
+Human,remote_sensing,social_cohesion,3,1,0.142857142857143,Very low
+LLM,remote_sensing,soil_health,12,0,0,Very low
+Human,remote_sensing,soil_health,12,4,0.130952380952381,Very low
+LLM,remote_sensing,water_conservation,31,1,0.0230414746543779,Very low
+Human,remote_sensing,water_conservation,31,13,0.230414746543779,Low
+LLM,soil_sensor,crop_production,23,9,0.142857142857143,Very low
+Human,soil_sensor,crop_production,23,14,0.22360248447205,Low
+LLM,soil_sensor,groundwater_recharge,1,0,0,Very low
+Human,soil_sensor,groundwater_recharge,1,0,0,Very low
+LLM,soil_sensor,risk_management,3,0,0,Very low
+Human,soil_sensor,risk_management,3,1,0.0476190476190476,Very low
+LLM,soil_sensor,soil_health,5,2,0.2,Low
+Human,soil_sensor,soil_health,5,3,0.228571428571429,Low
+LLM,soil_sensor,water_conservation,25,9,0.108571428571429,Very low
+Human,soil_sensor,water_conservation,25,16,0.251428571428571,Low

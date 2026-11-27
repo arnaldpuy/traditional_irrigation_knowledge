@@ -1,0 +1,676 @@
+cited_id,cited_no,cells,n_cells,in_drip_crop,in_drip_water,in_app_water,pattern
+doi:10.1007/bf00880798,4,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.compag.2021.106635,7,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/agriculture11121184,9,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/agriculture13112059,16,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.jclepro.2019.02.208,19,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1061/(asce)ir.1943-4774.0000745,21,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.jare.2012.08.009,25,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.scienta.2006.12.020,33,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1177/0971344120100207,35,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.31545/intagr/150413,36,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2021.107027,38,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.17660/actahortic.2021.1311.60,42,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2018.07.038,43,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2022.108053,49,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/s0378-3774(02)00084-7,51,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:dhawan2002dhawan2002technologicalchange,59,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/978-3-030-89613-3_15,62,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2019.03.011,65,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1109/ickecs61492.2024.10617221,76,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/su12176779,84,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:paul2013paulmishraandpradhan,85,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s00521-018-3737-1,86,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2010.07.006,88,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/s0378-3774(99)00025-6,94,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1109/tim.2013.2276487,96,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.2134/agronj2018.01.0002,98,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/agronomy9110686,100,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/s20010190,103,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/s20051402,104,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:todorovic2016hydrotechautomatedsmart,106,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/horticulturae11030333,107,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.scienta.2020.109361,108,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2019.105754,112,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1002/ird.2146,113,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.21955/gatesopenres.1115251.1,115,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1071/cp13315,116,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/w9110822,117,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.iot.2020.100161,119,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1108/wje-07-2019-0194,120,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/cits.2012.6220375,121,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2018.05.019,122,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/hnicem51456.2020.9399995,123,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/ccintels.2016.7878191,124,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:zhu2014smartirrigationdecisionsupport,125,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.21162/pakjas/21.949,126,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3969/j.issn.1002-6819.2010.07.004,127,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3724/sp.j.1006.2019.83026,128,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1071/cp13348,150,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2007.01.016,156,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.21608/mjae.2015.98062,157,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s00271-007-0079-7,158,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2009.10.010,159,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1023/a:1026191326168,160,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat. 2017.11.013,161,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat. 2020.106244,162,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.scienta.2006.02.011,163,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.scienta.2020.109220,164,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1021/acs.jafc.9b04117,166,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.jenvman.2021.114032,171,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/plants13223184,172,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:komilov2002irrigationschedulingstudydrip,175,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2015.07.019,179,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.fcr.2018.02.002,180,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2021.107130,181,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1093/jpe/rtq030,183,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/agriculture12020269,184,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2020.106660,185,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1080/03650340.2021.1892650,216,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:171foodandagricultureorganizationfaooftheunitednationscropwatsoft,217,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.11648/j.aas.20190402.14,218,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s40030-019-00377-9,219,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2018.10.026,220,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agsy.2020.102790,221,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s43621-024-00775-5,222,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.jenvman.2023.119004,223,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.biortech.2022.128486,224,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/b978-0-443-34113-7.00004-3,225,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/b978-0-443-29802-8.00002-9,226,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2017.12.006,238,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.51470/plantarchives.2021.v21.s1.204,252,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.2134/jeq2017.10.0389,254,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2020.106065,255,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1046/j.1365-2486.1998.00161.x,262,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/0038-0717(91)90067-t,263,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s11104-022-05730-9,264,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.46592/turkager.1574644,269,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:li2020studythewaterfertilization,270,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/horticulturae10010006,271,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:namara2005namaraupadhyaynagar2005,280,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:panigrahi2010panigrahipandaandraghuwanshi,281,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1002/ird.2539,287,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s42773-020-00064-0,290,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1080/23311932.2017.1369345,301,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.11648/j.es.20210604.11,304,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.13031/2013.17628,305,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/land13111872,310,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.5958/0974-0279.2022.00005.2,318,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/w2020200,320,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2011.11.010,321,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/s17051104,322,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s10795-005-5197-x,323,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/978-1-4757-1425-8_2,324,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:lammetal2006frlammjeayarsfsnakayamamicroirrigationforcropproductio,325,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:venotetal2019jphvenotmkupermzwarteveendripirrigationforagriculture,329,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1002/ird.1734,330,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:li2006lim2006effectsofirrigationparametersonthesoilmoisturehea,331,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:li2021effectsdripfertigationtechnical,332,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2017.08.014,333,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:wang2005effectsdripperdischargeand,334,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.4028/www.scientific.net/amr.347-353.2400,335,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:wang2021effectsoptimalwaterfertilizer,336,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.heliyon.2024.e32578,341,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/su16135727,342,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/plants13213046,343,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy12092196,344,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1021/acs.langmuir.1c02010,345,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1038/s41598-023-45121-3,346,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s00271-023-00853-y,347,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.compag.2020.105767,349,app_scheduling x water_conservation; drip x crop_production; drip x water_conservation,3,TRUE,TRUE,TRUE,two_or_three_cells
+doi:10.3389/fpls.2015.00319,350,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3389/fpls.2015.00495,351,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:arshad2020arshad2020importancedrip,359,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:ranjan2018ranjandenismishraand,360,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:abdurazzaq2019abdurazzaqabbasandsalman,362,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:anon2008anon2008agriculturaldata,363,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:asae2003asae2003designand,364,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:asokhan2024asokhanabinayasujeethaimpact,365,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:bordoloi2018bordoloidekaandsaikia,368,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:chauhan2013chauhanyadavsingh2013,370,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:dingre2012dingrepawarkadam2012,373,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:felix2021felixreinders2021micro,380,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:gobarah2015gobarahtawfikthaloothhousini,382,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+key:gogoi2020gogoiandsarma2020,383,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:goswami2006goswamisarkarmallick2006,384,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:gupta2015guptachattoosingh2015,385,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:incid1994incid1994dripirrigation,388,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:irfan2014irfanarshadshakoorand,390,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:kamal2019kamalislamhaqueand,392,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:kumar2015kumarrajputtbspatel,394,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:kumar2016kumartrivediyadavdas,395,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:modern20102010modernsugarcanescience,399,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:mahesh2016maheshasokaarchana2016,400,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:malash2008malashalifatahallakhatab,401,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:mirjat2010mirjatmirjatchandiowater,402,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:molden2001moldensakthivadivelperryfraiture,403,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:narayanamoorthy2004narayanamoorthy2004avaliacaoimpacto,404,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:national2002nationalagriculturalstatisticservice,405,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:nedunchezhiyan2021nedunchezhiyanpatichauhanand,406,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:nogueira2003nogueiradukeshamanscholberg,407,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+key:olivier2003oliviersingels2003water,408,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:panigrahi2010panigrahiroyandpanda,409,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:perry2017perrystedutokarajehdoes,411,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:priyan2017priyanandpanchal2017,414,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:qureshi2018qureshiwatermanagementfor,415,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+key:qureshi2001qureshiwegenerharrisonand,416,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:roy2020roymajumderimprovingwater,418,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:singandhupe2007singandhupeantonyjameskumar,420,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:singh2013singhsharma2013impact,421,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:tumbare2002tumbarebhoite2002effect,425,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:vjekoslav2011vjekoslavordandomorgabriyel,430,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1002/9780470988695.ch6,437,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1002/agj2.20641,438,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1002/ird.2021,440,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1002/ird.2286,441,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1002/ird.2442,442,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1002/ird.418,444,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1007/978-3-030-89123-7_146-1,448,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/bf00251558,451,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/bf00257494,452,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s12355-010-0021-9,461,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s12355-012-0173-x,462,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s13201-023-01986-3,463,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s40710-023-00624-z,464,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2004.06.010,468,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2005.02.004,469,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2005.03.002,470,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2005.04.002,471,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2008.06.002,472,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2010.04.013,476,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2013.06.002,481,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2016.03.006,485,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1016/j.agwat.2016.05.013,486,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2016.12.015,487,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2020.106352,492,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2021.107033,494,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2023.108190,496,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2023.108599,498,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.biosystemseng.2009.12.014,502,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.compeleceng.2018.11.013,512,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1016/j.dte.2025.100038,513,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.jclepro.2020.124119,518,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.measurement.2020.107552,520,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.ref.2016.08.013,522,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.scienta.2021.110211,525,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.still.2022.105392,527,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.wre.2017.10.004,530,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/s0378-3774(01)00192-5,532,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1016/s0378-3774(97)00039-5,533,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/s0378-3774(98)00063-8,534,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/s0957-4174(02)00082-9,535,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1016/s1474-6670(17)38686-x,536,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1016/s2095-3119(14)60870-4,537,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1017/s0014479712000993,538,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1017/s2040470017000504,539,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1071/fp02076,549,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1080/19315260802446401,552,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1109/icca.2010.5524329,558,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1109/nswctc.2009.231,564,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.1109/sies.2007.4297350,565,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.13031/2013.24159,573,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.13031/2013.40654,578,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.17224/energagric.2014v29n1p27-38,588,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.17660/actahortic.2020.1299.67,589,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.25175/jrd/2017/v36/i3/118062,604,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3182/20101206-3-jp-3009.00045,606,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.33687/008.03.3381,607,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.33687/ijae.008.02.3366,608,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3389/fenvs.2023.1130455,609,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3389/fsufs.2023.1185805,612,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/agriculture12111941,616,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/agriculture12122090,617,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/agronomy7010012,623,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.3390/su13084328,641,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/su15065100,642,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/w9110837,651,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3733/ucanr.8447,652,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.4236/as.2011.23036,655,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.46653/jhst24073095,656,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.47836/pjst.32.6.17,659,app_scheduling x water_conservation; drip x water_conservation,2,FALSE,TRUE,TRUE,two_or_three_cells
+doi:10.5194/hess-19-3073-2015,664,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.56093/aaz.v55i3-4.66651,666,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.56093/ijas.v86i3.56854,667,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.56093/ijas.v93i4.110273,668,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.5958/0974-0279.2018.00010.1,670,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.5958/2348-7542.2016.00139.x,671,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.9755/ejfa.2017-02-275,674,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2489/jswc.75.2.209,675,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/w16152206,677,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:elia2020pressagronomicaleffectsand,683,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:singh2013impactmicroirrigationpractices,687,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.17660/actahortic.2015.1089.53,688,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/s1872-1508(06)60066-1,689,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/s0378-3774(01)00126-3,690,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.13243/j.cnki.slxb.1996.11.008,691,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s00271-008-0125-0,692,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1007/s00271-011-0278-0,693,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.agwat.2021.107407,695,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.23910/1.2021.2222,700,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/w10101467,701,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.3390/su14148495,702,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.1016/j.pce.2022.103243,703,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.11591/ijeecs.v24.i1.pp581-589,708,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/s0378-3774(0 2)00167-1,711,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s00271-008-0112-5,712,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.13128/ahs-12746,713,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+doi:10.4236/jwarp.2016.89068,731,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:hagin2002fertigationfertilizationthroughirrigation,735,drip x crop_production; drip x water_conservation,2,TRUE,TRUE,FALSE,two_or_three_cells
+key:kafkafi2011fertigationtoolforefficient,738,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:solaimalai2005fertigationhighvaluecrops,739,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s11356-023-29658-4,740,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.55953/jera.2022.1103,743,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:ahmadi2018ahmadinasrolahisharifipourand,750,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:michael2007michael2007irrigationand,751,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:erdem2005erdemerdemortaand,752,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:mhmdy2018mhmdymalanddulaimy,753,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:stauffer2019staufferandspuhler2019,755,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:abdall2017abdallnamasnaggar,757,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:akasaka2012akasaka2012effectsdaily,758,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:alagele2020agele2020irrigationinnovations,760,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:alam2001alamkumar2001micro,761,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:ambast2019ambast2019overviewirrigation,762,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:awati2012awatipatilautomaticirrigation,766,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:ayars2007ayarsbuckslammnakayama,767,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:basra2014basrasmaiqbalafzal,769,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:bhamoriya2014bhamoriyaandmathew2014,771,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:bhaskar2005bhaskarraomendheand,772,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:boman1990boman1990cloggingcharacteristics,774,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:chandrakanth2013chandrakanthpriyankamamathaand,778,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:chandrakanth2011chandrakanthraveeshaverghesethamanadevi,779,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:chandran2016chandranandsurendran2016,780,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:climateadapteuropean2024climateadapteuropeanunion,781,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:comparing2013comparingsprinkleranddrip,782,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:cordis2023cordissmartirrigationreduces,783,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:darshna2015darshnasangavimohansoundharya,784,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:das2019dassharmaandkalita,785,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:devitt2008devittcarstensenmorris2008,786,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:devitt2008devittcarstensenandmorris,787,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:dursun2011dursunozdenwirelessapplication,790,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:evett1995evetthowellschneider1995,792,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:fao2011fao2011thestate,793,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:ferreira2014ferreirajuniorsouzaescobedo,796,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:garciaprats2012garciapratsguillenpico,797,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:godara2013godaravermagaursuresh,798,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:harishankar2014harishankarkumarsudharsanvignesh,800,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:hornbuckle2009hornbucklecarchristenstein,801,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:howlader2025howladerinnovativefarmingtechniques,802,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:hussain2020hussainbordoloiguptagarg,803,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:iai2016iaificci2016accelerating,804,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:intera2013interaremotesensingbased,805,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:international2007internationalolivecouncilproduction,806,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:jarwar2019jarwarwanglongwang,807,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:jayakumar2024jayakumarbosukantamanenirathnayake,808,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:kansara2015kansarazaverishahdelwadkar,809,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:keller1990kellerandbliesner1990,810,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:keyyan2011keyyanpeters2011wetting,811,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:khan2001khanshivashankarfarooquikrishna,812,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:khose2023khosedhokaleshekharthe,814,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:kumar2010kumarpalanisami2010impact,816,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:kumar2016kumarsinghandyadav,817,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:lamm2007lammayars2007microirrigation,820,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:lamm2007lammandcamp2007,821,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:levy2011levyfinebartal,822,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:liu2020liufangliusustainable,823,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:liu2015liu2015effectssplit,824,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:effect20102010effectchlorinationyield,825,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:mansingh2023mansinghrahulbanikbag,828,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:mashio2011mashio2011produtividadeagua,829,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:miao2008miaohuanghoucai,830,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:mokh2014mokhnagazmasmoudimechlia,831,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:molden2001moldensakthivadivelandhabib,832,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:mordor2025mordorintelligence2025smart,833,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:musenenga2023musenenga2023dripirrigation,835,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:narayanamoorthy1996narayanamoorthy1996evaluationdrip,836,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:narayanamoorthy1997narayanamoorthy1997dripirrigation,837,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:narayanamoorthy1997narayanamoorthy1997economicviability,838,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:narayanamoorthy2003narayanamoorthy2003avertingwater,839,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:narayanamoorthy2005narayanamoorthy2005efficiencyirrigation,840,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:narayanamoorthy2008narayanamoorthy2008dripirrigation,841,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:narayanamoorthy1997narayanamoorthydeshpandeandshah,842,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:ncpah2001ncpah2001nationalcommittee,844,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:nedunchezhiyan2017nedunchezhiyan2017dripirrigation,845,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:nedunchezhiyan2023nedunchezhiyanpatichauhangowda,846,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:shah2012shahanddasprecision,849,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:pandey2013pandeysinghkumarsingh,851,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:patidar2022patidarbareliyakurilsharma,852,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:pujara2016pujara2016criteriafor,855,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:rahamathunnisa2018rahamathunnisaandchellappa2018,856,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:rajakumar2008rajakumarkanmaniandprasad,857,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:razak2020razakrushdigadhbannajjar,859,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:saleth2010salethamarasinghe2010promoting,862,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:sampedrosanchez2022sampedrosanchezcanirrigation,864,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:schwankl2007schwanklandhanson2007,867,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:shedeed2009shedeedzaghloulyassen2009,869,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:shimazaki2013shimazaki2013marudorimethod,870,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:shimber2013shimbermohdraziismail,871,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:simmone2007simmonedukesandhaman,872,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:singh2019singhsrivastavasangavigunjan,873,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:solar2023solarelectriclightfund,874,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:song2006songstinechoigerba,875,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:sprague2013sprague2013frameworkfor,876,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:suresh2010sureshkumarandpalanisami,878,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:tanada2014tanadanesumi2014economic,879,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:uribe2013uribegavasaadkolln,881,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:vivek2023vivekramakantpathmudisystematic,883,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:rachienb2014rachienbmediciaandlorenzinia,886,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:zhang2024zhanghuanglinenabled,887,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1002/ecs2.1285,888,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1002/hyp.9759,889,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1002/ird.1717,891,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1002/ird.1982,892,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1002/ird.2091,893,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1002/ird.2123,894,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1002/ird.2129,896,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1002/ird.2343,898,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1002/jsfa.11766,899,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1002/ppp3.10354,900,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1002/ps.2780450214,901,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/978-1-4419-6335-2_9,903,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/978-3-030-33229-7_25,904,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/978-3-319-48887-5_4,908,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/978-3-319-76702-4_11,909,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/978-3-662-03963-2,910,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/978-90-481-9513-8_9,911,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/978-981-16-0493-5_23,912,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/978-981-16-6289-8_21,913,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/bf00191055,915,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/bf00269003,916,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s00271-003-0085-3,918,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s00271-012-0384-7,920,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s00271-014-0432-6,921,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s00271-017-0555-7,923,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s00521-023-08987-y,929,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s00704-023-04768-8,931,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s10333-021-00868-1,933,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s10343-010-0219-5,934,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s10343-022-00635-0,935,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s10343-023-00871-y,936,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s11269-016-1348-0,944,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s11270-020-04880-9,945,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s11277-022-10016-5,946,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s11629-005-0059-4,947,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s13198-023-01854-y,948,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s13201-011-0017-y,949,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s13201-022-01847-5,950,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s13593-014-0280-z,951,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s40333-024-0093-0,953,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s42729-019-0008-x,955,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s42729-022-00762-7,956,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s44447-025-00039-2,957,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/b978-0-12-024301-3.50013-7,958,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/b978-0-12-420225-2.00006-6,959,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agee.2015.08.008,961,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agee.2022.107944,962,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agee.2023.108344,964,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agrformet.2014.09.025,966,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agrformet.2017.05.001,967,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agsy.2014.04.003,969,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agsy.2024.103937,970,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2004.09.042,972,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2012.11.021,976,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2013.03.014,977,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2014.04.017,978,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2014.10.015,979,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2015.02.005,980,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2015.05.006,981,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2015.10.002,984,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2016.12.001,986,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2017.07.009,987,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2018.09.005,991,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2019.04.028,992,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2020.106120,993,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2020.106266,994,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2020.106586,995,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2021.107386,998,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2022.107543,1001,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2022.107709,1003,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2022.107807,1004,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2022.108052,1005,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2022.108079,1006,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2023.108652,1009,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2025.109314,1012,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.aoas.2012.08.002,1014,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.apsoil.2017.11.014,1016,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.asej.2023.102509,1017,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.atech.2022.100053,1020,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.atech.2023.100303,1021,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.biosystemseng.2008.04.001,1027,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.biosystemseng.2008.09.026,1028,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.biosystemseng.2021.01.008,1030,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.clet.2021.100165,1033,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.compag.2012.03.003,1035,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.compag.2015.02.004,1036,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.compag.2017.12.018,1040,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.compag.2018.07.024,1041,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.compag.2018.09.040,1042,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.crfs.2022.04.005,1049,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.envpol.2021.116521,1054,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.eswa.2022.118602,1055,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.eti.2022.102569,1056,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.fcr.2011.03.004,1058,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.ifacol.2018.08.168,1064,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.indcrop.2017.01.020,1067,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.inpa.2020.05.004,1069,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.jclepro.2019.119902,1076,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.jenvman.2019.06.062,1078,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.jenvman.2021.113474,1079,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.jenvman.2021.113753,1080,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.jhydrol.2013.10.024,1083,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.matpr.2021.01.546,1087,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.procs.2020.03.440,1088,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.procs.2022.01.199,1090,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.scienta.2011.12.012,1097,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.scienta.2017.05.004,1098,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.scienta.2023.112179,1100,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.scitotenv.2016.07.144,1102,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.scitotenv.2020.144026,1103,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/s0065-2113(08)60222-9,1107,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/s0167-9236(98)00046-3,1108,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/s0378-3774(02)00171-3,1110,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/s2095-3119(14)60927-8,1112,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1023/b:fres.0000012229.61906.6c,1114,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1038/s41598-019-54086-1,1123,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1049/cp.2018.1379,1127,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1049/smc2.12070,1128,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1051/e3sconf/202447201026,1129,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/(asce)ir.1943-4774.0000499,1135,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/(asce)ir.1943-4774.0000719,1137,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1061/(asce)ir.1943-4774.0001282,1139,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/(asce)ir.1943-4774.0001659,1140,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/41036(342)432,1141,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/jwrmd5.wreng-5871,1142,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1080/00049158.2014.920552,1144,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1080/00224561.2005.12435829,1145,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1080/01904160600851619,1147,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1080/02508060.2007.9671997,1148,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1080/02508060108686882,1149,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1080/03650340.2020.1869723,1150,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1080/09614524.2022.2059065,1152,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1080/14488388.2009.11464801,1155,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1088/1742-6596/1339/1/012012,1157,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1088/1755-1315/1158/2/022009,1159,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1088/1757-899x/748/1/012002,1160,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1088/1757-899x/870/1/012077,1161,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1093/jxb/erl165,1162,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/access.2024.3482088,1169,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/commnet.2018.8360259,1173,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/csudet47057.2019.9214661,1174,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/gecost60902.2024.10474709,1175,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icaccess61735.2024.10499567,1176,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/iccsp60870.2024.10544109,1177,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icees61253.2024.10776923,1179,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/iceice.2017.8191943,1180,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icict57646.2023.10134066,1181,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icoei.2018.8553720,1182,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icpects56089.2022.10047185,1183,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icpei61831.2024.10748644,1184,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/icts52701.2021.9608813,1187,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/iestec46403.2019.00108,1188,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/indcon.2006.302766,1190,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/itia50152.2020.9312344,1193,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/wf-iot58464.2023.10539579,1199,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1111/j.1365-2672.2011.04942.x,1200,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1126/science.aat9314,1201,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1155/2017/5353648,1205,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1155/2021/6691571,1207,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.11591/ijeecs.v25.i1.pp504-510,1209,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1300/j064v13n02_07,1216,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.13031/2013.17309,1218,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.13031/2013.17313,1219,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.13031/2013.21322,1220,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.13031/2013.25811,1221,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.13031/2013.25987,1222,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.13031/2013.27851,1223,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.13031/2013.27996,1224,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.13031/2013.29960,1225,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.13031/2013.35894,1228,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.13031/trans.13314,1229,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.13031/trans.14110,1230,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1371/journal.pone.0198159,1231,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1371/journal.pone.0265439,1233,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1515/opag-2021-0223,1234,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.15244/pjoes/69444,1235,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.15809/irriga.2015v1n1p198,1237,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.15809/irriga.2015v1n2p37,1238,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.15835/nbha51313291,1239,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1590/1807-1929/agriambi.v21n3p169-174,1240,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1590/s0100-69162014000200005,1241,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1590/s0103-90162006000300003,1242,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1590/s1415-43662011000300005,1243,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1590/s1415-43662014000300001,1244,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.17221/804/2014-pse,1245,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.17485/ijst/2015/v8i7/64495,1246,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.17503/agrivita.v43i2.2936,1247,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.17582/journal.sja/2018/34.4.818.826,1248,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.17660/actahortic.2003.609.41,1249,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.17762/ijritcc.v11i6.9684,1250,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.18697/ajfand.118.23155,1251,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.19103/as.2017.0037.24,1252,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.20546/ijcmas.2020.912.352,1254,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.21273/horttech.15.3.0482,1262,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.21273/horttech04211-18,1265,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.2134/jeq2000.00472425002900010032x,1267,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2136/sssaj1976.03615995004000030034x,1269,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2166/wcc.2019.257,1275,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2166/wcc.2022.039,1276,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2166/wp.2004.0020,1277,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2166/wp.2020.257,1278,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2478/ahr-2019-0019,1282,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2503/hrj.10.191,1284,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.2503/hrj.11.327,1285,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.2503/hrj.3.33,1286,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.2503/hrj.3.45,1287,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.2503/hrj.9.129,1288,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.29333/jisem/6350,1291,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3117/rootres.13.111,1294,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.31272/jeasd.2006,1296,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.32604/cmc.2022.022648,1297,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3311/ppso.22482,1298,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3329/sja.v12i1.21113,1299,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.33545/2618060x.2024.v7.i6h.923,1300,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3389/fenvs.2023.1188139,1302,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3389/fpls.2022.1006827,1304,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3389/fpls.2025.1675657,1306,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3389/fsufs.2024.1282235,1308,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/agriculture12020296,1313,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agriculture12122018,1315,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agriculture13010192,1316,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/agriengineering6040270,1317,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/agriengineering7040106,1318,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/agronomy10121890,1319,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/agronomy10121997,1320,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy11010033,1321,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy13041143,1324,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy15010043,1327,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy7040068,1329,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/agronomy8100221,1330,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy9050216,1331,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/ecsa-11-20504,1338,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/horticulturae10070716,1341,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/joitmc6040096,1345,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/machines11080774,1346,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/s18082674,1353,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/s22030709,1357,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/su15043404,1362,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/su9111997,1364,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/sym14010115,1365,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/w11030589,1366,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/w12051239,1368,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/w13020217,1370,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/w13152052,1372,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/w9010050,1377,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/w9030157,1378,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.38124/ijisrt/ijisrt24apr863,1379,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.4172/2168-9768.1000116,1384,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.5120/ijca2015907485,1386,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.5120/ijca2017913001,1387,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.51594/estj.v5i4.1014,1388,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.52783/jes.2399,1391,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.52783/jes.5884,1392,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.5334/ijc.888,1393,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.5424/sjar/20110904-492-10,1396,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.54910/sabrao2023.55.2.30,1397,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.56093/ijas.v93i12.123417,1400,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.59200/iconic.2024.017,1403,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.5958/0976-4038.2015.00058.5,1405,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.7498/aps.68.20181357,1406,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.9734/ajaees/2021/v39i1130715,1408,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.still.2016.05.005,1413,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1002/ird.568,1422,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2014.01.005,1424,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.biosystemseng.2014.03.010,1426,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:perry2017doesimprovedirrigationtechnology,1427,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/w11020252,1428,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/(asce)wr.1943-5452.0000126,1429,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1061/(asce)wr.1943-5452.0000365,1430,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2018.08.025,1431,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:ghosh2013studieseffectdripand,1432,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:lamm2002advantagesanddisadvantagessubsurface,1433,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2017.11.009,1434,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:mansour2013impactwaterqualityand,1435,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1590/s0102-05362002000200018,1436,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/s21093079,1437,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.compag.2018.12.043,1438,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1109/access.2020.3048415,1439,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+key:sunetal2017sunlyangyhujporterdmarekt2017reinf,1440,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2023.108278,1442,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.jia.2022.09.002,1443,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agee.2016.09.033,1444,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.jclepro.2020.120873,1445,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2018.09.045,1446,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.scitotenv.2023.163804,1447,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.jclepro.2021.127001,1448,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/plants12040773,1449,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1002/ird.2502,1451,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2022.107605,1452,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.3390/w15040741,1453,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1038/s41598-023-41435-4,1455,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1016/j.agwat.2013.07.004,1456,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1051/bioconf/20248501057,1459,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.3390/w15091739,1461,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.33140/scri.04.02.01,1463,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s11104-024-06525-w,1465,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.5281/zenodo.7985739,1466,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1021/acs.jafc.8b00333,1467,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.agwat.2016.06.015,1468,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1111/j.1744-7348.2004.tb00344.x,1469,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:goorahoo2002usingairsubsurface,1470,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+key:goorahoo2007applicationairjectionirrigationcropping,1471,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.envpol.2025.126394,1472,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/agronomy15020385,1473,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.apsoil.2025.105948,1475,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.12357/cjea.20220027,1476,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1007/s40710-018-0289-4,1483,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.scitotenv.2018.10.311,1484,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2016.12.012,1485,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1007/s11356-021-17084-3,1488,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1186/s13007-021-00790-x,1489,app_scheduling x water_conservation,1,FALSE,FALSE,TRUE,app_water_only
+doi:10.1007/s12665-022-10715-z,1493,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:92kumaraburdakbthakurhharshavardhansnalamalas2023,1494,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+key:programme2019nationaleconomieeauirrigation,1495,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.17660/actahortic.1995.401.40,1496,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.3390/w11050893,1498,drip x water_conservation,1,FALSE,TRUE,FALSE,drip_water_only
+doi:10.1016/j.agwat.2010.11.003,1499,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1080/01904167.2016.1161783,1500,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
+doi:10.1016/j.scienta.2020.109728,1504,drip x crop_production,1,TRUE,FALSE,FALSE,drip_crop_only
