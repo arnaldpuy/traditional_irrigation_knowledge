@@ -60,15 +60,15 @@ traditional_irrigation_knowledge/
 │   ├── 01_parse_assumptions.py                 # the 475 assumptions from the published assumption tables
 │   ├── 02_coding_run.R … 04_attribution_arms.R # LLM coding of the assumptions (gated: need API keys)
 │   ├── 05_intermodel_agreement.R … 11_severing.R         # uncertainty and sensitivity analysis on the stored replies
-│   ├── 12_embeddings.py … 16_coding_collapse.R           # label-free checks (Text S1.2, S1.3)
+│   ├── 12_embeddings.py … 16_coding_collapse.R           # label-free check and dimensions (Text S1.2, S1.4)
 │   ├── 17_planted_items.R … 20_language_conditions.R     # tests of the instrument (Text S1.1)
 │   ├── 21_necessity_search.R … 26_necessity_quote_pages.py   # the necessity premise (Table S1)
-│   ├── 27_policy_linearize.py … 31_quote_locations.R    # modernization policies (Text S1.5, Table S4)
-│   ├── 32_literature_search.R … 37_literature_extraction.R   # the literature on the technologies (Text S1.7)
+│   ├── 27_policy_linearize.py … 31_quote_locations.R    # modernization policies (Text S1.6)
+│   ├── 32_literature_search.R … 37_literature_extraction.R   # the literature on the technologies (Methods, Fig. S9)
 │   ├── 38_evidence_source_screen.R … 40_evidence_strength_reliability.R   # earlier LLM-only evidence grading, superseded by 49–60
 │   ├── 41_link_extraction.R                    # claims that a technology delivers a function, with their citations
 │   ├── 42_provenance_checks.R                  # valid-draw audit and literature flow table
-│   ├── 43_policy_quote_candidates.R … 45_human_validation_ratings.R   # policy quotes; the three human raters
+│   ├── 43_policy_quote_candidates.R … 45_human_validation_ratings.R   # policy quotes (Table S3); the three human raters (Text S1.3)
 │   ├── 46_within_domain_or.R                   # reducibility by function load, LLMs and human raters, within each domain
 │   ├── 47_spain_share_europe.R                 # Spain's share of Europe's irrigated area across ten global datasets
 │   ├── 48_fig_multiverse_shares.R              # the 1,080 irreducible shares behind Fig. S2, in the order the TikZ tree reads them
@@ -201,11 +201,16 @@ Rscript -e 'rmarkdown::render("code/traditional_irrigation_knowledge.Rmd")'
 | Fig. S6 | `manuscript/fig-approach-tikz.tex`, compiled with `pdflatex` | `compression_frontier.csv` for its numbers |
 | Fig. S7 | `figS7-frontier-build`, `figS7-frontier` | `compression_frontier.csv` |
 | Fig. S8 | `figS8-sensory-build`, `figS8-sensory` | `sensory_practice_grid.csv` |
+| Fig. S9 | `manuscript/fig-evidence-workflow-tikz.tex`, compiled with `pdflatex` | `link_extraction.csv` for its claim counts |
+| Fig. S10 | `manuscript/fig-policy-reading-tikz.tex`, compiled with `pdflatex` | |
 | Text S1.1 instrument tests | scripts 17–20 | `planted_items.xlsx`, the stored replies |
-| Text S1.2, S1.3 label-free checks | scripts 12–16 | `emb_assumption.npy`, `assumptions_corpus.csv` |
-| Text S1.5 policy promises, Table S4 | scripts 27–31 | the policy manifest and linearised text, the stored replies, `policy_quotes_adjudicated.csv` |
-| Text S1.7 literature assembly | scripts 32–38, 42 | `literature_search_raw.csv`, screening votes and adjudication, manifests, `literature_flow.csv` |
+| Text S1.2 label-free check, Text S1.4 dimensions | scripts 12–16 | `emb_assumption.npy`, `assumptions_corpus.csv` |
+| Text S1.6 policy documents, policy promise map | scripts 27–31 | the policy manifest and linearised text, the stored replies, `policy_quotes_adjudicated.csv` |
+| Literature assembly (Methods) | scripts 32–38, 42 | `literature_search_raw.csv`, screening votes and adjudication, manifests, `literature_flow.csv` |
 | Table S1 necessity quotes | scripts 21–26 | `necessity_*.csv` |
+| Table S2 rationale of the uncertainty analysis | no code; implemented in scripts 02–08 | `sobol_headline_grid.csv` |
+| Table S3 policy quotes | scripts 43–44 | `policy_modernisation_candidates.csv`, `policy_quotes_modernisation.csv` |
+| Table S4 codebook | no code; the fields of `prompts/analytical_coding_prompt_v1.txt` | |
 
 ---
 
@@ -254,6 +259,7 @@ invisible(lapply(r_functions, source))
 | `run_three_models_fun` | run_three_models_fun <- function(items, system_prompt, schema, tag, out_dir, |
 | `search_dimensions_fun` | Query the Dimensions DSL API and return the hits as a data.table. Logs in |
 | `search_scopus_fun` | Query the Scopus Search API and return the hits as a data.table. Sends a |
+| `strip_xlsx_authors_fun` | Blanks the author fields (creator, last modified by) in the file properties of an |
 | `submit_batch_fun` | submit_batch_fun <- function(requests, api_key = Sys.getenv("ANTHROPIC_API_KEY"), |
 | `tabulate_multi_fun` | tabulate_multi_fun <- function(dt, col, sep = ";") { |
 | `tabulate_single_fun` | tabulate_single_fun <- function(dt, col) { |
